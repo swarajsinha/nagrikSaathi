@@ -1,0 +1,77 @@
+{
+ "slug": "pmfby",
+ "hi": "प्रधानमंत्री फ़सल बीमा योजना – PMFBY (फ़सल नुकसान का बीमा)",
+ "en": "PM Fasal Bima Yojana – PMFBY (crop insurance)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2237736&reg=48&lang=2",
+ "source_name": "PIB (भारत सरकार), 10 मार्च 2026 (लोकसभा उत्तर); पोर्टल pmfby.gov.in",
+ "tags": [
+  "farmer"
+ ],
+ "kw": "pmfby fasal bima crop insurance kisan premium kharif rabi फ़सल बीमा किसान प्रीमियम खरीफ रबी",
+ "what_hi": "बुवाई से पहले से कटाई के बाद तक फ़सल को हुए नुकसान का बीमा। किसान का प्रीमियम अधिकतम: खरीफ फ़सलों पर बीमित राशि का 2%, रबी पर 1.5%, वाणिज्यिक/बागवानी फ़सलों पर 5%। बाकी प्रीमियम केंद्र और राज्य 50:50 देते हैं (पूर्वोत्तर और हिमालयी राज्यों में 90:10)।",
+ "what_en": "Insurance for crop damage from pre-sowing to post-harvest. Farmer's premium at most: 2% of sum insured for kharif crops, 1.5% for rabi, 5% for commercial / horticultural crops. The rest of the premium is shared 50:50 by Centre and State (90:10 in North-Eastern and Himalayan States).",
+ "benefit_hi": "बुवाई से पहले से कटाई के बाद तक फ़सल को हुए नुकसान का बीमा। किसान का प्रीमियम अधिकतम: खरीफ फ़सलों पर बीमित राशि का 2%, रबी पर 1.5%, वाणिज्यिक/बागवानी फ़सलों पर 5%। बाकी प्रीमियम केंद्र और राज्य 50:50 देते हैं (पूर्वोत्तर और हिमालयी राज्यों में 90:10)।",
+ "benefit_en": "Insurance for crop damage from pre-sowing to post-harvest. Farmer's premium at most: 2% of sum insured for kharif crops, 1.5% for rabi, 5% for commercial / horticultural crops. The rest of the premium is shared 50:50 by Centre and State (90:10 in North-Eastern and Himalayan States).",
+ "who_hi": [
+  "खाद्य फ़सलें (अनाज, मोटे अनाज, दालें), तिलहन और राज्य सरकार द्वारा अधिसूचित वार्षिक वाणिज्यिक/बागवानी फ़सलें उगाने वाले किसान",
+  "कौन-सी फ़सल और कौन-सा क्षेत्र कवर है, यह राज्य सरकार अधिसूचित करती है"
+ ],
+ "who_en": [
+  "Farmers growing food crops (cereals, millets, pulses), oilseeds and annual commercial / horticultural crops notified by the State",
+  "Which crops and areas are covered is notified by the State government"
+ ],
+ "not_hi": [
+  "⚠️ ऋण लेने वाले/न लेने वाले और बटाईदार किसानों की स्थिति, नामांकन की अंतिम तारीख़, आवेदन के चैनल (पोर्टल/ऐप/CSC/बैंक) और नुकसान की सूचना देने के नियम (जैसे 72 घंटे, हेल्पलाइन) उस PIB पेज पर नहीं थे — मैंने अंदाज़ा नहीं लगाया; pmfby.gov.in या बैंक/कृषि विभाग से पूछें",
+  "किसान किन्हीं तय दरों से ऊपर कोई अतिरिक्त प्रीमियम नहीं देता (PIB के अनुसार)"
+ ],
+ "not_en": [
+  "⚠️ The position of loanee / non-loanee and tenant farmers, enrolment deadlines, application channels (portal / app / CSC / bank) and rules for reporting loss (e.g. 72 hours, helpline) were not on that PIB page — I have not guessed; ask pmfby.gov.in or your bank / agriculture department",
+  "The farmer pays no premium above the fixed rates (per PIB)"
+ ],
+ "docs_hi": [
+  "सत्यापित सूची उपलब्ध नहीं — बैंक/कृषि विभाग/CSC से पूछें (आम तौर पर ज़मीन और बुवाई का विवरण माँगा जाता है, पर यहाँ पुष्ट नहीं)"
+ ],
+ "docs_en": [
+  "A verified list is not available — ask the bank / agriculture department / CSC (land and sowing details are commonly asked, but that is not confirmed here)"
+ ],
+ "steps_hi": [
+  "अपनी राज्य सरकार की अधिसूचना से देखें कि आपकी फ़सल और क्षेत्र इस मौसम में कवर है या नहीं",
+  "योजना दस्तावेज़ (pmfby.gov.in) के अनुसार सामान्य अंतिम तिथि: खरीफ के लिए 31 जुलाई, रबी के लिए 31 दिसंबर — अपने राज्य की तारीख़ बैंक/कृषि विभाग से पक्की करें",
+  "नामांकन की अंतिम तारीख़ बैंक, कृषि विभाग या pmfby.gov.in पर जाँचें — देर होने पर कवर नहीं मिल सकता",
+  "नुकसान होने पर तुरंत बीमा कंपनी/कृषि विभाग/बैंक को सूचना दें और समय-सीमा पूछ लें",
+  "बीमा के नाम पर तय दर से ज़्यादा पैसे न दें"
+ ],
+ "steps_en": [
+  "From your State's notification see whether your crop and area are covered this season",
+  "Per the scheme document (pmfby.gov.in), usual cut-off: 31 July for kharif, 31 December for rabi — confirm your state's date with the bank / agriculture department",
+  "Check the enrolment deadline with your bank, agriculture department or pmfby.gov.in — if you are late you may not get cover",
+  "If there is damage, inform the insurer / agriculture department / bank at once and ask the time limit",
+  "Do not pay more than the fixed rate in the name of insurance"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को PIB (10 मार्च 2026) से पुष्ट: प्रीमियम की अधिकतम दरें, केंद्र-राज्य हिस्सेदारी, कवर होने वाले जोखिम और फ़सलें",
+  "15 अक्टूबर 2026 को pmfby.gov.in के योजना दस्तावेज़ (तारीख़ अंकित नहीं) से: सामान्य कट-ऑफ तारीख़ें — राज्य-वार पुष्ट नहीं",
+  "नामांकन-प्रक्रिया, तारीख़ें, दावे के नियम और दस्तावेज़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (10 March 2026) on 22 Oct 2026: maximum premium rates, Centre–State sharing, risks and crops covered",
+  "From the pmfby.gov.in scheme document on 15 Oct 2026 (undated): usual cut-off dates — not confirmed state-wise",
+  "Enrolment process, dates, claim rules and documents not confirmed"
+ ]
+}

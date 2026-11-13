@@ -1,0 +1,111 @@
+{
+ "slug": "free-legal-aid-nalsa",
+ "status": "verified",
+ "last_verified": "2026-10-30",
+ "version": 1,
+ "updated": "2026-10-30",
+ "level": 1,
+ "dept": "Central — National Legal Services Authority (NALSA)",
+ "tags": [
+  "rights",
+  "woman",
+  "sc",
+  "tribal",
+  "disability",
+  "worker",
+  "senior"
+ ],
+ "hi": "मुफ़्त क़ानूनी सहायता (NALSA / विधिक सेवा प्राधिकरण)",
+ "en": "Free legal aid (NALSA / Legal Services Authorities)",
+ "source_url": "https://nalsa.gov.in/services/legal-aid/eligibility",
+ "source_name": "राष्ट्रीय विधिक सेवा प्राधिकरण (NALSA) — पात्रता और अक्सर पूछे जाने वाले प्रश्न (nalsa.gov.in)",
+ "more": [
+  [
+   "https://nalsa.gov.in/?p=6480",
+   "NALSA — मुफ़्त क़ानूनी सेवाएँ: अक्सर पूछे जाने वाले प्रश्न"
+  ],
+  [
+   "https://nalsa.gov.in",
+   "NALSA आधिकारिक वेबसाइट (ऑनलाइन आवेदन)"
+  ]
+ ],
+ "kw": "free legal aid lawyer nalsa dlsa legal services authority 15100 vakil court case mukadma मुफ़्त क़ानूनी सहायता वकील मुकदमा विधिक सेवा प्राधिकरण",
+ "what_hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987 की धारा 12 में आने वाले लोगों को सरकारी ख़र्च पर क़ानूनी मदद मिलती है: मुकदमे में वकील, कोर्ट की प्रक्रिया-फ़ीस और गवाहों का ख़र्च (उचित मामलों में), अर्ज़ी/अपील के कागज़ तैयार करना, फ़ैसलों की प्रमाणित प्रतियाँ, और सिर्फ़ क़ानूनी सलाह भी। निचली अदालत से सुप्रीम कोर्ट तक, मुकदमे के किसी भी चरण में।",
+ "what_en": "People covered by Section 12 of the Legal Services Authorities Act, 1987 get legal help at state expense: a lawyer for the case, process fees and witness costs (in appropriate cases), drafting of pleadings and appeals, certified copies of judgments, and legal advice alone. From the lowest court up to the Supreme Court, at any stage of a case.",
+ "who_hi": [
+  "अनुसूचित जाति या अनुसूचित जनजाति के सदस्य",
+  "मानव तस्करी या बेगार के पीड़ित",
+  "हर महिला और हर बच्चा (18 साल तक) — आय कुछ भी हो",
+  "मानसिक रूप से बीमार या दिव्यांग व्यक्ति",
+  "सामूहिक आपदा, जातीय हिंसा, जातिगत अत्याचार, बाढ़, सूखा, भूकंप या औद्योगिक आपदा से पीड़ित",
+  "औद्योगिक कामगार",
+  "हिरासत में व्यक्ति (संरक्षण गृह, किशोर गृह, मनोरोग अस्पताल सहित)",
+  "राज्य की तय सीमा से कम सालाना आय वाले: महाराष्ट्र ₹3,00,000, मध्य प्रदेश ₹2,00,000; सुप्रीम कोर्ट के मामले में ₹5,00,000"
+ ],
+ "who_en": [
+  "Members of a Scheduled Caste or Scheduled Tribe",
+  "Victims of human trafficking or begar (forced labour)",
+  "Every woman and every child (up to 18) — whatever the income",
+  "Persons who are mentally ill or otherwise disabled",
+  "Victims of mass disaster, ethnic violence, caste atrocity, flood, drought, earthquake or industrial disaster",
+  "Industrial workmen",
+  "Persons in custody (including protective homes, juvenile homes, psychiatric hospitals)",
+  "Annual income below the state limit: Maharashtra ₹3,00,000, Madhya Pradesh ₹2,00,000; ₹5,00,000 for a Supreme Court case"
+ ],
+ "not_hi": [
+  "प्राधिकरण को संतुष्ट होना चाहिए कि आपका मामला वास्तविक है (धारा 13(1)) — मामले का प्रकार कोई भी हो सकता है",
+  "वरिष्ठ नागरिकों की पात्रता राज्य सरकार के नियमों पर निर्भर है — अपने ज़िला विधिक सेवा प्राधिकरण (DLSA) से पूछें",
+  "आय-सीमा राज्य सरकार बदल सकती है; ऊपर की राशि NALSA की तालिका से है",
+  "पैनल में से अपनी पसंद का वकील माँग सकते हैं — मंज़ूरी सचिव/सदस्य-सचिव देते हैं",
+  "पहले निजी वकील रहा हो, तब भी अपील के चरण में मुफ़्त सहायता माँग सकते हैं"
+ ],
+ "not_en": [
+  "The Authority must be satisfied that you have a genuine case (Section 13(1)) — any type of case is allowed",
+  "Senior citizens' eligibility depends on State Government rules — ask your District Legal Services Authority (DLSA)",
+  "The State Government can change the income limit; the amounts above are from NALSA's table",
+  "You may ask for a lawyer of your choice from the panel — the Secretary / Member-Secretary decides",
+  "Even if you had a private lawyer earlier, you can ask for free aid at the appeal stage"
+ ],
+ "docs_hi": [
+  "आय वाले मामलों में अपनी आय का शपथ-पत्र (affidavit) आम तौर पर काफ़ी माना जाता है (धारा 13(2)) — जब तक प्राधिकरण को शक का कारण न हो",
+  "मामले से जुड़े कागज़ — पूरी सत्यापित सूची स्रोत में नहीं है"
+ ],
+ "docs_en": [
+  "Where income is the ground, your own affidavit of income is generally treated as enough (Section 13(2)) unless the Authority has reason to doubt it",
+  "Papers related to the case — a full verified list is not in the source"
+ ],
+ "steps_hi": [
+  "NALSA हेल्पलाइन 15100 (टोल-फ़्री) पर फ़ोन करें, या अपने ज़िले के विधिक सेवा प्राधिकरण (DLSA) / तालुका विधिक सेवा समिति से संपर्क करें",
+  "ऑनलाइन: nalsa.gov.in पर \"Legal Aid Application\" / क़ानूनी सहायता का आवेदन भरें",
+  "अर्ज़ी में अपना नाम, पता, आप किस श्रेणी में आते हैं और मामला क्या है — संक्षेप में लिखें",
+  "आय के आधार पर आवेदन हो तो आय का शपथ-पत्र साथ दें",
+  "प्राधिकरण मामला जाँचकर वकील नियुक्त करता है — इसके लिए किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Call the NALSA helpline 15100 (toll-free), or contact your District Legal Services Authority (DLSA) / Taluka Legal Services Committee",
+  "Online: fill the \"Legal Aid Application\" on nalsa.gov.in",
+  "In the application, briefly write your name, address, which category you fall in and what the case is about",
+  "If applying on the basis of income, attach an affidavit of income",
+  "The Authority examines the case and assigns a lawyer — do not pay anyone for this"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (मुफ़्त वकील दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "महिलाओं और बच्चों का यह मान लेना कि आय ज़्यादा होने से वे पात्र नहीं हैं",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to get you a free lawyer is fraud)",
+  "Women and children assuming a higher income makes them ineligible",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "30 अक्टूबर 2026 को NALSA के आधिकारिक पेजों से पुष्ट: धारा 12 की श्रेणियाँ, महाराष्ट्र/मध्य प्रदेश/सुप्रीम कोर्ट की आय-सीमा, शपथ-पत्र नियम, सेवाओं की सूची, पसंद का वकील, अपील चरण, हेल्पलाइन 15100",
+  "आवेदन पर फ़ैसले की समय-सीमा और दस्तावेज़ों की पूरी सूची इन पेजों में नहीं — DLSA से पूछें"
+ ],
+ "conf_en": [
+  "Confirmed on 30 Oct 2026 from NALSA's official pages: Section 12 categories, Maharashtra / Madhya Pradesh / Supreme Court income limits, affidavit rule, list of services, lawyer of choice, appeal stage, helpline 15100",
+  "The decision timeline and a full document list are not on these pages — ask the DLSA"
+ ],
+ "benefit_hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987 की धारा 12 में आने वाले लोगों को सरकारी ख़र्च पर क़ानूनी मदद मिलती है: मुकदमे में वकील, कोर्ट की प्रक्रिया-फ़ीस और गवाहों का ख़र्च (उचित मामलों में), अर्ज़ी/अपील के कागज़ तैयार करना, फ़ैसलों की प्रमाणित प्रतियाँ, और सिर्फ़ क़ानूनी सलाह भी। निचली अदालत से सुप्रीम कोर्ट तक, मुकदमे के किसी भी चरण में।",
+ "benefit_en": "People covered by Section 12 of the Legal Services Authorities Act, 1987 get legal help at state expense: a lawyer for the case, process fees and witness costs (in appropriate cases), drafting of pleadings and appeals, certified copies of judgments, and legal advice alone. From the lowest court up to the Supreme Court, at any stage of a case."
+}

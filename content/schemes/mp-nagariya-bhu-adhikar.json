@@ -1,0 +1,76 @@
+{
+ "slug": "mp-nagariya-bhu-adhikar",
+ "hi": "मुख्यमंत्री नगरीय भू अधिकार योजना (मध्य प्रदेश – शहर में कब्ज़े की ज़मीन)",
+ "en": "Mukhyamantri Nagariya Bhu Adhikar Yojana (Madhya Pradesh – occupied urban land)",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=972",
+ "source_name": "मध्य प्रदेश सीएम हेल्पलाइन — राजस्व विभाग की योजना",
+ "tags": [
+  "housing"
+ ],
+ "kw": "madhya pradesh mp nagariya bhu adhikar nazul lease urban land makan zameen पट्टा नजूल शहरी भू अधिकार",
+ "what_hi": "शहरी क्षेत्र में सरकारी (नजूल) भूखंडों पर 31 दिसंबर 2020 तक से बिना विवाद के काबिज़ लोगों को 30 साल का स्थायी पट्टा (आवासीय, व्यावसायिक या मिश्रित), निर्धारित प्रीमियम और भू-भाटक देने पर; नवीनीकरण संभव। यह नकद सहायता या ऋण नहीं है।",
+ "what_en": "A 30-year permanent lease (residential, commercial or mixed) for people in undisputed possession of government (nazul) urban plots since on or before 31 December 2020, on paying the prescribed premium and land rent; renewable. It is not cash assistance or a loan.",
+ "benefit_hi": "शहरी क्षेत्र में सरकारी (नजूल) भूखंडों पर 31 दिसंबर 2020 तक से बिना विवाद के काबिज़ लोगों को 30 साल का स्थायी पट्टा (आवासीय, व्यावसायिक या मिश्रित), निर्धारित प्रीमियम और भू-भाटक देने पर; नवीनीकरण संभव। यह नकद सहायता या ऋण नहीं है।",
+ "benefit_en": "A 30-year permanent lease (residential, commercial or mixed) for people in undisputed possession of government (nazul) urban plots since on or before 31 December 2020, on paying the prescribed premium and land rent; renewable. It is not cash assistance or a loan.",
+ "who_hi": [
+  "शहरी क्षेत्र के सरकारी (नजूल) भूखंड पर 31 दिसंबर 2020 या उससे पहले से बिना विवाद का कब्ज़ा, और अब भी कब्ज़ा",
+  "नगर/शहर बनने या विस्तार में आई गाँव की आबादी भूमि के निवासी परिवार और उनके उत्तराधिकारी (अधिकार-प्रमाणपत्र मिलता है, केवल वार्षिक भू-राजस्व देय)",
+  "श्रेणियाँ: सामान्य, OBC, SC, ST, अल्पसंख्यक आदि"
+ ],
+ "who_en": [
+  "Undisputed possession of a government (nazul) urban plot on or before 31 December 2020, and still in possession",
+  "Residents of village abadi land that became part of a town / city, and their successors (they get a rights certificate; only annual land revenue is payable)",
+  "Categories: General, OBC, SC, ST, minority and others"
+ ],
+ "not_hi": [
+  "प्रीमियम और भू-भाटक की राशि पेज पर नहीं बताई गई",
+  "समय-सीमा, प्रक्रिया और अपील का ब्यौरा परिपत्र/अधिनियम में है, पेज पर नहीं",
+  "दस्तावेज़ों की सूची पेज पर ख़ाली है"
+ ],
+ "not_en": [
+  "Premium and land-rent amounts are not stated on the page",
+  "Timeline, procedure and appeal details are in a circular / act, not on the page",
+  "The documents field on the page is blank"
+ ],
+ "docs_hi": [
+  "सत्यापित सूची उपलब्ध नहीं — नगर निगम/कलेक्टर कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified list is not available — ask the municipal corporation / Collector's office"
+ ],
+ "steps_hi": [
+  "RCMS पोर्टल (rcms.mp.gov.in) पर ऑनलाइन आवेदन करें",
+  "कलेक्टर निर्धारित प्राधिकारी हैं; आवेदन शुल्क: शून्य",
+  "पात्र पाए जाने पर प्रीमियम और भू-भाटक जमा करने के बाद पट्टा मिलता है"
+ ],
+ "steps_en": [
+  "Apply online on the RCMS portal (rcms.mp.gov.in)",
+  "The Collector is the designated authority; application fee: nil",
+  "If found eligible, the lease is issued after paying the premium and land rent"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को मध्य प्रदेश सरकार के CM हेल्पलाइन पेज से पुष्ट: योजना (28 सितंबर 2020 से), पात्रता, लाभ, आवेदन का तरीका",
+  "राशि, दस्तावेज़ और समय-सीमा पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from a Madhya Pradesh government CM Helpline page on 13 Oct 2026: scheme (from 28 September 2020), eligibility, benefit, how to apply",
+  "Amounts, documents and timeline not confirmed"
+ ],
+ "state": "Madhya Pradesh"
+}

@@ -1,0 +1,96 @@
+{
+ "slug": "disability-certificate",
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 2,
+ "updated": "2026-11-10",
+ "level": 1,
+ "dept": "Central — Department of Empowerment of Persons with Disabilities (DEPwD)",
+ "tags": [
+  "disability",
+  "document"
+ ],
+ "hi": "दिव्यांगता प्रमाणपत्र और UDID कार्ड (ऑनलाइन आवेदन)",
+ "en": "Disability certificate and UDID card (apply online)",
+ "source_url": "https://depwd.gov.in/unique-disability-id-udid/",
+ "source_name": "दिव्यांगजन सशक्तिकरण विभाग (DEPwD), भारत सरकार — UDID",
+ "more": [
+  [
+   "https://www.swavlambancard.gov.in/",
+   "UDID पोर्टल (swavlambancard.gov.in) — आवेदन, स्थिति, डाउनलोड"
+  ],
+  [
+   "https://niepid.nic.in/en/unique-disability-id-udid/",
+   "NIEPID (भारत सरकार) — UDID प्रक्रिया"
+  ]
+ ],
+ "kw": "disability certificate udid card swavlamban divyang viklang handicap pwd unique disability id दिव्यांग प्रमाणपत्र विकलांग यूडीआईडी कार्ड स्वावलंबन",
+ "what_hi": "दिव्यांग व्यक्तियों को एक ही ऑनलाइन व्यवस्था से दिव्यांगता प्रमाणपत्र और UDID (यूनिक डिसेबिलिटी ID) कार्ड मिलता है। 1 जून 2021 से दिव्यांगता प्रमाणपत्र और UDID कार्ड सिर्फ़ ऑनलाइन पोर्टल (swavlambancard.gov.in) से जारी होते हैं। यह प्रमाणपत्र दिव्यांगजनों की कई सुविधाओं और योजनाओं के लिए ज़रूरी होता है।",
+ "what_en": "Persons with disabilities get a disability certificate and a UDID (Unique Disability ID) card through one online system. Since 1 June 2021 disability certificates and UDID cards are issued only through the online portal (swavlambancard.gov.in). The certificate is needed for many facilities and schemes for persons with disabilities.",
+ "who_hi": [
+  "दिव्यांगता वाला कोई भी व्यक्ति — बच्चे और वयस्क दोनों (बच्चों के लिए अलग आधार-नियम है)",
+  "खुद या किसी और की मदद से आवेदन किया जा सकता है"
+ ],
+ "who_en": [
+  "Any person with a disability — children as well as adults (there is a separate Aadhaar rule for children)",
+  "You can apply yourself or with someone's help"
+ ],
+ "not_hi": [
+  "दिव्यांगता का प्रतिशत अस्पताल/मेडिकल बोर्ड जाँच करके तय करता है — ऑनलाइन आवेदन से अपने आप प्रमाणपत्र नहीं बनता",
+  "ऑफ़लाइन आवेदन भी लिया जाता है, जिसे बाद में पोर्टल पर चढ़ाया जाता है — ज़िला समाज कल्याण अधिकारी के काउंटर/शिविर में मदद मिलती है",
+  "मेडिकल बोर्ड के फ़ैसले से असहमत हों तो दिव्यांगजन अधिकार अधिनियम 2016 की धारा 59 के तहत पुनर्मूल्यांकन/अपील का प्रावधान है",
+  "प्रमाणपत्र/कार्ड का नवीनीकरण, जानकारी बदलना और खोए कार्ड की जगह नया कार्ड — पोर्टल से",
+  "इन पेजों पर कोई फ़ीस या समय-सीमा नहीं बताई गई"
+ ],
+ "not_en": [
+  "The disability percentage is decided by a hospital / medical board after assessment — the online application does not by itself produce a certificate",
+  "Offline applications are also accepted and digitised later — the District Social Welfare Officer helps through counters / camps",
+  "If you disagree with the medical board's decision, re-assessment / appeal is provided under Section 59 of the RPwD Act, 2016",
+  "Renewal, updating details and a replacement for a lost card — through the portal",
+  "These pages state no fee and no time limit"
+ ],
+ "docs_hi": [
+  "आधार नंबर — वयस्कों के लिए अनिवार्य (अधिसूचना 8 अगस्त 2023); बच्चों के लिए अलग अधिसूचना",
+  "बाकी दस्तावेज़ों की सत्यापित सूची इन पेजों पर नहीं — पोर्टल का फ़ॉर्म देखें"
+ ],
+ "docs_en": [
+  "Aadhaar number — mandatory for adults (notification of 8 August 2023); a separate notification for children",
+  "A verified list of other documents is not on these pages — see the portal form"
+ ],
+ "steps_hi": [
+  "swavlambancard.gov.in पर जाकर दिव्यांगता प्रमाणपत्र और UDID कार्ड के लिए रजिस्टर/आवेदन करें",
+  "फ़ॉर्म में अपनी, दिव्यांगता की और रोज़गार की जानकारी भरें; जाँच के लिए ज़िले का अस्पताल चुनें",
+  "CMO कार्यालय/मेडिकल अथॉरिटी जानकारी जाँचकर आपको विशेषज्ञ या मेडिकल बोर्ड के पास जाँच के लिए भेजती है",
+  "जाँच के बाद प्रमाणपत्र और UDID कार्ड इलेक्ट्रॉनिक रूप से जारी होते हैं",
+  "पोर्टल पर आवेदन की स्थिति देखें और ई-प्रमाणपत्र/ई-UDID कार्ड डाउनलोड करें",
+  "कार्ड बनवाने के नाम पर किसी एजेंट को पैसे न दें"
+ ],
+ "steps_en": [
+  "Go to swavlambancard.gov.in and register / apply for a disability certificate and UDID card",
+  "Fill in personal, disability and employment details; choose a hospital in your district for assessment",
+  "The CMO office / medical authority verifies the details and refers you to a specialist or medical board for assessment",
+  "After assessment the certificate and UDID card are issued electronically",
+  "Track the status on the portal and download the e-certificate / e-UDID card",
+  "Do not pay any agent to get the card made"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट — सिर्फ़ swavlambancard.gov.in इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites — use only swavlambancard.gov.in",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को DEPwD और NIEPID (भारत सरकार) के UDID पेजों से पुष्ट: ऑनलाइन प्रक्रिया और चरण, 1 जून 2021 से ऑनलाइन जारी करना अनिवार्य, वयस्कों के लिए आधार अनिवार्य (8 अगस्त 2023), ऑफ़लाइन आवेदन, नवीनीकरण, धारा 59 के तहत अपील",
+  "दस्तावेज़ों की पूरी सूची, दिव्यांगता का न्यूनतम प्रतिशत, फ़ीस और समय-सीमा इन पेजों से पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 10 Nov 2026 from the DEPwD and NIEPID (Government of India) UDID pages: online process and steps, online issuance mandatory since 1 June 2021, Aadhaar mandatory for adults (8 Aug 2023), offline applications, renewal, appeal under Section 59",
+  "A full document list, minimum disability percentage, fee and time limit are not confirmed from these pages"
+ ],
+ "benefit_hi": "दिव्यांग व्यक्तियों को एक ही ऑनलाइन व्यवस्था से दिव्यांगता प्रमाणपत्र और UDID (यूनिक डिसेबिलिटी ID) कार्ड मिलता है। 1 जून 2021 से दिव्यांगता प्रमाणपत्र और UDID कार्ड सिर्फ़ ऑनलाइन पोर्टल (swavlambancard.gov.in) से जारी होते हैं। यह प्रमाणपत्र दिव्यांगजनों की कई सुविधाओं और योजनाओं के लिए ज़रूरी होता है।",
+ "benefit_en": "Persons with disabilities get a disability certificate and a UDID (Unique Disability ID) card through one online system. Since 1 June 2021 disability certificates and UDID cards are issued only through the online portal (swavlambancard.gov.in). The certificate is needed for many facilities and schemes for persons with disabilities."
+}

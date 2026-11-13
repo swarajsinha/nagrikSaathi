@@ -1,0 +1,82 @@
+{
+ "slug": "pm-svanidhi",
+ "hi": "पीएम स्वनिधि (रेहड़ी-पटरी वालों के लिए ऋण)",
+ "en": "PM SVANidhi (loan for street vendors)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.mohua.gov.in/static/uploads/2026/01/bde957bc3a87fb001c05ddd09484edda.pdf",
+ "source_name": "आवास और शहरी कार्य मंत्रालय — PM SVANidhi दिशानिर्देश (जनवरी 2026 अपलोड); PIB 27 अगस्त 2025",
+ "tags": [
+  "business",
+  "worker"
+ ],
+ "kw": "svanidhi street vendor rehri patri thela loan 15000 25000 50000 credit card स्वनिधि रेहड़ी पटरी ठेला ऋण",
+ "what_hi": "रेहड़ी-पटरी वालों के लिए बिना गारंटी चरणबद्ध ऋण: पहला ₹15,000 तक (12 महीने में चुकाना), दूसरा ₹25,000 तक (18 महीने), तीसरा ₹50,000 तक (36 महीने)। 7% प्रति वर्ष ब्याज सब्सिडी हर तिमाही खाते में। ऋण देने की अवधि 31 मार्च 2030 तक। डिजिटल लेन-देन पर कैशबैक भी।",
+ "what_en": "Collateral-free staged loans for street vendors: first up to ₹15,000 (repay in 12 months), second up to ₹25,000 (18 months), third up to ₹50,000 (36 months). 7% a year interest subsidy credited quarterly. Lending period until 31 March 2030. Cashback on digital transactions too.",
+ "benefit_hi": "रेहड़ी-पटरी वालों के लिए बिना गारंटी चरणबद्ध ऋण: पहला ₹15,000 तक (12 महीने में चुकाना), दूसरा ₹25,000 तक (18 महीने), तीसरा ₹50,000 तक (36 महीने)। 7% प्रति वर्ष ब्याज सब्सिडी हर तिमाही खाते में। ऋण देने की अवधि 31 मार्च 2030 तक। डिजिटल लेन-देन पर कैशबैक भी।",
+ "benefit_en": "Collateral-free staged loans for street vendors: first up to ₹15,000 (repay in 12 months), second up to ₹25,000 (18 months), third up to ₹50,000 (36 months). 7% a year interest subsidy credited quarterly. Lending period until 31 March 2030. Cashback on digital transactions too.",
+ "who_hi": [
+  "वेंडिंग प्रमाणपत्र (CoV), पहचान पत्र या अनुशंसा-पत्र (LoR) — वैधानिक कस्बों में यह टाउन वेंडिंग कमेटी/शहरी निकाय देता है",
+  "जनगणना-शहरों और उपनगरीय क्षेत्रों में LoR ब्लॉक विकास कार्यालय सत्यापन के बाद देता है (ब्लॉक-स्तरीय समिति → BDO की मंज़ूरी)",
+  "सत्यापन और LoR 15 दिन में पूरा होना चाहिए",
+  "दिशानिर्देश में पात्रता की कोई कट-ऑफ़ तारीख़ नहीं दी गई — पुरानी '24 मार्च 2020' वाली शर्त मैंने हटा दी है"
+ ],
+ "who_en": [
+  "A Certificate of Vending (CoV), Identity Card or Letter of Recommendation (LoR) — in statutory towns issued by the Town Vending Committee / Urban Local Body",
+  "In census towns and peri-urban areas the LoR is issued by the Block Development Office after verification (block-level committee → BDO approval)",
+  "Verification and LoR must be completed within 15 days",
+  "The guidelines give no eligibility cut-off date — I have removed the older '24 March 2020' condition"
+ ],
+ "not_hi": [
+  "दिशानिर्देश-दस्तावेज़ पर तारीख़/संस्करण नहीं है (जनवरी 2026 में अपलोड हुआ)",
+  "लाभार्थी के आवेदन के सामान्य चरण उसमें नहीं हैं — पेज के अनुसार ऋण पाने के संचालन-निर्देश अलग से जारी होंगे; LoR के बाद आवेदन अपने आप बैंक को जाता है",
+  "डिजिटल कैशबैक: ₹1 प्रति लेन-देन, अधिकतम ₹100 प्रति माह और ₹1,200 प्रति वर्ष प्रति ऋण-चरण; थोक डिजिटल ख़रीद (कम से कम ₹2,000) पर ₹20 प्रति लेन-देन, अधिकतम ₹400 प्रति वर्ष",
+  "UPI-लिंक्ड RuPay क्रेडिट कार्ड दूसरा ऋण चुकाने वालों को (PIB, अगस्त 2025)"
+ ],
+ "not_en": [
+  "The guidelines document carries no date / version (uploaded January 2026)",
+  "It does not give general beneficiary application steps — operational instructions for availing loans are to be issued separately; after the LoR the application goes to the bank automatically",
+  "Digital cashback: ₹1 per transaction, max ₹100 a month and ₹1,200 a year per loan tranche; ₹20 per wholesale digital purchase (min ₹2,000), max ₹400 a year",
+  "UPI-linked RuPay credit card for those who repay the second loan (PIB, Aug 2025)"
+ ],
+ "docs_hi": [
+  "ULB/टाउन वेंडिंग कमेटी का वेंडिंग प्रमाणपत्र/ID कार्ड या LoR — अन्य दस्तावेज़ों की सत्यापित सूची उपलब्ध नहीं"
+ ],
+ "docs_en": [
+  "Certificate of Vending / ID card or LoR from the ULB / Town Vending Committee — a verified list of other documents is not available"
+ ],
+ "steps_hi": [
+  "अपने शहर के नगर निकाय/वेंडिंग कमेटी से पूछें कि आपके पास प्रमाणपत्र या LoR है या नहीं",
+  "आधिकारिक पोर्टल pmsvanidhi.mohua.gov.in पर चालू प्रक्रिया देखें",
+  "ऋण बैंक/संस्था से मिलेगा — किसी एजेंट को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your city's municipal body / vending committee whether you hold a certificate or LoR",
+  "See the current process on the official portal pmsvanidhi.mohua.gov.in",
+  "The loan comes from a bank / institution — do not pay any agent"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को मंत्रालय के दिशानिर्देश-दस्तावेज़ से पुष्ट: तीन ऋण-चरण और अवधि, 7% ब्याज सब्सिडी, कैशबैक, LoR प्रक्रिया, 31 मार्च 2030",
+  "PIB (27 अगस्त 2025) से पुष्ट: ₹7,332 करोड़ परिव्यय, RuPay क्रेडिट कार्ड",
+  "आवेदन के सामान्य चरण पुष्ट नहीं — स्थानीय निकाय/बैंक से पूछें"
+ ],
+ "conf_en": [
+  "Confirmed from the ministry's guidelines document on 13 Oct 2026: three loan tranches and tenures, 7% interest subsidy, cashback, LoR process, 31 March 2030",
+  "Confirmed from PIB (27 Aug 2025): ₹7,332 crore outlay, RuPay credit card",
+  "General application steps not confirmed — ask the local body / bank"
+ ]
+}

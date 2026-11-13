@@ -1,0 +1,74 @@
+{
+ "slug": "shravan-bal-maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "tags": [
+  "senior"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "श्रावण बाळ सेवा राज्य निवृत्तिवेतन योजना (महाराष्ट्र)",
+ "en": "Shravan Bal Seva Rajya Nivruttivetan Yojana (Maharashtra)",
+ "state": "Maharashtra",
+ "source_url": "https://sjsa.maharashtra.gov.in/en/scheme/shravan-bal-rajya-nivruttivetan-yojana/",
+ "source_name": "सामाजिक न्याय एवं विशेष सहायता विभाग, महाराष्ट्र शासन (sjsa.maharashtra.gov.in)",
+ "kw": "shravan bal yojana maharashtra old age pension senior श्रावण बाळ वृद्ध पेंशन महाराष्ट्र",
+ "what_hi": "महाराष्ट्र सरकार की वृद्धावस्था योजना: 65 साल और उससे ऊपर के बुज़ुर्ग, जिनका नाम BPL सूची में है या जिनकी वार्षिक आय ₹21,000 से कम है, को ₹1,500 प्रति माह।",
+ "what_en": "A Maharashtra old-age scheme: ₹1,500 a month for people aged 65 and above whose names are on the BPL list or whose annual income is below ₹21,000.",
+ "who_hi": [
+  "उम्र 65 साल या उससे अधिक",
+  "BPL सूची में नाम, या वार्षिक आय ₹21,000 से कम"
+ ],
+ "who_en": [
+  "Age 65 or above",
+  "Name on the BPL list, or annual income below ₹21,000"
+ ],
+ "not_hi": [
+  "ज़रूरी दस्तावेज़ उस पेज पर नहीं दिए गए — तहसील कार्यालय से पूछें",
+  "पेज पर तारीख़ नहीं है; शर्तें और राशि बदली हो सकती हैं — आवेदन से पहले पुष्टि करें",
+  "केंद्र की NSAP पेंशन के साथ इसका संबंध उस पेज पर नहीं बताया गया"
+ ],
+ "not_en": [
+  "Required documents are not given on that page — ask the Tehsil office",
+  "The page shows no date; conditions and amount may have changed — confirm before applying",
+  "Its relation to the central NSAP pension is not stated on that page"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — तहसील कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the Tehsil office"
+ ],
+ "steps_hi": [
+  "आवेदन कलेक्टर/तहसीलदार कार्यालय, संजय गांधी निराधार अनुदान योजना शाखा या तलाठी कार्यालय में करें",
+  "ऑनलाइन पोर्टल: sas.mahait.org (विभाग के पेज पर दिया है)",
+  "किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Apply at the Collector / Tehsildar office, the Sanjay Gandhi Niradhar Anudan Yojana branch or the Talathi office",
+  "Online portal: sas.mahait.org (given on the department page)",
+  "Do not pay anyone"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को सामाजिक न्याय विभाग (महाराष्ट्र) के पेज से पुष्ट: उम्र, आय-सीमा, ₹1,500/माह, आवेदन के स्थान और पोर्टल",
+  "दस्तावेज़ और चालू स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the Maharashtra Social Justice department page: age, income limit, ₹1,500/month, places to apply and portal",
+  "Documents and current status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "महाराष्ट्र सरकार की वृद्धावस्था योजना: 65 साल और उससे ऊपर के बुज़ुर्ग, जिनका नाम BPL सूची में है या जिनकी वार्षिक आय ₹21,000 से कम है, को ₹1,500 प्रति माह।",
+ "benefit_en": "A Maharashtra old-age scheme: ₹1,500 a month for people aged 65 and above whose names are on the BPL list or whose annual income is below ₹21,000."
+}

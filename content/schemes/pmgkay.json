@@ -1,0 +1,77 @@
+{
+ "slug": "pmgkay",
+ "hi": "प्रधानमंत्री गरीब कल्याण अन्न योजना – PMGKAY (मुफ़्त अनाज)",
+ "en": "PM Garib Kalyan Anna Yojana – PMGKAY (free foodgrain)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686&reg=48&lang=2",
+ "source_name": "PIB (भारत सरकार), 29 नवंबर 2023",
+ "tags": [
+  "other",
+  "worker",
+  "senior"
+ ],
+ "kw": "pmgkay free ration anaj mufat rashan garib kalyan anna 81 crore मुफ़्त राशन अनाज गरीब कल्याण अन्न योजना",
+ "what_hi": "करीब 81.35 करोड़ लोगों को मुफ़्त अनाज (चावल, गेहूँ, मोटा अनाज) — 1 जनवरी 2024 से पाँच साल के लिए। राशन दुकान से मिलता है; 'एक राष्ट्र एक राशन कार्ड' के तहत देश की किसी भी राशन दुकान से लिया जा सकता है।",
+ "what_en": "Free foodgrain (rice, wheat, coarse grain) for about 81.35 crore people — for five years from 1 January 2024. Given through ration shops; under One Nation One Ration Card it can be collected from any ration shop in the country.",
+ "benefit_hi": "करीब 81.35 करोड़ लोगों को मुफ़्त अनाज (चावल, गेहूँ, मोटा अनाज) — 1 जनवरी 2024 से पाँच साल के लिए। राशन दुकान से मिलता है; 'एक राष्ट्र एक राशन कार्ड' के तहत देश की किसी भी राशन दुकान से लिया जा सकता है।",
+ "benefit_en": "Free foodgrain (rice, wheat, coarse grain) for about 81.35 crore people — for five years from 1 January 2024. Given through ration shops; under One Nation One Ration Card it can be collected from any ration shop in the country.",
+ "who_hi": [
+  "'ग़रीब और कमज़ोर वर्ग' — राशन कार्ड वाले NFSA परिवार (राशन कार्ड/NFSA का पेज देखें)",
+  "उदाहरण (PIB): अंत्योदय परिवार को 35 किलो चावल और गेहूँ"
+ ],
+ "who_en": [
+  "'Poor and vulnerable sections' — NFSA households with a ration card (see the ration card / NFSA page)",
+  "Example (PIB): an Antyodaya family gets 35 kg of rice and wheat"
+ ],
+ "not_hi": [
+  "प्रति व्यक्ति मात्रा और अनाज का अनुपात उस विज्ञप्ति में नहीं था — राशन दुकान या राज्य खाद्य विभाग से पूछें",
+  "पात्र परिवारों की पहचान राज्य करते हैं",
+  "⚠️ विज्ञप्ति नवंबर 2023 की है; आगे के बदलाव मैंने नहीं देखे"
+ ],
+ "not_en": [
+  "Per-person quantity and the grain mix were not in that release — ask the ration shop or state food department",
+  "States identify eligible households",
+  "⚠️ The release is from November 2023; I have not seen later changes"
+ ],
+ "docs_hi": [
+  "राशन कार्ड (राज्य के अनुसार) और राशन दुकान पर पहचान"
+ ],
+ "docs_en": [
+  "Ration card (state-wise) and identification at the ration shop"
+ ],
+ "steps_hi": [
+  "अपनी राशन दुकान (उचित मूल्य की दुकान) पर राशन कार्ड के साथ जाएँ",
+  "दूसरे राज्य में हों तो 'एक राष्ट्र एक राशन कार्ड' से वहाँ की किसी भी राशन दुकान से लें",
+  "राशन कार्ड नहीं है तो राशन कार्ड/NFSA पेज देखें",
+  "अनाज के बदले पैसे माँगने वाले की शिकायत राज्य खाद्य विभाग से करें"
+ ],
+ "steps_en": [
+  "Go to your ration (fair price) shop with the ration card",
+  "If in another state, collect from any ration shop there under One Nation One Ration Card",
+  "If you have no ration card, see the ration card / NFSA page",
+  "Report anyone asking money for grain to the state food department"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को PIB (29 नवंबर 2023) से पुष्ट: लाभार्थी संख्या, अनाज के प्रकार, पाँच साल (1 जनवरी 2024 से), राशन दुकानों से वितरण, ONORC",
+  "मात्रा, पात्रता-सूची और चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (29 Nov 2023) on 22 Oct 2026: number of beneficiaries, types of grain, five years (from 1 Jan 2024), distribution through ration shops, ONORC",
+  "Quantity, eligibility list and current position not confirmed"
+ ]
+}

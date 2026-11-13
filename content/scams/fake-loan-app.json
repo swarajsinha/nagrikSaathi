@@ -1,0 +1,55 @@
+{
+ "slug": "fake-loan-app",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 2,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "All India",
+ "tags": [
+  "scam"
+ ],
+ "hi": "नकली लोन ऐप और लोन ऑफ़र",
+ "en": "Fake loan apps and offers",
+ "kw": "fake loan app instant loan ठगी लोन ऐप processing fee RBI digital lending",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241255&reg=3&lang=2",
+ "source_name": "PIB / वित्त मंत्रालय — फ़र्ज़ी लोन ऐप पर कदम (17 मार्च 2026)",
+ "more": [
+  [
+   "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+   "RBI Ombudsman — \"BE(A)WARE\" पुस्तिका (तारीख़ अंकित नहीं)"
+  ]
+ ],
+ "how_hi": "कुछ अनधिकृत मोबाइल लोन ऐप और फ़र्ज़ी विज्ञापन तुरंत या कम ब्याज के लोन का वादा करते हैं, पहले प्रोसेसिंग फ़ीस जैसी रकम माँगते हैं और लोन दिए बिना ग़ायब हो जाते हैं। कुछ ऐप का मक़सद सिर्फ़ आपकी निजी जानकारी इकट्ठा करना होता है। PIB (17 मार्च 2026) के अनुसार कुछ ग़ैरक़ानूनी लोन ऐप विदेशी संस्थाओं से आने वाले ख़तरनाक विज्ञापनों से फैलते हैं।",
+ "how_en": "Some unauthorised mobile loan apps and fake advertisements promise quick or low-interest loans, demand upfront charges such as a processing fee, and disappear without paying out. Some apps only aim to harvest your personal data. PIB (17 March 2026) says some illegal loan apps spread through malicious advertisements originating from offshore entities.",
+ "signs_hi": [
+  "तुरंत लोन का वादा",
+  "लोन देने से पहले फ़ीस की माँग",
+  "ऐप या विज्ञापन RBI-नियंत्रित संस्था से जुड़ा न दिखे"
+ ],
+ "signs_en": [
+  "A promise of an instant loan",
+  "A fee demanded before the loan is paid",
+  "The app or advert is not linked to an RBI-regulated entity"
+ ],
+ "dont_hi": [
+  "लोन प्रोसेस होने से पहले कोई भुगतान न करें — कोई प्रतिष्ठित बैंक/NBFC ऐसा नहीं माँगता (RBI)",
+  "जिस ऋणदाता का पंजीकरण पता न हो, उससे लोन न लें"
+ ],
+ "dont_en": [
+  "Do not pay anything before the loan is processed — a reputed bank / NBFC never asks (RBI)",
+  "Do not borrow from a lender whose registration you cannot verify"
+ ],
+ "do_hi": [
+  "जाँचें कि ऐप RBI की डिजिटल लेंडिंग ऐप (DLA) सूची में है, जो RBI की वेबसाइट पर 1 जुलाई 2025 से उपलब्ध है (PIB)",
+  "ग़ैरक़ानूनी लोन ऐप की रिपोर्ट cybercrime.gov.in या 1930 पर करें (PIB)",
+  "किसी संस्था द्वारा ग़ैरक़ानूनी तरीक़े से पैसा जमा कराने की शिकायत SACHET पोर्टल पर कर सकते हैं (PIB)"
+ ],
+ "do_en": [
+  "Check that the app is in RBI's Digital Lending Apps (DLA) directory, live on RBI's website since 1 July 2025 (PIB)",
+  "Report illegal loan apps on cybercrime.gov.in or 1930 (PIB)",
+  "Illegal deposit / money collection by an entity can be reported on the SACHET portal (PIB)"
+ ],
+ "what_hi": "कुछ अनधिकृत मोबाइल लोन ऐप और फ़र्ज़ी विज्ञापन तुरंत या कम ब्याज के लोन का वादा करते हैं, पहले प्रोसेसिंग फ़ीस जैसी रकम माँगते हैं और लोन दिए बिना ग़ायब हो जाते हैं। कुछ ऐप का मक़सद सिर्फ़ आपकी निजी जानकारी इकट्ठा करना होता है। PIB (17 मार्च 2026) के अनुसार कुछ ग़ैरक़ानूनी लोन ऐप विदेशी संस्थाओं से आने वाले ख़तरनाक विज्ञापनों से फैलते हैं।",
+ "what_en": "Some unauthorised mobile loan apps and fake advertisements promise quick or low-interest loans, demand upfront charges such as a processing fee, and disappear without paying out. Some apps only aim to harvest your personal data. PIB (17 March 2026) says some illegal loan apps spread through malicious advertisements originating from offshore entities."
+}

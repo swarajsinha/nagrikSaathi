@@ -1,0 +1,73 @@
+{
+ "slug": "samagra-shiksha",
+ "status": "verified",
+ "last_verified": "2026-10-27",
+ "version": 1,
+ "updated": "2026-10-27",
+ "level": 1,
+ "dept": "Central — Ministry of Education",
+ "tags": [
+  "education"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "समग्र शिक्षा (स्कूली शिक्षा की एकीकृत योजना)",
+ "en": "Samagra Shiksha (integrated scheme for school education)",
+ "source_url": "https://samagra.education.gov.in/about.html",
+ "source_name": "समग्र शिक्षा — शिक्षा मंत्रालय (पेज अंतिम अपडेट 7 अगस्त 2021)",
+ "kw": "samagra shiksha school education ssa rmsa teacher education uniform textbook समग्र शिक्षा स्कूल शिक्षा",
+ "what_hi": "प्री-स्कूल से कक्षा 12 तक स्कूली शिक्षा की एक एकीकृत योजना, जो पहले की SSA, RMSA और शिक्षक-शिक्षा योजनाओं की जगह लेती है। इसे शिक्षा मंत्रालय का स्कूल शिक्षा और साक्षरता विभाग चलाता है। उद्देश्य: सीखने के परिणाम और गुणवत्ता सुधारना, सामाजिक और लैंगिक अंतर घटाना, समानता और समावेश, स्कूलों के न्यूनतम मानक, व्यावसायिक शिक्षा, RTE अधिनियम 2009 को लागू करने में सहयोग और SCERT/DIET जैसी शिक्षक-प्रशिक्षण संस्थाओं को मज़बूत करना।",
+ "what_en": "An integrated scheme for school education from pre-school to Class 12, replacing the earlier SSA, RMSA and Teacher Education schemes. It is run by the Department of School Education and Literacy, Ministry of Education. Aims: improve learning outcomes and quality, narrow social and gender gaps, equity and inclusion, minimum standards for schools, vocational education, support the RTE Act 2009 and strengthen teacher-training bodies such as SCERTs and DIETs.",
+ "who_hi": [
+  "सभी स्कूली स्तरों के विद्यार्थी — प्री-स्कूल, प्राथमिक, उच्च प्राथमिक, माध्यमिक और वरिष्ठ माध्यमिक",
+  "प्राथमिकता: शैक्षिक रूप से पिछड़े ब्लॉक, वामपंथी उग्रवाद प्रभावित ज़िले, विशेष फ़ोकस ज़िले, सीमावर्ती क्षेत्र और 117 आकांक्षी ज़िले",
+  "वंचित समूहों के बच्चे — लड़कियाँ, दिव्यांग, आदिवासी और कमज़ोर परिस्थितियों के बच्चे; साथ ही शिक्षक"
+ ],
+ "who_en": [
+  "Students at all school levels — pre-school, primary, upper primary, secondary and senior secondary",
+  "Priority: Educationally Backward Blocks, LWE-affected districts, Special Focus Districts, border areas and 117 Aspirational districts",
+  "Children from disadvantaged groups — girls, children with disabilities, indigenous children and children in vulnerable situations; and teachers"
+ ],
+ "not_hi": [
+  "यह राज्यों के माध्यम से स्कूलों को मिलने वाली योजना है; परिवार को अलग से आवेदन नहीं करना होता — यह पेज ऐसा कोई आवेदन नहीं बताता",
+  "पेज में RTE के तहत वर्दी, पाठ्यपुस्तक जैसे अधिकार सूचीबद्ध हैं, पर मात्रा और शर्तें नहीं; स्कूल या ब्लॉक शिक्षा कार्यालय से पूछें",
+  "पेज अंतिम बार 7 अगस्त 2021 को अपडेट हुआ था; चालू स्थिति अलग हो सकती है"
+ ],
+ "not_en": [
+  "This is a scheme that reaches schools through states; families do not apply separately — the page describes no such application",
+  "The page lists RTE entitlements such as uniforms and textbooks, but not quantities or conditions; ask the school or block education office",
+  "The page was last updated on 7 August 2021; the current position may differ"
+ ],
+ "docs_hi": [
+  "परिवार के लिए किसी दस्तावेज़ की सूची पेज पर नहीं है"
+ ],
+ "docs_en": [
+  "No document list for families is given on the page"
+ ],
+ "steps_hi": [
+  "अपने बच्चे के स्कूल या ब्लॉक शिक्षा कार्यालय से पूछें कि वर्दी, पाठ्यपुस्तक जैसी सुविधाएँ आपके बच्चे को कैसे मिलेंगी",
+  "योजना के नाम पर किसी से पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your child's school or block education office how benefits such as uniforms and textbooks reach your child",
+  "Do not pay anyone in the name of this scheme"
+ ],
+ "conf_hi": [
+  "27 अक्टूबर 2026 को शिक्षा मंत्रालय के पेज से पुष्ट: स्वरूप, उद्देश्य, स्तर, घटक, लाभार्थी वर्ग",
+  "वित्तीय राशि, चालू वर्ष की स्थिति और परिवार-स्तर की प्रक्रिया पुष्ट नहीं; पेज 2021 का है"
+ ],
+ "conf_en": [
+  "Confirmed on 27 Oct 2026 from the Ministry of Education page: nature, objectives, levels, components, beneficiary groups",
+  "Funding amounts, current-year status and family-level process not confirmed; the page is from 2021"
+ ],
+ "benefit_hi": "प्री-स्कूल से कक्षा 12 तक स्कूली शिक्षा की एक एकीकृत योजना, जो पहले की SSA, RMSA और शिक्षक-शिक्षा योजनाओं की जगह लेती है। इसे शिक्षा मंत्रालय का स्कूल शिक्षा और साक्षरता विभाग चलाता है। उद्देश्य: सीखने के परिणाम और गुणवत्ता सुधारना, सामाजिक और लैंगिक अंतर घटाना, समानता और समावेश, स्कूलों के न्यूनतम मानक, व्यावसायिक शिक्षा, RTE अधिनियम 2009 को लागू करने में सहयोग और SCERT/DIET जैसी शिक्षक-प्रशिक्षण संस्थाओं को मज़बूत करना।",
+ "benefit_en": "An integrated scheme for school education from pre-school to Class 12, replacing the earlier SSA, RMSA and Teacher Education schemes. It is run by the Department of School Education and Literacy, Ministry of Education. Aims: improve learning outcomes and quality, narrow social and gender gaps, equity and inclusion, minimum standards for schools, vocational education, support the RTE Act 2009 and strengthen teacher-training bodies such as SCERTs and DIETs."
+}

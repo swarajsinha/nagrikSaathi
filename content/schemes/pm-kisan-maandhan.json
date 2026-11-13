@@ -1,0 +1,80 @@
+{
+ "slug": "pm-kisan-maandhan",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "farmer",
+  "senior"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "पीएम किसान मान-धन योजना (किसान पेंशन)",
+ "en": "PM Kisan Maan-Dhan Yojana (farmer pension)",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2053142&reg=48&lang=2",
+ "source_name": "PIB / कृषि मंत्रालय — PM-KMY के पाँच वर्ष (9 सितंबर 2024)",
+ "kw": "pm kisan maandhan pension farmer 3000 पेंशन किसान मानधन 60 साल",
+ "what_hi": "18 से 40 साल के किसान हर माह ₹55 से ₹200 (प्रवेश-आयु के अनुसार) 60 साल की उम्र तक जमा करते हैं, और केंद्र सरकार उतनी ही राशि जोड़ती है। 60 साल के बाद ₹3,000 प्रति माह की तय पेंशन मिलती है। योजना 12 सितंबर 2019 से चल रही है।",
+ "what_en": "Farmers aged 18 to 40 contribute ₹55 to ₹200 a month (depending on entry age) until age 60, and the central government adds an equal amount. After 60 a fixed pension of ₹3,000 a month is paid. The scheme has run since 12 September 2019.",
+ "who_hi": [
+  "किसान, उम्र 18 से 40 साल",
+  "पेंशन तब मिलती है जब वे योजना की बहिष्करण शर्तें पूरी करते हों (PIB)"
+ ],
+ "who_en": [
+  "Farmers aged 18 to 40",
+  "Pension is paid provided they meet the scheme's exclusion criteria (PIB)"
+ ],
+ "not_hi": [
+  "बहिष्करण की शर्तें उस PIB पेज में नहीं हैं — pmkmy.gov.in या CSC पर देखें",
+  "योगदान की सटीक राशि हर उम्र के लिए वहाँ सारणी में नहीं थी — रजिस्ट्रेशन के समय देखें",
+  "जानकारी सितंबर 2024 की है; चालू नियम आधिकारिक पोर्टल से जाँचें"
+ ],
+ "not_en": [
+  "The exclusion criteria are not in that PIB page — check pmkmy.gov.in or at a CSC",
+  "The exact contribution for each age was not tabulated there — see it at registration",
+  "Information is from September 2024; check current rules on the official portal"
+ ],
+ "docs_hi": [
+  "किसान या जीवनसाथी का नाम और जन्म-तिथि",
+  "बैंक खाता संख्या और IFSC/MICR कोड",
+  "मोबाइल नंबर",
+  "आधार नंबर"
+ ],
+ "docs_en": [
+  "Name and date of birth of the farmer or spouse",
+  "Bank account number and IFSC / MICR code",
+  "Mobile number",
+  "Aadhaar number"
+ ],
+ "steps_hi": [
+  "नज़दीकी कॉमन सर्विस सेंटर (CSC) पर जाएँ, या राज्य/UT के PM-किसान नोडल अधिकारी से संपर्क करें",
+  "या आधिकारिक पोर्टल pmkmy.gov.in पर पंजीकरण करें",
+  "ऊपर की जानकारी साथ रखें"
+ ],
+ "steps_en": [
+  "Visit the nearest Common Service Centre (CSC), or contact the state / UT PM-Kisan nodal officer",
+  "Or register on the official portal pmkmy.gov.in",
+  "Keep the details above ready"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (9 सितंबर 2024) से पुष्ट: उम्र 18–40, योगदान ₹55–200/माह, केंद्र का बराबर हिस्सा, ₹3,000/माह पेंशन, नामांकन का तरीक़ा, ज़रूरी विवरण",
+  "बहिष्करण-शर्तें और चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (9 Sep 2024): age 18–40, contribution ₹55–200/month, equal central share, ₹3,000/month pension, how to enrol, details required",
+  "Exclusion criteria and current status not confirmed"
+ ],
+ "benefit_hi": "18 से 40 साल के किसान हर माह ₹55 से ₹200 (प्रवेश-आयु के अनुसार) 60 साल की उम्र तक जमा करते हैं, और केंद्र सरकार उतनी ही राशि जोड़ती है। 60 साल के बाद ₹3,000 प्रति माह की तय पेंशन मिलती है। योजना 12 सितंबर 2019 से चल रही है।",
+ "benefit_en": "Farmers aged 18 to 40 contribute ₹55 to ₹200 a month (depending on entry age) until age 60, and the central government adds an equal amount. After 60 a fixed pension of ₹3,000 a month is paid. The scheme has run since 12 September 2019."
+}

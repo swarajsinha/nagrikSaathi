@@ -1,0 +1,69 @@
+{
+ "slug": "mission-shakti",
+ "status": "verified",
+ "last_verified": "2026-10-27",
+ "version": 1,
+ "updated": "2026-10-27",
+ "level": 1,
+ "dept": "Central — Ministry of Women & Child Development",
+ "tags": [
+  "women"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "मिशन शक्ति (महिला सुरक्षा और सशक्तिकरण)",
+ "en": "Mission Shakti (women's safety and empowerment)",
+ "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2205103&reg=3&lang=2",
+ "source_name": "PIB — मिशन शक्ति (पेज अंतिम अपडेट 13 सितंबर 2026)",
+ "kw": "mission shakti women helpline 181 one stop centre sakhi niwas shakti sadan palna women help desk 112 महिला हेल्पलाइन वन स्टॉप सेंटर मिशन शक्ति",
+ "what_hi": "महिलाओं की सुरक्षा, संरक्षा और सशक्तिकरण के लिए महिला एवं बाल विकास मंत्रालय की केंद्र प्रायोजित योजना। इसके दो उप-हिस्से हैं: संबल (महिला सुरक्षा) और सामर्थ्य (सशक्तिकरण)।",
+ "what_en": "A centrally sponsored scheme of the Ministry of Women and Child Development for women's safety, security and empowerment. It has two sub-schemes: Sambal (safety and security) and Samarthya (empowerment).",
+ "benefit_hi": "महिलाओं की सुरक्षा, संरक्षा और सशक्तिकरण के लिए महिला एवं बाल विकास मंत्रालय की केंद्र प्रायोजित योजना। इसके दो उप-हिस्से हैं: संबल (महिला सुरक्षा) और सामर्थ्य (सशक्तिकरण)।",
+ "benefit_en": "A centrally sponsored scheme of the Ministry of Women and Child Development for women's safety, security and empowerment. It has two sub-schemes: Sambal (safety and security) and Samarthya (empowerment).",
+ "who_hi": [
+  "पेज पर पूरी योजना की एक सामान्य पात्रता नहीं दी है; अलग-अलग घटकों के वर्ग बताए हैं: गर्भवती/स्तनपान कराने वाली माताएँ (PMMVY), कामकाजी महिलाएँ (सखी निवास), संकट में महिलाएँ (शक्ति सदन), विधवाएँ (कृष्ण कुटीर)"
+ ],
+ "who_en": [
+  "The page gives no single eligibility rule for the whole scheme; it names groups per component: pregnant / lactating mothers (PMMVY), working women (Sakhi Niwas), women in distress (Shakti Sadan), widows (Krishna Kutir)"
+ ],
+ "not_hi": [
+  "वन स्टॉप सेंटरों के पते और संपर्क पेज पर नहीं हैं — हेल्पलाइन 181 या ज़िला महिला एवं बाल विकास कार्यालय से पूछें",
+  "आपातकाल में 112 पर कॉल करें"
+ ],
+ "not_en": [
+  "Addresses and contacts of One Stop Centres are not on the page — ask via helpline 181 or the district women and child development office",
+  "In an emergency call 112"
+ ],
+ "docs_hi": [
+  "सहायता लेने के लिए दस्तावेज़ की शर्त पेज पर नहीं बताई गई"
+ ],
+ "docs_en": [
+  "The page states no document requirement for seeking help"
+ ],
+ "steps_hi": [
+  "तुरंत ख़तरे में हों तो 112 पर कॉल करें",
+  "सहायता या जानकारी के लिए महिला हेल्पलाइन 181 (निःशुल्क, 24 घंटे) पर कॉल करें",
+  "थाने के महिला हेल्प डेस्क या ज़िले के वन स्टॉप सेंटर से भी मदद ली जा सकती है"
+ ],
+ "steps_en": [
+  "If in immediate danger call 112",
+  "For help or information call Women Helpline 181 (toll-free, 24 hours)",
+  "You can also seek help from the Women Help Desk at the police station or the district One Stop Centre"
+ ],
+ "conf_hi": [
+  "27 अक्टूबर 2026 को PIB पेज से पुष्ट: दो उप-योजनाएँ, OSC, 181, 112, महिला हेल्प डेस्क और सामर्थ्य के घटक",
+  "OSC के पते, घटक-वार आवेदन की प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 27 Oct 2026 from the PIB page: two sub-schemes, OSC, 181, 112, Women Help Desks and Samarthya components",
+  "OSC addresses and component-wise application processes not confirmed"
+ ]
+}

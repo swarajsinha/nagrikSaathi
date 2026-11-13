@@ -1,0 +1,71 @@
+{
+ "slug": "rashtriya-vayoshri-yojana",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "senior"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "राष्ट्रीय वयोश्री योजना (बुज़ुर्गों के लिए सहायक उपकरण)",
+ "en": "Rashtriya Vayoshri Yojana (assistive aids for senior citizens)",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2080034&reg=3&lang=2",
+ "source_name": "PIB / सामाजिक न्याय मंत्रालय — लोकसभा उत्तर (3 दिसंबर 2024)",
+ "kw": "rashtriya vayoshri yojana rvy alimco senior citizens physical aids wheelchair hearing aid वयोश्री बुज़ुर्ग उपकरण",
+ "what_hi": "1 अप्रैल 2017 से चल रही योजना जिसमें उन वरिष्ठ नागरिकों को शारीरिक सहायक और सहायक-जीवन उपकरण दिए जाते हैं, जिनकी मासिक आय ₹15,000 तक है और जिन्हें उम्र से जुड़ी अशक्तता है। इसे लागू करने वाली एकमात्र एजेंसी ALIMCO है।",
+ "what_en": "A scheme running since 1 April 2017 that gives physical aids and assisted-living devices to senior citizens with a monthly income up to ₹15,000 who have age-related disabilities. The sole implementing agency is ALIMCO.",
+ "who_hi": [
+  "वरिष्ठ नागरिक जिनकी मासिक आय ₹15,000 तक है",
+  "उम्र से जुड़ी अशक्तता/विकलांगता हो"
+ ],
+ "who_en": [
+  "Senior citizens with monthly income up to ₹15,000",
+  "Having an age-related disability"
+ ],
+ "not_hi": [
+  "कौन-से उपकरण मिलते हैं, कम से कम उम्र, आवेदन का तरीक़ा और दस्तावेज़ उस PIB पेज में नहीं हैं",
+  "शिविर या वितरण कब और कहाँ होगा, यह पुष्ट नहीं — ज़िला समाज कल्याण कार्यालय से पूछें",
+  "यह जानकारी दिसंबर 2024 की है; चालू स्थिति पुष्ट नहीं"
+ ],
+ "not_en": [
+  "Which devices are given, minimum age, how to apply and documents are not in that PIB page",
+  "When and where camps / distribution happen is not confirmed — ask the district social welfare office",
+  "This information is from December 2024; current status is not confirmed"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ज़िला समाज कल्याण कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the district social welfare office"
+ ],
+ "steps_hi": [
+  "अपने ज़िले के समाज कल्याण कार्यालय या एल्डरलाइन 14567 से पूछें कि आपके क्षेत्र में योजना कैसे मिलती है",
+  "उपकरण के बदले किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your district social welfare office or Elderline 14567 how the scheme is available in your area",
+  "Do not pay anyone for the devices"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (3 दिसंबर 2024) से पुष्ट: शुरुआत 1 अप्रैल 2017, आय सीमा ₹15,000/माह, उम्र-संबंधी अशक्तता, ALIMCO",
+  "उपकरणों की सूची, आवेदन-प्रक्रिया और चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (3 Dec 2024): launched 1 Apr 2017, income limit ₹15,000/month, age-related disability, ALIMCO",
+  "Device list, application process and current status not confirmed"
+ ],
+ "benefit_hi": "1 अप्रैल 2017 से चल रही योजना जिसमें उन वरिष्ठ नागरिकों को शारीरिक सहायक और सहायक-जीवन उपकरण दिए जाते हैं, जिनकी मासिक आय ₹15,000 तक है और जिन्हें उम्र से जुड़ी अशक्तता है। इसे लागू करने वाली एकमात्र एजेंसी ALIMCO है।",
+ "benefit_en": "A scheme running since 1 April 2017 that gives physical aids and assisted-living devices to senior citizens with a monthly income up to ₹15,000 who have age-related disabilities. The sole implementing agency is ALIMCO."
+}

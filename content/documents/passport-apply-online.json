@@ -1,0 +1,83 @@
+{
+ "slug": "passport-apply-online",
+ "status": "verified",
+ "last_verified": "2026-10-27",
+ "version": 1,
+ "updated": "2026-10-27",
+ "level": 1,
+ "dept": "Central — Ministry of External Affairs (Passport Seva)",
+ "tags": [
+  "document"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "पासपोर्ट के लिए ऑनलाइन आवेदन (नया / पुनः जारी)",
+ "en": "Apply for a passport online (fresh / reissue)",
+ "source_url": "https://www.passportindia.gov.in/AppOnlineProject/pdf/steps_to_apply_for_passport_services.pdf",
+ "source_name": "पासपोर्ट सेवा — आवेदन के चरण (passportindia.gov.in)",
+ "more": [
+  [
+   "https://www.passportindia.gov.in",
+   "पासपोर्ट सेवा पोर्टल"
+  ]
+ ],
+ "kw": "passport apply online fresh reissue passport seva kendra psk rpo appointment पासपोर्ट आवेदन ऑनलाइन नया पुनः जारी",
+ "what_hi": "पासपोर्ट सेवा पोर्टल पर नया पासपोर्ट या पासपोर्ट पुनः जारी करवाने का आवेदन ऑनलाइन किया जाता है, फिर पासपोर्ट सेवा केंद्र (PSK) में समय लेकर जाना होता है।",
+ "what_en": "A fresh passport or a passport reissue is applied for online on the Passport Seva portal, followed by an appointment at a Passport Seva Kendra (PSK).",
+ "who_hi": [
+  "पासपोर्ट बनवाने या पुनः जारी करवाने के इच्छुक व्यक्ति — पात्रता की शर्तें इस दस्तावेज़ में नहीं हैं"
+ ],
+ "who_en": [
+  "Anyone wanting a fresh or reissued passport — eligibility conditions are not in this document"
+ ],
+ "not_hi": [
+  "शुल्क की राशि और ज़रूरी दस्तावेज़ों की सूची इस स्रोत में नहीं है — पोर्टल पर \"Fees & documents\" देखें",
+  "सही क्षेत्रीय पासपोर्ट कार्यालय (RPO) चुनें — पोर्टल यही चेतावनी देता है",
+  "पोर्टल पर पासपोर्ट सहायता के लिए राष्ट्रीय कॉल सेंटर: 1800-258-1800 (टोल-फ़्री)"
+ ],
+ "not_en": [
+  "Fee amounts and the list of required documents are not in this source — see \"Fees & documents\" on the portal",
+  "Choose the correct Regional Passport Office (RPO) — the portal gives this warning",
+  "National call centre for passport help: 1800-258-1800 (toll-free)"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची इस स्रोत में नहीं — पोर्टल पर देखें"
+ ],
+ "docs_en": [
+  "A verified document list is not in this source — see the portal"
+ ],
+ "steps_hi": [
+  "passportindia.gov.in पर जाएँ और ईमेल से यूज़र ID बनाकर रजिस्टर करें",
+  "लॉग इन करें, \"Services\" में नया पासपोर्ट या पुनः जारी चुनें और ऑनलाइन फ़ॉर्म भरें",
+  "पुनः जारी में मौजूदा पासपोर्ट नंबर और जन्म तिथि डालने पर मोबाइल पर OTP आता है; OTP न मिले तो \"Skip for Now\" से हाथ से फ़ॉर्म भरें",
+  "ध्यान दें कि सही RPO चुना है, फिर फ़ॉर्म जमा करें",
+  "PSK चुनकर शुल्क का भुगतान करें और अपॉइंटमेंट लें; अपॉइंटमेंट/आवेदन रसीद का प्रिंट रखें",
+  "OTP किसी को न बताएँ; सिर्फ़ आधिकारिक पोर्टल पर आवेदन करें"
+ ],
+ "steps_en": [
+  "Go to passportindia.gov.in and register with your email to create a user ID",
+  "Log in, choose fresh or reissue under \"Services\" and fill the online form",
+  "For reissue, entering your current passport number and date of birth sends an OTP to your mobile; if it does not arrive, use \"Skip for Now\" and fill the form manually",
+  "Make sure the correct RPO is selected, then submit the form",
+  "Select a PSK, pay the fee and book the appointment; keep a printout of the appointment / application receipt",
+  "Do not share an OTP with anyone; apply only on the official portal"
+ ],
+ "conf_hi": [
+  "27 अक्टूबर 2026 को पासपोर्ट सेवा के आधिकारिक \"आवेदन के चरण\" दस्तावेज़ से पुष्ट: चरण, भुगतान, अपॉइंटमेंट, कॉल सेंटर नंबर",
+  "शुल्क, दस्तावेज़ सूची और पात्रता इस स्रोत से पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 27 Oct 2026 from the official Passport Seva \"steps to apply\" document: steps, payment, appointment, call centre number",
+  "Fees, document list and eligibility not confirmed from this source"
+ ],
+ "benefit_hi": "पासपोर्ट सेवा पोर्टल पर नया पासपोर्ट या पासपोर्ट पुनः जारी करवाने का आवेदन ऑनलाइन किया जाता है, फिर पासपोर्ट सेवा केंद्र (PSK) में समय लेकर जाना होता है।",
+ "benefit_en": "A fresh passport or a passport reissue is applied for online on the Passport Seva portal, followed by an appointment at a Passport Seva Kendra (PSK)."
+}

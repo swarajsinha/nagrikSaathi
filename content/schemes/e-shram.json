@@ -1,0 +1,89 @@
+{
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-15",
+ "version": 1,
+ "updated": "2026-10-15",
+ "slug": "e-shram",
+ "hi": "ई-श्रम कार्ड (असंगठित कामगार)",
+ "en": "e-Shram card (unorganised workers)",
+ "source_url": "https://eshram.gov.in/faqs",
+ "source_name": "ई-श्रम पोर्टल — FAQ (श्रम एवं रोज़गार मंत्रालय)",
+ "tags": [
+  "worker"
+ ],
+ "kw": "eshram e shram card labour worker majdoor श्रमिक मज़दूर ई-श्रम असंगठित",
+ "what_hi": "असंगठित क्षेत्र के कामगारों का राष्ट्रीय पंजीकरण (मुफ़्त)। पंजीकरण से सामाजिक सुरक्षा और कल्याण लाभों तक पहुँच, आपदा/महामारी में संभावित आपातकालीन सहायता और UAN कार्ड मिलता है।",
+ "what_en": "National registration of unorganised-sector workers (free). Registration gives access to social-security and welfare benefits, possible emergency help in disasters / pandemics, and a UAN card.",
+ "benefit_hi": "असंगठित क्षेत्र के कामगारों का राष्ट्रीय पंजीकरण (मुफ़्त)। पंजीकरण से सामाजिक सुरक्षा और कल्याण लाभों तक पहुँच, आपदा/महामारी में संभावित आपातकालीन सहायता और UAN कार्ड मिलता है।",
+ "benefit_en": "National registration of unorganised-sector workers (free). Registration gives access to social-security and welfare benefits, possible emergency help in disasters / pandemics, and a UAN card.",
+ "who_hi": [
+  "16 से 59 साल के घर-आधारित, स्वरोज़गार या मज़दूरी करने वाले असंगठित क्षेत्र के कामगार",
+  "जो ESIC या EPFO के सदस्य नहीं हैं",
+  "पंजीकरण के लिए कोई आय-सीमा नहीं (FAQ के अनुसार)",
+  "प्लेटफ़ॉर्म/गिग कामगारों के लिए अलग पंजीकरण लिंक पोर्टल पर है"
+ ],
+ "who_en": [
+  "Home-based, self-employed or wage workers in the unorganised sector aged 16 to 59",
+  "Not a member of ESIC or EPFO",
+  "No income criteria for registration (per the FAQ)",
+  "A separate registration link for platform / gig workers is on the portal"
+ ],
+ "not_hi": [
+  "FAQ पेज पर दुर्घटना बीमा की राशि नहीं दी गई — मैंने अंदाज़ा नहीं लिखा; पोर्टल पर चालू लाभ देखें",
+  "FAQ में NPS सदस्यों या आयकरदाताओं का ज़िक्र नहीं है",
+  "ऊपर की शर्तें उस FAQ पेज के अनुसार हैं; अन्य शर्तें लागू हो सकती हैं ('अन्य निर्धारित मानदंडों के अधीन')"
+ ],
+ "not_en": [
+  "The FAQ page gives no accident-insurance amount — I have not guessed one; see current benefits on the portal",
+  "The FAQ does not mention NPS members or income-tax payers",
+  "The conditions above are per that FAQ page; other prescribed criteria may apply"
+ ],
+ "docs_hi": [
+  "आधार नंबर",
+  "आधार से जुड़ा मोबाइल नंबर",
+  "मोबाइल आधार से जुड़ा न हो तो CSC/स्टेट सेवा केंद्र पर बायोमेट्रिक से पंजीकरण",
+  "बैंक खाता विवरण (आगे लाभ के लिए पोर्टल पर माँगा जा सकता है)"
+ ],
+ "docs_en": [
+  "Aadhaar number",
+  "Aadhaar-linked mobile number",
+  "If the mobile is not Aadhaar-linked, register with biometrics at a CSC / State Seva Kendra",
+  "Bank account details (the portal may ask for them for later benefits)"
+ ],
+ "steps_hi": [
+  "खुद पंजीकरण: eshram.gov.in पर 'Register on eShram' चुनें",
+  "या नज़दीकी CSC जाएँ — वहाँ दस्तावेज़ जमा नहीं करने, बस आधार और मोबाइल साथ ले जाएँ",
+  "आधार और मोबाइल से सत्यापन करें",
+  "पेशे का विवरण भरें, जमा करें और कार्ड/UAN डाउनलोड करें",
+  "पंजीकरण मुफ़्त है — किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Self-register: choose 'Register on eShram' at eshram.gov.in",
+  "Or go to a nearby CSC — no documents to submit there, just carry your Aadhaar and mobile",
+  "Verify with Aadhaar and mobile",
+  "Fill in your occupation details, submit and download the card / UAN",
+  "Registration is free — do not pay anyone"
+ ],
+ "mistakes_hi": [
+  "पेशा/प्रोफ़ाइल अपडेट न करना",
+  "गलत मोबाइल नंबर",
+  "पंजीकरण के लिए पैसे देना"
+ ],
+ "mistakes_en": [
+  "Not updating occupation/profile",
+  "Wrong mobile number",
+  "Paying money for registration"
+ ],
+ "conf_hi": [
+  "15 अक्टूबर 2026 को eshram.gov.in/faqs से पुष्ट: आयु 16–59, ESIC/EPFO सदस्य न हों, कोई आय-सीमा नहीं, पंजीकरण मुफ़्त, स्वयं/CSC से पंजीकरण, आधार और आधार-लिंक्ड मोबाइल",
+  "13 अक्टूबर 2026 को पोर्टल से पुष्ट: हेल्पडेस्क 14434 / 18008896811 (रोज़ सुबह 9 से शाम 6); ₹3,000/माह पेंशन के लिए पोर्टल maandhan.in का लिंक देता है",
+  "दुर्घटना बीमा की चालू राशि पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from eshram.gov.in/faqs on 15 Oct 2026: age 16–59, not an ESIC / EPFO member, no income criteria, free registration, self / CSC registration, Aadhaar and Aadhaar-linked mobile",
+  "Confirmed from the portal on 13 Oct 2026: helpdesk 14434 / 18008896811 (daily 9 AM–6 PM); links to maandhan.in for the ₹3,000/month pension",
+  "Current accident-insurance amount not confirmed"
+ ]
+}

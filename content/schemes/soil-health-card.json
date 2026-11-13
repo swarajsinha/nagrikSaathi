@@ -1,0 +1,71 @@
+{
+ "slug": "soil-health-card",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "farmer"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "मृदा स्वास्थ्य कार्ड (Soil Health Card)",
+ "en": "Soil Health Card",
+ "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025816613501.pdf",
+ "source_name": "PIB / कृषि मंत्रालय — \"स्वस्थ धरा, खेत हरा\" (16 अगस्त 2025)",
+ "kw": "soil health card mitti jaanch soil testing fertiliser मृदा स्वास्थ्य कार्ड मिट्टी जाँच खाद",
+ "what_hi": "हर खेत के लिए छपी हुई रिपोर्ट जिसमें मिट्टी के 12 मानकों (नाइट्रोजन, फ़ॉस्फ़ोरस, पोटैशियम, सल्फ़र, ज़िंक, आयरन, कॉपर, मैंगनीज़, बोरॉन, pH, EC, ऑर्गेनिक कार्बन) की जाँच और खाद-उर्वरक की सलाह होती है। यह योजना देश के सभी किसानों के लिए है।",
+ "what_en": "A printed report for each land holding with tests of 12 soil parameters (nitrogen, phosphorus, potassium, sulphur, zinc, iron, copper, manganese, boron, pH, EC, organic carbon) and advice on fertiliser, bio-fertiliser and organic inputs. The scheme is for all farmers in India.",
+ "who_hi": [
+  "देश का कोई भी किसान (PIB: \"हर किसान\" का लक्ष्य)"
+ ],
+ "who_en": [
+  "Any farmer in India (PIB: aim is \"every farmer\")"
+ ],
+ "not_hi": [
+  "कार्ड कितने साल में दोबारा बनता है, इस दस्तावेज़ में अलग-अलग लिखा है (एक जगह हर 2 साल, दूसरी जगह हर 3 साल) — अपने कृषि कार्यालय से पूछें",
+  "दस्तावेज़ यह नहीं कहता कि किसान को कुछ नहीं देना; वह केवल बताता है कि केंद्र सरकार प्रति नमूना ₹190 देती है",
+  "किसान के पंजीकरण या कार्ड माँगने की प्रक्रिया उसमें नहीं है"
+ ],
+ "not_en": [
+  "How often the card is renewed is stated differently in the document (every 2 years in one place, every 3 years in another) — ask your agriculture office",
+  "The document does not say the farmer pays nothing; it only says the central government provides ₹190 per sample",
+  "How a farmer registers or asks for a card is not described in it"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — कृषि विभाग कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the agriculture department office"
+ ],
+ "steps_hi": [
+  "मिट्टी के नमूने प्रशिक्षित कर्मचारी, कृषि विभाग के लोग या कृषि कॉलेज के विद्यार्थी लेते हैं (15–20 सेमी गहराई से, फ़सल कटने के बाद या जब खेत में फ़सल न हो)",
+  "नमूनों का परिणाम पोर्टल soilhealth.dac.gov.in पर मिलता है; कार्ड 22 भाषाओं में उपलब्ध हैं",
+  "अपने ब्लॉक के कृषि कार्यालय से पूछें कि आपके खेत का नमूना कब लिया जाएगा"
+ ],
+ "steps_en": [
+  "Soil samples are taken by trained staff, agriculture department personnel or agriculture-college students (from 15–20 cm depth, after harvest or when no crop is standing)",
+  "Results are available on the portal soilhealth.dac.gov.in; cards are available in 22 languages",
+  "Ask your block agriculture office when your field will be sampled"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (16 अगस्त 2025) से पुष्ट: कार्ड क्या देता है, 12 मानक, नमूने कौन लेता है और कैसे, पोर्टल और भाषाएँ, ₹190 प्रति नमूना",
+  "कार्ड की अवधि (2 या 3 साल) और किसान के लिए आवेदन-प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (16 Aug 2025): what the card gives, 12 parameters, who samples and how, portal and languages, ₹190 per sample",
+  "Card validity (2 or 3 years) and any application process for farmers not confirmed"
+ ],
+ "benefit_hi": "हर खेत के लिए छपी हुई रिपोर्ट जिसमें मिट्टी के 12 मानकों (नाइट्रोजन, फ़ॉस्फ़ोरस, पोटैशियम, सल्फ़र, ज़िंक, आयरन, कॉपर, मैंगनीज़, बोरॉन, pH, EC, ऑर्गेनिक कार्बन) की जाँच और खाद-उर्वरक की सलाह होती है। यह योजना देश के सभी किसानों के लिए है।",
+ "benefit_en": "A printed report for each land holding with tests of 12 soil parameters (nitrogen, phosphorus, potassium, sulphur, zinc, iron, copper, manganese, boron, pH, EC, organic carbon) and advice on fertiliser, bio-fertiliser and organic inputs. The scheme is for all farmers in India."
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "rte-25-percent-seats",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central / State",
+ "tags": [
+  "education"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "शिक्षा का अधिकार — निजी स्कूलों में 25% सीटें (कमज़ोर वर्ग के बच्चों के लिए)",
+ "en": "Right to Education — 25% seats in private schools (for weaker-section children)",
+ "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=67597&reg=3&lang=2",
+ "source_name": "PIB / मानव संसाधन विकास मंत्रालय — प्रवेश-प्रक्रिया के दिशानिर्देश (25 नवंबर 2010)",
+ "kw": "rte right to education 25 percent seats private school weaker section lottery शिक्षा का अधिकार निजी स्कूल 25 प्रतिशत सीटें गरीब बच्चे",
+ "what_hi": "शिक्षा का अधिकार क़ानून की धारा 12(1)(ग) के तहत ग़ैर-सहायता-प्राप्त और निर्दिष्ट श्रेणी के स्कूलों को पहली कक्षा की कम से कम 25% सीटों पर पड़ोस के कमज़ोर वर्ग और वंचित समूह के बच्चों को प्रवेश देना होता है (जहाँ स्कूल प्री-प्राइमरी से प्रवेश देता है, वहाँ उसी स्तर पर)। इन बच्चों को प्रारंभिक शिक्षा पूरी होने तक निःशुल्क शिक्षा मिलती है। इन सीटों पर चयन आवेदनों में से रैंडम (लॉटरी जैसा) होता है।",
+ "what_en": "Under Section 12(1)(c) of the Right to Education Act, unaided and specified-category schools must admit at least 25% of Class 1 seats from children of the weaker section and disadvantaged group of the neighbourhood (at pre-primary level where the school admits at that level). These children get free education until elementary education is completed. Selection for these seats is random from applications received.",
+ "who_hi": [
+  "पड़ोस के कमज़ोर वर्ग (weaker section) और वंचित समूह (disadvantaged group) के बच्चे",
+  "प्रवेश-स्तर: कक्षा 1, या प्री-प्राइमरी जहाँ स्कूल उस स्तर से प्रवेश लेता है"
+ ],
+ "who_en": [
+  "Children of the weaker section and disadvantaged group from the neighbourhood",
+  "Entry level: Class 1, or pre-primary where the school admits at that level"
+ ],
+ "not_hi": [
+  "कौन-सा परिवार \"कमज़ोर वर्ग\" माना जाएगा (आय-सीमा, प्रमाणपत्र) और आवेदन की तारीख़ें, आवेदन का तरीक़ा राज्य के नियमों से तय होते हैं — यह दस्तावेज़ यह नहीं बताता; अपने ब्लॉक शिक्षा कार्यालय या ज़िला शिक्षा कार्यालय से पूछें",
+  "दस्तावेज़ 25 नवंबर 2010 का है; राज्य के चालू नियम अलग हो सकते हैं",
+  "बाक़ी सीटों पर भी जाँच या साक्षात्कार नहीं होता (दिशानिर्देश के अनुसार), चयन रैंडम होता है"
+ ],
+ "not_en": [
+  "Who counts as \"weaker section\" (income limit, certificates), the dates and the way to apply are set by state rules — this document does not say; ask your block education office or district education office",
+  "The document is dated 25 November 2010; current state rules may differ",
+  "For the remaining seats too there is no testing or interview (per the guidelines); selection is random"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — राज्य/ज़िला शिक्षा कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the state / district education office"
+ ],
+ "steps_hi": [
+  "अपने राज्य या ज़िले के शिक्षा कार्यालय से पूछें कि RTE के तहत 25% सीटों की आवेदन-प्रक्रिया और तारीख़ें क्या हैं",
+  "आवेदन के बाद स्कूल लॉटरी जैसी रैंडम प्रक्रिया से चयन करता है — किसी को पैसे देकर प्रवेश दिलाने का दावा ठगी हो सकता है",
+  "पास के निजी स्कूल से पूछ सकते हैं कि उनकी 25% सीटों की प्रक्रिया क्या है"
+ ],
+ "steps_en": [
+  "Ask your state or district education office what the RTE 25% seats application process and dates are",
+  "After applying the school selects through a random, lottery-like process — anyone claiming to get you admission for money may be a fraud",
+  "You can also ask a nearby private school about its 25% seats process"
+ ],
+ "conf_hi": [
+  "25 अक्टूबर 2026 को PIB (25 नवंबर 2010) के दिशानिर्देश से पुष्ट: 25% सीटें, कौन-से स्कूल, पात्र वर्ग, प्रवेश-स्तर, रैंडम चयन",
+  "राज्य-वार पात्रता, तारीख़ें, प्रक्रिया और दस्तावेज़ पुष्ट नहीं; दस्तावेज़ पुराना है"
+ ],
+ "conf_en": [
+  "Confirmed on 25 Oct 2026 from the PIB guidelines (25 Nov 2010): 25% seats, which schools, eligible groups, entry level, random selection",
+  "State-wise eligibility, dates, process and documents not confirmed; the document is old"
+ ],
+ "benefit_hi": "शिक्षा का अधिकार क़ानून की धारा 12(1)(ग) के तहत ग़ैर-सहायता-प्राप्त और निर्दिष्ट श्रेणी के स्कूलों को पहली कक्षा की कम से कम 25% सीटों पर पड़ोस के कमज़ोर वर्ग और वंचित समूह के बच्चों को प्रवेश देना होता है (जहाँ स्कूल प्री-प्राइमरी से प्रवेश देता है, वहाँ उसी स्तर पर)। इन बच्चों को प्रारंभिक शिक्षा पूरी होने तक निःशुल्क शिक्षा मिलती है। इन सीटों पर चयन आवेदनों में से रैंडम (लॉटरी जैसा) होता है।",
+ "benefit_en": "Under Section 12(1)(c) of the Right to Education Act, unaided and specified-category schools must admit at least 25% of Class 1 seats from children of the weaker section and disadvantaged group of the neighbourhood (at pre-primary level where the school admits at that level). These children get free education until elementary education is completed. Selection for these seats is random from applications received."
+}

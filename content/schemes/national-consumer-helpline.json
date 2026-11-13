@@ -1,0 +1,73 @@
+{
+ "slug": "national-consumer-helpline",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — Department of Consumer Affairs",
+ "tags": [
+  "rights"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "hi": "राष्ट्रीय उपभोक्ता हेल्पलाइन (NCH) — उपभोक्ता शिकायत",
+ "en": "National Consumer Helpline (NCH) — consumer complaints",
+ "source_url": "https://consumerhelpline.gov.in/public/about",
+ "source_name": "राष्ट्रीय उपभोक्ता हेल्पलाइन — About (consumerhelpline.gov.in)",
+ "kw": "national consumer helpline 1915 consumer complaint refund company उपभोक्ता शिकायत हेल्पलाइन 1915 रिफंड",
+ "what_hi": "उपभोक्ता मामलों के विभाग का पोर्टल, जो उपभोक्ता शिकायतों का केंद्रीय रजिस्टर है और मुक़दमे से पहले विवाद सुलझाने का रास्ता देता है। असंतुष्ट हों तो उपयुक्त उपभोक्ता आयोग में जा सकते हैं। टोल-फ़्री 1915 (सुबह 8 से रात 8 बजे), 1800-11-4000, और SMS/WhatsApp के लिए 8800001915।",
+ "what_en": "A portal of the Department of Consumer Affairs that acts as a central registry for consumer grievances and a pre-litigation route to settle disputes. If you are not satisfied you can approach the appropriate Consumer Commission. Toll-free 1915 (8 AM to 8 PM), 1800-11-4000, and 8800001915 for SMS / WhatsApp.",
+ "who_hi": [
+  "कोई भी उपभोक्ता"
+ ],
+ "who_en": [
+  "Any consumer"
+ ],
+ "not_hi": [
+  "साइबर वित्तीय धोखाधड़ी की शिकायत के लिए 1930 है, NCH नहीं (पेज के अनुसार)",
+  "NCH मध्यस्थता का रास्ता है; निपटारे की गारंटी नहीं"
+ ],
+ "not_en": [
+  "For cyber financial fraud use 1930, not NCH (per the page)",
+  "NCH is a mediation route; settlement is not guaranteed"
+ ],
+ "docs_hi": [
+  "वेब पोर्टल पर शिकायत के साथ संबंधित दस्तावेज़ संलग्न कर सकते हैं (बिल, रसीद आदि)"
+ ],
+ "docs_en": [
+  "On the web portal you can attach relevant documents (bill, receipt etc.)"
+ ],
+ "steps_hi": [
+  "फ़ोन: 1915 या 1800-11-4000 पर कॉल करके एजेंट से बात करें",
+  "वेब: consumerhelpline.gov.in पर एक बार साइन-अप करें, ईमेल सत्यापित करें, लॉग-इन करके शिकायत का विवरण भरें और दस्तावेज़ जोड़ें",
+  "SMS या WhatsApp: 8800001915",
+  "ऐप: NCH ऐप या UMANG ऐप",
+  "असंतुष्ट हों तो उपभोक्ता आयोग में जाएँ"
+ ],
+ "steps_en": [
+  "Phone: call 1915 or 1800-11-4000 and speak to an agent",
+  "Web: sign up once on consumerhelpline.gov.in, verify your email, log in, fill the grievance details and attach documents",
+  "SMS or WhatsApp: 8800001915",
+  "App: NCH app or UMANG app",
+  "If not satisfied approach the Consumer Commission"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को NCH के About पेज से पुष्ट: क्या है, हेल्पलाइन नंबर और समय, शिकायत दर्ज करने के तरीक़े, 1930 केवल साइबर वित्तीय धोखाधड़ी के लिए",
+  "उपभोक्ता आयोग में दाख़िल करने की प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the NCH About page: what it is, helpline numbers and hours, ways to register, 1930 only for cyber financial fraud",
+  "The process of filing before a Consumer Commission is not confirmed"
+ ],
+ "benefit_hi": "उपभोक्ता मामलों के विभाग का पोर्टल, जो उपभोक्ता शिकायतों का केंद्रीय रजिस्टर है और मुक़दमे से पहले विवाद सुलझाने का रास्ता देता है। असंतुष्ट हों तो उपयुक्त उपभोक्ता आयोग में जा सकते हैं। टोल-फ़्री 1915 (सुबह 8 से रात 8 बजे), 1800-11-4000, और SMS/WhatsApp के लिए 8800001915।",
+ "benefit_en": "A portal of the Department of Consumer Affairs that acts as a central registry for consumer grievances and a pre-litigation route to settle disputes. If you are not satisfied you can approach the appropriate Consumer Commission. Toll-free 1915 (8 AM to 8 PM), 1800-11-4000, and 8800001915 for SMS / WhatsApp."
+}

@@ -1,0 +1,75 @@
+{
+ "slug": "digilocker",
+ "dept": "Central — MeitY (Digital India)",
+ "tags": [
+  "id",
+  "document"
+ ],
+ "hi": "DigiLocker — सरकारी दस्तावेज़ मोबाइल में (डिजिटल लॉकर)",
+ "en": "DigiLocker — government documents on your phone",
+ "source_url": "https://www.digilocker.gov.in/",
+ "source_name": "DigiLocker (इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय)",
+ "more": [],
+ "kw": "digilocker digital locker documents aadhaar driving licence marksheet pan rc app डिजीलॉकर डिजिटल लॉकर दस्तावेज़",
+ "what_hi": "DigiLocker भारत सरकार (इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय, डिजिटल इंडिया) का मुफ़्त डिजिटल दस्तावेज़-बटुआ है। इसमें आधार, ड्राइविंग लाइसेंस, गाड़ी का RC, PAN और मार्कशीट जैसे सरकारी दस्तावेज़ सीधे जारी करने वाले विभाग से आ जाते हैं, जिन्हें आप रख सकते हैं और ज़रूरत पर साझा कर सकते हैं।",
+ "what_en": "DigiLocker is a Government of India (MeitY, Digital India) digital document wallet. Government documents such as Aadhaar, driving licence, vehicle RC, PAN and marksheets come directly from the issuing department, and you can keep and share them when needed.",
+ "who_hi": [
+  "कोई भी नागरिक — वेबसाइट या मोबाइल ऐप (Google Play, App Store) पर रजिस्टर करके"
+ ],
+ "who_en": [
+  "Any citizen — by registering on the website or the mobile app (Google Play, App Store)"
+ ],
+ "not_hi": [
+  "जारीकर्ता विभाग से आए (Issued) दस्तावेज़ और ख़ुद अपलोड किए दस्तावेज़ अलग होते हैं — हर जगह कौन-सा मान्य है, यह संबंधित विभाग से पूछें",
+  "70 करोड़ से ज़्यादा उपयोगकर्ता और 900 करोड़ से ज़्यादा जारी दस्तावेज़ (आधिकारिक साइट के अनुसार)",
+  "मदद के लिए support.digilocker.gov.in"
+ ],
+ "not_en": [
+  "Documents issued by the department and documents you upload yourself are different — ask the relevant office which one it accepts",
+  "Over 70 crore users and over 900 crore issued documents (per the official site)",
+  "For help: support.digilocker.gov.in"
+ ],
+ "docs_hi": [
+  "रजिस्ट्रेशन के लिए मोबाइल नंबर और पहचान की पुष्टि (आधिकारिक साइट पर दिए चरण)"
+ ],
+ "docs_en": [
+  "Mobile number and identity verification for registration (steps on the official site)"
+ ],
+ "steps_hi": [
+  "digilocker.gov.in पर 'Login / Register' चुनें या आधिकारिक ऐप डाउनलोड करें",
+  "रजिस्टर करें और अपनी पहचान की पुष्टि करें",
+  "'Issued Documents' में जारीकर्ता विभाग से अपने दस्तावेज़ मँगवाएँ (fetch)",
+  "ज़रूरत पर दस्तावेज़ सुरक्षित रूप से साझा करें"
+ ],
+ "steps_en": [
+  "Choose 'Login / Register' on digilocker.gov.in or download the official app",
+  "Register and verify your identity",
+  "Fetch your documents from the issuing departments under 'Issued Documents'",
+  "Share documents securely when needed"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को digilocker.gov.in से पुष्ट: क्या है, कौन चलाता है, रजिस्टर-पुष्टि-मँगवाना-साझा करना के चरण, ऐप, उपयोगकर्ता/दस्तावेज़ संख्या, सहायता पोर्टल",
+  "मुफ़्त स्टोरेज की मात्रा और क़ानूनी मान्यता के नियम इस पेज पर नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 10 Nov 2026 from digilocker.gov.in: what it is, who runs it, register-verify-fetch-share steps, apps, user/document counts, support portal",
+  "Free storage size and legal-validity rules are not on this page"
+ ],
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites/apps — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "benefit_hi": "DigiLocker भारत सरकार (इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय, डिजिटल इंडिया) का मुफ़्त डिजिटल दस्तावेज़-बटुआ है। इसमें आधार, ड्राइविंग लाइसेंस, गाड़ी का RC, PAN और मार्कशीट जैसे सरकारी दस्तावेज़ सीधे जारी करने वाले विभाग से आ जाते हैं, जिन्हें आप रख सकते हैं और ज़रूरत पर साझा कर सकते हैं।",
+ "benefit_en": "DigiLocker is a Government of India (MeitY, Digital India) digital document wallet. Government documents such as Aadhaar, driving licence, vehicle RC, PAN and marksheets come directly from the issuing department, and you can keep and share them when needed."
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "jal-jeevan-mission",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "rural"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "जल जीवन मिशन — हर घर नल से जल",
+ "en": "Jal Jeevan Mission — tap water for every rural home",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098651",
+ "source_name": "PIB / जल शक्ति मंत्रालय (1 फ़रवरी 2025); PIB राज्यसभा उत्तर (28 जुलाई 2025)",
+ "kw": "jal jeevan mission har ghar jal nal tap water rural जल जीवन मिशन हर घर जल नल कनेक्शन",
+ "what_hi": "हर ग्रामीण परिवार को घर पर चालू नल कनेक्शन (FHTC) देने का मिशन, साथ में गाँव में पाइप-जल व्यवस्था, जल-स्रोत, शुद्धिकरण और स्कूलों/आँगनवाड़ियों तक नल-जल। PIB के अनुसार 1 फ़रवरी 2025 तक लगभग 15.44 करोड़ ग्रामीण परिवारों (79.74%) को नल-जल मिल चुका था।",
+ "what_en": "A mission to give every rural household a functional tap connection (FHTC), along with in-village piped supply, water sources, treatment and tap water to schools and Anganwadis. Per PIB, about 15.44 crore rural households (79.74%) had tap water as of 1 February 2025.",
+ "who_hi": [
+  "ग्रामीण परिवार (प्राथमिकता: गुणवत्ता-प्रभावित, सूखा-प्रवण और रेगिस्तानी इलाके, SAGY गाँव)"
+ ],
+ "who_en": [
+  "Rural households (priority: quality-affected, drought-prone and desert areas, SAGY villages)"
+ ],
+ "not_hi": [
+  "व्यक्तिगत आवेदन का तरीक़ा, शुल्क और शिकायत प्रक्रिया उस PIB पेज में नहीं है — अपनी ग्राम पंचायत से पूछें",
+  "28 जुलाई 2025 को राज्यसभा उत्तर के अनुसार मिशन को 2028 तक बढ़ाने का प्रस्ताव \"सरकार के सक्रिय विचाराधीन\" था — अंतिम निर्णय की पुष्टि नहीं",
+  "यह मिशन गाँव-स्तर की जल व्यवस्था बनाता है; आपके घर में कनेक्शन कब आएगा, यह पंचायत/जल विभाग बता सकता है"
+ ],
+ "not_en": [
+  "How an individual applies, any fee and the complaint process are not in that PIB page — ask your gram panchayat",
+  "Per a Rajya Sabha reply of 28 July 2025, a proposal to extend the mission to 2028 was \"under active consideration\" — a final decision is not confirmed",
+  "The mission builds village-level supply; when your home gets a connection can be told by the panchayat / water department"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ग्राम पंचायत से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask your gram panchayat"
+ ],
+ "steps_hi": [
+  "अपनी ग्राम पंचायत या जल विभाग कार्यालय से पूछें कि आपके गाँव में योजना की स्थिति क्या है",
+  "नल-जल कनेक्शन के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your gram panchayat or water department office about the scheme's status in your village",
+  "Do not pay anyone for a tap connection"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (1 फ़रवरी 2025) से पुष्ट: मिशन का दायरा, लक्ष्य, प्रगति के आँकड़े; PIB (28 जुलाई 2025) से: विस्तार प्रस्ताव",
+  "आवेदन/शिकायत प्रक्रिया और चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (1 Feb 2025): scope, target, progress figures; from PIB (28 Jul 2025): extension proposal",
+  "Application / complaint process and current status not confirmed"
+ ],
+ "benefit_hi": "हर ग्रामीण परिवार को घर पर चालू नल कनेक्शन (FHTC) देने का मिशन, साथ में गाँव में पाइप-जल व्यवस्था, जल-स्रोत, शुद्धिकरण और स्कूलों/आँगनवाड़ियों तक नल-जल। PIB के अनुसार 1 फ़रवरी 2025 तक लगभग 15.44 करोड़ ग्रामीण परिवारों (79.74%) को नल-जल मिल चुका था।",
+ "benefit_en": "A mission to give every rural household a functional tap connection (FHTC), along with in-village piped supply, water sources, treatment and tap water to schools and Anganwadis. Per PIB, about 15.44 crore rural households (79.74%) had tap water as of 1 February 2025."
+}

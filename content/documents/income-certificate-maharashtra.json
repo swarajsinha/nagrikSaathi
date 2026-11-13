@@ -1,0 +1,74 @@
+{
+ "slug": "income-certificate-maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "tags": [
+  "certificate"
+ ],
+ "hi": "आय प्रमाणपत्र — महाराष्ट्र (आपले सरकार)",
+ "en": "Income certificate — Maharashtra (Aaple Sarkar)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "state": "Maharashtra",
+ "source_url": "https://aaplesarkar.mahaonline.gov.in/mr/Login/Certificate_Documents?ServiceId=1251",
+ "source_name": "आपले सरकार (MahaOnline), महसूल विभाग — सेवा पृष्ठ",
+ "kw": "income certificate uttpann pramanpatra maharashtra aaple sarkar आय प्रमाणपत्र उत्पन्न दाखला",
+ "what_hi": "महाराष्ट्र में आय प्रमाणपत्र (उत्पन्नाचे प्रमाणपत्र) आपले सरकार पोर्टल की सेवा है। पोर्टल के सेवा-पृष्ठ पर समय-सीमा 15 दर्ज है (इकाई पृष्ठ पर नहीं लिखी)। जारी करने वाला अधिकारी: नायब तहसीलदार।",
+ "what_en": "In Maharashtra the income certificate is a service on the Aaple Sarkar portal. The service page lists a time limit of 15 (the unit is not written on the page). Issuing officer: Naib Tahsildar.",
+ "who_hi": [
+  "महाराष्ट्र के निवासी, जिन्हें किसी योजना, छात्रवृत्ति या सेवा के लिए आय का प्रमाण चाहिए"
+ ],
+ "who_en": [
+  "Residents of Maharashtra who need proof of income for a scheme, scholarship or service"
+ ],
+ "not_hi": [
+  "पोर्टल पृष्ठ पर \"कोई दस्तावेज़ आवश्यक नहीं\" लिखा है, पर शुल्क नहीं बताया गया — आवेदन के समय पोर्टल पर जो माँगा जाए वही दें",
+  "पृष्ठ पर लिखा है कि कुछ सेवाएँ MAITRI पोर्टल पर चली गई हैं; यह सेवा वहाँ गई या नहीं, पृष्ठ से पता नहीं चलता — पहले आपले सरकार पर जाँचें",
+  "प्रमाणपत्र कितने समय के लिए मान्य है, यह यहाँ पुष्ट नहीं — जिस दफ़्तर में देना है वहाँ पूछें"
+ ],
+ "not_en": [
+  "The portal page says \"No documents required\" but does not state a fee — provide whatever the portal asks at the time of applying",
+  "The page says some services have moved to the MAITRI portal; it does not say whether this one has — check on Aaple Sarkar first",
+  "How long the certificate stays valid is not confirmed here — ask the office where you will submit it"
+ ],
+ "docs_hi": [
+  "पोर्टल पृष्ठ पर कोई दस्तावेज़ सूचीबद्ध नहीं है (पृष्ठ के अनुसार \"No Documents Required\"); आवेदन के समय पोर्टल जो माँगे वह तैयार रखें"
+ ],
+ "docs_en": [
+  "The portal page lists no documents (it says \"No Documents Required\"); keep ready whatever the portal asks at the time of applying"
+ ],
+ "steps_hi": [
+  "आपले सरकार पोर्टल पर जाकर सेवा \"उत्पन्नाचे प्रमाणपत्र\" चुनें",
+  "आवेदन भरें — पृष्ठ के अनुसार पोर्टल से सेवा लेने के लिए दफ़्तर जाना ज़रूरी नहीं, जब तक क़ानून न माँगे",
+  "देरी या बिना कारण अस्वीकार होने पर अपील कर सकते हैं: पहली अपील तहसीलदार को, दूसरी उपविभागीय अधिकारी को, तीसरी आयोग को",
+  "मदद: आपले सरकार कॉल सेंटर 1800 120 8040 (24x7, टोल-फ़्री)"
+ ],
+ "steps_en": [
+  "Go to the Aaple Sarkar portal and choose the service \"Income Certificate\"",
+  "Fill in the application — per the page no office visit is needed for services on the portal unless the law requires one",
+  "If delayed or rejected without reason you can appeal: first to the Tahsildar, second to the Sub-Divisional Officer, third to the commission",
+  "Help: Aaple Sarkar call centre 1800 120 8040 (24x7, toll-free)"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना — सरकारी पोर्टल पर आवेदन खुद या सेवा केंद्र से हो सकता है",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman — you can apply yourself or at a service centre",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites — use only the official address"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को आपले सरकार के सेवा-पृष्ठ से पुष्ट: सेवा का नाम, अधिकारी, अपील क्रम, कॉल सेंटर नंबर, समय-सीमा (इकाई सहित नहीं)",
+  "शुल्क, मान्यता-अवधि और MAITRI पर स्थानांतरण पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the Aaple Sarkar service page: service name, officer, appeal order, call-centre number, time limit (without unit)",
+  "Fee, validity period and any move to MAITRI not confirmed"
+ ],
+ "benefit_hi": "महाराष्ट्र में आय प्रमाणपत्र (उत्पन्नाचे प्रमाणपत्र) आपले सरकार पोर्टल की सेवा है। पोर्टल के सेवा-पृष्ठ पर समय-सीमा 15 दर्ज है (इकाई पृष्ठ पर नहीं लिखी)। जारी करने वाला अधिकारी: नायब तहसीलदार।",
+ "benefit_en": "In Maharashtra the income certificate is a service on the Aaple Sarkar portal. The service page lists a time limit of 15 (the unit is not written on the page). Issuing officer: Naib Tahsildar."
+}

@@ -1,0 +1,78 @@
+{
+ "slug": "kanya-vivah-mp",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "tags": [
+  "woman"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "मुख्यमंत्री कन्या विवाह योजना — मध्य प्रदेश",
+ "en": "Mukhyamantri Kanya Vivah Yojana — Madhya Pradesh",
+ "state": "Madhya Pradesh",
+ "source_url": "https://www.cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=373",
+ "source_name": "मध्य प्रदेश शासन — सीएम हेल्पलाइन योजना-विवरण (सामाजिक न्याय एवं दिव्यांगजन सशक्तिकरण विभाग)",
+ "kw": "kanya vivah yojana madhya pradesh mass marriage 49000 सामूहिक विवाह कन्या विवाह योजना मध्य प्रदेश",
+ "what_hi": "सामूहिक विवाह सम्मेलन में विवाह करने वाली कन्या को सम्मेलन के दिन ₹49,000 का अकाउंट-पेयी चेक मिलता है; आयोजन करने वाली स्थानीय/नगर संस्था को प्रति कन्या ₹6,000 मिलते हैं। योजना सामान्य, OBC, SC, ST सभी वर्गों, शहरी और ग्रामीण दोनों के लिए है; आय की कोई सीमा नहीं।",
+ "what_en": "A bride marrying at a mass-marriage event gets an account-payee cheque of ₹49,000 on the day; the local / urban body organising it gets ₹6,000 per girl. Open to General, OBC, SC and ST, urban and rural; no income limit.",
+ "who_hi": [
+  "कन्या या उसका अभिभावक मध्य प्रदेश का स्थायी निवासी",
+  "कन्या और वर विवाह की क़ानूनी उम्र के हों (पेज पर: कन्या 18, वर 21)",
+  "विधिवत तलाकशुदा/परित्यक्ता महिलाएँ भी पात्र",
+  "विवाह अधिसूचित सामूहिक विवाह सम्मेलन में हो — अकेले विवाह पर लाभ नहीं"
+ ],
+ "who_en": [
+  "Bride or her guardian is a permanent resident of Madhya Pradesh",
+  "Bride and groom meet the legal age (page: girl 18, man 21)",
+  "Legally divorced / abandoned women are also eligible",
+  "The marriage must be at a scheduled mass-marriage event — single marriages are not eligible"
+ ],
+ "not_hi": [
+  "पेज पर तारीख़ नहीं है; सहायता राशि बाद में बदली हो सकती है — आवेदन से पहले socialjustice.mp.gov.in पर चालू राशि जाँचें",
+  "आवेदन के लिए कोई ऑफ़लाइन या संपर्क जानकारी पेज में खाली है"
+ ],
+ "not_en": [
+  "The page shows no date; the assistance amount may have changed since — check the current amount on socialjustice.mp.gov.in before applying",
+  "The offline / contact field on the page is blank"
+ ],
+ "docs_hi": [
+  "आयु-प्रमाण प्रमाणपत्र"
+ ],
+ "docs_en": [
+  "Age-proof certificate"
+ ],
+ "steps_hi": [
+  "आवेदन socialjustice.mp.gov.in पर ऑनलाइन करें — शुल्क नहीं",
+  "जनपद पंचायत के CEO (ग्रामीण) या नगर निगम आयुक्त/मुख्य नगर पालिका अधिकारी (शहरी) की समिति 15 कार्य-दिवस में जाँच करती है",
+  "पात्र जोड़े को पोर्टल से स्वीकृति-आदेश मिलता है; अस्वीकार होने पर कारण बताया जाता है",
+  "अस्वीकृति पर उप-मंडल अधिकारी (राजस्व) के पास अपील, 30 दिन में निर्णय"
+ ],
+ "steps_en": [
+  "Apply online at socialjustice.mp.gov.in — free",
+  "A scrutiny committee of the Janpad Panchayat CEO (rural) or Municipal Commissioner / Chief Municipal Officer (urban) checks within 15 working days",
+  "Eligible couples get an approval order from the portal; rejected applicants are told the reasons",
+  "Appeal to the Sub-Divisional Officer (Revenue) if rejected; decision within 30 days"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को MP शासन के योजना-विवरण पेज से पुष्ट: पात्रता, ₹49,000 और ₹6,000, दस्तावेज़, आवेदन-प्रक्रिया, जाँच-समिति और अपील",
+  "चालू राशि और स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the MP government scheme-detail page: eligibility, ₹49,000 and ₹6,000, document, application process, scrutiny committee and appeal",
+  "Current amount and status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "सामूहिक विवाह सम्मेलन में विवाह करने वाली कन्या को सम्मेलन के दिन ₹49,000 का अकाउंट-पेयी चेक मिलता है; आयोजन करने वाली स्थानीय/नगर संस्था को प्रति कन्या ₹6,000 मिलते हैं। योजना सामान्य, OBC, SC, ST सभी वर्गों, शहरी और ग्रामीण दोनों के लिए है; आय की कोई सीमा नहीं।",
+ "benefit_en": "A bride marrying at a mass-marriage event gets an account-payee cheque of ₹49,000 on the day; the local / urban body organising it gets ₹6,000 per girl. Open to General, OBC, SC and ST, urban and rural; no income limit."
+}

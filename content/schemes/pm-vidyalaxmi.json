@@ -1,0 +1,77 @@
+{
+ "slug": "pm-vidyalaxmi",
+ "hi": "पीएम-विद्यालक्ष्मी (उच्च शिक्षा के लिए बिना गारंटी का कर्ज़)",
+ "en": "PM-Vidyalaxmi (collateral-free higher-education loan)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jul/doc2026729936401.pdf",
+ "source_name": "PIB (भारत सरकार) दस्तावेज़, 29 जुलाई 2026; पोर्टल pmvidyalaxmi.co.in",
+ "tags": [
+  "student"
+ ],
+ "kw": "pm vidyalaxmi education loan collateral free student loan interest subvention शिक्षा ऋण बिना गारंटी विद्यालक्ष्मी विद्यार्थी",
+ "what_hi": "अच्छे उच्च शिक्षण संस्थानों (QHEI) में अपनी मेरिट पर दाख़िला पाने वाले विद्यार्थियों को बिना गारंटी, बिना गारंटर के शिक्षा ऋण। ऋण की ऊपरी सीमा नहीं (फ़ीस और ख़र्च के अनुसार); ₹7.5 लाख तक के ऋण पर सरकार की 75% क्रेडिट गारंटी; ₹10 लाख तक के ऋण पर ब्याज सहायता।",
+ "what_en": "Collateral-free, guarantor-free education loans for students admitted on merit to designated Quality Higher Educational Institutions (QHEI). No cap on the loan (depends on fees and expenses); 75% government credit guarantee on loans up to ₹7.5 lakh; interest subvention on loans up to ₹10 lakh.",
+ "benefit_hi": "अच्छे उच्च शिक्षण संस्थानों (QHEI) में अपनी मेरिट पर दाख़िला पाने वाले विद्यार्थियों को बिना गारंटी, बिना गारंटर के शिक्षा ऋण। ऋण की ऊपरी सीमा नहीं (फ़ीस और ख़र्च के अनुसार); ₹7.5 लाख तक के ऋण पर सरकार की 75% क्रेडिट गारंटी; ₹10 लाख तक के ऋण पर ब्याज सहायता।",
+ "benefit_en": "Collateral-free, guarantor-free education loans for students admitted on merit to designated Quality Higher Educational Institutions (QHEI). No cap on the loan (depends on fees and expenses); 75% government credit guarantee on loans up to ₹7.5 lakh; interest subvention on loans up to ₹10 lakh.",
+ "who_hi": [
+  "अपनी मेरिट पर चुने गए QHEI के विद्यार्थी — मैनेजमेंट कोटा और NRI कोटा के दाख़िले पात्र नहीं",
+  "आधार से पंजीकरण; कोर्स बीच में न छोड़ा हो या अनुशासन/शैक्षणिक कारण से निकाला न गया हो; संतोषजनक प्रदर्शन",
+  "लाभ सिर्फ़ एक बार, स्नातक/स्नातकोत्तर/एकीकृत कोर्स के लिए"
+ ],
+ "who_en": [
+  "Students admitted on merit to a QHEI — management and NRI quota admissions do not qualify",
+  "Aadhaar-based registration; has not left the course midway or been expelled; satisfactory performance",
+  "Benefit only once, for an undergraduate / postgraduate / integrated course"
+ ],
+ "not_hi": [
+  "ब्याज सहायता: ₹8 लाख वार्षिक पारिवारिक आय वाले परिवारों को मोरेटोरियम अवधि में 3% (दस्तावेज़ में 'तक' और 'से कम' दोनों लिखा है — सटीक सीमा पोर्टल पर जाँचें)",
+  "PM-USP CSIS के तहत ₹4.5 लाख तक की पारिवारिक आय वाले तकनीकी/व्यावसायिक कोर्स के विद्यार्थियों को मोरेटोरियम अवधि में पूरी ब्याज सहायता",
+  "कौन-से संस्थान QHEI हैं, यह पोर्टल पर देखें; बैंक अपनी शर्तों पर ऋण मंज़ूर करता है"
+ ],
+ "not_en": [
+  "Interest subvention: 3% during the moratorium for families with annual income of ₹8 lakh (the document says both 'up to' and 'less than' — check the exact limit on the portal)",
+  "Under PM-USP CSIS, students in technical / professional courses with family income up to ₹4.5 lakh get full interest subvention during the moratorium",
+  "Check on the portal which institutions are QHEI; the bank sanctions the loan on its own terms"
+ ],
+ "docs_hi": [
+  "सत्यापित सूची उपलब्ध नहीं — पोर्टल और बैंक से पूछें (आधार पंजीकरण ज़रूरी)"
+ ],
+ "docs_en": [
+  "A verified list is not available — ask the portal and the bank (Aadhaar registration is required)"
+ ],
+ "steps_hi": [
+  "एकीकृत ऑनलाइन पोर्टल (pmvidyalaxmi.co.in) पर आधार से पंजीकरण करें",
+  "ऋण का आवेदन भरें और बैंक चुनें",
+  "पोर्टल पर आवेदन की स्थिति देखें, ब्याज सहायता का दावा करें और शिकायत दर्ज करें",
+  "ऋण दिलाने के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Register with Aadhaar on the unified online portal (pmvidyalaxmi.co.in)",
+  "Fill the loan application and choose a bank",
+  "Track status, claim interest subvention and raise grievances on the portal",
+  "Do not pay anyone to get a loan"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को PIB दस्तावेज़ (29 जुलाई 2026) से पुष्ट: पात्रता, ऋण-सीमा, 75% गारंटी, ब्याज सहायता, पोर्टल",
+  "पारिवारिक आय की सटीक सीमा और बैंक-वार शर्तें पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from a PIB document (29 July 2026) on 22 Oct 2026: eligibility, loan limits, 75% guarantee, interest subvention, portal",
+  "Exact family-income limit and bank-wise terms not confirmed"
+ ]
+}

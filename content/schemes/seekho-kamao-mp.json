@@ -1,0 +1,93 @@
+{
+ "slug": "seekho-kamao-mp",
+ "dept": "State — Madhya Pradesh (Technical Education & Skill Development)",
+ "state": "Madhya Pradesh",
+ "tags": [
+  "unemployed",
+  "student",
+  "worker"
+ ],
+ "hi": "मुख्यमंत्री सीखो-कमाओ योजना (मध्य प्रदेश — ट्रेनिंग के साथ स्टाइपेंड)",
+ "en": "Mukhyamantri Seekho-Kamao Yojana (Madhya Pradesh — on-the-job training with stipend)",
+ "source_url": "https://www.mmsky.mp.gov.in/",
+ "source_name": "मुख्यमंत्री सीखो-कमाओ योजना — आधिकारिक पोर्टल (mmsky.mp.gov.in)",
+ "more": [],
+ "kw": "seekho kamao sikho kamao mmsky stipend training youth job mp samagra सीखो कमाओ स्टाइपेंड प्रशिक्षण युवा रोज़गार मध्य प्रदेश",
+ "what_hi": "मध्य प्रदेश के 18–29 साल के युवाओं को उद्योगों और संस्थानों में काम पर ही ट्रेनिंग (ऑन-द-जॉब) और हर महीने स्टाइपेंड। तय न्यूनतम स्टाइपेंड का कम से कम 25% संस्थान देता है और बाकी 75% राज्य सरकार सीधे बैंक खाते में (DBT) भेजती है। ट्रेनिंग आम तौर पर एक साल तक, कोर्स के हिसाब से।",
+ "what_en": "On-the-job training at industries and establishments for Madhya Pradesh youth aged 18–29, with a monthly stipend. The establishment pays at least 25% of the prescribed minimum stipend and the State Government pays the remaining 75% directly to the bank account (DBT). Training is generally up to one year, depending on the course.",
+ "who_hi": [
+  "उम्र 18 से 29 साल",
+  "मध्य प्रदेश के मूल निवासी",
+  "12वीं पास, ITI पास या उससे ऊँची पढ़ाई",
+  "समग्र ID ज़रूरी (रजिस्ट्रेशन इसी से होता है)"
+ ],
+ "who_en": [
+  "Age 18 to 29",
+  "Domicile of Madhya Pradesh",
+  "Class 12 pass, ITI pass or higher qualification",
+  "Samagra ID required (registration is done with it)"
+ ],
+ "not_hi": [
+  "योग्यता के हिसाब से न्यूनतम स्टाइपेंड की राशि इस पोर्टल पेज पर नहीं दी गई — रजिस्ट्रेशन के बाद कोर्स के साथ देखें",
+  "हर दिन मोबाइल ऐप पर कम से कम 7 घंटे की हाज़िरी (चेहरे की पहचान के साथ) ज़रूरी — वरना स्टाइपेंड नहीं बनेगा",
+  "प्रशिक्षु पर EPF, बोनस और औद्योगिक विवाद अधिनियम लागू नहीं होते",
+  "संस्थान के मालिक/कर्मचारी के परिवार के सदस्य इस योजना में उसी संस्थान में प्रशिक्षु नहीं बन सकते",
+  "ट्रेनिंग से नौकरी की गारंटी नहीं"
+ ],
+ "not_en": [
+  "The minimum stipend amount by qualification is not given on this portal page — see it with the course after registration",
+  "At least 7 hours of daily attendance on the mobile app (with face authentication) is required — otherwise the stipend is not processed",
+  "EPF, bonus and the Industrial Disputes Act do not apply to trainees",
+  "Family members of the establishment's owner/staff cannot be trainees in that establishment",
+  "Training does not guarantee a job"
+ ],
+ "docs_hi": [
+  "समग्र ID और उससे जुड़ा मोबाइल नंबर",
+  "पढ़ाई के प्रमाणपत्र/मार्कशीट (पोर्टल पर अपलोड)",
+  "बैंक खाता (स्टाइपेंड DBT से आता है)"
+ ],
+ "docs_en": [
+  "Samagra ID and the mobile number linked to it",
+  "Educational certificates/marksheets (uploaded on the portal)",
+  "Bank account (stipend comes by DBT)"
+ ],
+ "steps_hi": [
+  "mmsky.mp.gov.in पर 'अभ्यर्थी पंजीयन' (Candidate Registration) पर जाएँ",
+  "समग्र ID डालें, मोबाइल पर आया OTP भरें — लॉगिन जानकारी SMS से मिलेगी",
+  "लॉगिन करके पढ़ाई की जानकारी भरें और दस्तावेज़ अपलोड करें",
+  "अपनी योग्यता से मेल खाता कोर्स और ट्रेनिंग की जगह चुनकर आवेदन करें",
+  "संस्थान से ऑफ़र मिलने पर जॉइन करें और रोज़ ऐप पर हाज़िरी लगाएँ"
+ ],
+ "steps_en": [
+  "On mmsky.mp.gov.in go to 'Candidate Registration'",
+  "Enter Samagra ID and the OTP on your mobile — login details come by SMS",
+  "Log in, fill education details and upload documents",
+  "Choose a course matching your qualification and a training location, and apply",
+  "Join when an establishment makes an offer, and mark attendance on the app every day"
+ ],
+ "mistakes_hi": [
+  "रजिस्ट्रेशन या ट्रेनिंग दिलाने के नाम पर किसी को पैसे देना",
+  "ऐप पर रोज़ हाज़िरी न लगाना — स्टाइपेंड रुक सकता है",
+  "अधूरी प्रोफ़ाइल छोड़ देना — निष्क्रिय प्रोफ़ाइल हटाई जा सकती है"
+ ],
+ "mistakes_en": [
+  "Paying anyone for registration or getting training",
+  "Not marking attendance daily on the app — the stipend can stop",
+  "Leaving the profile incomplete — inactive profiles can be removed"
+ ],
+ "conf_hi": [
+  "11 नवंबर 2026 को योजना के आधिकारिक पोर्टल mmsky.mp.gov.in से पुष्ट: पात्रता, 25%/75% स्टाइपेंड व्यवस्था, ट्रेनिंग अवधि, 7 घंटे की हाज़िरी, रजिस्ट्रेशन के चरण, नियम",
+  "योग्यता के हिसाब से स्टाइपेंड की राशि और हेल्पलाइन इस पेज पर नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 11 Nov 2026 from the official portal mmsky.mp.gov.in: eligibility, 25%/75% stipend arrangement, training duration, 7-hour attendance, registration steps, rules",
+  "Stipend amounts by qualification and a helpline are not on this page"
+ ],
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "benefit_hi": "मध्य प्रदेश के 18–29 साल के युवाओं को उद्योगों और संस्थानों में काम पर ही ट्रेनिंग (ऑन-द-जॉब) और हर महीने स्टाइपेंड। तय न्यूनतम स्टाइपेंड का कम से कम 25% संस्थान देता है और बाकी 75% राज्य सरकार सीधे बैंक खाते में (DBT) भेजती है। ट्रेनिंग आम तौर पर एक साल तक, कोर्स के हिसाब से।",
+ "benefit_en": "On-the-job training at industries and establishments for Madhya Pradesh youth aged 18–29, with a monthly stipend. The establishment pays at least 25% of the prescribed minimum stipend and the State Government pays the remaining 75% directly to the bank account (DBT). Training is generally up to one year, depending on the course."
+}

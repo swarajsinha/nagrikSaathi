@@ -1,0 +1,79 @@
+{
+ "slug": "udyam-registration",
+ "hi": "उद्यम पंजीकरण (छोटा कारोबार / MSME)",
+ "en": "Udyam registration (small business / MSME)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://udyamregistration.gov.in",
+ "source_name": "Udyam पोर्टल (MSME मंत्रालय)",
+ "tags": [
+  "business"
+ ],
+ "kw": "udyam msme registration udyog aadhar small business dukan vyapar उद्यम पंजीकरण छोटा व्यापार दुकान एमएसएमई",
+ "what_hi": "छोटे कारोबार (MSME) का सरकारी पंजीकरण: स्थायी रजिस्ट्रेशन नंबर और ऑनलाइन प्रमाणपत्र, नवीनीकरण की ज़रूरत नहीं।",
+ "what_en": "Government registration of a small business (MSME): a permanent registration number and an online certificate, no renewal needed.",
+ "benefit_hi": "छोटे कारोबार (MSME) का सरकारी पंजीकरण: स्थायी रजिस्ट्रेशन नंबर और ऑनलाइन प्रमाणपत्र, नवीनीकरण की ज़रूरत नहीं।",
+ "benefit_en": "Government registration of a small business (MSME): a permanent registration number and an online certificate, no renewal needed.",
+ "who_hi": [
+  "नया उद्यमी जो अभी MSME के रूप में पंजीकृत नहीं",
+  "पुराने UAM/उद्योग आधार धारक — Udyam में माइग्रेशन",
+  "अनौपचारिक सूक्ष्म उद्यम — Udyam Assist Platform से"
+ ],
+ "who_en": [
+  "New entrepreneurs not yet registered as an MSME",
+  "Old UAM/Udyog Aadhaar holders — migrate to Udyam",
+  "Informal micro enterprises — via the Udyam Assist Platform"
+ ],
+ "not_hi": [
+  "एक उद्यम का सिर्फ़ एक Udyam पंजीकरण हो सकता है",
+  "श्रेणी: सूक्ष्म — निवेश ₹2.5 करोड़ और टर्नओवर ₹10 करोड़ तक; लघु — ₹25 करोड़ और ₹100 करोड़ तक; मध्यम — ₹125 करोड़ और ₹500 करोड़ तक"
+ ],
+ "not_en": [
+  "Only one Udyam registration is allowed per enterprise",
+  "Micro — investment up to ₹2.5 crore and turnover up to ₹10 crore; Small — ₹25 crore and ₹100 crore; Medium — ₹125 crore and ₹500 crore"
+ ],
+ "docs_hi": [
+  "कोई दस्तावेज़ अपलोड नहीं करना — प्रक्रिया पेपरलेस, स्व-घोषणा पर आधारित",
+  "आधार नंबर चाहिए; 01.04.2021 से PAN और GSTIN भी ज़रूरी",
+  "निवेश/टर्नओवर का विवरण सरकारी डेटाबेस से अपने आप आता है"
+ ],
+ "docs_en": [
+  "No documents to upload — a paperless self-declaration process",
+  "Aadhaar number needed; PAN and GSTIN also required from 01.04.2021",
+  "Investment/turnover details are pulled automatically from government databases"
+ ],
+ "steps_hi": [
+  "udyamregistration.gov.in खोलें (सिर्फ़ यही सरकारी पोर्टल)",
+  "अपनी श्रेणी चुनें: नया पंजीकरण / UAM माइग्रेशन / अनौपचारिक उद्यम",
+  "आधार और स्व-घोषणा से ऑनलाइन प्रक्रिया पूरी करें",
+  "प्रमाणपत्र डाउनलोड करें",
+  "मदद के लिए ज़िला उद्योग केंद्र (DIC) में भी जा सकते हैं"
+ ],
+ "steps_en": [
+  "Open udyamregistration.gov.in (the only government portal)",
+  "Choose your category: new registration / UAM migration / informal enterprise",
+  "Complete the online process with Aadhaar and self-declaration",
+  "Download the certificate",
+  "You can also get help at the District Industries Centre (DIC)"
+ ],
+ "mistakes_hi": [
+  "पंजीकरण के लिए पैसे देना — प्रक्रिया पूरी तरह निःशुल्क है",
+  "नकली साइट पर पंजीकरण — सिर्फ़ सरकारी पोर्टल अधिकृत है",
+  "एक से ज़्यादा पंजीकरण"
+ ],
+ "mistakes_en": [
+  "Paying for registration — it is completely free",
+  "Registering on a fake site — only the government portal is authorised",
+  "Filing more than one registration"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को udyamregistration.gov.in से पुष्ट: पंजीकरण निःशुल्क, किसी को शुल्क नहीं देना; दस्तावेज़ अपलोड नहीं; श्रेणी-सीमाएँ; एक उद्यम-एक पंजीकरण"
+ ],
+ "conf_en": [
+  "Confirmed from udyamregistration.gov.in on 13 Oct 2026: registration is free, no fee to anyone; no documents to upload; category limits; one registration per enterprise"
+ ]
+}

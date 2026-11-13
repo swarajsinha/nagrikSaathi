@@ -1,0 +1,74 @@
+{
+ "slug": "pm-janaushadhi",
+ "hi": "प्रधानमंत्री भारतीय जनऔषधि परियोजना (सस्ती जेनेरिक दवाइयाँ)",
+ "en": "PM Bhartiya Janaushadhi Pariyojana (cheap generic medicines)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2236292&reg=3&lang=2",
+ "source_name": "PIB (भारत सरकार), 7 मार्च 2026; पोर्टल janaushadhi.gov.in",
+ "tags": [
+  "senior",
+  "other"
+ ],
+ "kw": "jan aushadhi janaushadhi kendra generic medicine sasti dawai sanitary pad जन औषधि जेनेरिक सस्ती दवाई केंद्र",
+ "what_hi": "जन औषधि केंद्रों पर गुणवत्ता-जाँची जेनेरिक दवाइयाँ आम तौर पर तुलनीय ब्रांडेड दवाओं से 50–80% सस्ती। सुविधा सैनिटरी नैपकिन ₹1 प्रति पैड।",
+ "what_en": "Quality-assured generic medicines at Jan Aushadhi Kendras, generally 50–80% cheaper than comparable branded medicines. Suvidha sanitary napkins at ₹1 a pad.",
+ "benefit_hi": "जन औषधि केंद्रों पर गुणवत्ता-जाँची जेनेरिक दवाइयाँ आम तौर पर तुलनीय ब्रांडेड दवाओं से 50–80% सस्ती। सुविधा सैनिटरी नैपकिन ₹1 प्रति पैड।",
+ "benefit_en": "Quality-assured generic medicines at Jan Aushadhi Kendras, generally 50–80% cheaper than comparable branded medicines. Suvidha sanitary napkins at ₹1 a pad.",
+ "who_hi": [
+  "कोई भी व्यक्ति केंद्र से दवा ख़रीद सकता है — कोई पात्रता शर्त नहीं बताई गई",
+  "केंद्र खोलने के लिए: D.Pharma/B.Pharma योग्यता वाले व्यक्ति, या योग्य फ़ार्मासिस्ट रखने वाले व्यक्ति/संगठन; व्यक्ति, NGO, सोसायटी, ट्रस्ट, फ़र्म आदि आवेदन कर सकते हैं"
+ ],
+ "who_en": [
+  "Anyone can buy medicines at a kendra — no eligibility condition was stated",
+  "To open a kendra: persons with a D.Pharma / B.Pharma qualification, or individuals / organisations employing a qualified pharmacist; individuals, NGOs, societies, trusts, firms etc. can apply"
+ ],
+ "not_hi": [
+  "18,000 से अधिक केंद्र चालू; लक्ष्य मार्च 2027 तक 25,000; 2,110 दवाइयाँ, 315 सर्जिकल सामान (PIB के अनुसार)",
+  "आपके नज़दीक कोई ख़ास दवाई मिलेगी या नहीं, यह केंद्र पर निर्भर है",
+  "डॉक्टर की पर्ची से दवा का जेनेरिक नाम पूछकर केंद्र पर जाएँ; दवा बदलने से पहले डॉक्टर/फ़ार्मासिस्ट से पूछें"
+ ],
+ "not_en": [
+  "Over 18,000 kendras operational; target 25,000 by March 2027; 2,110 medicines, 315 surgical items (per PIB)",
+  "Whether a particular medicine is available near you depends on the kendra",
+  "Ask the generic name from the doctor's prescription before going; ask the doctor / pharmacist before switching a medicine"
+ ],
+ "docs_hi": [
+  "दवा ख़रीदने के लिए कोई दस्तावेज़ नहीं बताया गया; केंद्र खोलने के दस्तावेज़ janaushadhi.gov.in पर देखें"
+ ],
+ "docs_en": [
+  "No document was stated for buying medicines; for opening a kendra see janaushadhi.gov.in"
+ ],
+ "steps_hi": [
+  "मुफ़्त 'Jan Aushadhi Sugam' ऐप (Android/iOS) से अपने नज़दीकी केंद्र खोजें — यह लोकेशन से पता बताता है",
+  "केंद्र पर पर्ची दिखाकर जेनेरिक विकल्प पूछें",
+  "केंद्र खोलने का आवेदन janaushadhi.gov.in पर"
+ ],
+ "steps_en": [
+  "Find your nearest kendra with the free 'Jan Aushadhi Sugam' app (Android / iOS) — it uses your location",
+  "Show the prescription at the kendra and ask for the generic option",
+  "Applications to open a kendra on janaushadhi.gov.in"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को PIB (7 मार्च 2026) से पुष्ट: क़ीमत में अंतर, केंद्रों की संख्या, उत्पाद, ऐप, केंद्र खोलने की योग्यता",
+  "किसी विशेष दवा की कीमत/उपलब्धता पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (7 March 2026) on 22 Oct 2026: price gap, number of kendras, products, app, who can open one",
+  "Price / availability of any particular medicine not confirmed"
+ ]
+}

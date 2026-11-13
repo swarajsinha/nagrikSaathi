@@ -1,0 +1,86 @@
+{
+ "slug": "pm-surya-ghar",
+ "hi": "पीएम सूर्य घर: मुफ़्त बिजली योजना (छत पर सोलर)",
+ "en": "PM Surya Ghar: Muft Bijli Yojana (rooftop solar)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/feb/doc2025212499601.pdf",
+ "source_name": "नवीन और नवीकरणीय ऊर्जा मंत्रालय (दस्तावेज़ 12 फ़रवरी 2025); राष्ट्रीय पोर्टल",
+ "tags": [
+  "housing",
+  "other"
+ ],
+ "kw": "pm surya ghar rooftop solar subsidy muft bijli solar panel 78000 सूर्य घर सोलर सब्सिडी मुफ़्त बिजली छत",
+ "what_hi": "घर की छत पर सोलर लगाने पर केंद्र की सब्सिडी: 1–2 kW (हर माह 0–150 यूनिट खपत) पर ₹30,000 से ₹60,000; 2–3 kW (150–300 यूनिट) पर ₹60,000 से ₹78,000; 3 kW से ऊपर (300+ यूनिट) पर ₹78,000। 3 kW तक के लिए लगभग 7% पर बिना गारंटी कर्ज़ भी उपलब्ध।",
+ "what_en": "Central subsidy for rooftop solar on a house: ₹30,000–₹60,000 for 1–2 kW (0–150 units a month), ₹60,000–₹78,000 for 2–3 kW (150–300 units), ₹78,000 above 3 kW (300+ units). Collateral-free loans at about 7% are also available up to 3 kW.",
+ "benefit_hi": "घर की छत पर सोलर लगाने पर केंद्र की सब्सिडी: 1–2 kW (हर माह 0–150 यूनिट खपत) पर ₹30,000 से ₹60,000; 2–3 kW (150–300 यूनिट) पर ₹60,000 से ₹78,000; 3 kW से ऊपर (300+ यूनिट) पर ₹78,000। 3 kW तक के लिए लगभग 7% पर बिना गारंटी कर्ज़ भी उपलब्ध।",
+ "benefit_en": "Central subsidy for rooftop solar on a house: ₹30,000–₹60,000 for 1–2 kW (0–150 units a month), ₹60,000–₹78,000 for 2–3 kW (150–300 units), ₹78,000 above 3 kW (300+ units). Collateral-free loans at about 7% are also available up to 3 kW.",
+ "who_hi": [
+  "भारतीय नागरिक परिवार",
+  "अपना घर, जिसकी छत सोलर पैनल के लिए उपयुक्त हो",
+  "वैध बिजली कनेक्शन",
+  "पहले किसी और सोलर सब्सिडी का लाभ न लिया हो"
+ ],
+ "who_en": [
+  "Indian citizen household",
+  "Owns a house with a roof suitable for solar panels",
+  "A valid electricity connection",
+  "Has not taken any other solar subsidy"
+ ],
+ "not_hi": [
+  "⚠️ दस्तावेज़ फ़रवरी 2025 का है; सब्सिडी की चालू राशि राष्ट्रीय पोर्टल पर जाँचें",
+  "'मुफ़्त बिजली' का मतलब तय मुफ़्त यूनिट नहीं — दस्तावेज़ के अनुसार 3 kW सिस्टम औसतन 300 से ज़्यादा यूनिट बना सकता है और लगभग 45% लाभार्थियों का बिल शून्य आता है, जो उत्पादन और खपत पर निर्भर है",
+  "पंजीकृत वेंडर से ही लगवाएँ; सब्सिडी बैंक खाते में आती है"
+ ],
+ "not_en": [
+  "⚠️ The document is from February 2025; check the current subsidy on the national portal",
+  "'Free electricity' does not mean a fixed number of free units — per the document a 3 kW system can generate over 300 units a month on average and about 45% of beneficiaries get zero bills, depending on generation and use",
+  "Install only through a registered vendor; the subsidy comes to your bank account"
+ ],
+ "docs_hi": [
+  "बिजली कनेक्शन का उपभोक्ता नंबर और मोबाइल नंबर",
+  "बैंक का विवरण और कैंसल्ड चेक (सब्सिडी के लिए)"
+ ],
+ "docs_en": [
+  "Electricity consumer number and mobile number",
+  "Bank details and a cancelled cheque (for the subsidy)"
+ ],
+ "steps_hi": [
+  "आधिकारिक राष्ट्रीय पोर्टल पर जाकर निजी विवरण से रजिस्टर करें",
+  "उपभोक्ता नंबर और मोबाइल से लॉग-इन करके रूफटॉप सोलर के लिए ऑनलाइन फ़ॉर्म भरें",
+  "DISCOM की मंज़ूरी के बाद पंजीकृत वेंडर से इंस्टॉल कराएँ",
+  "प्लांट का विवरण देकर नेट मीटर के लिए आवेदन करें",
+  "नेट मीटर और DISCOM जाँच के बाद कमीशनिंग प्रमाणपत्र मिलता है",
+  "फिर बैंक विवरण और कैंसल्ड चेक देने पर सब्सिडी लगभग 30 दिन में आती है"
+ ],
+ "steps_en": [
+  "Register with your details on the official national portal",
+  "Log in with consumer number and mobile and fill the online form for rooftop solar",
+  "After DISCOM approval, install through a registered vendor",
+  "Submit plant details and apply for a net meter",
+  "After the net meter and DISCOM inspection, you get a commissioning certificate",
+  "Then submit bank details and a cancelled cheque — the subsidy arrives in about 30 days"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को MNRE के दस्तावेज़ (12 फ़रवरी 2025) से पुष्ट: सब्सिडी राशि, पात्रता, आवेदन के चरण, कर्ज़",
+  "चालू सब्सिडी/तारीख़ें पुष्ट नहीं; आवश्यक दस्तावेज़ों की पूरी सूची पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from an MNRE document (12 Feb 2025) on 22 Oct 2026: subsidy amounts, eligibility, application steps, loans",
+  "Current subsidy / dates and full document list not confirmed"
+ ]
+}

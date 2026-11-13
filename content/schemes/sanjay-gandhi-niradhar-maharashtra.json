@@ -1,0 +1,74 @@
+{
+ "slug": "sanjay-gandhi-niradhar-maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "tags": [
+  "senior",
+  "woman",
+  "disability"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "संजय गांधी निराधार अनुदान योजना (महाराष्ट्र)",
+ "en": "Sanjay Gandhi Niradhar Anudan Yojana (Maharashtra)",
+ "state": "Maharashtra",
+ "source_url": "https://sjsa.maharashtra.gov.in/en/scheme/sanjay-gandhi-niradhar-anudan-yojana/",
+ "source_name": "सामाजिक न्याय एवं विशेष सहायता विभाग, महाराष्ट्र शासन (sjsa.maharashtra.gov.in)",
+ "kw": "sanjay gandhi niradhar anudan yojana maharashtra pension destitute widow disabled संजय गांधी निराधार अनुदान",
+ "what_hi": "महाराष्ट्र सरकार की योजना: पात्र निराधार लोगों को ₹1,500 प्रति माह। विभाग के पेज के अनुसार निराधार पुरुष और महिलाएँ (18 से 65 साल), अनाथ बच्चे, दिव्यांग, गंभीर बीमारी से स्वयं का पालन-पोषण न कर पाने वाले, निराधार विधवाएँ, कुछ तलाक़शुदा/परित्यक्ता महिलाएँ, ट्रांसजेंडर, देवदासी, 35 साल से ऊपर की अविवाहित महिलाएँ, क़ैदियों की पत्नियाँ और सिकल सेल रोगी पात्र श्रेणियों में हैं।",
+ "what_en": "A Maharashtra government scheme paying ₹1,500 a month to eligible destitute persons. Per the department page, destitute men and women (18 to 65), orphaned children, persons with disabilities, people unable to support themselves due to severe illness, destitute widows, certain divorced / separated women, transgender persons, Devadasis, unmarried women above 35, wives of prisoners and sickle-cell patients are among the eligible groups.",
+ "who_hi": [
+  "निराधार व्यक्ति, उम्र 18 से 65 साल (अनाथ बच्चों आदि के लिए पेज पर उम्र-सीमा नहीं दी)",
+  "BPL सूची में नाम, या परिवार की वार्षिक आय ₹21,000 तक"
+ ],
+ "who_en": [
+  "Destitute persons aged 18 to 65 (no age limit given on the page for orphaned children etc.)",
+  "Name on the BPL list, or family annual income up to ₹21,000"
+ ],
+ "not_hi": [
+  "ज़रूरी दस्तावेज़ उस पेज पर नहीं दिए गए — तहसील कार्यालय से पूछें",
+  "पेज पर तारीख़ नहीं है; आय-सीमा और राशि बदली हो सकती है — आवेदन से पहले तहसील/कलेक्टर कार्यालय से पुष्टि करें"
+ ],
+ "not_en": [
+  "Required documents are not given on that page — ask the Tehsil office",
+  "The page shows no date; the income limit and amount may have changed — confirm with the Tehsil / Collector office before applying"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — तहसील कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the Tehsil office"
+ ],
+ "steps_hi": [
+  "आवेदन जिला कलेक्टर कार्यालय, तहसीलदार कार्यालय, संजय गांधी निराधार अनुदान योजना शाखा या तलाठी कार्यालय में करें",
+  "विभाग के पेज पर दिया ऑनलाइन पोर्टल: sas.mahait.org",
+  "किसी को पैसे देकर नाम जुड़वाने की ज़रूरत नहीं"
+ ],
+ "steps_en": [
+  "Apply at the District Collector's office, Tehsildar's office, the Sanjay Gandhi Niradhar Anudan Yojana branch or the Talathi office",
+  "Online portal given on the department page: sas.mahait.org",
+  "You need not pay anyone to get your name added"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को सामाजिक न्याय विभाग (महाराष्ट्र) के पेज से पुष्ट: पात्र श्रेणियाँ, उम्र, आय-सीमा, ₹1,500/माह, आवेदन के स्थान और पोर्टल",
+  "दस्तावेज़ और चालू स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the Maharashtra Social Justice department page: eligible groups, age, income limit, ₹1,500/month, places to apply and portal",
+  "Documents and current status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "महाराष्ट्र सरकार की योजना: पात्र निराधार लोगों को ₹1,500 प्रति माह। विभाग के पेज के अनुसार निराधार पुरुष और महिलाएँ (18 से 65 साल), अनाथ बच्चे, दिव्यांग, गंभीर बीमारी से स्वयं का पालन-पोषण न कर पाने वाले, निराधार विधवाएँ, कुछ तलाक़शुदा/परित्यक्ता महिलाएँ, ट्रांसजेंडर, देवदासी, 35 साल से ऊपर की अविवाहित महिलाएँ, क़ैदियों की पत्नियाँ और सिकल सेल रोगी पात्र श्रेणियों में हैं।",
+ "benefit_en": "A Maharashtra government scheme paying ₹1,500 a month to eligible destitute persons. Per the department page, destitute men and women (18 to 65), orphaned children, persons with disabilities, people unable to support themselves due to severe illness, destitute widows, certain divorced / separated women, transgender persons, Devadasis, unmarried women above 35, wives of prisoners and sickle-cell patients are among the eligible groups."
+}

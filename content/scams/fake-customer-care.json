@@ -1,0 +1,52 @@
+{
+ "slug": "fake-customer-care",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 2,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "All India",
+ "tags": [
+  "scam"
+ ],
+ "hi": "नकली कस्टमर केयर नंबर",
+ "en": "Fake customer-care numbers",
+ "kw": "fake customer care number search refund remote access app screen share नकली कस्टमर केयर",
+ "source_url": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+ "source_name": "RBI Ombudsman — \"BE(A)WARE\" पुस्तिका (तारीख़ अंकित नहीं)",
+ "more": [],
+ "how_hi": "ठग सर्च रिज़ल्ट में नकली कस्टमर केयर नंबर डाल देते हैं। कॉल करने पर \"सत्यापन\" के नाम पर कार्ड की जानकारी माँगते हैं, या स्क्रीन-शेयरिंग/रिमोट-एक्सेस ऐप इंस्टॉल करवाते हैं जिससे वे आपका फ़ोन देख या चला सकते हैं और पेमेंट ऐप इस्तेमाल कर सकते हैं।",
+ "how_en": "Fraudsters plant fake customer-care numbers in search results. When you call, they ask for card details \"for verification\" or get you to install screen-sharing / remote-access apps that let them view or control your phone and use payment apps.",
+ "signs_hi": [
+  "सर्च में मिला नंबर",
+  "\"सत्यापन\" के लिए कार्ड की जानकारी माँगना",
+  "कंपनी का व्यक्ति अपने निजी नंबर से संपर्क करके ऐप डाउनलोड करने को कहे",
+  "मोबाइल नंबर से \"कस्टमर केयर\""
+ ],
+ "signs_en": [
+  "A number found through search",
+  "Card details asked \"for verification\"",
+  "A \"company executive\" contacts you from a personal number and asks you to download an app",
+  "\"Customer care\" on a mobile number"
+ ],
+ "dont_hi": [
+  "कंपनी के कर्मचारी के निजी नंबर से संपर्क करने पर ऐसे ऐप डाउनलोड न करें (RBI)",
+  "कार्ड की जानकारी फ़ोन पर न दें"
+ ],
+ "dont_en": [
+  "Do not download such apps if a company executive contacts you from a personal number (RBI)",
+  "Do not give card details over the phone"
+ ],
+ "do_hi": [
+  "कस्टमर केयर का नंबर हमेशा बैंक/कंपनी की आधिकारिक वेबसाइट से लें (RBI)। पुस्तिका के अनुसार कस्टमर केयर नंबर मोबाइल नंबर नहीं होते",
+  "अगर ऐसा ऐप डाल दिया है तो पेमेंट ऐप से लॉग-आउट करें और ऐप हटाएँ (RBI)",
+  "ठगी हो जाए तो तुरंत हेल्पलाइन 1930 पर कॉल करें या cybercrime.gov.in पर शिकायत करें (गृह मंत्रालय/PIB के अनुसार)"
+ ],
+ "do_en": [
+  "Always take the customer-care number from the bank / company's official website (RBI). Per the booklet, customer-care numbers are not mobile numbers",
+  "If you installed such an app, log out of payment apps and remove it (RBI)",
+  "If you are defrauded, call helpline 1930 or file a complaint on cybercrime.gov.in immediately (per Ministry of Home Affairs / PIB)"
+ ],
+ "what_hi": "ठग सर्च रिज़ल्ट में नकली कस्टमर केयर नंबर डाल देते हैं। कॉल करने पर \"सत्यापन\" के नाम पर कार्ड की जानकारी माँगते हैं, या स्क्रीन-शेयरिंग/रिमोट-एक्सेस ऐप इंस्टॉल करवाते हैं जिससे वे आपका फ़ोन देख या चला सकते हैं और पेमेंट ऐप इस्तेमाल कर सकते हैं।",
+ "what_en": "Fraudsters plant fake customer-care numbers in search results. When you call, they ask for card details \"for verification\" or get you to install screen-sharing / remote-access apps that let them view or control your phone and use payment apps."
+}

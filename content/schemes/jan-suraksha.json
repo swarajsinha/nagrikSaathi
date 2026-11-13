@@ -1,0 +1,90 @@
+{
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-15",
+ "version": 1,
+ "updated": "2026-10-15",
+ "slug": "jan-suraksha",
+ "hi": "जन सुरक्षा योजनाएँ: PMJJBY, PMSBY, अटल पेंशन",
+ "en": "Jan Suraksha schemes: PMJJBY, PMSBY, Atal Pension",
+ "source_url": "https://financialservices.gov.in/pradhan-mantri-jeevan-jyoti-bima-yojana-pmjjby",
+ "source_name": "वित्तीय सेवाएँ विभाग, वित्त मंत्रालय; PIB 9 मई 2025; पोर्टल jansuraksha.gov.in",
+ "tags": [
+  "worker",
+  "other"
+ ],
+ "kw": "bima insurance pension atal pension jeevan jyoti suraksha बीमा अटल पेंशन जीवन ज्योति सुरक्षा बीमा",
+ "what_hi": "कम प्रीमियम की तीन योजनाएँ: PMJJBY (किसी भी कारण से मृत्यु पर ₹2 लाख, प्रीमियम ₹436 प्रति वर्ष), PMSBY (दुर्घटना में मृत्यु/विकलांगता पर ₹2 लाख तक, प्रीमियम ₹20 प्रति वर्ष) और अटल पेंशन योजना (60 साल के बाद पक्की पेंशन — उसका अलग पेज देखें)।",
+ "what_en": "Three low-premium schemes: PMJJBY (₹2 lakh on death from any cause, premium ₹436 a year), PMSBY (up to ₹2 lakh on accidental death / disability, premium ₹20 a year) and Atal Pension Yojana (assured pension after 60 — see its own page).",
+ "benefit_hi": "कम प्रीमियम की तीन योजनाएँ: PMJJBY (किसी भी कारण से मृत्यु पर ₹2 लाख, प्रीमियम ₹436 प्रति वर्ष), PMSBY (दुर्घटना में मृत्यु/विकलांगता पर ₹2 लाख तक, प्रीमियम ₹20 प्रति वर्ष) और अटल पेंशन योजना (60 साल के बाद पक्की पेंशन — उसका अलग पेज देखें)।",
+ "benefit_en": "Three low-premium schemes: PMJJBY (₹2 lakh on death from any cause, premium ₹436 a year), PMSBY (up to ₹2 lakh on accidental death / disability, premium ₹20 a year) and Atal Pension Yojana (assured pension after 60 — see its own page).",
+ "who_hi": [
+  "बचत बैंक या डाकघर खाताधारक (प्रीमियम खाते से ऑटो-डेबिट होता है)",
+  "PMJJBY: उम्र 18–50 साल",
+  "PMSBY: उम्र 18–70 साल",
+  "अटल पेंशन: उम्र 18–40 साल (अलग पेज देखें)"
+ ],
+ "who_en": [
+  "Savings bank or post office account holders (premium is auto-debited from the account)",
+  "PMJJBY: age 18–50",
+  "PMSBY: age 18–70",
+  "Atal Pension: age 18–40 (see its own page)"
+ ],
+ "not_hi": [
+  "PMSBY का कवर: दुर्घटना में मृत्यु या दोनों आँखें/दोनों हाथ-पैर खोने पर ₹2 लाख; एक आँख या एक हाथ/पैर खोने पर ₹1 लाख (PIB के अनुसार)",
+  "कवर अवधि हर साल 1 जून से 31 मई; सहमति/ऑटो-डेबिट की अंतिम तारीख़ 31 मई। देर से जुड़ने पर PMJJBY का प्रीमियम घटता है: सितंबर–नवंबर ₹342, दिसंबर–फ़रवरी ₹228, मार्च–मई ₹114 (PIB के अनुसार)",
+  "इन तथ्यों के बहिष्करण/शर्तें (जैसे दावा की प्रक्रिया) सरकारी पेजों पर नहीं मिलीं — बैंक से पूछें",
+  "आयकरदाताओं पर अटल पेंशन की शर्त मैं पुष्ट नहीं कर पाया — पहले का नोट हटा दिया"
+ ],
+ "not_en": [
+  "PMSBY cover: ₹2 lakh on accidental death or loss of both eyes / both hands or feet; ₹1 lakh on loss of one eye or one hand / foot (per PIB)",
+  "Cover year runs 1 June to 31 May; consent / auto-debit deadline is 31 May. Late joining lowers the PMJJBY premium: Sept–Nov ₹342, Dec–Feb ₹228, Mar–May ₹114 (per PIB)",
+  "Exclusions / claim process were not on the government pages — ask the bank",
+  "I could not confirm any income-tax condition for Atal Pension — the earlier note has been removed"
+ ],
+ "docs_hi": [
+  "बचत खाता और बैंक KYC (आधार)",
+  "ऑटो-डेबिट की सहमति",
+  "नॉमिनी का विवरण"
+ ],
+ "docs_en": [
+  "Savings account and bank KYC (Aadhaar)",
+  "Consent for auto-debit",
+  "Nominee details"
+ ],
+ "steps_hi": [
+  "अपनी बैंक शाखा, बैंक ऐप/नेटबैंकिंग या पोस्ट ऑफिस में जाएँ",
+  "योजना चुनें और ऑटो-डेबिट की सहमति दें",
+  "नॉमिनी जोड़ें",
+  "खाते में पर्याप्त बैलेंस रखें ताकि प्रीमियम कट सके"
+ ],
+ "steps_en": [
+  "Go to your bank branch, bank app/net banking or post office",
+  "Choose the scheme and consent to auto-debit",
+  "Add a nominee",
+  "Keep enough balance so the premium can be debited"
+ ],
+ "mistakes_hi": [
+  "खाते में बैलेंस न होना, जिससे बीमा चूक सकता है",
+  "नॉमिनी न जोड़ना",
+  "फोन पर प्रीमियम माँगने वालों को पैसे देना"
+ ],
+ "mistakes_en": [
+  "Insufficient balance, which can lapse the cover",
+  "Not adding a nominee",
+  "Paying anyone who asks for the premium over the phone"
+ ],
+ "conf_hi": [
+  "15 अक्टूबर 2026 को financialservices.gov.in (वित्त मंत्रालय) से पुष्ट: PMJJBY — उम्र 18–50, ₹2 लाख, ₹436 प्रति वर्ष, बैंक खाते से ऑटो-डेबिट, 1 जून–31 मई",
+  "PIB (9 मई 2025) से पुष्ट: PMSBY उम्र 18–70, कवर राशियाँ, ₹20 प्रीमियम; योजनाएँ 9 मई 2015 को शुरू; 23 अप्रैल 2025 तक PMJJBY में 23.63 करोड़ और PMSBY में 51.06 करोड़ नामांकन",
+  "13 अक्टूबर 2026 को jansuraksha.gov.in से पुष्ट: राष्ट्रीय टोल-फ़्री 1800-180-1111 / 1800-110-001",
+  "आगे के बदलाव (प्रीमियम) बैंक/पोर्टल से जाँचें"
+ ],
+ "conf_en": [
+  "Confirmed from financialservices.gov.in (Ministry of Finance) on 15 Oct 2026: PMJJBY — age 18–50, ₹2 lakh, ₹436 a year, auto-debit from the bank account, 1 June–31 May",
+  "Confirmed from PIB (9 May 2025): PMSBY age 18–70, cover amounts, ₹20 premium; schemes launched 9 May 2015; as of 23 April 2025, 23.63 crore PMJJBY and 51.06 crore PMSBY enrolments",
+  "Confirmed from jansuraksha.gov.in on 13 Oct 2026: national toll-free 1800-180-1111 / 1800-110-001",
+  "Check later changes (premium) with the bank / portal"
+ ]
+}

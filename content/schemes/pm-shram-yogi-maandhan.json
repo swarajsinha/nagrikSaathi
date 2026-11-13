@@ -1,0 +1,82 @@
+{
+ "slug": "pm-shram-yogi-maandhan",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "worker",
+  "senior"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "पीएम श्रम योगी मान-धन (असंगठित मज़दूरों की पेंशन)",
+ "en": "PM Shram Yogi Maan-Dhan (pension for unorganised workers)",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2108082&reg=48&lang=2",
+ "source_name": "PIB / श्रम एवं रोज़गार मंत्रालय (4 मार्च 2025)",
+ "kw": "pm sym shram yogi maandhan pension unorganised worker 3000 श्रम योगी मानधन पेंशन असंगठित मज़दूर",
+ "what_hi": "असंगठित क्षेत्र के 18 से 40 साल के मज़दूर, जिनकी मासिक आय ₹15,000 या कम है, उम्र के अनुसार हर माह ₹55 से ₹200 जमा करते हैं और सरकार उतनी ही राशि जोड़ती है। 60 साल के बाद ₹3,000 प्रति माह की पेंशन आजीवन मिलती है; मृत्यु के बाद जीवनसाथी को 50% पारिवारिक पेंशन।",
+ "what_en": "Unorganised-sector workers aged 18 to 40 with monthly income of ₹15,000 or less contribute ₹55 to ₹200 a month (by age) and the government adds an equal amount. After 60, a pension of ₹3,000 a month is paid for life; after death the spouse gets 50% as family pension.",
+ "who_hi": [
+  "उम्र 18 से 40 साल",
+  "असंगठित क्षेत्र में काम (जैसे रेहड़ी-पटरी, निर्माण, खेती, घरेलू काम)",
+  "मासिक आय ₹15,000 या कम",
+  "EPF, ESIC या NPS के सदस्य न हों; आयकरदाता न हों; किसी अन्य सरकारी पेंशन योजना का लाभ न ले रहे हों"
+ ],
+ "who_en": [
+  "Age 18 to 40",
+  "Working in the unorganised sector (e.g. street vending, construction, agriculture, domestic work)",
+  "Monthly income ₹15,000 or less",
+  "Not covered by EPF, ESIC or NPS; not an income-tax payer; not receiving another government pension scheme"
+ ],
+ "not_hi": [
+  "योगदान की राशि प्रवेश-आयु पर निर्भर है: 18 साल पर ₹55, 20 पर ₹65, 25 पर ₹80, 30 पर ₹105, 35 पर ₹150, 40 पर ₹200 (PIB)",
+  "जानकारी मार्च 2025 की है; चालू नियम maandhan.in पर जाँचें"
+ ],
+ "not_en": [
+  "The contribution depends on entry age: ₹55 at 18, ₹65 at 20, ₹80 at 25, ₹105 at 30, ₹150 at 35, ₹200 at 40 (PIB)",
+  "Information is from March 2025; check current rules on maandhan.in"
+ ],
+ "docs_hi": [
+  "आधार कार्ड",
+  "बचत बैंक या जन धन खाते का विवरण (IFSC सहित)",
+  "मोबाइल नंबर"
+ ],
+ "docs_en": [
+  "Aadhaar card",
+  "Savings bank or Jan Dhan account details with IFSC",
+  "Mobile number"
+ ],
+ "steps_hi": [
+  "आधार और बचत बैंक खाते के साथ नज़दीकी कॉमन सर्विस सेंटर (CSC) जाएँ",
+  "बायोमेट्रिक सत्यापन के बाद ऑनलाइन फ़ॉर्म भरें, पहली किस्त नकद दें और बैंक से ऑटो-डेबिट चुनें",
+  "आपको PM-SYM कार्ड मिलता है",
+  "या पोर्टल maandhan.in देखें"
+ ],
+ "steps_en": [
+  "Visit the nearest Common Service Centre (CSC) with your Aadhaar and savings bank account",
+  "After biometric authentication fill the online form, pay the first instalment in cash and choose auto-debit from your bank",
+  "You receive a PM-SYM card",
+  "Or see the portal maandhan.in"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (4 मार्च 2025) से पुष्ट: पात्रता, बहिष्करण, उम्र-वार योगदान, ₹3,000 पेंशन, पारिवारिक पेंशन, नामांकन का तरीक़ा, दस्तावेज़",
+  "चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (4 Mar 2025): eligibility, exclusions, age-wise contribution, ₹3,000 pension, family pension, how to enrol, documents",
+  "Current status not confirmed"
+ ],
+ "benefit_hi": "असंगठित क्षेत्र के 18 से 40 साल के मज़दूर, जिनकी मासिक आय ₹15,000 या कम है, उम्र के अनुसार हर माह ₹55 से ₹200 जमा करते हैं और सरकार उतनी ही राशि जोड़ती है। 60 साल के बाद ₹3,000 प्रति माह की पेंशन आजीवन मिलती है; मृत्यु के बाद जीवनसाथी को 50% पारिवारिक पेंशन।",
+ "benefit_en": "Unorganised-sector workers aged 18 to 40 with monthly income of ₹15,000 or less contribute ₹55 to ₹200 a month (by age) and the government adds an equal amount. After 60, a pension of ₹3,000 a month is paid for life; after death the spouse gets 50% as family pension."
+}

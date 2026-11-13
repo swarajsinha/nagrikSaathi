@@ -1,0 +1,70 @@
+{
+ "slug": "pm-ajay",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — Ministry of Social Justice",
+ "tags": [
+  "sc",
+  "education"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "पीएम-अजय (अनुसूचित जाति अभ्युदय योजना)",
+ "en": "PM-AJAY (Scheduled Caste Abhyuday Yojana)",
+ "source_url": "https://socialjustice.gov.in/schemes/104",
+ "source_name": "सामाजिक न्याय एवं अधिकारिता मंत्रालय — योजना पेज (अंतिम अपडेट 19 अक्टूबर 2026)",
+ "kw": "pm ajay anusuchit jaati abhyuday yojana adarsh gram hostel sc livelihood पीएम अजय अनुसूचित जाति आदर्श ग्राम छात्रावास",
+ "what_hi": "अनुसूचित जाति (SC) समुदायों में रोज़गार, कौशल और आय बढ़ाने वाली पहलों से ग़रीबी घटाने की योजना। इसमें तीन हिस्से हैं: आदर्श ग्राम (SC-बहुल गाँवों का विकास), ज़िला/राज्य परियोजनाओं के लिए अनुदान (गाँव का ढाँचा, छात्रावास और आवासीय विद्यालय, कौशल और संपत्ति-निर्माण के ऋण वाली आजीविका परियोजनाएँ) और शीर्ष शिक्षण संस्थानों में छात्रावास।",
+ "what_en": "A scheme to reduce poverty among Scheduled Caste (SC) communities through employment, skill and income-generating initiatives. It has three parts: Adarsh Gram (developing SC-dominated villages), grants for district / state projects (village infrastructure, hostels and residential schools, livelihood projects with skill development and loans for assets) and hostels in top higher-education institutions.",
+ "who_hi": [
+  "SC समुदाय — SC-बहुल गाँवों के निवासी और स्कूलों/उच्च शिक्षा संस्थानों के SC विद्यार्थी"
+ ],
+ "who_en": [
+  "SC communities — residents of SC-dominated villages and SC students in schools and higher-education institutions"
+ ],
+ "not_hi": [
+  "यह योजना राज्यों/ज़िलों के माध्यम से परियोजनाओं के रूप में चलती है; व्यक्तिगत पात्रता-शर्तें और आवेदन का तरीक़ा मंत्रालय के पेज पर नहीं हैं — अपने ज़िला समाज कल्याण कार्यालय से पूछें",
+  "मंत्रालय के पेज पर योजना की दिशानिर्देश-अवधि 31 दिसंबर 2027 और 31 दिसंबर 2030 तक की दो तारीख़ें दी हैं",
+  "योजना की निगरानी का MIS pmajay.dosje.gov.in पर है"
+ ],
+ "not_en": [
+  "The scheme runs as projects through states / districts; individual eligibility and how to apply are not on the ministry page — ask your district social welfare office",
+  "The ministry page gives guideline end dates of 31 December 2027 and 31 December 2030",
+  "The monitoring MIS is at pmajay.dosje.gov.in"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ज़िला समाज कल्याण कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the district social welfare office"
+ ],
+ "steps_hi": [
+  "अपने ज़िला या राज्य के समाज कल्याण विभाग से पूछें कि आपके क्षेत्र में PM-AJAY की कौन-सी परियोजना चल रही है",
+  "छात्रावास या ऋण के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your district / state social welfare department which PM-AJAY project is running in your area",
+  "Do not pay anyone in the name of a hostel seat or a loan"
+ ],
+ "conf_hi": [
+  "25 अक्टूबर 2026 को मंत्रालय के पेज (अंतिम अपडेट 19 अक्टूबर 2026) से पुष्ट: उद्देश्य, तीन घटक, लाभार्थी वर्ग, कार्यान्वयन और निधि-वितरण",
+  "व्यक्तिगत पात्रता और आवेदन-प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 25 Oct 2026 from the ministry page (last updated 19 Oct 2026): objectives, three components, beneficiary group, implementation and fund flow",
+  "Individual eligibility and application process not confirmed"
+ ],
+ "benefit_hi": "अनुसूचित जाति (SC) समुदायों में रोज़गार, कौशल और आय बढ़ाने वाली पहलों से ग़रीबी घटाने की योजना। इसमें तीन हिस्से हैं: आदर्श ग्राम (SC-बहुल गाँवों का विकास), ज़िला/राज्य परियोजनाओं के लिए अनुदान (गाँव का ढाँचा, छात्रावास और आवासीय विद्यालय, कौशल और संपत्ति-निर्माण के ऋण वाली आजीविका परियोजनाएँ) और शीर्ष शिक्षण संस्थानों में छात्रावास।",
+ "benefit_en": "A scheme to reduce poverty among Scheduled Caste (SC) communities through employment, skill and income-generating initiatives. It has three parts: Adarsh Gram (developing SC-dominated villages), grants for district / state projects (village infrastructure, hostels and residential schools, livelihood projects with skill development and loans for assets) and hostels in top higher-education institutions."
+}

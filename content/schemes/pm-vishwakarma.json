@@ -1,0 +1,85 @@
+{
+ "slug": "pm-vishwakarma",
+ "hi": "पीएम विश्वकर्मा (पारंपरिक कारीगरों के लिए सहायता)",
+ "en": "PM Vishwakarma (support for traditional artisans)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://pmvishwakarma.gov.in",
+ "source_name": "PM विश्वकर्मा पोर्टल (सूचना: PIB दस्तावेज़ सितंबर 2025 से)",
+ "tags": [
+  "business",
+  "worker",
+  "unemployed"
+ ],
+ "kw": "vishwakarma artisan carpenter tailor potter mason toolkit loan training कारीगर बढ़ई दर्ज़ी कुम्हार टूलकिट विश्वकर्मा",
+ "what_hi": "18 पारंपरिक पारिवारिक कारीगरी वाले व्यवसायों के लिए: प्रमाणपत्र और ID कार्ड, प्रशिक्षण के दौरान ₹500 प्रतिदिन वज़ीफ़ा, ₹15,000 का टूलकिट ई-वाउचर, बिना गारंटी ऋण (₹1 लाख, फिर ₹2 लाख) 5% रियायती ब्याज पर।",
+ "what_en": "For 18 traditional family-based trades: certificate and ID card, ₹500 a day stipend during training, a ₹15,000 toolkit e-voucher, collateral-free loans (₹1 lakh, then ₹2 lakh) at a concessional 5% interest.",
+ "benefit_hi": "18 पारंपरिक पारिवारिक कारीगरी वाले व्यवसायों के लिए: प्रमाणपत्र और ID कार्ड, प्रशिक्षण के दौरान ₹500 प्रतिदिन वज़ीफ़ा, ₹15,000 का टूलकिट ई-वाउचर, बिना गारंटी ऋण (₹1 लाख, फिर ₹2 लाख) 5% रियायती ब्याज पर।",
+ "benefit_en": "For 18 traditional family-based trades: certificate and ID card, ₹500 a day stipend during training, a ₹15,000 toolkit e-voucher, collateral-free loans (₹1 lakh, then ₹2 lakh) at a concessional 5% interest.",
+ "who_hi": [
+  "हाथ और औज़ारों से काम करने वाला, 18 सूचीबद्ध पारंपरिक पारिवारिक व्यवसायों में से किसी का कारीगर (जैसे राजमिस्त्री, दर्ज़ी, माला बनाने वाला, बढ़ई, मोची, लोहार, कुम्हार, धोबी)",
+  "असंगठित क्षेत्र में या स्वरोज़गार",
+  "पंजीकरण की तारीख़ को कम से कम 18 साल",
+  "पिछले 5 साल में ऐसा कोई केंद्र/राज्य स्वरोज़गार ऋण न लिया हो",
+  "परिवार (पति, पत्नी, अविवाहित बच्चे) से सिर्फ़ एक सदस्य को लाभ",
+  "सरकारी नौकरी में न हो"
+ ],
+ "who_en": [
+  "Artisan working with bare hands and tools in one of the 18 listed family-based traditional trades (e.g. mason, tailor, garland maker, carpenter, cobbler, blacksmith, potter, washerman)",
+  "In the unorganised sector or self-employed",
+  "At least 18 years old on the registration date",
+  "Has not taken a similar central/state self-employment loan in the past 5 years",
+  "Only one member of a family (husband, wife, unmarried children) can benefit",
+  "Not in government service"
+ ],
+ "not_hi": [
+  "पूरी 18 व्यवसायों की सूची मैंने नहीं लिखी — पोर्टल पर देखें",
+  "दूसरी किस्त (₹2 लाख) के लिए पहली किस्त चुकाने का अच्छा रिकॉर्ड और डिजिटल लेन-देन या उन्नत प्रशिक्षण ज़रूरी",
+  "योजना की अवधि/चालू स्थिति पोर्टल पर जाँचें"
+ ],
+ "not_en": [
+  "I have not written the full list of 18 trades — see the portal",
+  "The second ₹2 lakh tranche needs a good record on the first and digital transactions or advanced training",
+  "Check the scheme's period / current status on the portal"
+ ],
+ "docs_hi": [
+  "पंजीकरण में आधार का बायोमेट्रिक प्रमाणीकरण ज़रूरी; अन्य दस्तावेज़ों की सूची यहाँ सत्यापित नहीं — CSC/पोर्टल से पूछें"
+ ],
+ "docs_en": [
+  "Registration needs Aadhaar biometric authentication; the list of other documents is not verified here — ask the CSC / portal"
+ ],
+ "steps_hi": [
+  "नज़दीकी कॉमन सर्विस सेंटर (CSC) जाएँ — CSC एजेंट पोर्टल पर कारीगर का पंजीकरण करते हैं",
+  "आधार बायोमेट्रिक प्रमाणीकरण कराएँ",
+  "पंजीकरण के बाद बुनियादी प्रशिक्षण, फिर ₹1 लाख की पहली किस्त (18 महीने में चुकाना)",
+  "पंजीकरण के लिए किसी निजी एजेंट को पैसे न दें"
+ ],
+ "steps_en": [
+  "Visit a nearby Common Service Centre (CSC) — CSC agents register artisans on the portal",
+  "Do Aadhaar biometric authentication",
+  "After registration: basic training, then the first ₹1 lakh tranche (repayable in 18 months)",
+  "Do not pay any private agent for registration"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को PIB (भारत सरकार) दस्तावेज़ (सितंबर 2025) से पुष्ट: व्यवसाय, लाभ, ऋण किस्तें और 5% ब्याज (8% सरकारी सब्सिडी के साथ), पात्रता शर्तें, CSC से पंजीकरण",
+  "पोर्टल (pmvishwakarma.gov.in) स्वचालित पहुँच रोकता है, इसलिए चालू नियम पोर्टल से मिलाना बाकी"
+ ],
+ "conf_en": [
+  "Confirmed on 13 Oct 2026 from a PIB (Government of India) document (Sept 2025): trades, benefits, loan tranches and 5% interest (with 8% government subvention), eligibility conditions, registration via CSC",
+  "The portal (pmvishwakarma.gov.in) blocks automated access, so current rules still need to be matched against it"
+ ]
+}

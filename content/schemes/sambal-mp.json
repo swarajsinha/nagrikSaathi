@@ -1,0 +1,76 @@
+{
+ "slug": "sambal-mp",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "tags": [
+  "worker"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "मुख्यमंत्री जनकल्याण (संबल 2.0) योजना — मध्य प्रदेश",
+ "en": "Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana — Madhya Pradesh",
+ "state": "Madhya Pradesh",
+ "source_url": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=694",
+ "source_name": "मध्य प्रदेश शासन — सीएम हेल्पलाइन योजना-विवरण (श्रम विभाग, असंगठित कर्मकार मण्डल)",
+ "kw": "sambal yojana madhya pradesh unorganised worker death accident assistance संबल योजना असंगठित मज़दूर मध्य प्रदेश",
+ "what_hi": "मध्य प्रदेश श्रम विभाग की योजना: पंजीकृत असंगठित मज़दूरों के लिए। अंत्येष्टि सहायता ₹5,000 तुरंत; अनुग्रह सहायता — दुर्घटना में मृत्यु पर ₹4,00,000, अन्य कारण से मृत्यु पर ₹2,00,000, स्थायी अपंगता पर ₹2,00,000, आंशिक स्थायी अपंगता पर ₹1,00,000। राशि सीधे बैंक खाते में (DBT)।",
+ "what_en": "A Madhya Pradesh Labour Department scheme for registered unorganised workers. Funeral assistance ₹5,000 immediately; grace assistance — ₹4,00,000 for death in an accident, ₹2,00,000 for death from other causes, ₹2,00,000 for permanent disability, ₹1,00,000 for partial permanent disability. Paid directly to the bank account (DBT).",
+ "who_hi": [
+  "असंगठित कर्मकार मण्डल का पंजीकरण/कार्ड रखने वाले मज़दूर, शहरी और ग्रामीण",
+  "PF, ESI या ग्रेच्युटी जैसी अन्य सामाजिक सुरक्षा न मिलती हो",
+  "मज़दूर या उसके जीवनसाथी के पास 1 हेक्टेयर से अधिक खेती की ज़मीन न हो, सरकारी नौकरी न हो और आयकर न देते हों"
+ ],
+ "who_en": [
+  "Workers registered with / holding the Unorganised Workers Board card, urban and rural",
+  "Not receiving other social security such as PF, ESI or gratuity",
+  "The worker or spouse must not own more than 1 hectare of farm land, hold a government job or pay income tax"
+ ],
+ "not_hi": [
+  "अनुग्रह सहायता का दावा आम तौर पर घटना के 180 दिन के भीतर करना होता है; नामित अधिकारी समय बढ़ा सकता है",
+  "यह पेज पंजीकरण को ही दस्तावेज़ बताता है; पंजीकरण के लिए अलग से क्या चाहिए, वह पोर्टल पर देखें",
+  "पेज पर तारीख़ नहीं है; राशि और शर्तें बदली हो सकती हैं"
+ ],
+ "not_en": [
+  "A claim for grace assistance is generally due within 180 days of the incident; the designated officer can extend it",
+  "The page lists valid registration as the document; see the portal for what registration itself needs",
+  "The page shows no date; amounts and conditions may have changed"
+ ],
+ "docs_hi": [
+  "वैध पंजीकरण (असंगठित कर्मकार मण्डल)"
+ ],
+ "docs_en": [
+  "Valid registration (Unorganised Workers Board)"
+ ],
+ "steps_hi": [
+  "MP Online, लोक सेवा केंद्र या कॉमन सर्विस सेंटर (CSC) से आवेदन करें, या sambal.mp.gov.in पर ऑनलाइन",
+  "आवेदन के लिए कोई शुल्क नहीं (पेज के अनुसार)",
+  "दावा समय-सीमा के भीतर करें"
+ ],
+ "steps_en": [
+  "Apply through MP Online, a Lok Seva Kendra or a Common Service Centre (CSC), or online at sambal.mp.gov.in",
+  "No application fee (per the page)",
+  "Claim within the time limit"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को MP शासन के योजना-विवरण पेज से पुष्ट: पात्रता, सहायता राशियाँ, दावे की समय-सीमा, आवेदन के माध्यम, कोई शुल्क नहीं",
+  "पंजीकरण की प्रक्रिया और चालू स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the MP government scheme-detail page: eligibility, assistance amounts, claim time limit, ways to apply, no fee",
+  "Registration process and current status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "मध्य प्रदेश श्रम विभाग की योजना: पंजीकृत असंगठित मज़दूरों के लिए। अंत्येष्टि सहायता ₹5,000 तुरंत; अनुग्रह सहायता — दुर्घटना में मृत्यु पर ₹4,00,000, अन्य कारण से मृत्यु पर ₹2,00,000, स्थायी अपंगता पर ₹2,00,000, आंशिक स्थायी अपंगता पर ₹1,00,000। राशि सीधे बैंक खाते में (DBT)।",
+ "benefit_en": "A Madhya Pradesh Labour Department scheme for registered unorganised workers. Funeral assistance ₹5,000 immediately; grace assistance — ₹4,00,000 for death in an accident, ₹2,00,000 for death from other causes, ₹2,00,000 for permanent disability, ₹1,00,000 for partial permanent disability. Paid directly to the bank account (DBT)."
+}

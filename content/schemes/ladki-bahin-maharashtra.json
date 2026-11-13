@@ -1,0 +1,78 @@
+{
+ "slug": "ladki-bahin-maharashtra",
+ "hi": "मुख्यमंत्री माझी लाडकी बहीण योजना (महाराष्ट्र)",
+ "en": "Mukhyamantri Majhi Ladki Bahin Yojana (Maharashtra)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-25",
+ "version": 1,
+ "updated": "2026-10-25",
+ "source_url": "https://www.womenchild.maharashtra.gov.in/en/schemes/mukhyamantri-mazi-ladki-bahin-yojana",
+ "source_name": "महिला एवं बाल विकास विभाग, महाराष्ट्र शासन (womenchild.maharashtra.gov.in); योजना पोर्टल ladakibahin.maharashtra.gov.in",
+ "tags": [
+  "woman"
+ ],
+ "kw": "ladki bahin ladaki bahin maharashtra mahila 1500 लाडकी बहीण लाडकी बहिण महाराष्ट्र महिला",
+ "state": "Maharashtra",
+ "what_hi": "महाराष्ट्र की 21 से 65 साल की पात्र महिलाओं को ₹1,500 प्रति माह, सीधे बैंक खाते में (DBT)। विभाग की साइट के अनुसार पारिवारिक वार्षिक आय ₹2.5 लाख से कम होनी चाहिए।",
+ "what_en": "₹1,500 a month, directly to the bank account (DBT), for eligible women of Maharashtra aged 21 to 65. Per the department's site, annual family income must be below ₹2.5 lakh.",
+ "benefit_hi": "महाराष्ट्र की 21 से 65 साल की पात्र महिलाओं को ₹1,500 प्रति माह, सीधे बैंक खाते में (DBT)। विभाग की साइट के अनुसार पारिवारिक वार्षिक आय ₹2.5 लाख से कम होनी चाहिए।",
+ "benefit_en": "₹1,500 a month, directly to the bank account (DBT), for eligible women of Maharashtra aged 21 to 65. Per the department's site, annual family income must be below ₹2.5 lakh.",
+ "who_hi": [
+  "महाराष्ट्र की निवासी महिला, उम्र 21 से 65 साल",
+  "परिवार की वार्षिक आय ₹2.5 लाख से कम (विभाग का पेज)"
+ ],
+ "who_en": [
+  "Woman resident of Maharashtra, age 21 to 65",
+  "Annual family income below ₹2.5 lakh (department page)"
+ ],
+ "not_hi": [
+  "⚠️ विभाग का पेज 23 अप्रैल 2025 को अपडेट हुआ था; अभी आवेदन खुले हैं या नहीं, बहिष्कृत श्रेणियाँ, दस्तावेज़ और भुगतान की मौजूदा स्थिति वहाँ नहीं हैं — पोर्टल ladakibahin.maharashtra.gov.in या आँगनवाड़ी/सेतु केंद्र से पक्की करें",
+  "जो महिलाएँ अन्य सरकारी योजना से पहले ही बड़ी राशि पा रही हों, उन पर शर्तें हो सकती हैं (पुष्ट नहीं)"
+ ],
+ "not_en": [
+  "⚠️ The department page was last updated on 23 April 2025; whether applications are open now, excluded categories, documents and current payment status are not there — confirm on ladakibahin.maharashtra.gov.in or at the Anganwadi / Setu centre",
+  "Conditions may apply to women already getting substantial benefits from other schemes (not confirmed)"
+ ],
+ "docs_hi": [
+  "नाम, जन्मतिथि और पता आधार के अनुसार ही भरें",
+  "बैंक खाता और मोबाइल सही भरें",
+  "बाकी कागज़ों की सत्यापित सूची अभी उपलब्ध नहीं"
+ ],
+ "docs_en": [
+  "Fill name, date of birth and address exactly as on Aadhaar",
+  "Enter bank account and mobile correctly",
+  "A verified list of other papers is not currently available"
+ ],
+ "steps_hi": [
+  "योजना के आधिकारिक पोर्टल से ऑनलाइन आवेदन करें",
+  "जो ऑनलाइन नहीं कर सकतीं, वे आँगनवाड़ी सेविका, सेतु सुविधा केंद्र, ग्राम सेवक, आशा सेविका, वार्ड अधिकारी या आपले सरकार सेवा केंद्र से मदद ले सकती हैं",
+  "इस आवेदन के लिए कोई शुल्क नहीं लिया जाएगा (सरकारी साइट के अनुसार)"
+ ],
+ "steps_en": [
+  "Apply online on the scheme's official portal",
+  "If you cannot apply online, get help from an Anganwadi sevika, Setu Suvidha Kendra, Gram Sevak, ASHA sevika, ward officer or Aaple Sarkar Seva Kendra",
+  "No fee will be charged for this application (per the government site)"
+ ],
+ "mistakes_hi": [
+  "आवेदन में आधार से अलग नाम/तारीख भरना",
+  "आवेदन के लिए पैसे देना — शुल्क नहीं है",
+  "नकली वेबसाइट"
+ ],
+ "mistakes_en": [
+  "Name/date different from Aadhaar",
+  "Paying to apply — there is no fee",
+  "Fake websites"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को महिला एवं बाल विकास विभाग (महाराष्ट्र) के योजना-पेज से पुष्ट: ₹1,500/माह DBT, उम्र 21–65, पारिवारिक आय ₹2.5 लाख से कम, शुरुआत 28 जून 2024, योजना पोर्टल का पता",
+  "नाशिक ज़िला प्रशासन की साइट से: मदद के केंद्र (आँगनवाड़ी, सेतु केंद्र, ग्राम सेवक, आशा, वार्ड अधिकारी, आपले सरकार केंद्र), कोई शुल्क नहीं",
+  "आवेदन की चालू स्थिति, दस्तावेज़ और बहिष्करण पुष्ट नहीं — पेज 23 अप्रैल 2025 का है"
+ ],
+ "conf_en": [
+  "Confirmed on 22 Oct 2026 from the Maharashtra Women & Child Development Department scheme page: ₹1,500/month DBT, age 21–65, family income below ₹2.5 lakh, launched 28 June 2024, scheme portal address",
+  "From the Nashik district administration site: help centres (Anganwadi, Setu centre, Gram Sevak, ASHA, ward officer, Aaple Sarkar centre), no fee",
+  "Current application status, documents and exclusions not confirmed — the page is dated 23 April 2025"
+ ]
+}

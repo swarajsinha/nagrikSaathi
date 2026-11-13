@@ -1,0 +1,74 @@
+{
+ "slug": "pm-yasasvi",
+ "status": "verified",
+ "last_verified": "2026-10-27",
+ "version": 1,
+ "updated": "2026-10-27",
+ "level": 1,
+ "dept": "Central — Ministry of Social Justice & Empowerment",
+ "tags": [
+  "education",
+  "obc"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "पीएम यशस्वी (OBC, EBC और DNT विद्यार्थियों की छात्रवृत्ति)",
+ "en": "PM YASASVI (scholarships for OBC, EBC and DNT students)",
+ "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1999638&reg=48&lang=2",
+ "source_name": "PIB — PM YASASVI (25 जनवरी 2024)",
+ "kw": "pm yasasvi obc ebc dnt scholarship pre matric post matric top class nsp पीएम यशस्वी ओबीसी छात्रवृत्ति",
+ "what_hi": "OBC, आर्थिक रूप से पिछड़े वर्ग (EBC) और विमुक्त घुमंतू जनजाति (DNT) के विद्यार्थियों के लिए छात्रवृत्तियाँ: प्री-मैट्रिक (कक्षा 9-10, केवल सरकारी स्कूल), पोस्ट-मैट्रिक, टॉप क्लास स्कूल शिक्षा (कक्षा 9-12), टॉप क्लास कॉलेज शिक्षा (अधिसूचित संस्थान)। इसमें OBC लड़कों-लड़कियों के छात्रावास निर्माण का भी हिस्सा है।",
+ "what_en": "Scholarships for students of OBC, Economically Backward Classes (EBC) and Denotified Nomadic Tribes (DNT): Pre-Matric (Classes 9-10, government schools only), Post-Matric, Top Class School Education (Classes 9-12) and Top Class College Education (notified institutions). It also covers hostel construction for OBC boys and girls.",
+ "benefit_hi": "OBC, आर्थिक रूप से पिछड़े वर्ग (EBC) और विमुक्त घुमंतू जनजाति (DNT) के विद्यार्थियों के लिए छात्रवृत्तियाँ: प्री-मैट्रिक (कक्षा 9-10, केवल सरकारी स्कूल), पोस्ट-मैट्रिक, टॉप क्लास स्कूल शिक्षा (कक्षा 9-12), टॉप क्लास कॉलेज शिक्षा (अधिसूचित संस्थान)। इसमें OBC लड़कों-लड़कियों के छात्रावास निर्माण का भी हिस्सा है।",
+ "benefit_en": "Scholarships for students of OBC, Economically Backward Classes (EBC) and Denotified Nomadic Tribes (DNT): Pre-Matric (Classes 9-10, government schools only), Post-Matric, Top Class School Education (Classes 9-12) and Top Class College Education (notified institutions). It also covers hostel construction for OBC boys and girls.",
+ "who_hi": [
+  "OBC, EBC और DNT विद्यार्थी",
+  "सभी स्रोतों से पारिवारिक आय ₹2,50,000 प्रति वर्ष से अधिक न हो (छात्रवृत्ति घटकों के लिए)"
+ ],
+ "who_en": [
+  "OBC, EBC and DNT students",
+  "Income from all sources not above ₹2,50,000 per year (for the scholarship components)"
+ ],
+ "not_hi": [
+  "पेज के अनुसार टॉप क्लास स्कूल और कॉलेज के लिए आवेदन नेशनल स्कॉलरशिप पोर्टल (NSP) पर होता है; पेज में दी अंतिम तारीख़ 31 जनवरी 2024 थी — चालू वर्ष की तारीख़ें NSP पर देखें",
+  "प्री-मैट्रिक और पोस्ट-मैट्रिक की चयन-प्रक्रिया और आवेदन के चरण पेज पर नहीं हैं",
+  "जानकारी जनवरी 2024 की है; राशि या शर्तें बदली हो सकती हैं"
+ ],
+ "not_en": [
+  "As per the page, applications for Top Class School and College are on the National Scholarship Portal (NSP); the closing date given was 31 January 2024 — check current-year dates on NSP",
+  "Selection process and application steps for Pre-Matric and Post-Matric are not on the page",
+  "The information is from January 2024; amounts or conditions may have changed"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — NSP या स्कूल/कॉलेज से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — check NSP or ask your school / college"
+ ],
+ "steps_hi": [
+  "चालू वर्ष की तारीख़ें और शर्तें नेशनल स्कॉलरशिप पोर्टल (NSP) पर देखें",
+  "अपने स्कूल/कॉलेज के नोडल अधिकारी से आवेदन में मदद पूछें",
+  "छात्रवृत्ति दिलाने के नाम पर पैसे माँगने वालों से सावधान रहें"
+ ],
+ "steps_en": [
+  "Check current-year dates and conditions on the National Scholarship Portal (NSP)",
+  "Ask your school / college nodal officer for help with applying",
+  "Beware of anyone asking for money to get you a scholarship"
+ ],
+ "conf_hi": [
+  "27 अक्टूबर 2026 को PIB (25 जनवरी 2024) से पुष्ट: वर्ग, घटक, आय-सीमा, राशियाँ, NSP से आवेदन",
+  "चालू वर्ष की तारीख़ें और स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 27 Oct 2026 from PIB (25 Jan 2024): groups, components, income limit, amounts, application via NSP",
+  "Current-year dates and status not confirmed"
+ ]
+}

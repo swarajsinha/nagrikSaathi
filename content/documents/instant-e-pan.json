@@ -1,0 +1,93 @@
+{
+ "slug": "instant-e-pan",
+ "dept": "Central — Income Tax Department",
+ "tags": [
+  "id",
+  "document",
+  "business"
+ ],
+ "hi": "आधार से मुफ़्त तुरंत e-PAN (पैन कार्ड)",
+ "en": "Free instant e-PAN using Aadhaar (PAN card)",
+ "source_url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/Instant%20e-PAN-faq",
+ "source_name": "आयकर विभाग — Instant e-PAN अक्सर पूछे जाने वाले प्रश्न (incometax.gov.in)",
+ "more": [
+  [
+   "https://www.incometax.gov.in/iec/foportal/",
+   "आयकर ई-फ़ाइलिंग पोर्टल"
+  ]
+ ],
+ "kw": "pan card e-pan instant pan aadhaar free apply new pan income tax पैन कार्ड ई-पैन आधार से पैन मुफ़्त",
+ "what_hi": "जिसके पास अभी PAN नहीं है, वह आयकर विभाग के ई-फ़ाइलिंग पोर्टल पर आधार और आधार से जुड़े मोबाइल के OTP से मुफ़्त में डिजिटल (e-PAN) पा सकता है। कोई फ़ीस नहीं लगती।",
+ "what_en": "Anyone who does not yet have a PAN can get a digital PAN (e-PAN) free on the Income Tax e-Filing portal using Aadhaar and an OTP on the Aadhaar-linked mobile. There is no fee.",
+ "who_hi": [
+  "जिसके पास पहले से PAN नहीं है",
+  "वैध आधार नंबर, और आधार से जुड़ा चालू मोबाइल नंबर (OTP के लिए)",
+  "DigiLocker खाता — न हो तो इसी प्रक्रिया में OTP से बन जाता है"
+ ],
+ "who_en": [
+  "Anyone who does not already have a PAN",
+  "A valid Aadhaar number and an active mobile number linked to it (for OTP)",
+  "A DigiLocker account — if you don't have one, it can be created in the same process with an OTP"
+ ],
+ "not_hi": [
+  "नाबालिग (आवेदन की तारीख़ पर) और आयकर अधिनियम के तहत 'प्रतिनिधि करदाता' (Representative Assessee) इसके पात्र नहीं",
+  "जिसके पास पहले से PAN है, वह दोबारा न बनवाए",
+  "मोबाइल आधार से नहीं जुड़ा तो पहले आधार केंद्र पर जुड़वाएँ",
+  "जन्मतिथि का दस्तावेज़ DigiLocker में न मिले तो सामान्य PAN आवेदन करना होगा"
+ ],
+ "not_en": [
+  "Minors (on the date of request) and 'Representative Assessees' under the Income-tax Act are not eligible",
+  "Anyone who already has a PAN must not get another",
+  "If your mobile is not linked to Aadhaar, link it at an Aadhaar centre first",
+  "If no date-of-birth document is available in DigiLocker, you will need the regular PAN application"
+ ],
+ "docs_hi": [
+  "आधार नंबर और आधार से जुड़ा मोबाइल",
+  "DigiLocker में जन्मतिथि का एक दस्तावेज़ — जैसे ड्राइविंग लाइसेंस, जन्म प्रमाणपत्र, 10वीं की मार्कशीट/प्रमाणपत्र या CGHS कार्ड"
+ ],
+ "docs_en": [
+  "Aadhaar number and the Aadhaar-linked mobile",
+  "One date-of-birth document in DigiLocker — e.g. driving licence, birth certificate, Class X marksheet/certificate or CGHS card"
+ ],
+ "steps_hi": [
+  "incometax.gov.in पर 'Quick Links' में 'Instant e-PAN' पर जाएँ और 'Get New e-PAN' चुनें",
+  "आधार नंबर डालें और OTP से पुष्टि करें",
+  "DigiLocker पर जाकर जन्मतिथि वाला एक दस्तावेज़ साझा करने की अनुमति (Allow) दें",
+  "आधार से जुड़ा ईमेल चाहें तो OTP से जाँचें (वैकल्पिक)",
+  "आवेदन पूरा होने पर Acknowledgement नंबर और मोबाइल पर SMS मिलता है",
+  "बाद में 'Check Status / Download e-PAN' में आधार नंबर और OTP से e-PAN देखें और डाउनलोड करें"
+ ],
+ "steps_en": [
+  "On incometax.gov.in go to 'Instant e-PAN' under 'Quick Links' and choose 'Get New e-PAN'",
+  "Enter your Aadhaar number and confirm with the OTP",
+  "In DigiLocker, allow sharing of one date-of-birth document",
+  "Optionally validate your Aadhaar-linked email with an OTP",
+  "On success you get an Acknowledgement Number and an SMS on your mobile",
+  "Later use 'Check Status / Download e-PAN' with Aadhaar and OTP to view and download the e-PAN"
+ ],
+ "mistakes_hi": [
+  "PAN बनवाने के लिए किसी वेबसाइट/एजेंट को पैसे देना — यह सेवा मुफ़्त है",
+  "दूसरा PAN बनवाना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ incometax.gov.in इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying a website or agent to make a PAN — this service is free",
+  "Getting a second PAN",
+  "Fake websites/apps — use only incometax.gov.in"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को आयकर विभाग के Instant e-PAN FAQ से पुष्ट: पात्रता, अपात्र, मुफ़्त सेवा, DigiLocker से जन्मतिथि का दस्तावेज़, आवेदन और डाउनलोड के चरण",
+  "हेल्पलाइन नंबर इस FAQ में नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 10 Nov 2026 from the Income Tax Instant e-PAN FAQ: eligibility, ineligible persons, free service, date-of-birth document via DigiLocker, application and download steps",
+  "No helpline number in this FAQ"
+ ],
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "benefit_hi": "जिसके पास अभी PAN नहीं है, वह आयकर विभाग के ई-फ़ाइलिंग पोर्टल पर आधार और आधार से जुड़े मोबाइल के OTP से मुफ़्त में डिजिटल (e-PAN) पा सकता है। कोई फ़ीस नहीं लगती।",
+ "benefit_en": "Anyone who does not yet have a PAN can get a digital PAN (e-PAN) free on the Income Tax e-Filing portal using Aadhaar and an OTP on the Aadhaar-linked mobile. There is no fee."
+}

@@ -1,0 +1,78 @@
+{
+ "slug": "stand-up-india",
+ "hi": "स्टैंड-अप इंडिया (SC/ST और महिला उद्यमियों के लिए ऋण)",
+ "en": "Stand-Up India (loans for SC/ST and women entrepreneurs)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.standupmitra.in",
+ "source_name": "Stand-Up Mitra",
+ "tags": [
+  "business",
+  "woman"
+ ],
+ "kw": "stand up india loan sc st women entrepreneur mahila udyami ऋण महिला उद्यमी",
+ "what_hi": "₹10 लाख से ₹1 करोड़ तक का ऋण — नया (greenfield) उद्यम लगाने के लिए, विनिर्माण, सेवा या व्यापार में। लक्ष्य: हर बैंक शाखा कम से कम एक SC/ST और एक महिला उधारकर्ता को ऋण दिलाए।",
+ "what_en": "Loan of ₹10 lakh to ₹1 crore to set up a new (greenfield) enterprise in manufacturing, services or trading. Aim: each bank branch facilitates loans to at least one SC/ST and one woman borrower.",
+ "benefit_hi": "₹10 लाख से ₹1 करोड़ तक का ऋण — नया (greenfield) उद्यम लगाने के लिए, विनिर्माण, सेवा या व्यापार में। लक्ष्य: हर बैंक शाखा कम से कम एक SC/ST और एक महिला उधारकर्ता को ऋण दिलाए।",
+ "benefit_en": "Loan of ₹10 lakh to ₹1 crore to set up a new (greenfield) enterprise in manufacturing, services or trading. Aim: each bank branch facilitates loans to at least one SC/ST and one woman borrower.",
+ "who_hi": [
+  "SC/ST और/या महिला उद्यमी",
+  "कंपनी/फ़र्म जैसे गैर-व्यक्तिगत उद्यम में कम से कम 51% हिस्सेदारी और नियंत्रण SC/ST या महिला उद्यमी के पास",
+  "अन्य MSME का भी स्वागत है, पर कुछ हैंडहोल्डिंग सेवाएँ केवल Stand-Up India लाभार्थियों के लिए हो सकती हैं"
+ ],
+ "who_en": [
+  "SC/ST and/or women entrepreneurs",
+  "For non-individual enterprises, at least 51% shareholding and controlling stake held by an SC/ST or woman entrepreneur",
+  "Other MSMEs are also welcome, but some handholding services may be only for Stand-Up India beneficiaries"
+ ],
+ "not_hi": [
+  "ऋण-ब्याज दर और ज़मानत की शर्तें पोर्टल के उस पेज पर नहीं थीं — बैंक से पूछें",
+  "आवेदन के चरण उस पेज पर विस्तार से नहीं थे",
+  "सिर्फ़ नया उद्यम — पहले से चल रहे कारोबार का विस्तार इसमें नहीं बताया गया"
+ ],
+ "not_en": [
+  "Interest rate and collateral conditions were not on that page — ask the bank",
+  "Step-by-step application instructions were not detailed on that page",
+  "New enterprise only — expansion of an existing business is not mentioned"
+ ],
+ "docs_hi": [
+  "आवश्यक दस्तावेज़ों की सूची पोर्टल के उस पेज पर नहीं है — बैंक/पोर्टल से पूछें। आवेदन के बाद अतिरिक्त दस्तावेज़ पोर्टल पर अपलोड किए जा सकते हैं"
+ ],
+ "docs_en": [
+  "The page does not list required documents — ask the bank / portal. Additional documents can be uploaded on the portal after applying"
+ ],
+ "steps_hi": [
+  "standupmitra.in खोलें",
+  "हैंडहोल्डिंग एजेंसियाँ ऑनलाइन फ़ॉर्म भरने में मदद करती हैं — आप फ़ॉर्म आंशिक भरकर बाकी में मदद ले सकते हैं",
+  "लॉग-इन करके अपने पास की हैंडहोल्डिंग एजेंसियों के कार्यक्रम देखें",
+  "ऋण बैंक देता है — बैंक शाखा से भी संपर्क करें"
+ ],
+ "steps_en": [
+  "Open standupmitra.in",
+  "Handholding agencies help fill the online form — you can fill part and get help with the rest",
+  "Log in to see events by handholding agencies near you",
+  "The loan is given by a bank — also contact a bank branch"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को standupmitra.in से पुष्ट: ऋण ₹10 लाख–₹1 करोड़, उद्देश्य (greenfield), पात्रता/51% शर्त, हैंडहोल्डिंग सुविधा",
+  "ब्याज, ज़मानत, दस्तावेज़ और आवेदन के चरण पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from standupmitra.in on 13 Oct 2026: loan ₹10 lakh–₹1 crore, purpose (greenfield), eligibility / 51% condition, handholding facility",
+  "Interest, collateral, documents and application steps not confirmed"
+ ]
+}

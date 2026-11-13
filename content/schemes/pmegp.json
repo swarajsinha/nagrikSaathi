@@ -1,0 +1,108 @@
+{
+ "slug": "pmegp",
+ "hi": "पीएमईजीपी (नया उद्यम लगाने के लिए सब्सिडी वाला ऋण)",
+ "en": "PMEGP (subsidised loan to start a new enterprise)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 2,
+ "updated": "2026-11-10",
+ "source_url": "https://msme.gov.in/sites/default/files/Revisedguidelines07.12.2023.pdf",
+ "source_name": "सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय — संशोधित दिशानिर्देश (7 दिसंबर 2023); PIB 30 मई 2022; पोर्टल pmegp.msme.gov.in",
+ "tags": [
+  "business",
+  "unemployed"
+ ],
+ "kw": "pmegp kvic self employment udyog rozgar loan subsidy margin money स्वरोज़गार सब्सिडी नया उद्योग मार्जिन मनी",
+ "what_hi": "नया उद्यम लगाने के लिए बैंक ऋण के साथ मार्जिन मनी सब्सिडी। अधिकतम परियोजना लागत: विनिर्माण ₹50 लाख, सेवा/व्यापार ₹20 लाख। सब्सिडी (PIB 2022): विशेष श्रेणी में शहरी 25%, ग्रामीण 35%; सामान्य श्रेणी में शहरी 15%, ग्रामीण 25%। आवेदन सिर्फ़ PMEGP पोर्टल पर ऑनलाइन।",
+ "what_en": "Bank loan with margin-money subsidy to set up a new enterprise. Maximum project cost: manufacturing ₹50 lakh, service / business ₹20 lakh. Subsidy (PIB 2022): special category 25% urban, 35% rural; general category 15% urban, 25% rural. Apply only online on the PMEGP portal.",
+ "benefit_hi": "नया उद्यम लगाने के लिए बैंक ऋण के साथ मार्जिन मनी सब्सिडी। अधिकतम परियोजना लागत: विनिर्माण ₹50 लाख, सेवा/व्यापार ₹20 लाख। सब्सिडी (PIB 2022): विशेष श्रेणी में शहरी 25%, ग्रामीण 35%; सामान्य श्रेणी में शहरी 15%, ग्रामीण 25%। आवेदन सिर्फ़ PMEGP पोर्टल पर ऑनलाइन।",
+ "benefit_en": "Bank loan with margin-money subsidy to set up a new enterprise. Maximum project cost: manufacturing ₹50 lakh, service / business ₹20 lakh. Subsidy (PIB 2022): special category 25% urban, 35% rural; general category 15% urban, 25% rural. Apply only online on the PMEGP portal.",
+ "who_hi": [
+  "18 साल से ऊपर का कोई भी व्यक्ति; आय की कोई सीमा नहीं",
+  "₹10 लाख से ऊपर की विनिर्माण परियोजना या ₹5 लाख से ऊपर की सेवा/व्यापार परियोजना के लिए कम से कम 8वीं पास",
+  "पहले PMRY/REGP या किसी सरकारी योजना में बनी या सब्सिडी पा चुकी इकाई पात्र नहीं",
+  "परिवार (स्वयं और जीवनसाथी) से सिर्फ़ एक व्यक्ति को सहायता; बिना पूँजीगत खर्च की परियोजना और ज़मीन की लागत परियोजना-लागत में नहीं",
+  "भौतिक सत्यापन और मार्जिन मनी समायोजन से पहले उद्यम (Udyam) पंजीकरण अनिवार्य",
+  "विशेष श्रेणी: SC, ST, OBC, महिला, ट्रांसजेंडर, दिव्यांग, पूर्वोत्तर, आकांक्षी ज़िले और सीमावर्ती ज़िले के आवेदक"
+ ],
+ "who_en": [
+  "Any individual above 18 years; no income ceiling",
+  "At least 8th pass for manufacturing projects above ₹10 lakh or service / business projects above ₹5 lakh",
+  "Units already set up under PMRY / REGP or any government scheme, or that have taken a subsidy, are not eligible",
+  "Only one person per family (self and spouse); projects with no capital expenditure and land cost are not counted",
+  "Udyam registration is mandatory before physical verification and margin-money adjustment",
+  "Special category: SC, ST, OBC, women, transgender, physically disabled, North Eastern Region, aspirational-district and border-district applicants"
+ ],
+ "not_hi": [
+  "योजना चालू है: 28 अक्टूबर 2026 को केंद्र सरकार ने वित्त वर्ष 2026-27 के लिए ₹1,000 करोड़ की मार्जिन मनी सब्सिडी जारी की (11,333 नए उद्यम); इससे पहले 2026-27 में 25,895 उद्यमों को सहायता मिल चुकी थी। 2026 के बाद की नई अवधि के दिशानिर्देश अलग से जारी हुए हों तो सब्सिडी दरें बदल सकती हैं — पोर्टल pmegp.msme.gov.in पर जाँचें",
+  "स्वयं के योगदान के प्रतिशत उस दस्तावेज़ की पाठ-निकासी में साफ़ नहीं थे — बैंक/पोर्टल से देखें",
+  "आवेदन के बाद एजेंसी 5 कार्य-दिवस में जाँच करती है; स्कोर कम से कम 50/100 (₹10 लाख तक) या 60/100 (₹10 लाख से ऊपर) हो तो बैंक को भेजती है",
+  "बैंक से ऋण मिलने से पहले EDP (उद्यमिता विकास) प्रशिक्षण पूरा करना होता है"
+ ],
+ "not_en": [
+  "The scheme is running: on 28 October 2026 the Central Government released ₹1,000 crore Margin Money subsidy for FY 2026-27 (11,333 new enterprises); 25,895 enterprises had already been assisted in 2026-27 before that. If new guidelines are issued for the period after 2026, subsidy rates may change — check pmegp.msme.gov.in",
+  "Own-contribution percentages were not clear in the text extraction — check with the bank / portal",
+  "After applying, the agency scrutinises within 5 working days; forwards to the bank if the score is at least 50/100 (up to ₹10 lakh) or 60/100 (above ₹10 lakh)",
+  "EDP (entrepreneurship development) training must be completed before the bank releases the loan"
+ ],
+ "docs_hi": [
+  "जाति प्रमाणपत्र और (ज़रूरत हो तो) विशेष श्रेणी प्रमाणपत्र",
+  "ग्रामीण क्षेत्र प्रमाणपत्र",
+  "परियोजना रिपोर्ट",
+  "शिक्षा/EDP/कौशल प्रशिक्षण प्रमाणपत्र",
+  "फ़ोटो और आधार नंबर"
+ ],
+ "docs_en": [
+  "Caste certificate and (if needed) special-category certificate",
+  "Rural-area certificate",
+  "Project report",
+  "Education / EDP / skill-training certificate",
+  "Photo and Aadhaar number"
+ ],
+ "steps_hi": [
+  "PMEGP पोर्टल पर रजिस्टर करें (आधार अनिवार्य, UIDAI से प्रमाणीकरण) — यूज़र आईडी/पासवर्ड मिलेगा",
+  "नए उद्यम या उन्नयन का अलग फ़ॉर्म भरें और दस्तावेज़ अपलोड करें",
+  "अंतिम जमा पर आवेदन आईडी मिलती है",
+  "एजेंसी (KVIC/राज्य KVIB/ज़िला उद्योग केंद्र) जाँचकर बैंक को भेजती है",
+  "स्वीकृति-पत्र के 30 कार्य-दिवस में अपना योगदान और EDP प्रमाणपत्र बैंक में जमा करें",
+  "एजेंट या दलाल को पैसे न दें"
+ ],
+ "steps_en": [
+  "Register on the PMEGP portal (Aadhaar mandatory, authenticated with UIDAI) — you get a user ID / password",
+  "Fill the separate form for a new unit or upgradation and upload documents",
+  "Final submission gives an Application ID",
+  "The agency (KVIC / State KVIB / DIC) scrutinises and forwards to the bank",
+  "Within 30 working days of the sanction letter, submit your contribution and EDP certificate to the bank",
+  "Do not pay any agent or middleman"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को MSME मंत्रालय के संशोधित दिशानिर्देश (7 दिसंबर 2023) से पुष्ट: पात्रता, परियोजना-लागत, दस्तावेज़, ऑनलाइन आवेदन-प्रक्रिया, स्कोर-सीमा",
+  "PIB (30 मई 2022): सब्सिडी दरें",
+  "10 नवंबर 2026 को DD News (प्रसार भारती, PIB इनपुट, 29 अक्टूबर 2026) से पुष्ट: योजना वित्त वर्ष 2026-27 में चल रही है और सब्सिडी जारी हो रही है",
+  "2026 के बाद की औपचारिक अवधि-मंज़ूरी का दस्तावेज़ नहीं मिला"
+ ],
+ "conf_en": [
+  "Confirmed from the Ministry of MSME revised guidelines (7 Dec 2023) on 13 Oct 2026: eligibility, project cost, documents, online application process, score thresholds",
+  "PIB (30 May 2022): subsidy rates",
+  "Confirmed on 10 Nov 2026 from DD News (Prasar Bharati, PIB inputs, 29 Oct 2026): the scheme is running in FY 2026-27 and subsidy is being released",
+  "No document on the formal approval of the period after 2026 was found"
+ ],
+ "more": [
+  [
+   "https://ddnews.gov.in/en/jitan-ram-manjhi-releases-%e2%82%b91000-crore-pmegp-subsidy-to-support-11333-new-micro-enterprises/",
+   "DD News — PMEGP में ₹1,000 करोड़ सब्सिडी जारी (29 अक्टूबर 2026)"
+  ]
+ ]
+}

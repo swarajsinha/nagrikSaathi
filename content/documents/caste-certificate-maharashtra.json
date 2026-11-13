@@ -1,0 +1,80 @@
+{
+ "slug": "caste-certificate-maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "tags": [
+  "certificate"
+ ],
+ "hi": "जाति प्रमाणपत्र — महाराष्ट्र (आपले सरकार)",
+ "en": "Caste certificate — Maharashtra (Aaple Sarkar)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "state": "Maharashtra",
+ "source_url": "https://aaplesarkar.mahaonline.gov.in/mr/Login/Certificate_Documents?ServiceId=1284",
+ "source_name": "आपले सरकार (MahaOnline), महसूल विभाग — सेवा पृष्ठ",
+ "kw": "caste certificate jati pramanpatra maharashtra aaple sarkar जाति प्रमाणपत्र जातीचे प्रमाणपत्र",
+ "what_hi": "महाराष्ट्र में जाति प्रमाणपत्र (जातीचे प्रमाणपत्र) आपले सरकार पोर्टल की महसूल विभाग की सेवा है। पृष्ठ पर समय-सीमा 45 दर्ज है (इकाई नहीं लिखी)। जारी करने वाला अधिकारी: उपविभागीय अधिकारी / उप-कलेक्टर। पहचान और पते का प्रमाण कम से कम एक-एक देना होता है, साथ में \"अन्य दस्तावेज़\" में से कम से कम एक।",
+ "what_en": "In Maharashtra the caste certificate is a Revenue Department service on the Aaple Sarkar portal. The page lists a time limit of 45 (unit not written). Issuing officer: Sub-Divisional Officer / Deputy Collector. You must give at least one proof of identity, one proof of address and at least one from the \"other documents\" list.",
+ "who_hi": [
+  "महाराष्ट्र के निवासी, जिन्हें जाति का प्रमाणपत्र चाहिए"
+ ],
+ "who_en": [
+  "Residents of Maharashtra who need a caste certificate"
+ ],
+ "not_hi": [
+  "शुल्क पृष्ठ पर नहीं बताया गया",
+  "\"अन्य दस्तावेज़\" की सूची बहुत लंबी है (52 विकल्प) — आपके मामले में कौन-सा चाहिए, यह आवेदन के समय पोर्टल या तहसील/उपविभागीय कार्यालय से पूछें",
+  "पृष्ठ पर MAITRI पोर्टल पर कुछ सेवाओं के जाने का नोटिस है; पृष्ठ यह नहीं कहता कि जाति प्रमाणपत्र वहाँ गया है"
+ ],
+ "not_en": [
+  "The fee is not stated on the page",
+  "The \"other documents\" list is very long (52 options) — which one applies to you, ask on the portal or at the Tehsil / Sub-Divisional office",
+  "The page carries a notice that some services moved to MAITRI; it does not say the caste certificate has"
+ ],
+ "docs_hi": [
+  "पहचान का प्रमाण (कम से कम 1): पैन कार्ड, पासपोर्ट, RSBY कार्ड, मनरेगा जॉब कार्ड, ड्राइविंग लाइसेंस, आवेदक की फ़ोटो, सरकारी/अर्ध-सरकारी संस्था का पहचान-पत्र",
+  "पते का प्रमाण (कम से कम 1): पासपोर्ट, पानी का बिल, राशन कार्ड, आधार कार्ड, वोटर आईडी, टेलीफ़ोन बिल, ड्राइविंग लाइसेंस, बिजली का बिल, संपत्ति कर रसीद, 7/12 और 8A उतारा / किराये की रसीद",
+  "अन्य दस्तावेज़ (कम से कम 1) — उदाहरण पृष्ठ से: शपथ-पत्र, स्कूल छोड़ने का प्रमाणपत्र (आवेदक/पिता/दादा का), पिता का जाति प्रमाणपत्र, जाति वैधता, 7/12 या 8A उतारा, राशन कार्ड और मतदाता फ़ोटो पहचान-पत्र की प्रति, तलाठी/सरपंच/पुलिस पाटिल की जाँच रिपोर्ट",
+  "पूरी सूची आवेदन के समय पोर्टल पर देखें"
+ ],
+ "docs_en": [
+  "Proof of identity (at least 1): PAN card, passport, RSBY card, MNREGA job card, driving licence, applicant photo, ID card issued by a government / semi-government body",
+  "Proof of address (at least 1): passport, water bill, ration card, Aadhaar card, voter ID, telephone bill, driving licence, electricity bill, property-tax receipt, 7/12 and 8A extract / rent receipt",
+  "Other documents (at least 1) — examples from the page: affidavit, school-leaving certificate (applicant / father / grandfather), father's caste certificate, caste validity, 7/12 or 8A extract, copy of ration card and voter photo ID, enquiry report of Talathi / Sarpanch / Police Patil",
+  "See the full list on the portal when applying"
+ ],
+ "steps_hi": [
+  "आपले सरकार पर सेवा \"Caste Certificate\" चुनें",
+  "ऊपर की तीनों श्रेणियों में से कागज़ तैयार रखकर आवेदन भरें — पृष्ठ के अनुसार पोर्टल से सेवा के लिए दफ़्तर जाना ज़रूरी नहीं, जब तक क़ानून न माँगे",
+  "देरी या अस्वीकार होने पर अपील: पहली अपर कलेक्टर को, दूसरी कलेक्टर को, तीसरी आयोग को",
+  "मदद: 1800 120 8040 (24x7, टोल-फ़्री)"
+ ],
+ "steps_en": [
+  "On Aaple Sarkar choose the service \"Caste Certificate\"",
+  "Keep papers from the three categories above ready and fill the application — per the page no office visit is needed for services on the portal unless the law requires one",
+  "If delayed or rejected, appeal: first to the Additional Collector, second to the Collector, third to the commission",
+  "Help: 1800 120 8040 (24x7, toll-free)"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना — सरकारी पोर्टल पर आवेदन खुद या सेवा केंद्र से हो सकता है",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman — you can apply yourself or at a service centre",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites — use only the official address"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को आपले सरकार के सेवा-पृष्ठ से पुष्ट: दस्तावेज़ श्रेणियाँ और सूचियाँ, अधिकारी, अपील क्रम, समय-सीमा (इकाई नहीं), कॉल सेंटर",
+  "शुल्क और MAITRI स्थानांतरण पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the Aaple Sarkar service page: document categories and lists, officers, appeal order, time limit (no unit), call centre",
+  "Fee and any move to MAITRI not confirmed"
+ ],
+ "benefit_hi": "महाराष्ट्र में जाति प्रमाणपत्र (जातीचे प्रमाणपत्र) आपले सरकार पोर्टल की महसूल विभाग की सेवा है। पृष्ठ पर समय-सीमा 45 दर्ज है (इकाई नहीं लिखी)। जारी करने वाला अधिकारी: उपविभागीय अधिकारी / उप-कलेक्टर। पहचान और पते का प्रमाण कम से कम एक-एक देना होता है, साथ में \"अन्य दस्तावेज़\" में से कम से कम एक।",
+ "benefit_en": "In Maharashtra the caste certificate is a Revenue Department service on the Aaple Sarkar portal. The page lists a time limit of 45 (unit not written). Issuing officer: Sub-Divisional Officer / Deputy Collector. You must give at least one proof of identity, one proof of address and at least one from the \"other documents\" list."
+}

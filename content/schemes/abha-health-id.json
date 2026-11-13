@@ -1,0 +1,73 @@
+{
+ "slug": "abha-health-id",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "आभा (ABHA) — आपका डिजिटल स्वास्थ्य खाता",
+ "en": "ABHA — your digital health account",
+ "tags": [
+  "health"
+ ],
+ "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2017129&reg=3&lang=2",
+ "source_name": "PIB / स्वास्थ्य मंत्रालय — ABHA पर स्पष्टीकरण (4 अप्रैल 2024)",
+ "kw": "abha health id ayushman bharat digital mission abdm health account आभा हेल्थ आईडी स्वास्थ्य खाता",
+ "what_hi": "ABHA 14 अंकों का नंबर है जो किसी व्यक्ति के सभी स्वास्थ्य रिकॉर्ड को जोड़ता है। आयुष्मान भारत डिजिटल मिशन (ABDM) में कोई भी व्यक्ति मुफ़्त नामांकन कर सकता है। यह स्वास्थ्य बीमा नहीं है — PIB के अनुसार ABHA से अपने-आप AB-PMJAY की पात्रता नहीं बनती।",
+ "what_en": "ABHA is a 14-digit number that links all of a person's health records. Any individual can enrol in the Ayushman Bharat Digital Mission (ABDM) free of cost. It is not health insurance — per PIB, ABHA does not by itself make a person eligible for AB-PMJAY.",
+ "who_hi": [
+  "कोई भी व्यक्ति ABDM में मुफ़्त नामांकन कर सकता है (PIB)"
+ ],
+ "who_en": [
+  "Any individual can enrol in ABDM free of cost (PIB)"
+ ],
+ "not_hi": [
+  "ABHA कोई बीमा या इलाज की सहायता राशि नहीं है; इससे PMJAY की पात्रता अपने-आप नहीं बनती",
+  "आम नागरिक के लिए नामांकन के सभी तरीक़े इस PIB पेज पर नहीं हैं; इसमें CGHS लाभार्थियों का तरीक़ा दिया है — बाकी के लिए abdm.gov.in देखें",
+  "निजी अस्पताल ABHA का उपयोग करें या नहीं, यह उनकी मर्ज़ी है (PIB)"
+ ],
+ "not_en": [
+  "ABHA is not insurance or treatment aid; it does not automatically make you eligible for PMJAY",
+  "This PIB page does not list every enrolment route for ordinary citizens; it gives the method for CGHS beneficiaries — for others see abdm.gov.in",
+  "Private providers can choose whether to use ABHA (PIB)"
+ ],
+ "docs_hi": [
+  "आधार कार्ड, और आधार से जुड़ा मोबाइल नंबर (PIB के उदाहरण में OTP इसी नंबर पर आता है)"
+ ],
+ "docs_en": [
+  "Aadhaar card and the mobile number linked to Aadhaar (in the PIB example the OTP goes to this number)"
+ ],
+ "steps_hi": [
+  "PIB के उदाहरण (CGHS लाभार्थी) में: CGHS वेबसाइट पर लॉग-इन करें, \"Update\" टैब में \"Create/Link ABHA ID\" चुनें, आधार नंबर डालें, सहमति स्वीकारें और आधार से जुड़े फ़ोन पर आया OTP डालें",
+  "पहले से ABHA हो तो उसका 14 अंकों वाला नंबर डालकर OTP से सत्यापित करें",
+  "अन्य लोग: आधिकारिक पोर्टल abdm.gov.in देखें",
+  "OTP केवल आधिकारिक पेज/ऐप पर ही डालें"
+ ],
+ "steps_en": [
+  "In the PIB example (CGHS beneficiary): log in to the CGHS website, choose \"Create/Link ABHA ID\" in the \"Update\" tab, enter your Aadhaar number, accept the consent and enter the OTP sent to your Aadhaar-linked phone",
+  "If you already have an ABHA, enter the 14-digit number and verify with OTP",
+  "Others: see the official portal abdm.gov.in",
+  "Enter the OTP only on the official page / app"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (4 अप्रैल 2024) से पुष्ट: ABHA क्या है, मुफ़्त नामांकन, लाभ, सहमति और गोपनीयता के बिंदु, PMJAY से संबंध",
+  "आम नागरिकों के लिए नामांकन का पूरा तरीक़ा और ABDM ऐप के चरण पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (4 Apr 2024): what ABHA is, free enrolment, benefits, consent and privacy points, relation to PMJAY",
+  "The full enrolment method for ordinary citizens and ABDM app steps are not confirmed"
+ ],
+ "benefit_hi": "ABHA 14 अंकों का नंबर है जो किसी व्यक्ति के सभी स्वास्थ्य रिकॉर्ड को जोड़ता है। आयुष्मान भारत डिजिटल मिशन (ABDM) में कोई भी व्यक्ति मुफ़्त नामांकन कर सकता है। यह स्वास्थ्य बीमा नहीं है — PIB के अनुसार ABHA से अपने-आप AB-PMJAY की पात्रता नहीं बनती।",
+ "benefit_en": "ABHA is a 14-digit number that links all of a person's health records. Any individual can enrol in the Ayushman Bharat Digital Mission (ABDM) free of cost. It is not health insurance — per PIB, ABHA does not by itself make a person eligible for AB-PMJAY."
+}

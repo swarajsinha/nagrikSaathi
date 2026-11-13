@@ -1,0 +1,46 @@
+{
+ "slug": "fake-job-offer",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 2,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "All India",
+ "tags": [
+  "scam"
+ ],
+ "hi": "नकली नौकरी / कमाई का ऑफ़र",
+ "en": "Fake job / earning offers",
+ "kw": "fake job offer registration fee training ठगी नौकरी लॉटरी lottery",
+ "source_url": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+ "source_name": "RBI Ombudsman — \"BE(A)WARE\" पुस्तिका (तारीख़ अंकित नहीं)",
+ "more": [],
+ "how_hi": "नौकरी के नाम पर रजिस्ट्रेशन या ट्रेनिंग फ़ीस माँगी जाती है, या फ़र्ज़ी जॉब साइट पर बैंक की जानकारी ली जाती है। लॉटरी के संदेश इनाम छुड़ाने के लिए फ़ीस, टैक्स या बैंक विवरण माँगते हैं।",
+ "how_en": "Fake job offers ask for registration or training payments, or capture bank details on fake job sites. Lottery messages ask for a fee, tax or bank details to release a prize.",
+ "signs_hi": [
+  "नौकरी देने के बदले पैसे की माँग",
+  "लॉटरी/इनाम छुड़ाने के लिए फ़ीस या टैक्स",
+  "जॉब साइट पर बैंक की जानकारी माँगना"
+ ],
+ "signs_en": [
+  "Money demanded to give a job",
+  "Fee or tax demanded to release a lottery / prize",
+  "A job site asking for bank details"
+ ],
+ "dont_hi": [
+  "नौकरी देने वाली असली कंपनी नौकरी के बदले कभी पैसे नहीं माँगती (RBI) — पैसे न दें",
+  "लॉटरी कॉल/ईमेल के जवाब में भुगतान न करें और सुरक्षित जानकारी न दें (RBI)"
+ ],
+ "dont_en": [
+  "A genuine company offering a job never asks for money for it (RBI) — do not pay",
+  "Do not make payments or share secure credentials in response to lottery calls / emails (RBI)"
+ ],
+ "do_hi": [
+  "ठगी हो जाए तो तुरंत हेल्पलाइन 1930 पर कॉल करें या cybercrime.gov.in पर शिकायत करें (गृह मंत्रालय/PIB के अनुसार)"
+ ],
+ "do_en": [
+  "If you are defrauded, call helpline 1930 or file a complaint on cybercrime.gov.in immediately (per Ministry of Home Affairs / PIB)"
+ ],
+ "what_hi": "नौकरी के नाम पर रजिस्ट्रेशन या ट्रेनिंग फ़ीस माँगी जाती है, या फ़र्ज़ी जॉब साइट पर बैंक की जानकारी ली जाती है। लॉटरी के संदेश इनाम छुड़ाने के लिए फ़ीस, टैक्स या बैंक विवरण माँगते हैं।",
+ "what_en": "Fake job offers ask for registration or training payments, or capture bank details on fake job sites. Lottery messages ask for a fee, tax or bank details to release a prize."
+}

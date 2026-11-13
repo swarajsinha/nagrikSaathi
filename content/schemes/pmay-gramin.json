@@ -1,0 +1,81 @@
+{
+ "slug": "pmay-gramin",
+ "hi": "प्रधानमंत्री आवास योजना – ग्रामीण (गाँव में पक्का घर)",
+ "en": "PM Awas Yojana – Gramin (pucca house in a village)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2080091",
+ "source_name": "PIB (भारत सरकार): नवंबर 2024 दस्तावेज़ और 3 दिसंबर 2024 की विज्ञप्ति; पोर्टल pmayg.nic.in",
+ "tags": [
+  "housing"
+ ],
+ "kw": "pmay gramin awas rural house ghar gaon pucca makan आवास योजना ग्रामीण घर मकान",
+ "what_hi": "बेघर या कच्चे घर में रहने वाले ग्रामीण परिवारों को घर बनाने के लिए सहायता: मैदानी इलाक़ों में ₹1.20 लाख, पूर्वोत्तर/पहाड़ी राज्यों और J&K-लद्दाख में ₹1.30 लाख। साथ में शौचालय के लिए ₹12,000 तक (स्वच्छ भारत मिशन-ग्रामीण) और मनरेगा के 95 दिन का काम।",
+ "what_en": "Help for rural households that are houseless or live in kuccha houses to build a house: ₹1.20 lakh in plain areas, ₹1.30 lakh in North-East / hill states and J&K–Ladakh. Plus up to ₹12,000 for a toilet (Swachh Bharat Mission-Gramin) and 95 days of MGNREGA work.",
+ "benefit_hi": "बेघर या कच्चे घर में रहने वाले ग्रामीण परिवारों को घर बनाने के लिए सहायता: मैदानी इलाक़ों में ₹1.20 लाख, पूर्वोत्तर/पहाड़ी राज्यों और J&K-लद्दाख में ₹1.30 लाख। साथ में शौचालय के लिए ₹12,000 तक (स्वच्छ भारत मिशन-ग्रामीण) और मनरेगा के 95 दिन का काम।",
+ "benefit_en": "Help for rural households that are houseless or live in kuccha houses to build a house: ₹1.20 lakh in plain areas, ₹1.30 lakh in North-East / hill states and J&K–Ladakh. Plus up to ₹12,000 for a toilet (Swachh Bharat Mission-Gramin) and 95 days of MGNREGA work.",
+ "who_hi": [
+  "बेघर परिवार, या कच्ची दीवार-छत वाले, या 0/1/2 कमरों के घर में रहने वाले परिवार (SECC 2011 के अनुसार)",
+  "निराश्रित परिवार, मैला ढोने वाले, आदिम जनजाति समूह और मुक्त कराए गए बंधुआ मज़दूर स्वतः शामिल",
+  "स्वतः बहिष्करण (3 दिसंबर 2024 की PIB विज्ञप्ति): मोटरचालित तिपहिया/चौपहिया वाहन; मशीनीकृत तिपहिया/चौपहिया कृषि उपकरण; ₹50,000 या अधिक सीमा वाला किसान क्रेडिट कार्ड; परिवार का कोई सदस्य सरकारी कर्मचारी; सरकार में पंजीकृत गैर-कृषि उद्यम; किसी सदस्य की मासिक आय ₹15,000 से अधिक (पहले ₹10,000); आयकर या व्यवसाय कर देना; 2.5 एकड़ या अधिक सिंचित भूमि; 5 एकड़ या अधिक असिंचित भूमि",
+  "फ्रिज, लैंडलाइन फ़ोन, मशीनीकृत दोपहिया और मशीनीकृत मछली-नाव को बहिष्करण-सूची से हटा दिया गया है (उसी विज्ञप्ति के अनुसार)"
+ ],
+ "who_en": [
+  "Houseless households, or those in kuccha walls/roof houses, or in houses with 0/1/2 rooms (per SECC 2011)",
+  "Destitute households, manual scavengers, primitive tribal groups and released bonded labourers are automatically included",
+  "Automatic exclusions (PIB release of 3 Dec 2024): motorised three/four-wheeler; mechanised three/four-wheeler farm equipment; Kisan Credit Card with limit ₹50,000+; any member a government employee; government-registered non-agricultural enterprise; any member earning above ₹15,000 a month (earlier ₹10,000); paying income tax or professional tax; 2.5 acres or more of irrigated land; 5 acres or more of unirrigated land",
+  "Refrigerator, landline phone, mechanised two-wheeler and mechanised fishing boat have been removed from the exclusion list (per the same release)"
+ ],
+ "not_hi": [
+  "सबसे नए सरकारी दस्तावेज़ जो मुझे मिले वे नवंबर–दिसंबर 2024 के हैं; उसके बाद की किसी तारीख़ का बदलाव नहीं मिला। आवेदन से पहले pmayg.nic.in पर जाँचें",
+  "घर का न्यूनतम आकार 25 वर्ग मीटर (खाना पकाने की जगह सहित)",
+  "दस्तावेज़ में हेल्पलाइन नंबर नहीं दिया गया",
+  "⚠️ इस दस्तावेज़ का 'मनरेगा के 95 दिन' नवंबर 2024 का है; मनरेगा 1 जुलाई 2026 से निरस्त है और उसकी जगह 'विकसित भारत – जी राम जी' लागू है (उसका पेज देखें) — चालू व्यवस्था पंचायत से पूछें"
+ ],
+ "not_en": [
+  "The newest government documents I found are from Nov–Dec 2024; I found no later change. Check pmayg.nic.in before applying",
+  "Minimum house size 25 sq. m (including a cooking area)",
+  "The document gives no helpline number",
+  "⚠️ The 'MGNREGA 95 days' in this document dates from Nov 2024; MGNREGA stands repealed from 1 July 2026 and 'Viksit Bharat – G RAM G' applies (see its page) — ask the panchayat about the current arrangement"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ग्राम पंचायत/ब्लॉक कार्यालय से पूछें (आम तौर पर पहचान और बैंक खाते की जानकारी चाहिए होती है, पर यहाँ पुष्ट नहीं)"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the gram panchayat / block office (identity and bank account details are commonly needed, but that is not confirmed here)"
+ ],
+ "steps_hi": [
+  "अपनी ग्राम पंचायत या ब्लॉक विकास कार्यालय से पूछें कि आपका परिवार SECC/Awaas+ सूची में है या नहीं",
+  "सूची में नाम हो तो पंचायत स्तर पर आगे की प्रक्रिया बताई जाएगी",
+  "आधिकारिक पोर्टल pmayg.nic.in पर जानकारी और ऑनलाइन पंजीकरण लिंक देखें",
+  "घर या नाम जुड़वाने के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your gram panchayat or Block Development Office whether your household is on the SECC / Awaas+ list",
+  "If your name is on it, the panchayat will tell you the next steps",
+  "See information and the online registration link on the official portal pmayg.nic.in",
+  "Do not pay anyone to get a house or add your name"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को PIB (भारत सरकार) से पुष्ट: पात्र परिवार, सहायता राशि, मनरेगा दिन, शौचालय सहायता, चयन-प्रक्रिया (नवंबर 2024) और बहिष्करण-मानदंड (3 दिसंबर 2024)",
+  "आधिकारिक पोर्टल स्वचालित पहुँच रोकता है; दस्तावेज़-सूची और ऑनलाइन प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (Government of India) on 13 Oct 2026: eligible households, assistance, MGNREGA days, toilet assistance, selection process (Nov 2024) and exclusion criteria (3 Dec 2024)",
+  "The official portal blocks automated access; document list and online process not confirmed"
+ ]
+}

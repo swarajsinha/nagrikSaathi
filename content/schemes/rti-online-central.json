@@ -1,0 +1,73 @@
+{
+ "slug": "rti-online-central",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — DoPT",
+ "tags": [
+  "rights"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "hi": "सूचना का अधिकार (RTI) — केंद्र सरकार के लिए ऑनलाइन आवेदन",
+ "en": "Right to Information (RTI) — online application for Central Government",
+ "source_url": "https://rtionline.gov.in/guidelines.php?request=",
+ "source_name": "RTI Online पोर्टल — दिशानिर्देश (rtionline.gov.in)",
+ "kw": "rti online right to information application first appeal central government सूचना का अधिकार आरटीआई ऑनलाइन",
+ "what_hi": "RTI Online पोर्टल से भारत के नागरिक केंद्र सरकार के सभी मंत्रालयों/विभागों और अन्य केंद्रीय सार्वजनिक प्राधिकरणों को RTI आवेदन और प्रथम अपील ऑनलाइन भेज सकते हैं। भुगतान इंटरनेट बैंकिंग, डेबिट/क्रेडिट कार्ड (Master/Visa), RuPay और UPI से होता है।",
+ "what_en": "Through the RTI Online portal Indian citizens can file RTI applications and first appeals online to all Central Government ministries / departments and other central public authorities. Payment is by internet banking, debit / credit cards (Master / Visa), RuPay and UPI.",
+ "who_hi": [
+  "भारत के नागरिक"
+ ],
+ "who_en": [
+  "Indian citizens"
+ ],
+ "not_hi": [
+  "यह पोर्टल सिर्फ़ केंद्र सरकार के प्राधिकरणों के लिए है। राज्य सरकार के प्राधिकरणों के लिए RTI/अपील इस पर न भेजें — पोर्टल के अनुसार ऐसे आवेदन बिना वापसी के लौटा दिए जाते हैं",
+  "शुल्क की राशि, BPL छूट और शब्द-सीमा इस पेज पर नहीं दी गई — आवेदन भरते समय पोर्टल पर देखें",
+  "राज्य (जैसे महाराष्ट्र, मध्य प्रदेश) के विभाग से जानकारी के लिए उस राज्य की RTI व्यवस्था देखें"
+ ],
+ "not_en": [
+  "This portal is only for Central Government authorities. Do not file RTI / appeals for State Government authorities here — per the portal such applications are returned without refund",
+  "The fee amount, any BPL exemption and word limit are not on this page — see them on the portal while filing",
+  "For a State department (e.g. Maharashtra, Madhya Pradesh) use that State's RTI system"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — पोर्टल पर आवेदन-फ़ॉर्म देखें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — see the application form on the portal"
+ ],
+ "steps_hi": [
+  "rtionline.gov.in खोलें और \"Submit Request\" से पहले निर्देश ध्यान से पढ़ें",
+  "आवेदन भरें और ऑनलाइन भुगतान करें",
+  "जवाब से असंतुष्ट हों तो उसी पोर्टल पर \"Submit First Appeal\" से प्रथम अपील करें",
+  "दूसरी अपील केंद्रीय सूचना आयोग (CIC) में होती है — पोर्टल उसकी ऑनलाइन प्रणाली से जुड़ा है; प्रथम अपील का पंजीकरण नंबर, ईमेल और दाख़िल करने की तारीख़ डालनी होती है"
+ ],
+ "steps_en": [
+  "Open rtionline.gov.in and read the instructions carefully before \"Submit Request\"",
+  "Fill the application and pay online",
+  "If unhappy with the reply, file a first appeal on the same portal via \"Submit First Appeal\"",
+  "A second appeal goes to the Central Information Commission (CIC) — the portal links to its online system; you enter the first-appeal registration number, email and filing date"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को RTI Online पोर्टल के दिशानिर्देश-पेज से पुष्ट: कौन आवेदन कर सकता है, कौन-से प्राधिकरण, भुगतान के तरीक़े, प्रथम और द्वितीय अपील",
+  "शुल्क, BPL छूट, शब्द-सीमा और चरण-दर-चरण प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the RTI Online guidelines page: who can apply, which authorities, payment modes, first and second appeals",
+  "Fee, BPL exemption, word limit and step-by-step process not confirmed"
+ ],
+ "benefit_hi": "RTI Online पोर्टल से भारत के नागरिक केंद्र सरकार के सभी मंत्रालयों/विभागों और अन्य केंद्रीय सार्वजनिक प्राधिकरणों को RTI आवेदन और प्रथम अपील ऑनलाइन भेज सकते हैं। भुगतान इंटरनेट बैंकिंग, डेबिट/क्रेडिट कार्ड (Master/Visa), RuPay और UPI से होता है।",
+ "benefit_en": "Through the RTI Online portal Indian citizens can file RTI applications and first appeals online to all Central Government ministries / departments and other central public authorities. Payment is by internet banking, debit / credit cards (Master / Visa), RuPay and UPI."
+}

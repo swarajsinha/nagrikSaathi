@@ -1,0 +1,92 @@
+{
+ "slug": "aaple-sarkar-maharashtra",
+ "hi": "आपले सरकार (महाराष्ट्र की ऑनलाइन सरकारी सेवाएँ)",
+ "en": "Aaple Sarkar (Maharashtra online government services)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "state": "Maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://aaplesarkar.mahaonline.gov.in/",
+ "source_name": "आपले सरकार पोर्टल",
+ "tags": [
+  "other",
+  "worker",
+  "student"
+ ],
+ "kw": "aaple sarkar maha online certificate income caste domicile ration card maharashtra आपले सरकार प्रमाणपत्र आय जाति निवास राशन कार्ड महाराष्ट्र",
+ "what_hi": "महाराष्ट्र सरकार के कई विभागों की सेवाएँ एक पोर्टल पर: आय, जाति, अधिवास, नॉन-क्रीमी लेयर, वरिष्ठ नागरिक प्रमाणपत्र, जन्म/मृत्यु/विवाह पंजीकरण, नया राशन कार्ड, दिव्यांग पहचान पत्र, संजय गांधी निराधार योजना, पुलिस क्लीयरेंस और ज़मीन के रिकॉर्ड आदि।",
+ "what_en": "Services of many Maharashtra departments on one portal: income, caste, domicile, non-creamy layer and senior citizen certificates, birth/death/marriage registration, new ration card, disability ID card, Sanjay Gandhi Niradhar Yojana, police clearance and land-record copies, and more.",
+ "benefit_hi": "महाराष्ट्र सरकार के कई विभागों की सेवाएँ एक पोर्टल पर: आय, जाति, अधिवास, नॉन-क्रीमी लेयर, वरिष्ठ नागरिक प्रमाणपत्र, जन्म/मृत्यु/विवाह पंजीकरण, नया राशन कार्ड, दिव्यांग पहचान पत्र, संजय गांधी निराधार योजना, पुलिस क्लीयरेंस और ज़मीन के रिकॉर्ड आदि।",
+ "benefit_en": "Services of many Maharashtra departments on one portal: income, caste, domicile, non-creamy layer and senior citizen certificates, birth/death/marriage registration, new ration card, disability ID card, Sanjay Gandhi Niradhar Yojana, police clearance and land-record copies, and more.",
+ "who_hi": [
+  "महाराष्ट्र में अधिसूचित सेवाओं के लिए आवेदन करने वाले नागरिक",
+  "आय प्रमाणपत्र: पोर्टल पर 'कोई दस्तावेज़ आवश्यक नहीं' दर्ज; समय-सीमा संख्या 15 (इकाई पेज पर नहीं); निर्धारित अधिकारी: नायब तहसीलदार; अपील: तहसीलदार, फिर उपविभागीय अधिकारी",
+  "जाति प्रमाणपत्र: समय-सीमा संख्या 45 (इकाई पेज पर नहीं); निर्धारित अधिकारी: उपविभागीय अधिकारी/उप-कलेक्टर; अपील: अपर कलेक्टर, फिर कलेक्टर",
+  "नॉन-क्रीमी लेयर: समय-सीमा संख्या 21 (इकाई पेज पर नहीं)"
+ ],
+ "who_en": [
+  "Citizens applying for notified services in Maharashtra",
+  "Income certificate: the portal lists 'No documents required'; time limit figure 15 (unit not on page); designated officer: Naib Tahsildar; appeals: Tahsildar, then Sub Divisional Officer",
+  "Caste certificate: time limit figure 45 (unit not on page); designated officer: Sub-Divisional Officer / Dy. Collector; appeals: Additional Collector, then Collector",
+  "Non-creamy layer: time limit figure 21 (unit not on page)"
+ ],
+ "not_hi": [
+  "फ़ीस इन तीनों पेजों पर नहीं बताई गई — सेवा केंद्र से रसीद के साथ पूछें",
+  "समय-सीमा की इकाई (दिन/माह) पेज पर नहीं है — पोर्टल पर जाँचें",
+  "कुछ सेवाएँ पेज के अनुसार MAITRI पोर्टल पर जा चुकी हैं"
+ ],
+ "not_en": [
+  "Fee is not stated on these three pages — ask the service centre and ask for a receipt",
+  "The unit of the time limit (days / months) is not on the page — check on the portal",
+  "The page says some services have moved to the MAITRI portal"
+ ],
+ "docs_hi": [
+  "जाति प्रमाणपत्र — पहचान का प्रमाण (कोई 1): PAN, पासपोर्ट, RSBY कार्ड, मनरेगा जॉब कार्ड, ड्राइविंग लाइसेंस, आवेदक का फ़ोटो, सरकारी/अर्ध-सरकारी पहचान पत्र",
+  "जाति प्रमाणपत्र — पते का प्रमाण (कोई 1): पासपोर्ट, पानी/बिजली/टेलीफ़ोन बिल, राशन कार्ड, आधार, वोटर आईडी, ड्राइविंग लाइसेंस, संपत्ति कर रसीद, 7/12 और 8-अ उतारा/किराया रसीद",
+  "जाति प्रमाणपत्र — अन्य दस्तावेज़ (कोई 1): पोर्टल की लंबी सूची में से, जैसे शपथपत्र, पिता का जाति प्रमाणपत्र, स्कूल छोड़ने का प्रमाणपत्र, जाति वैधता, 7/12 उतारा, कोतवाल बुक की प्रति आदि — पूरी सूची पोर्टल पर देखें",
+  "नॉन-क्रीमी लेयर — पहचान (कोई 1): PAN, पासपोर्ट, आधार, वोटर आईडी, ड्राइविंग लाइसेंस; पता (कोई 1): पासपोर्ट, पानी/बिजली बिल, राशन कार्ड, आधार, वोटर आईडी, ड्राइविंग लाइसेंस, संपत्ति कर रसीद, 7/12 और 8-अ उतारा/किराया रसीद; अनिवार्य (सभी): आय का प्रमाण और जाति प्रमाणपत्र",
+  "अन्य सेवाओं की सूची पोर्टल पर उस सेवा के पेज पर देखें — यहाँ सत्यापित नहीं"
+ ],
+ "docs_en": [
+  "Caste certificate — proof of identity (any 1): PAN, passport, RSBY card, MNREGA job card, driving licence, applicant's photo, government / semi-government ID",
+  "Caste certificate — proof of address (any 1): passport, water / electricity / telephone bill, ration card, Aadhaar, voter ID, driving licence, property-tax receipt, 7/12 and 8-A extract / rent receipt",
+  "Caste certificate — other documents (any 1): from the portal's long list, such as affidavit, father's caste certificate, school-leaving certificate, caste validity, 7/12 extract, Kotwal book copy etc. — see the full list on the portal",
+  "Non-creamy layer — identity (any 1): PAN, passport, Aadhaar, voter ID, driving licence; address (any 1): passport, water / electricity bill, ration card, Aadhaar, voter ID, driving licence, property-tax receipt, 7/12 and 8-A extract / rent receipt; mandatory (all): income proof and caste certificate",
+  "For other services see that service's page on the portal — not verified here"
+ ],
+ "steps_hi": [
+  "पोर्टल पर रजिस्टर करके प्रोफ़ाइल बनाएँ और अधिसूचित सेवा के लिए ऑनलाइन आवेदन करें",
+  "या दस्तावेज़ और फ़ीस लेकर सेवा केंद्र जाएँ — ऑपरेटर ऑनलाइन आवेदन भरकर पावती रसीद देता है",
+  "'Track your Application' में आवेदन-आईडी से स्थिति देखें",
+  "प्रमाणपत्र की सत्यता 18-अंकीय बारकोड से जाँची जा सकती है"
+ ],
+ "steps_en": [
+  "Register on the portal to create a profile and apply online for a notified service",
+  "Or go to a service centre with documents and fee — the operator fills the online application and gives an acknowledgment receipt",
+  "Use 'Track your Application' with your Application ID",
+  "A certificate can be verified with its 18-digit barcode"
+ ],
+ "mistakes_hi": [
+  "सेवा केंद्र पर तय फ़ीस से ज़्यादा या 'जल्दी' के नाम पर पैसे देना",
+  "नकली पोर्टल — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying more than the fixed fee, or extra for 'speed', at a service centre",
+  "Fake portals — use only the official address",
+  "Sharing OTP/PIN"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को पोर्टल के मुख्य पेज से पुष्ट: सेवाओं की सूची, आवेदन के दो तरीके, ट्रैकिंग/सत्यापन, 24x7 कॉल सेंटर 1800 120 8040",
+  "13 अक्टूबर 2026 को पोर्टल के आय, जाति और नॉन-क्रीमी लेयर सेवा-पेजों से पुष्ट: दस्तावेज़ सूची, अधिकारी/अपील, समय-सीमा की संख्या",
+  "अन्य सेवाओं की फ़ीस, दस्तावेज़ और समय-सीमा पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from the portal's home page on 13 Oct 2026: list of services, two ways to apply, tracking/verification, 24x7 call centre 1800 120 8040",
+  "Confirmed from the portal's income, caste and non-creamy-layer service pages on 13 Oct 2026: document lists, officers / appeals, time-limit figures",
+  "Fees, documents and time limits of other services not confirmed"
+ ]
+}

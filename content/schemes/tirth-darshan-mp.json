@@ -1,0 +1,86 @@
+{
+ "slug": "tirth-darshan-mp",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "tags": [
+  "senior"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "मुख्यमंत्री तीर्थ दर्शन योजना — मध्य प्रदेश",
+ "en": "Mukhyamantri Tirth Darshan Yojana — Madhya Pradesh",
+ "state": "Madhya Pradesh",
+ "source_url": "https://dharmasva.mp.gov.in/schemes/view/Z1cwQVVEeE5ZSEg1T3ZrTnV6S0FsZz09",
+ "source_name": "अध्यात्म विभाग, मध्य प्रदेश शासन (dharmasva.mp.gov.in)",
+ "kw": "mukhyamantri tirth darshan yojana madhya pradesh pilgrimage senior free मुख्यमंत्री तीर्थ दर्शन योजना बुज़ुर्ग यात्रा",
+ "what_hi": "मध्य प्रदेश के मूल निवासी बुज़ुर्गों के लिए राज्य के बाहर निर्धारित तीर्थस्थलों की निःशुल्क यात्रा: विशेष ट्रेन, नाश्ता, भोजन, पीने का साफ़ पानी, तीर्थस्थल पर ठहरने की व्यवस्था और ज़रूरत पर बस। सेवाएँ IRCTC के माध्यम से दी जाती हैं।",
+ "what_en": "Free pilgrimage to designated places outside the state for senior citizens who are original residents of Madhya Pradesh: special train, breakfast, meals, clean drinking water, accommodation at the pilgrimage site and bus travel where needed. Services are provided through IRCTC.",
+ "who_hi": [
+  "मध्य प्रदेश का मूल निवासी",
+  "उम्र 60 साल या अधिक; महिलाओं के लिए 58 साल; 60% से अधिक दिव्यांगता वालों के लिए उम्र-सीमा नहीं",
+  "आयकरदाता न हों",
+  "यात्रा के लिए शारीरिक और मानसिक रूप से स्वस्थ हों, सूचीबद्ध संक्रामक रोग न हों (चिकित्सा प्रमाणपत्र ज़रूरी)",
+  "पति-पत्नी में एक पात्र हो तो दूसरा साथ जा सकता है; समूह में आवेदन (मुखिया मुख्य आवेदक, अधिकतम 25 व्यक्ति)",
+  "65+ अकेले यात्री और 60% से अधिक दिव्यांग एक सहायक को साथ ले जा सकते हैं"
+ ],
+ "who_en": [
+  "Original resident of Madhya Pradesh",
+  "Age 60 or above; 58 for women; no age limit for persons with more than 60% disability",
+  "Not an income-tax payer",
+  "Physically and mentally fit for travel and free of listed contagious diseases (medical certificate required)",
+  "If one spouse qualifies the other may travel along; groups can apply (head as main applicant, up to 25 persons)",
+  "Solo pilgrims above 65 and persons with more than 60% disability may bring a caretaker"
+ ],
+ "not_hi": [
+  "पेज पर आवेदन की तारीख़ें और तीर्थस्थलों की सूची नहीं दी गई — अध्यात्म विभाग/ज़िला कार्यालय से पूछें",
+  "पेज पर तारीख़ नहीं है; शर्तें बदली हो सकती हैं"
+ ],
+ "not_en": [
+  "The page does not give application dates or the list of destinations — ask the Spiritual Department / district office",
+  "The page shows no date; conditions may have changed"
+ ],
+ "docs_hi": [
+  "रंगीन पासपोर्ट-साइज़ फ़ोटो",
+  "शारीरिक और मानसिक स्वास्थ्य का चिकित्सा प्रमाणपत्र",
+  "पहचान-पत्र (आधार या वोटर कार्ड) — यात्रा में साथ रखना अनिवार्य"
+ ],
+ "docs_en": [
+  "Colour passport-size photograph",
+  "Medical certificate of physical and mental fitness",
+  "Identity card (Aadhaar or voter card) — mandatory to carry on the journey"
+ ],
+ "steps_hi": [
+  "पेज पर दिए लिंक से आवेदन-पत्र डाउनलोड करें",
+  "हिंदी में भरें, रंगीन फ़ोटो लगाएँ, आपात संपर्क का मोबाइल नंबर और पता लिखें, चिकित्सा प्रमाणपत्र संलग्न करें",
+  "जमा करने की जगह पेज पर नहीं दी गई — अपने ज़िला कार्यालय से पूछें",
+  "यात्रा के नाम पर पैसे न दें"
+ ],
+ "steps_en": [
+  "Download the application form from the link on the page",
+  "Fill it in Hindi, attach a colour photo, write an emergency contact mobile number and address, attach the medical certificate",
+  "Where to submit is not on the page — ask your district office",
+  "Do not pay for the trip"
+ ],
+ "conf_hi": [
+  "24 अक्टूबर 2026 को अध्यात्म विभाग (MP) के योजना-पेज से पुष्ट: पात्रता, लाभ, आवेदन का तरीक़ा, दस्तावेज़",
+  "जमा करने की जगह, तारीख़ें और चालू स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 24 Oct 2026 from the Spiritual Department (MP) scheme page: eligibility, benefits, how to apply, documents",
+  "Where to submit, dates and current status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "मध्य प्रदेश के मूल निवासी बुज़ुर्गों के लिए राज्य के बाहर निर्धारित तीर्थस्थलों की निःशुल्क यात्रा: विशेष ट्रेन, नाश्ता, भोजन, पीने का साफ़ पानी, तीर्थस्थल पर ठहरने की व्यवस्था और ज़रूरत पर बस। सेवाएँ IRCTC के माध्यम से दी जाती हैं।",
+ "benefit_en": "Free pilgrimage to designated places outside the state for senior citizens who are original residents of Madhya Pradesh: special train, breakfast, meals, clean drinking water, accommodation at the pilgrimage site and bus travel where needed. Services are provided through IRCTC."
+}

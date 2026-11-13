@@ -1,0 +1,74 @@
+{
+ "slug": "samagra-id-mp",
+ "hi": "समग्र आईडी / फ़ैमिली आईडी (मध्य प्रदेश)",
+ "en": "Samagra ID / Family ID (Madhya Pradesh)",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2273954&reg=48&lang=2",
+ "source_name": "PIB (भारत सरकार), 17 जून 2026; आधिकारिक पोर्टल samagra.gov.in",
+ "tags": [
+  "other",
+  "woman",
+  "senior"
+ ],
+ "kw": "samagra id family id madhya pradesh digilocker mp welfare dbt समग्र आईडी फ़ैमिली आईडी मध्य प्रदेश डिजीलॉकर",
+ "what_hi": "मध्य प्रदेश का समग्र (फ़ैमिली) आईडी राज्य सरकार द्वारा जारी वैध डिजिटल दस्तावेज़ है, जिससे सरकारी सेवाओं, कल्याणकारी योजनाओं, DBT और सामाजिक सुरक्षा के लाभ तेज़ी से सत्यापित होते हैं। अब यह DigiLocker पर उपलब्ध है।",
+ "what_en": "The Madhya Pradesh Samagra (Family) ID is a legally valid digital credential issued by the state government, used to verify government services, welfare schemes, DBT and social-security benefits faster. It is now available on DigiLocker.",
+ "benefit_hi": "मध्य प्रदेश का समग्र (फ़ैमिली) आईडी राज्य सरकार द्वारा जारी वैध डिजिटल दस्तावेज़ है, जिससे सरकारी सेवाओं, कल्याणकारी योजनाओं, DBT और सामाजिक सुरक्षा के लाभ तेज़ी से सत्यापित होते हैं। अब यह DigiLocker पर उपलब्ध है।",
+ "benefit_en": "The Madhya Pradesh Samagra (Family) ID is a legally valid digital credential issued by the state government, used to verify government services, welfare schemes, DBT and social-security benefits faster. It is now available on DigiLocker.",
+ "who_hi": [
+  "मध्य प्रदेश के निवासी (PIB के अनुसार लगभग 9.5 करोड़ निवासी इसमें हैं)"
+ ],
+ "who_en": [
+  "Residents of Madhya Pradesh (about 9.5 crore residents per PIB)"
+ ],
+ "not_hi": [
+  "पात्रता-नियम, नए परिवार/सदस्य जोड़ने के कदम और दस्तावेज़ PIB विज्ञप्ति में नहीं थे — samagra.gov.in या अपने स्थानीय निकाय से पूछें",
+  "पेज के अनुसार नया फ़ैमिली आईडी डिजिटल रूप से (सहमति देकर) भी बनवाया जा सकता है, पर विस्तृत प्रक्रिया पुष्ट नहीं"
+ ],
+ "not_en": [
+  "Eligibility rules, steps to add a new family / member and documents were not in the PIB release — ask samagra.gov.in or your local body",
+  "Per the release a new Family ID can also be enrolled digitally (with consent), but the detailed process is not confirmed"
+ ],
+ "docs_hi": [
+  "सत्यापित सूची उपलब्ध नहीं — samagra.gov.in या स्थानीय निकाय से पूछें"
+ ],
+ "docs_en": [
+  "A verified list is not available — ask samagra.gov.in or the local body"
+ ],
+ "steps_hi": [
+  "DigiLocker ऐप या digilocker.gov.in पर साइन-इन करें",
+  "'Issued Documents' खोलें या 'Samagra / Family ID Madhya Pradesh' खोजें",
+  "ज़रूरी विवरण भरकर सहमति दें",
+  "दस्तावेज़ फ़ेच करें — वह आपके खाते में सेव हो जाएगा"
+ ],
+ "steps_en": [
+  "Sign in on the DigiLocker app or digilocker.gov.in",
+  "Open 'Issued Documents' or search 'Samagra / Family ID Madhya Pradesh'",
+  "Enter the required details and give consent",
+  "Fetch the document — it is saved in your account"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को PIB (17 जून 2026) से पुष्ट: यह क्या है, उपयोग, DigiLocker पर पाने के चरण",
+  "नया आईडी बनवाने/सदस्य जोड़ने की प्रक्रिया और दस्तावेज़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (17 June 2026) on 13 Oct 2026: what it is, uses, steps to get it on DigiLocker",
+  "Process to create a new ID / add members and documents not confirmed"
+ ],
+ "state": "Madhya Pradesh"
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "epfo-uan-activation",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — EPFO",
+ "tags": [
+  "worker",
+  "id"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "EPFO — UAN चालू करना (आधार OTP से)",
+ "en": "EPFO — activating your UAN (via Aadhaar OTP)",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2075422",
+ "source_name": "PIB / श्रम एवं रोज़गार मंत्रालय (21 नवंबर 2024)",
+ "kw": "epfo uan activate universal account number aadhaar otp pf provident fund यूएएन एक्टिवेट पीएफ",
+ "what_hi": "श्रम मंत्रालय ने EPFO को निर्देश दिया कि कर्मचारियों का UAN आधार-आधारित OTP से चालू कराया जाए। नियोक्ता को कर्मचारियों का UAN चालू कराना है, और कर्मचारी का मोबाइल नंबर आधार से जुड़ा होना चाहिए ताकि EPFO की डिजिटल सेवाएँ मिल सकें।",
+ "what_en": "The Labour Ministry directed EPFO to get employees' UAN activated through Aadhaar-based OTP. Employers must get employees' UAN activated, and the employee's mobile number must be linked to Aadhaar to use EPFO's digital services.",
+ "who_hi": [
+  "EPF के सदस्य कर्मचारी",
+  "मोबाइल नंबर आधार से जुड़ा हो"
+ ],
+ "who_en": [
+  "Employees who are EPF members",
+  "Mobile number linked to Aadhaar"
+ ],
+ "not_hi": [
+  "PIB के अनुसार नियोक्ताओं के लिए पहली समय-सीमा 30 नवंबर 2024 थी — यह बीत चुकी है; चालू स्थिति पुष्ट नहीं",
+  "भविष्य में चेहरे की पहचान (face authentication) जोड़ी जाएगी; शुरुआत की तारीख़ नहीं दी गई",
+  "हेल्पलाइन नंबर इस विज्ञप्ति में नहीं है"
+ ],
+ "not_en": [
+  "Per PIB the first deadline for employers was 30 November 2024 — it has passed; current status is not confirmed",
+  "Face authentication will be added in future; no start date is given",
+  "No helpline number is given in this release"
+ ],
+ "docs_hi": [
+  "UAN, आधार नंबर, नाम, जन्म-तिथि और आधार से जुड़ा मोबाइल नंबर"
+ ],
+ "docs_en": [
+  "UAN, Aadhaar number, name, date of birth and Aadhaar-linked mobile number"
+ ],
+ "steps_hi": [
+  "EPFO सदस्य पोर्टल खोलें और \"Important Links\" में \"Activate UAN\" चुनें",
+  "UAN, आधार नंबर, नाम, जन्म-तिथि और आधार से जुड़ा मोबाइल नंबर भरें",
+  "आधार OTP सत्यापन के लिए सहमति दें और अधिकृत PIN का अनुरोध करें",
+  "आधार से जुड़े मोबाइल पर आया OTP डालें",
+  "चालू होने के बाद पंजीकृत मोबाइल पर पासवर्ड आता है",
+  "OTP केवल आधिकारिक EPFO पोर्टल पर डालें, किसी को न बताएँ"
+ ],
+ "steps_en": [
+  "Open the EPFO Member Portal and choose \"Activate UAN\" under \"Important Links\"",
+  "Enter UAN, Aadhaar number, name, date of birth and Aadhaar-linked mobile number",
+  "Agree to Aadhaar OTP verification and request the authorisation PIN",
+  "Enter the OTP sent to your Aadhaar-linked mobile",
+  "After activation a password is sent to your registered mobile",
+  "Enter the OTP only on the official EPFO portal; share it with nobody"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (21 नवंबर 2024) से पुष्ट: UAN चालू करने के चरण, नियोक्ता और कर्मचारी की भूमिका",
+  "चालू समय-सीमा और हेल्पलाइन पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (21 Nov 2024): UAN activation steps, role of employer and employee",
+  "Current deadline and helpline not confirmed"
+ ],
+ "benefit_hi": "श्रम मंत्रालय ने EPFO को निर्देश दिया कि कर्मचारियों का UAN आधार-आधारित OTP से चालू कराया जाए। नियोक्ता को कर्मचारियों का UAN चालू कराना है, और कर्मचारी का मोबाइल नंबर आधार से जुड़ा होना चाहिए ताकि EPFO की डिजिटल सेवाएँ मिल सकें।",
+ "benefit_en": "The Labour Ministry directed EPFO to get employees' UAN activated through Aadhaar-based OTP. Employers must get employees' UAN activated, and the employee's mobile number must be linked to Aadhaar to use EPFO's digital services."
+}

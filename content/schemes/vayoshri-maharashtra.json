@@ -1,0 +1,74 @@
+{
+ "slug": "vayoshri-maharashtra",
+ "status": "pending",
+ "last_verified": null,
+ "dept": "State — Maharashtra (Social Justice Department)",
+ "state": "Maharashtra",
+ "tags": [
+  "senior"
+ ],
+ "hi": "मुख्यमंत्री वयोश्री योजना (महाराष्ट्र — 65+ बुज़ुर्गों को ₹3,000)",
+ "en": "Mukhyamantri Vayoshri Yojana (Maharashtra — ₹3,000 for 65+ seniors)",
+ "source_url": "https://jalgaon.gov.in/en/scheme-category/mukhyamantri-vayoshri-yojana",
+ "source_name": "ज़िलाधिकारी कार्यालय जलगाँव (महाराष्ट्र सरकार) — मुख्यमंत्री वयोश्री योजना",
+ "more": [
+  [
+   "https://cmvayoshree.mahait.org/",
+   "वयोश्री आधिकारिक पोर्टल"
+  ]
+ ],
+ "kw": "vayoshri vayoshree senior citizen 65 3000 maharashtra वयोश्री बुज़ुर्ग 3000",
+ "what_hi": "65 साल या उससे ज़्यादा उम्र के बुज़ुर्गों को ज़रूरी सहायक उपकरण ख़रीदने के लिए एकमुश्त ₹3,000 सीधे बैंक खाते में।",
+ "what_en": "A one-time ₹3,000 to the bank account of seniors aged 65+ to buy necessary aids and appliances.",
+ "who_hi": [
+  "31 दिसंबर 2023 तक 65 साल पूरे",
+  "परिवार की सालाना आय ₹2 लाख तक",
+  "आधार कार्ड"
+ ],
+ "who_en": [
+  "Aged 65 by 31 December 2023",
+  "Family annual income up to ₹2 lakh",
+  "Aadhaar card"
+ ],
+ "not_hi": [
+  "⚠️ नए आवेदन अभी खुले हैं या नहीं, यह आधिकारिक स्रोत से पुष्ट नहीं — इसलिए 🟡"
+ ],
+ "not_en": [
+  "⚠️ Whether new applications are open is not confirmed by an official source — hence 🟡"
+ ],
+ "docs_hi": [
+  "आधार कार्ड; पात्रता का एक प्रमाण — ज़िला प्राधिकरण का प्रमाणपत्र, BPL राशन कार्ड, या वृद्धावस्था पेंशन मिलने का प्रमाण"
+ ],
+ "docs_en": [
+  "Aadhaar card; one proof of eligibility — district authority certificate, BPL ration card, or proof of old-age pension"
+ ],
+ "steps_hi": [
+  "cmvayoshree.mahait.org या ज़िला समाज कल्याण कार्यालय से जानकारी लें"
+ ],
+ "steps_en": [
+  "Check cmvayoshree.mahait.org or the district social welfare office"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को जलगाँव ज़िला (महाराष्ट्र सरकार) के पेज से पढ़ा: राशि, आयु, आय, पात्रता के प्रमाण",
+  "चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Read on 10 Nov 2026 from the Jalgaon district (Govt of Maharashtra) page: amount, age, income, proofs",
+  "Current status not confirmed"
+ ],
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites/apps — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "benefit_hi": "65 साल या उससे ज़्यादा उम्र के बुज़ुर्गों को ज़रूरी सहायक उपकरण ख़रीदने के लिए एकमुश्त ₹3,000 सीधे बैंक खाते में।",
+ "benefit_en": "A one-time ₹3,000 to the bank account of seniors aged 65+ to buy necessary aids and appliances."
+}

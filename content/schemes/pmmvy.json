@@ -1,0 +1,77 @@
+{
+ "slug": "pmmvy",
+ "hi": "प्रधानमंत्री मातृ वंदना योजना – PMMVY (गर्भवती/धात्री महिलाओं को नकद सहायता)",
+ "en": "PM Matru Vandana Yojana – PMMVY (cash help for pregnant / lactating women)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc2025825619601.pdf",
+ "source_name": "PIB (भारत सरकार), 24 अगस्त 2025; महिला एवं बाल विकास मंत्रालय wcd.gov.in; पोर्टल pmmvy.wcd.gov.in",
+ "tags": [
+  "woman"
+ ],
+ "kw": "pmmvy matru vandana pregnant women garbhvati cash 5000 6000 मातृ वंदना गर्भवती महिला नकद सहायता",
+ "what_hi": "गर्भवती और धात्री महिलाओं के लिए नकद सहायता: पहले बच्चे के लिए ₹5,000 और दूसरा बच्चा बेटी हो तो ₹6,000 (PMMVY 2.0) — सीधे बैंक/डाकघर खाते में (DBT)। संस्थागत प्रसव पर जननी सुरक्षा योजना का लाभ अलग से जुड़ता है (कुल लगभग ₹6,000, PIB के अनुसार)।",
+ "what_en": "Cash help for pregnant and lactating women: ₹5,000 for the first child and ₹6,000 if the second child is a girl (PMMVY 2.0) — directly into a bank / post office account (DBT). Janani Suraksha Yojana benefit for institutional delivery is linked separately (about ₹6,000 in total, per PIB).",
+ "benefit_hi": "गर्भवती और धात्री महिलाओं के लिए नकद सहायता: पहले बच्चे के लिए ₹5,000 और दूसरा बच्चा बेटी हो तो ₹6,000 (PMMVY 2.0) — सीधे बैंक/डाकघर खाते में (DBT)। संस्थागत प्रसव पर जननी सुरक्षा योजना का लाभ अलग से जुड़ता है (कुल लगभग ₹6,000, PIB के अनुसार)।",
+ "benefit_en": "Cash help for pregnant and lactating women: ₹5,000 for the first child and ₹6,000 if the second child is a girl (PMMVY 2.0) — directly into a bank / post office account (DBT). Janani Suraksha Yojana benefit for institutional delivery is linked separately (about ₹6,000 in total, per PIB).",
+ "who_hi": [
+  "गर्भवती और धात्री महिलाएँ, विशेष रूप से वंचित पृष्ठभूमि से (PIB के अनुसार, राष्ट्रीय खाद्य सुरक्षा अधिनियम 2013 के तहत)",
+  "मंत्रालय के पेज पर 'पात्रता में जोड़' और 'आयु-सीमा में संशोधन' की अधिसूचनाएँ हैं — उनकी सामग्री मैं नहीं पढ़ पाया, इसलिए आयु-सीमा/अन्य शर्तें यहाँ नहीं लिखीं"
+ ],
+ "who_en": [
+  "Pregnant and lactating women, especially from disadvantaged backgrounds (per PIB, under the National Food Security Act, 2013)",
+  "The ministry page lists notifications on 'addition in eligibility' and 'revision of age' — I could not read their content, so age limits / other conditions are not written here"
+ ],
+ "not_hi": [
+  "किस्तों की संख्या/समय और हर किस्त की शर्तें पुष्ट नहीं",
+  "मंत्रालय पेज के कुछ दस्तावेज़-लिंक किसी स्टेजिंग डोमेन की ओर जाते हैं — भरोसा न करें; सिर्फ़ wcd.gov.in/pmmvy.wcd.gov.in के आधिकारिक दस्तावेज़ इस्तेमाल करें"
+ ],
+ "not_en": [
+  "Number / timing of instalments and the condition for each are not confirmed",
+  "Some document links on the ministry page point to a staging domain — do not trust them; use only official documents on wcd.gov.in / pmmvy.wcd.gov.in"
+ ],
+ "docs_hi": [
+  "मातृ एवं शिशु सुरक्षा (MCP) कार्ड",
+  "पात्रता का प्रमाण, जैसे BPL कार्ड (PIB के अनुसार)"
+ ],
+ "docs_en": [
+  "Mother and Child Protection (MCP) card",
+  "Proof of eligibility, such as a BPL card (per PIB)"
+ ],
+ "steps_hi": [
+  "PMMVY पोर्टल pmmvy.wcd.gov.in पर नामांकन करें",
+  "या UMANG प्लेटफ़ॉर्म (web.umang.gov.in) से सीधे नामांकन करें",
+  "आँगनवाड़ी/ASHA कार्यकर्ता भी PMMVY ऐप से आपका नामांकन कर सकती हैं",
+  "हेल्पलाइन: 14408 (टोल-फ़्री, बहुभाषी — PIB के अनुसार)",
+  "पैसे के लिए किसी को रिश्वत/फ़ीस न दें — भुगतान सीधे खाते में आता है"
+ ],
+ "steps_en": [
+  "Enrol on the PMMVY portal pmmvy.wcd.gov.in",
+  "Or enrol directly through the UMANG platform (web.umang.gov.in)",
+  "Anganwadi / ASHA workers can also enrol you through the PMMVY app",
+  "Helpline: 14408 (toll-free, multilingual — per PIB)",
+  "Do not pay anyone a bribe / fee — payment comes straight into the account"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को PIB (24 अगस्त 2025) और wcd.gov.in से पुष्ट: राशि (₹5,000/₹6,000), DBT, नामांकन के तीन तरीके, दस्तावेज़, हेल्पलाइन 14408",
+  "किस्तों का ब्यौरा, आयु-सीमा और अन्य शर्तें पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (24 Aug 2025) and wcd.gov.in on 13 Oct 2026: amounts (₹5,000 / ₹6,000), DBT, three ways to enrol, documents, helpline 14408",
+  "Instalment details, age limits and other conditions not confirmed"
+ ]
+}

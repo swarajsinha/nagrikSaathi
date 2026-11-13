@@ -1,0 +1,106 @@
+{
+ "slug": "pm-usp-college-scholarship",
+ "dept": "Central — Ministry of Education (Department of Higher Education)",
+ "tags": [
+  "student",
+  "education"
+ ],
+ "hi": "पीएम-यूएसपी केंद्रीय छात्रवृत्ति (कॉलेज/विश्वविद्यालय के मेधावी छात्र)",
+ "en": "PM-USP Central Sector Scholarship (meritorious college / university students)",
+ "source_url": "https://scholarships.gov.in/public/schemeGuidelines/FAQ_DOHE_CSSS.pdf",
+ "source_name": "राष्ट्रीय छात्रवृत्ति पोर्टल — शिक्षा मंत्रालय के प्रश्नोत्तर (FAQ)",
+ "more": [
+  [
+   "https://scholarships.gov.in/",
+   "राष्ट्रीय छात्रवृत्ति पोर्टल (NSP)"
+  ]
+ ],
+ "kw": "pm usp central sector scholarship csss college university 12000 20000 80 percentile nsp chhatravriti छात्रवृत्ति कॉलेज विश्वविद्यालय 12वीं मेधावी",
+ "what_hi": "12वीं में अपने बोर्ड और स्ट्रीम के ऊपर के 20% (80वाँ पर्सेंटाइल) में आए, कम आय वाले परिवारों के विद्यार्थियों को कॉलेज की पढ़ाई के लिए छात्रवृत्ति: स्नातक के पहले तीन साल ₹12,000 सालाना, स्नातकोत्तर में ₹20,000 सालाना। हर साल लगभग 82,000 नई छात्रवृत्तियाँ। पैसा सीधे विद्यार्थी के बैंक खाते में (DBT)।",
+ "what_en": "Scholarship for college students from low-income families who are in the top 20% (80th percentile) of their board and stream in Class 12: ₹12,000 a year for the first three years of graduation, ₹20,000 a year at post-graduation. About 82,000 fresh scholarships every year. Money goes directly to the student's bank account (DBT).",
+ "who_hi": [
+  "12वीं में अपने बोर्ड की संबंधित स्ट्रीम में पास हुए विद्यार्थियों में 80वें पर्सेंटाइल से ऊपर",
+  "परिवार की कुल सालाना आय ₹4.5 लाख तक",
+  "मान्यता प्राप्त संस्थान में नियमित (रेगुलर) डिग्री कोर्स — पत्राचार/दूरस्थ शिक्षा और डिप्लोमा कोर्स पात्र नहीं",
+  "कोई दूसरी छात्रवृत्ति या फ़ीस माफ़ी/प्रतिपूर्ति (राज्य की योजनाएँ भी) न ले रहे हों"
+ ],
+ "who_en": [
+  "Above the 80th percentile of successful candidates in your Class 12 board and stream",
+  "Gross family income up to ₹4.5 lakh a year",
+  "A regular degree course at a recognised institution — correspondence/distance and diploma courses are not eligible",
+  "Not receiving any other scholarship or fee waiver/reimbursement (including state schemes)"
+ ],
+ "not_hi": [
+  "5 साल के प्रोफ़ेशनल/इंटीग्रेटेड कोर्स में चौथे और पाँचवें साल ₹20,000; B.Tech/B.E. में पहले 3 साल ₹12,000 और चौथे साल ₹20,000",
+  "50% छात्रवृत्तियाँ लड़कियों के लिए; SC 15%, ST 7.5%, OBC 27% और दिव्यांग (40% या अधिक) 5% आरक्षण",
+  "हर साल नवीनीकरण (renewal) ज़रूरी: सालाना परीक्षा में कम से कम 50% अंक और 75% उपस्थिति; रैगिंग/अनुशासनहीनता पर छात्रवृत्ति रुक सकती है",
+  "आवेदन खुलने और बंद होने की तारीख़ें हर साल NSP पर आती हैं",
+  "शिकायत: pgportal.gov.in; मंत्रालय का फ़ोन 011-20862360"
+ ],
+ "not_en": [
+  "In 5-year professional/integrated courses ₹20,000 in the 4th and 5th years; in B.Tech/B.E. ₹12,000 for 3 years and ₹20,000 in the 4th year",
+  "50% of scholarships for girls; SC 15%, ST 7.5%, OBC 27% and 5% for students with disabilities (40% or more)",
+  "Renewal every year is required: at least 50% marks in the annual exam and 75% attendance; ragging/indiscipline can stop the scholarship",
+  "Opening and closing dates are published every year on NSP",
+  "Grievances: pgportal.gov.in; Ministry phone 011-20862360"
+ ],
+ "docs_hi": [
+  "विद्यार्थी के नाम का चालू बैंक खाता (आधार से जुड़ा, KYC पूरी)",
+  "आधार नंबर",
+  "माता-पिता का आय प्रमाणपत्र (सिर्फ़ नए आवेदन में)",
+  "जाति प्रमाणपत्र और दिव्यांगता प्रमाणपत्र (अगर लागू)",
+  "चालू मोबाइल नंबर और ईमेल",
+  "12वीं की मार्कशीट जाँच के लिए पास रखें"
+ ],
+ "docs_en": [
+  "An active bank account in the student's name (Aadhaar-linked, KYC done)",
+  "Aadhaar number",
+  "Parents' income certificate (fresh applications only)",
+  "Caste and disability certificates (if applicable)",
+  "An active mobile number and email",
+  "Keep the Class 12 marksheet ready for verification"
+ ],
+ "steps_hi": [
+  "scholarships.gov.in (NSP) पर रजिस्टर करें",
+  "'Post-Matric' चुनकर PM-USP केंद्रीय छात्रवृत्ति योजना चुनें",
+  "नाम, पिता का नाम और रोल नंबर बिल्कुल 12वीं की मार्कशीट जैसे भरें; अपना बोर्ड चुनें",
+  "कॉलेज को उसके AISHE कोड से ध्यान से चुनें — अंतिम जमा के बाद यह बदला नहीं जा सकता",
+  "अंतिम जमा करें; मिला Permanent ID (PID) सँभालकर रखें — नवीनीकरण में चाहिए",
+  "कॉलेज और फिर राज्य की नोडल एजेंसी आवेदन जाँचती है; दोनों से सत्यापन न हो तो आवेदन अमान्य",
+  "भुगतान की स्थिति PFMS के 'Know Your Payment' पेज पर देखें"
+ ],
+ "steps_en": [
+  "Register on scholarships.gov.in (NSP)",
+  "Choose 'Post-Matric' and select the PM-USP Central Sector Scholarship scheme",
+  "Fill name, father's name and roll number exactly as on the Class 12 marksheet; select your board",
+  "Choose your college carefully by its AISHE code — it cannot be changed after final submission",
+  "Submit finally; keep the Permanent ID (PID) safe — needed for renewal",
+  "Your college and then the State Nodal Agency verify the application; without both it is invalid",
+  "Check payment status on PFMS 'Know Your Payment'"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को शिक्षा मंत्रालय के PM-USP दिशानिर्देश (2022-23 से लागू) और NSP पर मंत्रालय के FAQ से पुष्ट: पात्रता, ₹4.5 लाख आय-सीमा, राशियाँ, 82,000 छात्रवृत्तियाँ, आरक्षण, नवीनीकरण की शर्तें, आवेदन के चरण, DBT, संपर्क",
+  "इस साल की अंतिम तारीख़ इन दस्तावेज़ों में नहीं — NSP पर देखें"
+ ],
+ "conf_en": [
+  "Confirmed on 10 Nov 2026 from the Ministry of Education's PM-USP guidelines (from 2022-23) and the Ministry FAQ on NSP: eligibility, ₹4.5 lakh income limit, amounts, 82,000 scholarships, reservations, renewal conditions, application steps, DBT, contacts",
+  "This year's last date is not in these documents — see NSP"
+ ],
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites/apps — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "benefit_hi": "12वीं में अपने बोर्ड और स्ट्रीम के ऊपर के 20% (80वाँ पर्सेंटाइल) में आए, कम आय वाले परिवारों के विद्यार्थियों को कॉलेज की पढ़ाई के लिए छात्रवृत्ति: स्नातक के पहले तीन साल ₹12,000 सालाना, स्नातकोत्तर में ₹20,000 सालाना। हर साल लगभग 82,000 नई छात्रवृत्तियाँ। पैसा सीधे विद्यार्थी के बैंक खाते में (DBT)।",
+ "benefit_en": "Scholarship for college students from low-income families who are in the top 20% (80th percentile) of their board and stream in Class 12: ₹12,000 a year for the first three years of graduation, ₹20,000 a year at post-graduation. About 82,000 fresh scholarships every year. Money goes directly to the student's bank account (DBT)."
+}

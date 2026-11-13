@@ -1,0 +1,79 @@
+{
+ "slug": "janani-suraksha-yojana",
+ "dept": "Central — Ministry of Health (National Health Mission)",
+ "tags": [
+  "woman",
+  "health"
+ ],
+ "hi": "जननी सुरक्षा योजना (अस्पताल में प्रसव पर नक़द सहायता)",
+ "en": "Janani Suraksha Yojana (cash assistance for delivery in a health facility)",
+ "source_url": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=309&sublinkid=841",
+ "source_name": "राष्ट्रीय स्वास्थ्य मिशन (nhm.gov.in) — जननी सुरक्षा योजना",
+ "more": [],
+ "kw": "janani suraksha yojana jsy delivery pregnant woman cash asha hospital prasav जननी सुरक्षा योजना प्रसव गर्भवती आशा नकद सहायता",
+ "what_hi": "सरकारी अस्पताल/स्वास्थ्य केंद्र में प्रसव कराने पर माँ को एक बार नक़द सहायता मिलती है। कम प्रदर्शन वाले राज्यों (LPS, जैसे मध्य प्रदेश) में: गाँव ₹1,400, शहर ₹1,000। अन्य राज्यों (HPS) में: गाँव ₹700, शहर ₹600। (आशा कार्यकर्ता का प्रोत्साहन अलग है।)",
+ "what_en": "Mothers get one-time cash assistance for delivering in a government hospital / health centre. In Low Performing States (LPS, e.g. Madhya Pradesh): rural ₹1,400, urban ₹1,000. In other states (HPS): rural ₹700, urban ₹600. (The ASHA worker's incentive is separate.)",
+ "who_hi": [
+  "LPS राज्यों (उत्तर प्रदेश, उत्तराखंड, बिहार, झारखंड, मध्य प्रदेश, छत्तीसगढ़, असम, राजस्थान, ओडिशा, जम्मू-कश्मीर) में: सरकारी स्वास्थ्य केंद्र में प्रसव कराने वाली सभी गर्भवती महिलाएँ",
+  "HPS राज्यों (बाक़ी राज्य) में: सरकारी स्वास्थ्य केंद्र में प्रसव कराने वाली BPL, SC और ST महिलाएँ",
+  "मान्यता प्राप्त निजी अस्पताल में प्रसव: सभी राज्यों में BPL, SC और ST महिलाएँ"
+ ],
+ "who_en": [
+  "In LPS states (UP, Uttarakhand, Bihar, Jharkhand, MP, Chhattisgarh, Assam, Rajasthan, Odisha, J&K): all pregnant women delivering in government health centres",
+  "In HPS states (the rest): BPL, SC and ST women delivering in government health centres",
+  "Delivery in an accredited private hospital: BPL, SC and ST women in all states"
+ ],
+ "not_hi": [
+  "महाराष्ट्र LPS सूची में नहीं है, इसलिए वहाँ HPS वाली दरें और शर्तें लागू मानी जाएँगी — अस्पताल से पुष्टि करें",
+  "आयु या बच्चों की संख्या की कोई शर्त इस आधिकारिक पेज पर नहीं दी गई",
+  "यह पीएम मातृ वंदना योजना (PMMVY) से अलग योजना है — उसका अलग पेज देखें"
+ ],
+ "not_en": [
+  "Maharashtra is not on the LPS list, so the HPS rates and conditions apply there — confirm at the hospital",
+  "This official page gives no condition on age or number of children",
+  "This is separate from PM Matru Vandana Yojana (PMMVY) — see its own page"
+ ],
+ "docs_hi": [
+  "दस्तावेज़ों की सत्यापित सूची आधिकारिक पेज पर नहीं — HPS राज्यों में BPL/SC/ST होने का प्रमाण चाहिए होगा; आशा या अस्पताल से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not on the official page — in HPS states proof of BPL/SC/ST status will be needed; ask the ASHA or hospital"
+ ],
+ "steps_hi": [
+  "गर्भावस्था में अपनी आशा कार्यकर्ता या नज़दीकी सरकारी स्वास्थ्य केंद्र से संपर्क करें",
+  "सरकारी अस्पताल/स्वास्थ्य केंद्र (या मान्यता प्राप्त निजी अस्पताल, अगर पात्र हों) में प्रसव कराएँ",
+  "राशि मिलने की प्रक्रिया उसी अस्पताल से पूछें — आवेदन-प्रक्रिया आधिकारिक पेज पर नहीं दी गई",
+  "किसी को पैसे न दें — यह सरकार की सहायता है"
+ ],
+ "steps_en": [
+  "During pregnancy contact your ASHA worker or nearest government health centre",
+  "Deliver in a government hospital / health centre (or an accredited private hospital, if eligible)",
+  "Ask that hospital how the amount is paid — the application process is not on the official page",
+  "Do not pay anyone — this is government assistance"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को राष्ट्रीय स्वास्थ्य मिशन के आधिकारिक पेज से पुष्ट: LPS/HPS पात्रता, राशि की तालिका, LPS राज्यों की सूची (मध्य प्रदेश शामिल)",
+  "भुगतान का तरीका, दस्तावेज़ और आयु/बच्चों की शर्तें इस पेज पर नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 10 Nov 2026 from the National Health Mission's official page: LPS/HPS eligibility, amount table, list of LPS states (including Madhya Pradesh)",
+  "Payment method, documents and age/children conditions are not on this page"
+ ],
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites/apps — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "benefit_hi": "सरकारी अस्पताल/स्वास्थ्य केंद्र में प्रसव कराने पर माँ को एक बार नक़द सहायता मिलती है। कम प्रदर्शन वाले राज्यों (LPS, जैसे मध्य प्रदेश) में: गाँव ₹1,400, शहर ₹1,000। अन्य राज्यों (HPS) में: गाँव ₹700, शहर ₹600। (आशा कार्यकर्ता का प्रोत्साहन अलग है।)",
+ "benefit_en": "Mothers get one-time cash assistance for delivering in a government hospital / health centre. In Low Performing States (LPS, e.g. Madhya Pradesh): rural ₹1,400, urban ₹1,000. In other states (HPS): rural ₹700, urban ₹600. (The ASHA worker's incentive is separate.)"
+}

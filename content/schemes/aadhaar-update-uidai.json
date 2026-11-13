@@ -1,0 +1,77 @@
+{
+ "slug": "aadhaar-update-uidai",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — UIDAI",
+ "tags": [
+  "id"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "आधार अपडेट (पता, मोबाइल, बायोमेट्रिक) — UIDAI",
+ "en": "Aadhaar update (address, mobile, biometrics) — UIDAI",
+ "source_url": "https://uidai.gov.in/en/updating-data-on-aadhaar",
+ "source_name": "UIDAI — आधार में डेटा अपडेट",
+ "kw": "aadhaar update address mobile number biometric uidai myaadhaar आधार अपडेट पता बायोमेट्रिक",
+ "what_hi": "UIDAI के इस पेज पर ऑनलाइन (myAadhaar पोर्टल) सेवा में सिर्फ़ पता अपडेट का ज़िक्र है (पंजीकृत मोबाइल पर OTP से लॉग-इन)। बायोमेट्रिक, फ़ोटो और अन्य विवरण आधार केंद्र पर बदले जाते हैं। 15 साल से ऊपर नामांकन वाले लोगों को हर 10 साल में बायोमेट्रिक अपडेट की सलाह दी गई है।",
+ "what_en": "This UIDAI page mentions only address update in the online (myAadhaar portal) service (log in with OTP on your registered mobile). Biometrics, photo and other details are changed at an Aadhaar centre. People enrolled above age 15 are advised to update biometrics every 10 years.",
+ "who_hi": [
+  "कोई भी आधार धारक",
+  "ऑनलाइन सेवा के लिए आधार से पंजीकृत मोबाइल नंबर ज़रूरी है; न हो तो स्थायी नामांकन केंद्र जाकर पंजीकृत कराएँ"
+ ],
+ "who_en": [
+  "Any Aadhaar holder",
+  "Online services need a mobile number registered with Aadhaar; if none, visit a Permanent Enrolment Centre to register one"
+ ],
+ "not_hi": [
+  "शुल्क UIDAI के इस पेज पर नहीं बताया गया — केंद्र पर रसीद (URN/EID) ज़रूर लें और शुल्क UIDAI साइट पर जाँचें",
+  "पहचान (PoI) और पते (PoA) के कौन-से दस्तावेज़ मान्य हैं, उसकी पूरी सूची पेज पर PDF में है, जो मैंने नहीं पढ़ी — UIDAI की सूची देखें",
+  "ऑनलाइन दस्तावेज़ों की जाँच बाद में होती है (पेज के अनुसार)",
+  "ऑनलाइन और कौन-से विवरण बदले जा सकते हैं, यह इस पेज पर नहीं है — myAadhaar पोर्टल पर उपलब्ध विकल्प देखें"
+ ],
+ "not_en": [
+  "The fee is not stated on this UIDAI page — always take the receipt (URN / EID) at the centre and check the fee on the UIDAI site",
+  "The full list of valid identity (PoI) and address (PoA) documents is in a PDF linked from the page, which I have not read — see the UIDAI list",
+  "Online, documents are verified later (per the page)",
+  "Which other details can be changed online is not on this page — see the options on the myAadhaar portal"
+ ],
+ "docs_hi": [
+  "पहचान (PoI) और पते (PoA) के मान्य दस्तावेज़ — पूरी सूची UIDAI की साइट पर"
+ ],
+ "docs_en": [
+  "Valid proof of identity (PoI) and proof of address (PoA) documents — full list on the UIDAI site"
+ ],
+ "steps_hi": [
+  "ऑनलाइन पता बदलना (पेज के अनुसार): myAadhaar पोर्टल पर आधार नंबर से लॉग-इन करें, पंजीकृत मोबाइल पर आए OTP से सत्यापित करें और दस्तावेज़ अपलोड करें",
+  "अन्य बदलाव: आधार केंद्र जाएँ; ऑपरेटर फ़ॉर्म भरता है, बायोमेट्रिक सत्यापन होता है और रसीद (URN/EID) मिलती है",
+  "बच्चों के लिए: 5 साल में सभी बायोमेट्रिक के साथ दोबारा नामांकन, और 15 साल की उम्र में बायोमेट्रिक देना (UIDAI)",
+  "आधार केंद्र खोजने के लिए uidai.gov.in देखें"
+ ],
+ "steps_en": [
+  "To change address online (per the page): log in to myAadhaar with your Aadhaar number, verify with the OTP on your registered mobile and upload documents",
+  "Other changes: visit an Aadhaar centre; the operator fills the form, biometric authentication is done and you get a receipt (URN / EID)",
+  "For children: re-enrol at age 5 with all biometrics, and give biometrics at age 15 (UIDAI)",
+  "Find an Aadhaar centre on uidai.gov.in"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को UIDAI के पेज से पुष्ट: ऑनलाइन बनाम केंद्र पर क्या अपडेट होता है, रसीद, 10-वर्षीय बायोमेट्रिक सलाह, बच्चों के नियम",
+  "शुल्क और दस्तावेज़-सूची पुष्ट नहीं; पेज पर तारीख़ नहीं दी गई"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the UIDAI page: what can be updated online vs at a centre, receipts, 10-year biometric advice, rules for children",
+  "Fee and document list not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "UIDAI के इस पेज पर ऑनलाइन (myAadhaar पोर्टल) सेवा में सिर्फ़ पता अपडेट का ज़िक्र है (पंजीकृत मोबाइल पर OTP से लॉग-इन)। बायोमेट्रिक, फ़ोटो और अन्य विवरण आधार केंद्र पर बदले जाते हैं। 15 साल से ऊपर नामांकन वाले लोगों को हर 10 साल में बायोमेट्रिक अपडेट की सलाह दी गई है।",
+ "benefit_en": "This UIDAI page mentions only address update in the online (myAadhaar portal) service (log in with OTP on your registered mobile). Biometrics, photo and other details are changed at an Aadhaar centre. People enrolled above age 15 are advised to update biometrics every 10 years."
+}

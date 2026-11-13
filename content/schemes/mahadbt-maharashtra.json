@@ -1,0 +1,84 @@
+{
+ "slug": "mahadbt-maharashtra",
+ "hi": "MahaDBT / आपले सरकार DBT (महाराष्ट्र छात्रवृत्ति व योजनाएँ)",
+ "en": "MahaDBT / Aaple Sarkar DBT (Maharashtra scholarships & schemes)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://mahadbt.maharashtra.gov.in",
+ "source_name": "MahaDBT पोर्टल, महाराष्ट्र सरकार",
+ "tags": [
+  "student",
+  "farmer",
+  "worker"
+ ],
+ "kw": "mahadbt scholarship maharashtra aaple sarkar dbt chhatravritti freeship छात्रवृत्ति महाराष्ट्र विद्यार्थी",
+ "state": "Maharashtra",
+ "what_hi": "महाराष्ट्र की कई योजनाओं का एक ऑनलाइन पोर्टल: पोस्ट-मैट्रिक और प्री-मैट्रिक छात्रवृत्ति, पेंशन, किसान और श्रमिक योजनाएँ आदि। पोर्टल आपकी प्रोफ़ाइल से योग्य योजनाएँ सुझाता है।",
+ "what_en": "One online portal for many Maharashtra schemes: post-matric and pre-matric scholarships, pension, farmer and labour schemes and more. The portal suggests schemes based on your profile.",
+ "benefit_hi": "महाराष्ट्र की कई योजनाओं का एक ऑनलाइन पोर्टल: पोस्ट-मैट्रिक और प्री-मैट्रिक छात्रवृत्ति, पेंशन, किसान और श्रमिक योजनाएँ आदि। पोर्टल आपकी प्रोफ़ाइल से योग्य योजनाएँ सुझाता है।",
+ "benefit_en": "One online portal for many Maharashtra schemes: post-matric and pre-matric scholarships, pension, farmer and labour schemes and more. The portal suggests schemes based on your profile.",
+ "who_hi": [
+  "विद्यार्थी, किसान या महाराष्ट्र का निवासी — हर योजना की शर्तें अलग",
+  "प्रोफ़ाइल में जाति श्रेणी, पारिवारिक आय, अधिवास, दिव्यांगता और योग्यता पूछी जाती है"
+ ],
+ "who_en": [
+  "Students, farmers or residents of Maharashtra — conditions differ per scheme",
+  "The profile asks caste category, family income, domicile, disability status and qualifications"
+ ],
+ "not_hi": [
+  "हर योजना की पात्रता पेज पर नहीं दी गई — पोर्टल पर देखें",
+  "पेज पर दिखी अंतिम तारीख पुरानी (2019-20) है; मौजूदा तारीख पोर्टल पर जाँचें"
+ ],
+ "not_en": [
+  "Per-scheme eligibility is not on the page — see the portal",
+  "The only deadline on the page is old (2019-20); check current dates on the portal"
+ ],
+ "docs_hi": [
+  "आधार से पंजीकरण में आधार OTP/बायोमेट्रिक",
+  "बिना आधार के: पहचान, पता, जन्म और संबंध के प्रमाण (PDF 256 KB से कम; JPG 5–20 KB)",
+  "छात्रवृत्ति के लिए बैंक खाता आधार से जुड़ा होना चाहिए"
+ ],
+ "docs_en": [
+  "With Aadhaar: Aadhaar OTP/biometric",
+  "Without Aadhaar: identity, address, birth and relationship proofs (PDF under 256 KB; JPG 5–20 KB)",
+  "For scholarships the bank account must be Aadhaar-seeded"
+ ],
+ "steps_hi": [
+  "पोर्टल पर \"New Registration\" दबाएँ",
+  "आधार (OTP/बायोमेट्रिक) या बिना आधार का रास्ता चुनें",
+  "यूज़रनेम और पासवर्ड बनाएँ, फिर लॉगिन करें",
+  "प्रोफ़ाइल भरें — पोर्टल योग्य योजनाएँ दिखाएगा",
+  "योजना चुनकर आवेदन करें",
+  "आधार-लिंक खाता न हो तो नज़दीकी डाकघर में India Post Payments Bank खाता खुलवा सकते हैं (पोर्टल के अनुसार)"
+ ],
+ "steps_en": [
+  "Press \"New Registration\" on the portal",
+  "Choose the Aadhaar (OTP/biometric) or non-Aadhaar route",
+  "Create a username and password, then log in",
+  "Fill your profile — the portal will show eligible schemes",
+  "Pick a scheme and apply",
+  "If you have no Aadhaar-linked account you can open an India Post Payments Bank account at a post office (per the portal)"
+ ],
+ "mistakes_hi": [
+  "बैंक खाते में आधार सीडिंग न होना — भुगतान रुक सकता है",
+  "पुरानी अंतिम तारीख मान लेना",
+  "आवेदन के लिए एजेंट को पैसे देना"
+ ],
+ "mistakes_en": [
+  "Aadhaar not seeded to the bank account — payment can get blocked",
+  "Trusting an old deadline",
+  "Paying an agent to apply"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को mahadbt.maharashtra.gov.in से पुष्ट: योजना-श्रेणियाँ, पंजीकरण के तीन रास्ते, आधार-सीडिंग की शर्त, हेल्पलाइन 022-49150800",
+  "चालू तारीखें और हर योजना की पात्रता: पोर्टल पर जाँचें"
+ ],
+ "conf_en": [
+  "Confirmed from mahadbt.maharashtra.gov.in on 13 Oct 2026: scheme categories, three registration routes, Aadhaar-seeding condition, helpline 022-49150800",
+  "Current dates and per-scheme eligibility: check on the portal"
+ ]
+}

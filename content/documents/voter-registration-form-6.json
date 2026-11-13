@@ -1,0 +1,91 @@
+{
+ "slug": "voter-registration-form-6",
+ "dept": "Central — Election Commission of India",
+ "tags": [
+  "id",
+  "document",
+  "student"
+ ],
+ "hi": "नया वोटर कार्ड / मतदाता सूची में नाम जुड़वाना (फ़ॉर्म 6)",
+ "en": "New voter registration / add your name to the electoral roll (Form 6)",
+ "source_url": "https://ecisveep.nic.in/voters/general-voters",
+ "source_name": "भारत निर्वाचन आयोग — SVEEP: सामान्य मतदाता (ecisveep.nic.in)",
+ "more": [
+  [
+   "https://voters.eci.gov.in/",
+   "मतदाता सेवा पोर्टल (voters.eci.gov.in)"
+  ],
+  [
+   "https://electoralsearch.in/",
+   "मतदाता सूची में अपना नाम खोजें"
+  ]
+ ],
+ "kw": "voter id card new registration form 6 epic matdata suchi electoral roll nvsp voter helpline 1950 बीएलओ वोटर कार्ड मतदाता सूची नाम जुड़वाना फ़ॉर्म 6",
+ "what_hi": "जो भारतीय नागरिक 18 साल के हो गए हैं, वे फ़ॉर्म 6 भरकर मतदाता सूची में अपना नाम जुड़वा सकते हैं और वोटर कार्ड (EPIC) पा सकते हैं। फ़ॉर्म ऑनलाइन, Voter Helpline ऐप से या ऑफ़लाइन भरा जा सकता है।",
+ "what_en": "Indian citizens who have turned 18 can fill Form 6 to get their name added to the electoral roll and get a voter ID card (EPIC). The form can be filled online, through the Voter Helpline app, or offline.",
+ "who_hi": [
+  "भारत के नागरिक",
+  "योग्यता तिथि पर 18 साल पूरे — योग्यता तिथियाँ साल में चार हैं: 1 जनवरी, 1 अप्रैल, 1 जुलाई, 1 अक्टूबर",
+  "जिस मतदान क्षेत्र में नाम जुड़वाना है, वहाँ के सामान्य निवासी",
+  "जो किसी कारण से अयोग्य न हों"
+ ],
+ "who_en": [
+  "Citizens of India",
+  "Aged 18 on the qualifying date — there are four a year: 1 January, 1 April, 1 July, 1 October",
+  "Ordinarily resident in the polling area where you want to enrol",
+  "Not otherwise disqualified"
+ ],
+ "not_hi": [
+  "दूसरे फ़ॉर्म: विदेश में रहने वाले भारतीय (NRI) — फ़ॉर्म 6A; नाम हटाने/आपत्ति — फ़ॉर्म 7; पता बदलना, ग़लती सुधारना, नया कार्ड या दिव्यांग चिह्नित करना — फ़ॉर्म 8",
+  "मतदाता सूची उम्मीदवारों के नामांकन की आख़िरी तारीख़ तक लगातार अपडेट होती रहती है",
+  "फ़ॉर्म मुफ़्त मिलते हैं; मदद के लिए मतदाता हेल्पलाइन 1950"
+ ],
+ "not_en": [
+  "Other forms: Indians living abroad (NRI) — Form 6A; deletion / objection — Form 7; shifting, corrections, replacement card or marking as PwD — Form 8",
+  "The electoral roll keeps being updated until the last date of filing nominations by candidates",
+  "Forms are free; for help call the voter helpline 1950"
+ ],
+ "docs_hi": [
+  "ऑफ़लाइन आवेदन में ज़रूरी दस्तावेज़ों की कॉपी लगानी होती है — कौन-से, यह स्रोत में नहीं; पोर्टल का फ़ॉर्म या BLO बताएगा"
+ ],
+ "docs_en": [
+  "Offline applications need copies of the relevant documents — which ones is not in the source; the portal form or BLO will tell you"
+ ],
+ "steps_hi": [
+  "पहले electoralsearch.in पर देखें कि आपका नाम पहले से सूची में है या नहीं",
+  "नाम न हो तो voters.eci.gov.in पर या Voter Helpline ऐप से फ़ॉर्म 6 ऑनलाइन भरें",
+  "या फ़ॉर्म 6 की दो कॉपी भरकर निर्वाचक रजिस्ट्रीकरण अधिकारी (ERO/AERO) को ख़ुद या डाक से दें, या अपने क्षेत्र के बूथ लेवल अधिकारी (BLO) को दें",
+  "जानकारी या मदद के लिए 1950 पर फ़ोन करें"
+ ],
+ "steps_en": [
+  "First check on electoralsearch.in whether your name is already on the roll",
+  "If not, fill Form 6 online on voters.eci.gov.in or through the Voter Helpline app",
+  "Or give two filled copies of Form 6 to the Electoral Registration Officer (ERO/AERO) in person or by post, or to the Booth Level Officer (BLO) of your area",
+  "Call 1950 for information or help"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को भारत निर्वाचन आयोग के SVEEP पेज से पुष्ट: पात्रता, चार योग्यता तिथियाँ, फ़ॉर्म 6/6A/7/8, ऑनलाइन-ऐप-ऑफ़लाइन तरीके, मुफ़्त फ़ॉर्म, हेल्पलाइन 1950",
+  "दस्तावेज़ों की सूची स्रोत में नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 10 Nov 2026 from the Election Commission's SVEEP page: eligibility, four qualifying dates, Forms 6/6A/7/8, online-app-offline methods, free forms, helpline 1950",
+  "The document list is not in the source"
+ ],
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites/apps — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "benefit_hi": "जो भारतीय नागरिक 18 साल के हो गए हैं, वे फ़ॉर्म 6 भरकर मतदाता सूची में अपना नाम जुड़वा सकते हैं और वोटर कार्ड (EPIC) पा सकते हैं। फ़ॉर्म ऑनलाइन, Voter Helpline ऐप से या ऑफ़लाइन भरा जा सकता है।",
+ "benefit_en": "Indian citizens who have turned 18 can fill Form 6 to get their name added to the electoral roll and get a voter ID card (EPIC). The form can be filled online, through the Voter Helpline app, or offline."
+}

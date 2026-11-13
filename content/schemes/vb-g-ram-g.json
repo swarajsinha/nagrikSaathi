@@ -1,0 +1,87 @@
+{
+ "slug": "vb-g-ram-g",
+ "hi": "विकसित भारत – जी राम जी (गाँव में 125 दिन का रोज़गार; मनरेगा की जगह)",
+ "en": "Viksit Bharat – G RAM G (125 days rural employment; replaces MGNREGA)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://www.pib.gov.in/FaqDetails.aspx?ModuleId=4&NoteId=158511&lang=1&reg=3",
+ "source_name": "PIB FAQ (अंतिम अद्यतन 19 अक्टूबर 2026); PIB 21 दिसंबर 2025",
+ "tags": [
+  "worker",
+  "unemployed",
+  "other"
+ ],
+ "kw": "mgnrega nrega g ram g rozgar guarantee job card 125 days gramin rozgar मनरेगा जी राम जी रोज़गार गारंटी जॉब कार्ड 125 दिन",
+ "what_hi": "ग्रामीण परिवार के हर पात्र परिवार को हर वित्त वर्ष 125 दिन की मज़दूरी वाले रोज़गार की गारंटी (पहले मनरेगा में 100 दिन)। यह कानून 1 जुलाई 2026 से सभी ग्रामीण क्षेत्रों में लागू हुआ और मनरेगा उसी तारीख़ से निरस्त है (PIB FAQ के अनुसार)।",
+ "what_en": "A guarantee of 125 days of wage employment per eligible rural household every financial year (100 days under MGNREGA earlier). The Act comes into force across rural areas from 1 July 2026 and MGNREGA stands repealed from the same date (per the PIB FAQ).",
+ "benefit_hi": "ग्रामीण परिवार के हर पात्र परिवार को हर वित्त वर्ष 125 दिन की मज़दूरी वाले रोज़गार की गारंटी (पहले मनरेगा में 100 दिन)। यह कानून 1 जुलाई 2026 से सभी ग्रामीण क्षेत्रों में लागू हुआ और मनरेगा उसी तारीख़ से निरस्त है (PIB FAQ के अनुसार)।",
+ "benefit_en": "A guarantee of 125 days of wage employment per eligible rural household every financial year (100 days under MGNREGA earlier). The Act comes into force across rural areas from 1 July 2026 and MGNREGA stands repealed from the same date (per the PIB FAQ).",
+ "who_hi": [
+  "हर ग्रामीण परिवार जिसके वयस्क सदस्य अकुशल शारीरिक काम करने को तैयार हों",
+  "जॉब कार्ड न हो तो कोई भी वयस्क सदस्य नाम, उम्र और पते के साथ ग्राम पंचायत में 'ग्रामीण रोज़गार गारंटी कार्ड' के लिए आवेदन कर सकता है",
+  "ई-केवाईसी वाले पुराने मनरेगा जॉब कार्ड नए कार्ड मिलने तक वैध रहते हैं"
+ ],
+ "who_en": [
+  "Every rural household whose adult members volunteer for unskilled manual work",
+  "If you have no job card, any adult member can apply to the Gram Panchayat with names, ages and address for a 'Gramin Rozgar Guarantee Card'",
+  "Old MGNREGA job cards with completed e-KYC stay valid until new cards are issued"
+ ],
+ "not_hi": [
+  "राज्य खेती के चरम मौसम में कुल 60 दिन तक का ठहराव अधिसूचित कर सकते हैं (PIB 21 दिसंबर 2025 के अनुसार)",
+  "मनरेगा की मौजूदा मज़दूरी दरें तब तक लागू हैं जब तक नई दरें अधिसूचित न हों (FAQ के अनुसार) — अपनी दर पंचायत से पूछें",
+  "उपस्थिति चेहरे के प्रमाणीकरण से दर्ज होगी; ठेकेदार नहीं लगेंगे; काम ग्राम सभा से पारित विकसित ग्राम पंचायत योजना से आएँगे",
+  "इन पेजों में पेज पर महिलाओं की भागीदारी का उल्लेख नहीं था"
+ ],
+ "not_en": [
+  "During peak sowing / harvesting States may notify a pause of up to 60 days in total (per PIB, 21 Dec 2025)",
+  "Existing MGNREGA wage rates apply until new rates are notified (per the FAQ) — ask your panchayat for your rate",
+  "Attendance is captured by face authentication; no contractors; works come from Viksit Gram Panchayat Plans approved by the Gram Sabha",
+  "The pages did not mention women's participation"
+ ],
+ "docs_hi": [
+  "ग्रामीण रोज़गार गारंटी कार्ड के लिए: परिवार के सदस्यों के नाम, उम्र और पता (आगे के दस्तावेज़ ग्राम पंचायत बताएगी)",
+  "मज़दूरी बैंक/डाकघर खाते में सीधे आती है, इसलिए खाता चाहिए"
+ ],
+ "docs_en": [
+  "For the Gramin Rozgar Guarantee Card: names, ages and address of household members (the Gram Panchayat will tell other documents)",
+  "Wages come directly to a bank / post office account, so you need one"
+ ],
+ "steps_hi": [
+  "अपनी ग्राम पंचायत में जाकर कार्ड के लिए आवेदन करें (कोई भी वयस्क सदस्य)",
+  "काम की माँग मौखिक, लिखित (फ़ॉर्म 6) या डिजिटल तरीके से पंचायत में करें",
+  "15 दिन के भीतर काम मिलना चाहिए; न मिले तो राज्य बेरोज़गारी भत्ता देता है — पहले 30 दिन मज़दूरी का कम से कम एक-चौथाई, फिर कम से कम आधा",
+  "मज़दूरी साप्ताहिक या मस्टर रोल बंद होने के अधिकतम 15 दिन में; देरी पर 15 दिन बाद रोज़ 0.05% मुआवज़ा",
+  "काम दिलाने के नाम पर पैसे न दें"
+ ],
+ "steps_en": [
+  "Apply for the card at your Gram Panchayat (any adult member)",
+  "Demand work orally, in writing (Form 6) or digitally at the panchayat",
+  "Work should be given within 15 days; if not, the State pays an unemployment allowance — at least one-fourth of the wage for the first 30 days, then at least half",
+  "Wages weekly or within 15 days of muster-roll closure; delay compensation 0.05% a day after 15 days",
+  "Do not pay anyone to get work"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को PIB FAQ से पुष्ट: 125 दिन, पात्रता, जॉब कार्ड, काम की माँग, मज़दूरी और बेरोज़गारी भत्ता, 1 जुलाई 2026 से लागू, मनरेगा निरस्त",
+  "PIB (21 दिसंबर 2025) से पुष्ट: मनरेगा की जगह कानून, कार्य के चार क्षेत्र, 60:40 केंद्र-राज्य हिस्सेदारी",
+  "मज़दूरी की चालू दर और नए कार्ड की प्रक्रिया पंचायत/राज्य पोर्टल से जाँचें"
+ ],
+ "conf_en": [
+  "Confirmed from the PIB FAQ on 22 Oct 2026: 125 days, eligibility, job card, demand for work, wages and unemployment allowance, in force from 1 July 2026, MGNREGA repealed",
+  "Confirmed from PIB (21 Dec 2025): Act replaces MGNREGA, four works domains, 60:40 Centre–State share",
+  "Check the current wage rate and the new-card process with the panchayat / state portal"
+ ]
+}

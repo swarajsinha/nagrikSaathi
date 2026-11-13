@@ -1,0 +1,70 @@
+{
+ "slug": "day-nulm",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — MoHUA",
+ "tags": [
+  "unemployed",
+  "business"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "DAY-NULM (शहरी ग़रीबों के लिए आजीविका मिशन)",
+ "en": "DAY-NULM (livelihoods mission for the urban poor)",
+ "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2037057&reg=48&lang=2",
+ "source_name": "PIB / आवास एवं शहरी कार्य मंत्रालय — लोकसभा उत्तर (25 जुलाई 2024)",
+ "kw": "day nulm urban livelihood skill training self employment shelter homeless street vendor शहरी आजीविका मिशन कौशल बेघर आश्रय",
+ "what_hi": "शहरी ग़रीबों के लिए चार हिस्से: (1) कौशल प्रशिक्षण और नौकरी दिलाना, (2) स्वरोज़गार कार्यक्रम — व्यक्ति, समूह या SHG को सूक्ष्म उद्यम के लिए वित्तीय सहायता, (3) शहरी बेघरों के लिए ज़रूरी सुविधाओं वाले आश्रय, (4) रेहड़ी-पटरी वालों को जगह, संस्थागत ऋण और सामाजिक सुरक्षा।",
+ "what_en": "Four parts for the urban poor: (1) skill training and placement, (2) a self-employment programme — financial help to individuals, groups or SHGs for micro-enterprises, (3) shelters with essential services for the urban homeless, (4) street vendors' access to space, institutional credit and social security.",
+ "who_hi": [
+  "शहरी ग़रीब परिवार, शहरी बेघर, रेहड़ी-पटरी वाले, और शहरी ग़रीबों के व्यक्ति/समूह/SHG"
+ ],
+ "who_en": [
+  "Urban poor households, urban homeless, street vendors, and individuals / groups / SHGs of the urban poor"
+ ],
+ "not_hi": [
+  "पात्रता की औपचारिक शर्तें, आवेदन की प्रक्रिया और राशियाँ उस PIB पेज में नहीं हैं — अपने नगर निकाय से पूछें",
+  "शहर-स्तर पर मिशन की निगरानी नगर आयुक्त की अध्यक्षता वाली कार्यकारी समिति करती है (PIB)"
+ ],
+ "not_en": [
+  "Formal eligibility, application process and amounts are not in that PIB page — ask your urban local body",
+  "At city level the mission is monitored by an Executive Committee chaired by the Municipal Commissioner (PIB)"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — नगर निकाय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask your urban local body"
+ ],
+ "steps_hi": [
+  "अपने नगर निगम/नगरपालिका के कार्यालय में DAY-NULM के बारे में पूछें",
+  "रेहड़ी-पटरी वाले PM स्वनिधि का पेज भी देखें",
+  "किसी को पैसे देकर लाभ दिलाने के झाँसे में न आएँ"
+ ],
+ "steps_en": [
+  "Ask at your municipal corporation / council office about DAY-NULM",
+  "Street vendors can also see the PM SVANidhi page",
+  "Do not fall for anyone offering benefits for money"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (25 जुलाई 2024) से पुष्ट: चार घटक, लाभार्थी वर्ग, शहर-स्तर की निगरानी",
+  "पात्रता, आवेदन-प्रक्रिया और राशियाँ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (25 Jul 2024): four components, beneficiary groups, city-level monitoring",
+  "Eligibility, application process and amounts not confirmed"
+ ],
+ "benefit_hi": "शहरी ग़रीबों के लिए चार हिस्से: (1) कौशल प्रशिक्षण और नौकरी दिलाना, (2) स्वरोज़गार कार्यक्रम — व्यक्ति, समूह या SHG को सूक्ष्म उद्यम के लिए वित्तीय सहायता, (3) शहरी बेघरों के लिए ज़रूरी सुविधाओं वाले आश्रय, (4) रेहड़ी-पटरी वालों को जगह, संस्थागत ऋण और सामाजिक सुरक्षा।",
+ "benefit_en": "Four parts for the urban poor: (1) skill training and placement, (2) a self-employment programme — financial help to individuals, groups or SHGs for micro-enterprises, (3) shelters with essential services for the urban homeless, (4) street vendors' access to space, institutional credit and social security."
+}

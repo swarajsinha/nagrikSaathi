@@ -1,0 +1,73 @@
+{
+ "slug": "cpgrams-public-grievance",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — DARPG",
+ "tags": [
+  "rights"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "hi": "सरकारी शिकायत — CPGRAMS (केंद्रीय लोक शिकायत पोर्टल)",
+ "en": "Government grievance — CPGRAMS (Central Public Grievance portal)",
+ "source_url": "https://pgportal.gov.in/Home/Faq",
+ "source_name": "CPGRAMS पोर्टल — FAQ (pgportal.gov.in)",
+ "kw": "cpgrams pgportal public grievance complaint government department शिकायत सरकारी पोर्टल लोक शिकायत",
+ "what_hi": "CPGRAMS पर आप किसी केंद्रीय मंत्रालय/विभाग के ख़िलाफ़ शिकायत ऑनलाइन, डाक से या कॉमन सर्विस सेंटर से दर्ज कर सकते हैं; कोई तय फ़ॉर्मेट नहीं है। हर शिकायत को एक पंजीकरण संख्या मिलती है जिससे \"View Status\" में स्थिति देखी जा सकती है। निपटारे की समय-सीमा 21 दिन है (देरी हो तो अंतरिम जवाब देना होता है)।",
+ "what_en": "On CPGRAMS you can lodge a grievance against a central ministry / department online, by post or through a Common Service Centre; there is no prescribed format. Each grievance gets a registration number you can use in \"View Status\". The redress time limit is 21 days (an interim reply is required if delayed).",
+ "who_hi": [
+  "कोई भी व्यक्ति जिसे केंद्रीय मंत्रालय/विभाग से शिकायत हो"
+ ],
+ "who_en": [
+  "Anyone with a grievance against a central ministry / department"
+ ],
+ "not_hi": [
+  "ये मामले नहीं लिए जाते: अदालत में विचाराधीन या निर्णीत मामले, निजी और पारिवारिक विवाद, RTI के मामले, और देश की क्षेत्रीय अखंडता या मित्र देशों से संबंधों से जुड़े मामले",
+  "निपटारे से असंतुष्ट हों तो अपील 30 दिन के भीतर करनी होती है, और उससे पहले निपटारे पर अनिवार्य फ़ीडबैक रेटिंग देनी होती है",
+  "राज्य सरकार के विभागों की शिकायत के लिए राज्य के अपने पोर्टल देखें (जैसे महाराष्ट्र का आपले सरकार, मध्य प्रदेश का CM हेल्पलाइन)"
+ ],
+ "not_en": [
+  "Not taken up: sub judice or decided court matters, personal and family disputes, RTI matters, and matters affecting territorial integrity or relations with friendly countries",
+  "If unhappy with the disposal, the appeal must be filed within 30 days, after giving the mandatory feedback rating on the disposal",
+  "For State Government departments use the State's own portals (e.g. Aaple Sarkar in Maharashtra, CM Helpline in Madhya Pradesh)"
+ ],
+ "docs_hi": [
+  "कोई तय दस्तावेज़ सूची नहीं — शिकायत से जुड़े काग़ज़ साथ लगा सकते हैं"
+ ],
+ "docs_en": [
+  "No fixed document list — you may attach papers relevant to the grievance"
+ ],
+ "steps_hi": [
+  "pgportal.gov.in पर \"Lodge Public Grievance\" चुनें (या डाक/CSC से भेजें)",
+  "मिली पंजीकरण संख्या सँभालकर रखें",
+  "\"View Status\" में संख्या डालकर स्थिति देखें",
+  "निपटारे के बाद फ़ीडबैक दें और ज़रूरत हो तो 30 दिन में अपील करें; अपील में मदद के लिए फ़ीडबैक कॉल सेंटर है"
+ ],
+ "steps_en": [
+  "On pgportal.gov.in choose \"Lodge Public Grievance\" (or send by post / CSC)",
+  "Keep the registration number safe",
+  "Enter the number in \"View Status\" to track",
+  "After disposal give feedback and, if needed, appeal within 30 days; a feedback call centre can help with the appeal"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को CPGRAMS FAQ से पुष्ट: शिकायत दर्ज करने के तरीक़े, पंजीकरण संख्या और ट्रैकिंग, 21 दिन की समय-सीमा, 30 दिन में अपील, न लिए जाने वाले मामले, मोबाइल ऐप",
+  "पोर्टल पर शिकायत की दर्ज करने की सटीक स्क्रीन-दर-स्क्रीन प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the CPGRAMS FAQ: ways to lodge, registration number and tracking, 21-day limit, appeal in 30 days, matters not taken up, mobile app",
+  "The exact screen-by-screen filing process on the portal is not confirmed"
+ ],
+ "benefit_hi": "CPGRAMS पर आप किसी केंद्रीय मंत्रालय/विभाग के ख़िलाफ़ शिकायत ऑनलाइन, डाक से या कॉमन सर्विस सेंटर से दर्ज कर सकते हैं; कोई तय फ़ॉर्मेट नहीं है। हर शिकायत को एक पंजीकरण संख्या मिलती है जिससे \"View Status\" में स्थिति देखी जा सकती है। निपटारे की समय-सीमा 21 दिन है (देरी हो तो अंतरिम जवाब देना होता है)।",
+ "benefit_en": "On CPGRAMS you can lodge a grievance against a central ministry / department online, by post or through a Common Service Centre; there is no prescribed format. Each grievance gets a registration number you can use in \"View Status\". The redress time limit is 21 days (an interim reply is required if delayed)."
+}

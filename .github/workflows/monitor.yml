@@ -1,0 +1,22 @@
+name: source-monitor
+on:
+  schedule: [{cron: '30 2 * * *'}]   # daily 08:00 IST
+  workflow_dispatch:
+permissions: {contents: write, issues: write}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 monitor/monitor.py
+      - name: Open issue if review needed
+        env: {GH_TOKEN: '${{ github.token }}'}
+        run: |
+          python3 - <<'PY' > body.txt
+          import json;r=json.load(open('monitor/report.json'))
+          print('Changed:',r['changed'],'\nManual check (robots):',r['manual_check'],'\nErrors:',r['errors'])
+          PY
+          if python3 -c "import json,sys;r=json.load(open('monitor/report.json'));sys.exit(0 if r['changed'] or r['errors'] or r['manual_check'] else 1)"; then gh issue create --title "Source check $(date +%F): review needed" --body-file body.txt; fi
+      - run: |
+          git config user.name monitor; git config user.email monitor@users.noreply.github.com
+          git add -A; git diff --cached --quiet || (git commit -m "monitor: snapshots/status" && git push)

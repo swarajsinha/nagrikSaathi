@@ -1,0 +1,84 @@
+{
+ "slug": "shabari-awas-maharashtra",
+ "hi": "शबरी आवास योजना (महाराष्ट्र)",
+ "en": "Shabari Awas Yojana (Maharashtra)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "status": "pending",
+ "last_verified": null,
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://zpbuldhana.maharashtra.gov.in/en/scheme/shabari-awas-yojana/",
+ "source_name": "महाराष्ट्र सरकार का ज़िला परिषद पेज (zpbuldhana.maharashtra.gov.in)",
+ "tags": [
+  "housing"
+ ],
+ "kw": "maharashtra shabari awas gharkul st tribal adivasi ghar शबरी आवास घरकुल अनुसूचित जनजाति आदिवासी महाराष्ट्र",
+ "what_hi": "महाराष्ट्र में अनुसूचित जनजाति (ST) के बेघर या कच्चे घर वाले परिवारों के लिए घरकुल: सामान्य क्षेत्र में ₹1.20 लाख, पहाड़ी क्षेत्र में ₹1.30 लाख; शौचालय के लिए ₹12,000 और मनरेगा के 90–95 दिन।",
+ "what_en": "Gharkul housing in Maharashtra for houseless or kuccha-house households of Scheduled Tribe (ST): ₹1.20 lakh in ordinary areas, ₹1.30 lakh in hilly areas; ₹12,000 for a toilet and 90–95 MGNREGA days.",
+ "benefit_hi": "महाराष्ट्र में अनुसूचित जनजाति (ST) के बेघर या कच्चे घर वाले परिवारों के लिए घरकुल: सामान्य क्षेत्र में ₹1.20 लाख, पहाड़ी क्षेत्र में ₹1.30 लाख; शौचालय के लिए ₹12,000 और मनरेगा के 90–95 दिन।",
+ "benefit_en": "Gharkul housing in Maharashtra for houseless or kuccha-house households of Scheduled Tribe (ST): ₹1.20 lakh in ordinary areas, ₹1.30 lakh in hilly areas; ₹12,000 for a toilet and 90–95 MGNREGA days.",
+ "who_hi": [
+  "अनुसूचित जनजाति (ST) परिवार",
+  "महाराष्ट्र में कम से कम 15 साल से निवास",
+  "बेघर या स्थायी घर नहीं",
+  "ग्रामीण क्षेत्र में परिवार की वार्षिक आय ₹1.20 लाख तक",
+  "कम से कम 269 वर्ग फ़ुट अपनी ज़मीन, या मौजूदा कच्चे घर की जगह",
+  "पहले किसी और सरकारी आवास योजना का लाभ न लिया हो; परिवार में सिर्फ़ एक व्यक्ति को लाभ"
+ ],
+ "who_en": [
+  "A household of Scheduled Tribe (ST)",
+  "Resident of Maharashtra for at least 15 years",
+  "Houseless or without a permanent house",
+  "Annual family income up to ₹1.20 lakh in rural areas",
+  "At least 269 sq. ft. of own land, or the site of the existing kuccha house",
+  "Has not taken another government housing scheme; only one person per family benefits"
+ ],
+ "not_hi": [
+  "⚠️ स्रोत एक ज़िला परिषद की साइट है, जिसमें लिखा है कि चयन के संशोधित मानदंड तय हो रहे हैं — चालू नियम और राशि महाराष्ट्र शासन के आधिकारिक पोर्टल/GR से मिलाना बाकी, इसीलिए 🟡",
+  "आवेदन के कदम और दस्तावेज़ उस पेज पर नहीं दिए गए",
+  "जहाँ ज़मीन कम हो, वहाँ पात्र लाभार्थी मिलकर समूह-आवास बना सकते हैं (उस पेज के अनुसार)"
+ ],
+ "not_en": [
+  "⚠️ The source is a Zilla Parishad site that says revised selection criteria are being decided — current rules and amounts still need to be matched with the Government of Maharashtra portal / GR, hence 🟡",
+  "Application steps and documents were not given on that page",
+  "Where land is scarce, eligible beneficiaries can build group housing together (per that page)"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ग्राम पंचायत / पंचायत समिति से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the gram panchayat / panchayat samiti"
+ ],
+ "steps_hi": [
+  "अपनी ग्राम पंचायत या पंचायत समिति से पूछें कि आपके गाँव में यह योजना कैसे चल रही है और सूची में नाम कैसे देखें",
+  "घर बनाने की जगह/ज़मीन के कागज़ तैयार रखें",
+  "नाम जुड़वाने के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your gram panchayat or panchayat samiti how the scheme runs in your village and how to check the list",
+  "Keep papers for your land / building site ready",
+  "Do not pay anyone to add your name"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को शबरी आवास योजना के ज़िला परिषद (महाराष्ट्र सरकार) पेज से पढ़ा: पात्रता, सहायता राशि, घर की शर्तें",
+  "राज्य के आधिकारिक पोर्टल/GR से पुष्टि बाकी",
+  "एक और ज़िला परिषद (नंदुरबार) के पेज से भी वही ₹1.20 लाख/₹1.30 लाख की राशि और किस्तें (₹15,000 अग्रिम, ₹45,000, ₹40,000, ₹20,000) पढ़ीं; केंद्र-राज्य हिस्सेदारी वाली पंक्तियाँ आपस में विरोधी थीं। आदिवासी विकास विभाग का अपना पेज नहीं खुला — इसलिए 🟡"
+ ],
+ "conf_en": [
+  "Read on 13 Oct 2026 from the Zilla Parishad (Government of Maharashtra) page for Shabari Awas Yojana: eligibility, assistance, house conditions",
+  "Confirmation from the state's official portal / GR is pending",
+  "A second Zilla Parishad page (Nandurbar) also gave the same ₹1.20 lakh / ₹1.30 lakh amounts and instalments (₹15,000 advance, ₹45,000, ₹40,000, ₹20,000); its Centre–State share lines contradicted each other. The Tribal Development Department's own page did not open — hence 🟡"
+ ],
+ "state": "Maharashtra"
+}

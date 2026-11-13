@@ -1,0 +1,57 @@
+{
+ "slug": "kyc-scam",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 2,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "All India",
+ "tags": [
+  "scam"
+ ],
+ "hi": "KYC अपडेट के नाम पर ठगी",
+ "en": "KYC-update scam",
+ "kw": "kyc scam update link ठगी केवाईसी bank khata band",
+ "source_url": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+ "source_name": "RBI Ombudsman — \"BE(A)WARE\" पुस्तिका (तारीख़ अंकित नहीं)",
+ "more": [
+  [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2036395",
+   "PIB / गृह मंत्रालय — फ़र्ज़ी वेबसाइट और साइबर ठगी (24 जुलाई 2024)"
+  ]
+ ],
+ "how_hi": "ठग KYC अपडेट को बहाना बनाकर गोपनीय जानकारी निकालते हैं और असली बैंक साइट जैसे दिखने वाले फ़िशिंग लिंक भेजते हैं। RBI की पुस्तिका ऐसे संदेशों के प्रति चेताती है जो इनाम, सरकारी सहायता या KYC अपडेट का वादा करते हैं।",
+ "how_en": "Fraudsters use KYC updation as a pretext to extract confidential details and send phishing links that mimic genuine bank sites. The RBI booklet warns against messages promising prize money, government aid or KYC updation.",
+ "signs_hi": [
+  "KYC अपडेट, इनाम या सरकारी सहायता का संदेश",
+  "अनजान या असत्यापित लिंक",
+  "असली बैंक साइट जैसा दिखने वाला पेज"
+ ],
+ "signs_en": [
+  "A message about KYC update, prize money or government aid",
+  "Unknown or unverified link",
+  "A page that imitates your bank's site"
+ ],
+ "dont_hi": [
+  "अनजान/असत्यापित लिंक पर क्लिक न करें; ऐसे SMS/ईमेल तुरंत डिलीट करें (RBI)",
+  "ऐसे संदेशों का जवाब न दें",
+  "कार्ड या खाते की जानकारी न दें"
+ ],
+ "dont_en": [
+  "Do not click unknown / unverified links; delete such SMS / emails immediately (RBI)",
+  "Do not reply to such messages",
+  "Do not give card or account details"
+ ],
+ "do_hi": [
+  "बैंक का नंबर बैंक की आधिकारिक वेबसाइट से लें (RBI)",
+  "संदिग्ध वेबसाइट की रिपोर्ट cybercrime.gov.in के \"Report Suspect\" से कर सकते हैं (PIB)",
+  "ठगी हो जाए तो तुरंत हेल्पलाइन 1930 पर कॉल करें या cybercrime.gov.in पर शिकायत करें (गृह मंत्रालय/PIB के अनुसार)"
+ ],
+ "do_en": [
+  "Take the bank's number from its official website (RBI)",
+  "You can report a suspicious website via \"Report Suspect\" on cybercrime.gov.in (PIB)",
+  "If you are defrauded, call helpline 1930 or file a complaint on cybercrime.gov.in immediately (per Ministry of Home Affairs / PIB)"
+ ],
+ "what_hi": "ठग KYC अपडेट को बहाना बनाकर गोपनीय जानकारी निकालते हैं और असली बैंक साइट जैसे दिखने वाले फ़िशिंग लिंक भेजते हैं। RBI की पुस्तिका ऐसे संदेशों के प्रति चेताती है जो इनाम, सरकारी सहायता या KYC अपडेट का वादा करते हैं।",
+ "what_en": "Fraudsters use KYC updation as a pretext to extract confidential details and send phishing links that mimic genuine bank sites. The RBI booklet warns against messages promising prize money, government aid or KYC updation."
+}

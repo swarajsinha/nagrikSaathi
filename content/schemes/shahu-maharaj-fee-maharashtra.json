@@ -1,0 +1,76 @@
+{
+ "slug": "shahu-maharaj-fee-maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "tags": [
+  "education"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "राजर्षि छत्रपति शाहू महाराज शिक्षण शुल्क शिष्यवृत्ती योजना (महाराष्ट्र)",
+ "en": "Rajarshi Chhatrapati Shahu Maharaj Education Fee Scholarship (Maharashtra)",
+ "state": "Maharashtra",
+ "source_url": "https://dte.maharashtra.gov.in/rajarshi-chhatrapati-shahu-maharaj/",
+ "source_name": "तकनीकी शिक्षा संचालनालय, महाराष्ट्र (उच्च एवं तकनीकी शिक्षा विभाग) — पेज अंतिम अपडेट 20 नवंबर 2025",
+ "kw": "rajarshi shahu maharaj fee scholarship ebc ews sebc maharashtra mahadbt शाहू महाराज शुल्क शिष्यवृत्ती",
+ "what_hi": "महाराष्ट्र में आर्थिक रूप से कमज़ोर (EWS), सामाजिक-शैक्षिक पिछड़े (SEBC) और आर्थिक रूप से पिछड़े (EBC) वर्ग के विद्यार्थियों को शैक्षणिक और परीक्षा शुल्क में रियायत: छात्रों को 50%, छात्राओं को 100% (छात्राओं के लिए 100% शैक्षणिक वर्ष 2024-25 से लागू)।",
+ "what_en": "Concession in academic and examination fees for students of the economically weaker (EWS), socially and educationally backward (SEBC) and economically backward (EBC) categories in Maharashtra: 50% for male students, 100% for female students (100% for girls applies from academic year 2024-25).",
+ "who_hi": [
+  "EWS, SEBC और EBC वर्ग के विद्यार्थी",
+  "माता-पिता की संयुक्त पारिवारिक आय की सीमा — तालिका में \"8 लाख तक\" लिखा है (पाठ में \"Rs 8.00\")",
+  "पाठ्यक्रम: पेज पर \"व्यावसायिक\" पाठ्यक्रम (पेज का शब्दांकन आंशिक रूप से अस्पष्ट है)"
+ ],
+ "who_en": [
+  "Students of the EWS, SEBC and EBC categories",
+  "Combined family income of both parents — the table says \"up to 8 lakhs\" (the text says \"Rs 8.00\")",
+  "Course: \"professional\" courses per the page (the wording on courses is partly garbled)"
+ ],
+ "not_hi": [
+  "आय-सीमा की इकाई पेज पर साफ़ नहीं (पाठ और तालिका में अंतर) — आवेदन से पहले MahaDBT या अपने संस्थान से सटीक सीमा पुष्ट करें",
+  "कौन-से पाठ्यक्रम पात्र हैं, यह पेज पर स्पष्ट नहीं — संस्थान से पूछें",
+  "आवश्यक दस्तावेज़ पेज पर नहीं दिए गए"
+ ],
+ "not_en": [
+  "The unit of the income limit is not clear on the page (text and table differ) — confirm the exact limit on MahaDBT or with your institution before applying",
+  "Which courses are eligible is not clear on the page — ask your institution",
+  "Required documents are not listed on the page"
+ ],
+ "docs_hi": [
+  "पेज पर दस्तावेज़ सूचीबद्ध नहीं — MahaDBT पर आवेदन के समय माँगे जाने वाले दस्तावेज़ तैयार रखें"
+ ],
+ "docs_en": [
+  "No documents are listed on the page — keep ready what MahaDBT asks for while applying"
+ ],
+ "steps_hi": [
+  "संस्थान में पढ़ रहे पात्र विद्यार्थी mahadbt.maharashtra.gov.in पर ऑनलाइन आवेदन भरें (साइट पर दिया यूज़र मैनुअल देखें)",
+  "राशि दो किस्तों में मिलती है: पहली किस्त अक्टूबर के पहले सप्ताह तक विद्यार्थी के आधार-लिंक्ड बैंक खाते में जमा होती है, दूसरी DBT पोर्टल से (पेज के अनुसार)",
+  "किसी को पैसे देकर आवेदन भरवाने की ज़रूरत नहीं"
+ ],
+ "steps_en": [
+  "Eligible students studying at an institution fill the online application at mahadbt.maharashtra.gov.in (see the user manual on the site)",
+  "The amount is paid in two instalments: the first is deposited in the student's Aadhaar-linked bank account by the first week of October, the second through the DBT portal (per the page)",
+  "You need not pay anyone to fill the application"
+ ],
+ "conf_hi": [
+  "24 अक्टूबर 2026 को DTE महाराष्ट्र के पेज (अंतिम अपडेट 20 नवंबर 2025) से पुष्ट: वर्ग, छात्र-छात्राओं की रियायत, आवेदन का तरीक़ा, भुगतान",
+  "आय-सीमा की सटीक राशि, पात्र पाठ्यक्रम और दस्तावेज़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 24 Oct 2026 from the DTE Maharashtra page (last updated 20 Nov 2025): categories, concession for male / female students, how to apply, payment",
+  "The exact income-limit figure, eligible courses and documents not confirmed"
+ ],
+ "benefit_hi": "महाराष्ट्र में आर्थिक रूप से कमज़ोर (EWS), सामाजिक-शैक्षिक पिछड़े (SEBC) और आर्थिक रूप से पिछड़े (EBC) वर्ग के विद्यार्थियों को शैक्षणिक और परीक्षा शुल्क में रियायत: छात्रों को 50%, छात्राओं को 100% (छात्राओं के लिए 100% शैक्षणिक वर्ष 2024-25 से लागू)।",
+ "benefit_en": "Concession in academic and examination fees for students of the economically weaker (EWS), socially and educationally backward (SEBC) and economically backward (EBC) categories in Maharashtra: 50% for male students, 100% for female students (100% for girls applies from academic year 2024-25)."
+}

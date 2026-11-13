@@ -1,0 +1,81 @@
+{
+ "slug": "nsap",
+ "hi": "राष्ट्रीय सामाजिक सहायता कार्यक्रम – NSAP (वृद्धा/विधवा/दिव्यांग पेंशन)",
+ "en": "National Social Assistance Programme – NSAP (old-age / widow / disability pension)",
+ "level": 2,
+ "dept": "Central / State",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://nsap.nic.in/circular.do?method=aboutus",
+ "source_name": "NSAP, ग्रामीण विकास मंत्रालय",
+ "tags": [
+  "senior",
+  "disability",
+  "woman"
+ ],
+ "kw": "nsap pension old age vridha vidhwa viklang divyang annapurna family benefit वृद्धा पेंशन विधवा पेंशन दिव्यांग पेंशन",
+ "what_hi": "ग़रीबी रेखा से नीचे (BPL) के लोगों के लिए केंद्र की पाँच योजनाएँ: वृद्धावस्था, विधवा और दिव्यांग पेंशन (₹200 प्रति माह; 80+ को ₹500), राष्ट्रीय परिवार लाभ (₹10,000 एकमुश्त) और अन्नपूर्णा (हर माह 10 किलो मुफ़्त अनाज)।",
+ "what_en": "Five central schemes for people below the poverty line (BPL): old-age, widow and disability pensions (₹200 a month; ₹500 for 80+), National Family Benefit (₹10,000 lump sum) and Annapurna (10 kg free foodgrain a month).",
+ "benefit_hi": "ग़रीबी रेखा से नीचे (BPL) के लोगों के लिए केंद्र की पाँच योजनाएँ: वृद्धावस्था, विधवा और दिव्यांग पेंशन (₹200 प्रति माह; 80+ को ₹500), राष्ट्रीय परिवार लाभ (₹10,000 एकमुश्त) और अन्नपूर्णा (हर माह 10 किलो मुफ़्त अनाज)।",
+ "benefit_en": "Five central schemes for people below the poverty line (BPL): old-age, widow and disability pensions (₹200 a month; ₹500 for 80+), National Family Benefit (₹10,000 lump sum) and Annapurna (10 kg free foodgrain a month).",
+ "who_hi": [
+  "वृद्धावस्था (IGNOAPS): BPL, उम्र 60+ — ₹200/माह 79 साल तक, 80 से ₹500/माह",
+  "विधवा (IGNWPS): BPL विधवा, 40–59 साल — ₹200/माह",
+  "दिव्यांग (IGNDPS): BPL, 18–59 साल, गंभीर और बहु-दिव्यांगता — ₹200/माह",
+  "परिवार लाभ (NFBS): BPL परिवार में मुख्य कमाने वाले (18–64 साल) की मृत्यु — ₹10,000 एकमुश्त",
+  "अन्नपूर्णा: पात्र बुज़ुर्ग जो वृद्धावस्था पेंशन में नहीं आते — 10 किलो अनाज/माह (नकद नहीं)"
+ ],
+ "who_en": [
+  "Old age (IGNOAPS): BPL, age 60+ — ₹200/month up to age 79, ₹500/month from 80",
+  "Widow (IGNWPS): BPL widow, age 40–59 — ₹200/month",
+  "Disability (IGNDPS): BPL, age 18–59, severe and multiple disabilities — ₹200/month",
+  "Family benefit (NFBS): BPL household where the main breadwinner (18–64) dies — ₹10,000 lump sum",
+  "Annapurna: eligible senior citizens not covered under old-age pension — 10 kg grain/month (not cash)"
+ ],
+ "not_hi": [
+  "ये केंद्र की राशि हैं; कई राज्य अपनी ओर से जोड़ते हैं, इसलिए आपको मिलने वाली कुल राशि राज्य के अनुसार अलग हो सकती है",
+  "आवेदन की प्रक्रिया और दस्तावेज़ उस पेज पर नहीं थे; पेज के अनुसार लाभार्थी की पहचान में ग्राम पंचायत और नगरपालिकाओं की सक्रिय भूमिका अपेक्षित है",
+  "BPL सूची में नाम आपके राज्य की सूची के अनुसार देखा जाता है"
+ ],
+ "not_en": [
+  "These are central amounts; many states add to them, so the total you get can differ by state",
+  "Application process and documents were not on that page; per the page, gram panchayats and municipalities are expected to play an active role in identifying beneficiaries",
+  "BPL status is checked as per your state's list"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ग्राम पंचायत/नगर निकाय या ज़िला समाज कल्याण कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the gram panchayat / municipality or the district social welfare office"
+ ],
+ "steps_hi": [
+  "अपनी ग्राम पंचायत या नगर निकाय से पूछें कि आप किस योजना में पात्र हैं और आवेदन कहाँ जमा होगा",
+  "आधिकारिक साइट nsap.nic.in पर योजनाओं की जानकारी देखें",
+  "राज्य की पेंशन योजना के बारे में भी पूछें — राज्य अपनी राशि जोड़ सकते हैं"
+ ],
+ "steps_en": [
+  "Ask your gram panchayat or municipality which scheme you are eligible for and where to submit the application",
+  "See scheme information on the official site nsap.nic.in",
+  "Also ask about your state's own pension scheme — states may add their own amount"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को nsap.nic.in के 'हमारे बारे में' पेज से पुष्ट: पाँच घटक योजनाएँ, पात्रता (उम्र/BPL), केंद्रीय राशि",
+  "आवेदन-प्रक्रिया, दस्तावेज़ और राज्य-वार जोड़ी गई राशि पुष्ट नहीं; पेज की तारीख़ बताई नहीं गई"
+ ],
+ "conf_en": [
+  "Confirmed from the 'About us' page of nsap.nic.in on 13 Oct 2026: five component schemes, eligibility (age/BPL), central amounts",
+  "Application process, documents and state top-ups not confirmed; the page shows no date"
+ ]
+}

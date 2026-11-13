@@ -1,0 +1,79 @@
+{
+ "slug": "pm-kusum",
+ "hi": "पीएम-कुसुम (किसानों के लिए सोलर पंप और सोलर बिजली)",
+ "en": "PM-KUSUM (solar pumps and solar power for farmers)",
+ "status": "pending",
+ "last_verified": null,
+ "source_url": "https://mnre.gov.in/en/pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyaan-pm-kusum/",
+ "source_name": "MNRE पेज (अपडेट 7 नवंबर 2025) / MNRE page (updated 7 Nov 2025)",
+ "tags": [
+  "farmer"
+ ],
+ "kw": "pm kusum solar pump kisan subsidy सोलर पंप कुसुम योजना किसान सब्सिडी सौर ऊर्जा",
+ "what_hi": "घटक B: ऑफ-ग्रिड इलाकों में 7.5 HP तक के सोलर पंप और घटक C: मौजूदा ग्रिड पंप का सोलराइज़ेशन। केंद्र की सहायता बेंचमार्क/टेंडर लागत (जो कम हो) का 30% (NE राज्य, सिक्किम, J&K, HP, उत्तराखंड, लक्षद्वीप, A&N में 50%); राज्य कम से कम 30%; किसान अधिकतम 40% (विशेष राज्यों में 20%)।",
+ "what_en": "Component B: solar pumps up to 7.5 HP in off-grid areas. Component C: solarising existing grid-connected pumps. Central support is 30% of benchmark/tender cost (whichever is lower) (50% in NE states, Sikkim, J&K, HP, Uttarakhand, Lakshadweep, A&N); state at least 30%; farmer pays at most 40% (20% in the special states).",
+ "who_hi": [
+  "घटक B: ऑफ-ग्रिड इलाकों के व्यक्तिगत किसान, जहाँ ग्रिड बिजली नहीं है (पंप 7.5 HP तक)",
+  "घटक C (पंप): ग्रिड-कनेक्टेड कृषि पंप वाले व्यक्तिगत किसान",
+  "घटक A: किसान, किसान समूह, सहकारी समितियाँ, पंचायतें, FPO, जल उपयोगकर्ता संघ (500 kW से 2 MW के संयंत्र)"
+ ],
+ "who_en": [
+  "Component B: individual farmers in off-grid areas without grid supply (pump up to 7.5 HP)",
+  "Component C (pumps): individual farmers with a grid-connected agriculture pump",
+  "Component A: farmers, farmer groups, cooperatives, panchayats, FPOs, water user associations (plants of 500 kW to 2 MW)"
+ ],
+ "not_hi": [
+  "पेज पर योजना की अवधि 31.03.2026 तक लिखी है; इसके आगे विस्तार उस पेज पर पुष्ट नहीं — इसलिए स्थिति 'लंबित'। आज उपलब्धता राज्य एजेंसी से पूछें",
+  "आवंटन राज्यवार MNRE देता है; किसान को सीधे केंद्र से नहीं, राज्य की कार्यान्वयन एजेंसी के ज़रिए लाभ मिलता है",
+  "किसान के लिए दस्तावेज़ों की सूची पेज पर नहीं थी"
+ ],
+ "not_en": [
+  "The page states the scheme period as till 31.03.2026; an extension is not confirmed on that page — hence status 'pending'. Ask your state agency about availability today",
+  "MNRE allocates state-wise; farmers are served through the state implementing agency, not directly by the Centre",
+  "The farmer's document list was not on the page"
+ ],
+ "docs_hi": [
+  "किसान के लिए दस्तावेज़ों की सूची पेज पर नहीं दी गई — राज्य कार्यान्वयन एजेंसी से पूछें"
+ ],
+ "docs_en": [
+  "The farmer's document list is not on the page — ask the state implementing agency"
+ ],
+ "steps_hi": [
+  "pmkusum.mnre.gov.in पर अपने राज्य की कार्यान्वयन एजेंसी (State Implementing Agencies पेज) देखें",
+  "एजेंसी या ज़िले के कृषि/ऊर्जा विभाग से पूछें कि आपके राज्य में आवेदन खुले हैं या नहीं",
+  "सोलर पंप की दरें और वेंडर: पोर्टल का State_PumpCost पेज देखें"
+ ],
+ "steps_en": [
+  "On pmkusum.mnre.gov.in find your state's implementing agency (State Implementing Agencies page)",
+  "Ask the agency or your district agriculture/energy office whether applications are open in your state",
+  "For pump rates and vendors: see the portal's State_PumpCost page"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना — आधिकारिक प्रक्रिया में बिचौलिए की फीस नहीं होती",
+  "OTP/PIN/आधार जैसी जानकारी किसी अनजान को बताना",
+  "नकली वेबसाइट या ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "सब्सिडी के नाम पर पूरा पैसा पहले माँगने वाले वेंडर/एजेंट से सावधान रहें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman — the official process has no middleman fee",
+  "Sharing OTP/PIN/Aadhaar details with strangers",
+  "Fake websites or apps — use only the official address",
+  "Be careful of vendors/agents who ask for full payment upfront in the name of subsidy"
+ ],
+ "conf_hi": [
+  "15 अक्टूबर 2026 को mnre.gov.in के PM-KUSUM पेज से पुष्ट: घटक, सब्सिडी प्रतिशत, पात्र श्रेणियाँ, आवेदन प्रक्रिया का ढाँचा",
+  "6 दिसंबर 2025 की PIB विज्ञप्ति के अनुसार योजना 31 मार्च 2026 तक बढ़ाई गई थी; उसके बाद के विस्तार की सरकारी पुष्टि 22 अक्टूबर 2026 तक नहीं मिली",
+  "31.03.2026 के बाद योजना जारी है या नहीं, और किसान के दस्तावेज़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 15 Oct 2026 from the mnre.gov.in PM-KUSUM page: components, subsidy percentages, eligible categories, outline of the process",
+  "A PIB release of 6 Dec 2025 says the scheme was extended until 31 March 2026; no government confirmation of any extension beyond that was found as of 22 Oct 2026",
+  "Whether the scheme continues after 31.03.2026, and farmer documents, are not confirmed"
+ ],
+ "level": 1,
+ "dept": "Central",
+ "version": 1,
+ "updated": "2026-10-15",
+ "benefit_hi": "घटक B: ऑफ-ग्रिड इलाकों में 7.5 HP तक के सोलर पंप और घटक C: मौजूदा ग्रिड पंप का सोलराइज़ेशन। केंद्र की सहायता बेंचमार्क/टेंडर लागत (जो कम हो) का 30% (NE राज्य, सिक्किम, J&K, HP, उत्तराखंड, लक्षद्वीप, A&N में 50%); राज्य कम से कम 30%; किसान अधिकतम 40% (विशेष राज्यों में 20%)।",
+ "benefit_en": "Component B: solar pumps up to 7.5 HP in off-grid areas. Component C: solarising existing grid-connected pumps. Central support is 30% of benchmark/tender cost (whichever is lower) (50% in NE states, Sikkim, J&K, HP, Uttarakhand, Lakshadweep, A&N); state at least 30%; farmer pays at most 40% (20% in the special states)."
+}

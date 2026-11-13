@@ -1,0 +1,81 @@
+{
+ "slug": "ayushman-bharat-pmjay",
+ "hi": "आयुष्मान भारत PM-JAY (₹5 लाख तक का मुफ़्त इलाज)",
+ "en": "Ayushman Bharat PM-JAY (free treatment up to ₹5 lakh)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://nha.gov.in/PM-JAY",
+ "source_name": "राष्ट्रीय स्वास्थ्य प्राधिकरण (NHA)",
+ "tags": [
+  "senior",
+  "worker",
+  "other"
+ ],
+ "kw": "ayushman bharat pmjay health insurance 5 lakh hospital free ilaj golden card आयुष्मान भारत इलाज अस्पताल कार्ड",
+ "what_hi": "हर परिवार को हर साल ₹5 लाख तक का कैशलेस इलाज (अस्पताल में भर्ती वाली द्वितीयक और तृतीयक देखभाल)। फ़ैमिली-फ़्लोटर आधार पर — परिवार का एक या सभी सदस्य उपयोग कर सकते हैं। परिवार के आकार, उम्र या लिंग की कोई सीमा नहीं; पहले से मौजूद बीमारियाँ पहले दिन से कवर।",
+ "what_en": "Cashless treatment up to ₹5 lakh per family per year (hospitalisation: secondary and tertiary care). On a family-floater basis — one or all members can use it. No limit on family size, age or gender; pre-existing conditions covered from day one.",
+ "benefit_hi": "हर परिवार को हर साल ₹5 लाख तक का कैशलेस इलाज (अस्पताल में भर्ती वाली द्वितीयक और तृतीयक देखभाल)। फ़ैमिली-फ़्लोटर आधार पर — परिवार का एक या सभी सदस्य उपयोग कर सकते हैं। परिवार के आकार, उम्र या लिंग की कोई सीमा नहीं; पहले से मौजूद बीमारियाँ पहले दिन से कवर।",
+ "benefit_en": "Cashless treatment up to ₹5 lakh per family per year (hospitalisation: secondary and tertiary care). On a family-floater basis — one or all members can use it. No limit on family size, age or gender; pre-existing conditions covered from day one.",
+ "who_hi": [
+  "नीचे के लगभग 40% ग़रीब और वंचित परिवार (करीब 12 करोड़ परिवार)",
+  "ग्रामीण: SECC 2011 के अभाव-मानदंडों (D1–D5, D7) में से कम से कम एक पूरा करने वाले या स्वतः शामिल श्रेणियाँ",
+  "शहरी: 11 सूचीबद्ध व्यावसायिक श्रेणियों में काम करने वाले परिवार",
+  "राज्य अपने डेटाबेस भी इस्तेमाल कर सकते हैं"
+ ],
+ "who_en": [
+  "About the bottom 40% poor and vulnerable families (roughly 12 crore families)",
+  "Rural: families meeting at least one SECC 2011 deprivation criterion (D1–D5, D7), or automatic-inclusion categories",
+  "Urban: families with workers in one of the 11 listed occupational categories",
+  "States may also use their own databases"
+ ],
+ "not_hi": [
+  "यह पात्रता-आधारित योजना है, अलग से आवेदन नहीं — पर पेज पर आयुष्मान कार्ड बनवाने की प्रक्रिया नहीं दी गई",
+  "पैकेज-दरों से बाहर कोई खर्च लगे या नहीं, पेज में नहीं बताया",
+  "65+ / 70+ बुज़ुर्गों के लिए अलग योजना है (वय वंदना कार्ड) — उसका अलग पेज देखें"
+ ],
+ "not_en": [
+  "It is an entitlement-based scheme with no separate application — but the page does not describe how to get an Ayushman card",
+  "The page does not say whether any costs fall outside the package rates",
+  "There is a separate scheme for senior citizens (Vay Vandana card) — see its own page"
+ ],
+ "docs_hi": [
+  "आयुष्मान कार्ड के दस्तावेज़ों की सत्यापित सूची उपलब्ध नहीं — पात्रता जाँच के बाद अस्पताल के आयुष्मान मित्र/CSC से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list for the Ayushman card is not available — after checking eligibility, ask the hospital's Ayushman Mitra / CSC"
+ ],
+ "steps_hi": [
+  "पात्रता mera.pmjay.gov.in (नागरिक पोर्टल) या कॉल सेंटर से जाँचें",
+  "पात्र हों तो सूचीबद्ध अस्पताल के आयुष्मान मित्र/हेल्प डेस्क से कैशलेस इलाज और कार्ड के बारे में पूछें",
+  "इलाज के लिए अस्पताल में कैशलेस सुविधा 'सेवा के बिंदु' पर मिलती है",
+  "हेल्पलाइन: 14555 (24x7, टोल-फ़्री)"
+ ],
+ "steps_en": [
+  "Check eligibility on mera.pmjay.gov.in (citizen portal) or via the call centre",
+  "If eligible, ask the empanelled hospital's Ayushman Mitra / help desk about cashless treatment and the card",
+  "Cashless care is given at the hospital, at the point of service",
+  "Helpline: 14555 (24x7, toll-free)"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को nha.gov.in/PM-JAY से पुष्ट: ₹5 लाख प्रति परिवार प्रति वर्ष, कौन कवर, पात्रता का आधार (SECC 2011), कैशलेस, हेल्पलाइन 14555 और 1800 111 565",
+  "कार्ड बनवाने के कदम और दस्तावेज़ पुष्ट नहीं; pmjay.gov.in स्वचालित पहुँच रोकता है"
+ ],
+ "conf_en": [
+  "Confirmed from nha.gov.in/PM-JAY on 13 Oct 2026: ₹5 lakh per family per year, who is covered, basis of eligibility (SECC 2011), cashless care, helpline 14555 and 1800 111 565",
+  "Steps to get the card and documents not confirmed; pmjay.gov.in blocks automated access"
+ ]
+}

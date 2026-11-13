@@ -1,0 +1,78 @@
+{
+ "slug": "atal-pension-yojana",
+ "hi": "अटल पेंशन योजना (60 साल के बाद पक्की पेंशन)",
+ "en": "Atal Pension Yojana (guaranteed pension after 60)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://financialservices.gov.in/atal-pension-yojana",
+ "source_name": "वित्तीय सेवाएँ विभाग, वित्त मंत्रालय",
+ "tags": [
+  "worker",
+  "other"
+ ],
+ "kw": "atal pension apy pension 60 saal unorganised sector अटल पेंशन योजना पेंशन असंगठित",
+ "what_hi": "60 साल की उम्र से हर महीने ₹1,000, ₹2,000, ₹3,000, ₹4,000 या ₹5,000 की गारंटीशुदा न्यूनतम पेंशन (आपके चुने स्लैब के अनुसार)। आपका योगदान उम्र और स्लैब पर निर्भर है और बचत खाते से ऑटो-डेबिट होता है।",
+ "what_en": "A guaranteed minimum monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000 or ₹5,000 from age 60 (as per the slab you choose). Your contribution depends on your age and slab and is auto-debited from your savings account.",
+ "benefit_hi": "60 साल की उम्र से हर महीने ₹1,000, ₹2,000, ₹3,000, ₹4,000 या ₹5,000 की गारंटीशुदा न्यूनतम पेंशन (आपके चुने स्लैब के अनुसार)। आपका योगदान उम्र और स्लैब पर निर्भर है और बचत खाते से ऑटो-डेबिट होता है।",
+ "benefit_en": "A guaranteed minimum monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000 or ₹5,000 from age 60 (as per the slab you choose). Your contribution depends on your age and slab and is auto-debited from your savings account.",
+ "who_hi": [
+  "भारत का कोई भी नागरिक, उम्र 18 से 40 साल",
+  "बचत बैंक खाता या पोस्ट ऑफ़िस बचत खाता ज़रूरी",
+  "एक व्यक्ति सिर्फ़ एक APY खाता खोल सकता है; नाबालिग नहीं",
+  "18–40 साल के NRI (APY से जुड़े बैंक में खाता हो) भी पात्र"
+ ],
+ "who_en": [
+  "Any citizen of India aged 18 to 40",
+  "A savings bank or post office savings account is required",
+  "One person can open only one APY account; minors cannot",
+  "NRIs aged 18–40 with an account at an APY-linked bank are also eligible"
+ ],
+ "not_hi": [
+  "आपका सटीक योगदान (उम्र/स्लैब/किस्त-अनुसार तालिका) उस पेज पर नहीं थी — बैंक या सब्सक्राइबर ब्रोशर से देखें",
+  "योगदान मासिक, तिमाही या छमाही हो सकता है",
+  "बीच में छोड़ने के नियम उस पेज से पुष्ट नहीं हुए"
+ ],
+ "not_en": [
+  "The exact contribution table (by age / slab / frequency) was not on that page — see your bank or the subscriber brochure",
+  "Contribution can be monthly, quarterly or half-yearly",
+  "Exit rules were not confirmed from that page"
+ ],
+ "docs_hi": [
+  "पेज पर दस्तावेज़ों की सूची नहीं दी गई — बैंक/डाकघर से पूछें; बचत खाते का विवरण चाहिए होगा"
+ ],
+ "docs_en": [
+  "The page lists no documents — ask the bank / post office; your savings account details will be needed"
+ ],
+ "steps_hi": [
+  "जिस बैंक/डाकघर में आपका बचत खाता है, वहाँ जाकर APY के लिए कहें (खाता न हो तो खोलें)",
+  "पेंशन स्लैब और योगदान की आवृत्ति चुनें",
+  "या eNPS (APY@eNPS) से डिजिटल रजिस्ट्रेशन करें, शाखा जाए बिना"
+ ],
+ "steps_en": [
+  "Visit the bank / post office where you hold a savings account and ask for APY (open an account if you do not have one)",
+  "Choose the pension slab and contribution frequency",
+  "Or enrol digitally via eNPS (APY@eNPS) without visiting a branch"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को financialservices.gov.in से पुष्ट: पात्रता (18–40 साल), पेंशन स्लैब ₹1,000–₹5,000, ऑटो-डेबिट, शाखा/eNPS से रजिस्ट्रेशन, टोल-फ़्री 1800-110-069",
+  "योगदान की तालिका और बाहर निकलने के नियम पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from financialservices.gov.in on 13 Oct 2026: eligibility (18–40), pension slabs ₹1,000–₹5,000, auto-debit, enrolment via branch / eNPS, toll-free 1800-110-069",
+  "Contribution table and exit rules not confirmed"
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "emrs-eklavya",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — Ministry of Tribal Affairs",
+ "tags": [
+  "education",
+  "tribal"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "एकलव्य आदर्श आवासीय विद्यालय (EMRS)",
+ "en": "Eklavya Model Residential Schools (EMRS)",
+ "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/mar/doc202232127401.pdf",
+ "source_name": "जनजातीय कार्य मंत्रालय — EMRS FAQ (21 मार्च 2022)",
+ "kw": "emrs eklavya model residential school tribal ST admission class 6 एकलव्य आवासीय विद्यालय आदिवासी प्रवेश",
+ "what_hi": "जनजाति-बहुल क्षेत्रों में ST और विशेष रूप से कमज़ोर जनजातीय समूह (PVTG) के विद्यार्थियों के लिए कक्षा 6 से 12 तक आवासीय विद्यालय। राष्ट्रीय जनजातीय विद्यार्थी शिक्षा समिति (NESTS) पारदर्शी मानदंड तय करती है। प्रति विद्यार्थी हर साल ₹1.09 लाख (भोजन, वर्दी, किताबें आदि के लिए) जारी किए जाते हैं।",
+ "what_en": "Residential schools for classes 6 to 12 for ST and Particularly Vulnerable Tribal Group (PVTG) students in tribal-dominated areas. The National Education Society for Tribal Students (NESTS) sets transparent admission criteria. ₹1.09 lakh per student a year is released for food, uniforms, books and other recurring costs.",
+ "who_hi": [
+  "ST और PVTG विद्यार्थी, कक्षा 6 से 12",
+  "10% तक सीटें ग़ैर-ST उम्मीदवारों को (कर्मचारियों के बच्चों, विधवाओं के बच्चों आदि को प्राथमिकता)",
+  "20% सीटें खेलों में उत्कृष्ट ST विद्यार्थियों के लिए आरक्षित"
+ ],
+ "who_en": [
+  "ST and PVTG students, classes 6 to 12",
+  "Up to 10% seats for non-ST candidates (priority to children of staff, widows etc.)",
+  "20% seats reserved for ST students who excelled in sports"
+ ],
+ "not_hi": [
+  "दस्तावेज़ मार्च 2022 का है; प्रवेश के चालू नियम NESTS/EMRS की आधिकारिक साइट पर देखें",
+  "FAQ में आय-सीमा या प्रवेश-परीक्षा का ज़िक्र नहीं है; यह भी नहीं लिखा कि शिक्षा/छात्रावास मुफ़्त है",
+  "हर विद्यालय में अधिकतम 480 विद्यार्थी; लड़कों और लड़कियों की सीटें बराबर"
+ ],
+ "not_en": [
+  "The document is from March 2022; check current admission rules on the official NESTS / EMRS site",
+  "The FAQ does not mention an income limit or an entrance test, and does not say education / hostel is free",
+  "Maximum 480 students per school; equal seats for boys and girls"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — NESTS/EMRS या ज़िला जनजातीय कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask NESTS / EMRS or the district tribal office"
+ ],
+ "steps_hi": [
+  "emrs.tribal.gov.in या nests.tribal.gov.in पर प्रवेश की सूचना देखें",
+  "अपने ज़िले के जनजातीय कल्याण कार्यालय से पूछें",
+  "प्रवेश के नाम पर पैसे न दें"
+ ],
+ "steps_en": [
+  "See admission notices on emrs.tribal.gov.in or nests.tribal.gov.in",
+  "Ask your district tribal welfare office",
+  "Do not pay for admission"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को जनजातीय कार्य मंत्रालय के FAQ (मार्च 2022) से पुष्ट: लक्ष्य-समूह, कक्षाएँ, सीट-नियम, NESTS के मानदंड, प्रति विद्यार्थी राशि",
+  "चालू प्रवेश-प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the Ministry of Tribal Affairs FAQ (Mar 2022): target group, classes, seat rules, NESTS criteria, per-student amount",
+  "Current admission process not confirmed"
+ ],
+ "benefit_hi": "जनजाति-बहुल क्षेत्रों में ST और विशेष रूप से कमज़ोर जनजातीय समूह (PVTG) के विद्यार्थियों के लिए कक्षा 6 से 12 तक आवासीय विद्यालय। राष्ट्रीय जनजातीय विद्यार्थी शिक्षा समिति (NESTS) पारदर्शी मानदंड तय करती है। प्रति विद्यार्थी हर साल ₹1.09 लाख (भोजन, वर्दी, किताबें आदि के लिए) जारी किए जाते हैं।",
+ "benefit_en": "Residential schools for classes 6 to 12 for ST and Particularly Vulnerable Tribal Group (PVTG) students in tribal-dominated areas. The National Education Society for Tribal Students (NESTS) sets transparent admission criteria. ₹1.09 lakh per student a year is released for food, uniforms, books and other recurring costs."
+}

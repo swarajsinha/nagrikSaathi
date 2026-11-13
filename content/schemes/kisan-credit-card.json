@@ -1,0 +1,80 @@
+{
+ "slug": "kisan-credit-card",
+ "hi": "किसान क्रेडिट कार्ड – KCC (खेती के लिए सस्ता कर्ज़)",
+ "en": "Kisan Credit Card – KCC (cheap farm credit)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2238004&reg=3&lang=2",
+ "source_name": "PIB (भारत सरकार), 11 मार्च 2026",
+ "tags": [
+  "farmer",
+  "business"
+ ],
+ "kw": "kisan credit card kcc farm loan interest subvention 4% pashupalan matsya किसान क्रेडिट कार्ड कर्ज़ ब्याज छूट",
+ "what_hi": "किसानों के लिए कम ब्याज पर फ़सल/कार्यशील पूँजी ऋण। ₹3 लाख तक के अल्पकालिक कृषि ऋण 7% पर, समय पर चुकाने पर अतिरिक्त 3% छूट — यानी प्रभावी 4%। बिना गारंटी की सीमा ₹2 लाख (1 जनवरी 2025 से)। प्राकृतिक आपदा में 1 साल तक ब्याज नहीं (गंभीर आपदा में 5 साल तक बढ़ सकता है)।",
+ "what_en": "Low-interest crop / working-capital credit for farmers. Short-term farm loans up to ₹3 lakh at 7%, with an extra 3% relief for timely repayment — effective 4%. Collateral-free limit ₹2 lakh (from 1 January 2025). No interest for up to 1 year in a natural calamity (extendable to 5 years in severe ones).",
+ "benefit_hi": "किसानों के लिए कम ब्याज पर फ़सल/कार्यशील पूँजी ऋण। ₹3 लाख तक के अल्पकालिक कृषि ऋण 7% पर, समय पर चुकाने पर अतिरिक्त 3% छूट — यानी प्रभावी 4%। बिना गारंटी की सीमा ₹2 लाख (1 जनवरी 2025 से)। प्राकृतिक आपदा में 1 साल तक ब्याज नहीं (गंभीर आपदा में 5 साल तक बढ़ सकता है)।",
+ "benefit_en": "Low-interest crop / working-capital credit for farmers. Short-term farm loans up to ₹3 lakh at 7%, with an extra 3% relief for timely repayment — effective 4%. Collateral-free limit ₹2 lakh (from 1 January 2025). No interest for up to 1 year in a natural calamity (extendable to 5 years in severe ones).",
+ "who_hi": [
+  "मालिक-किसान (अकेले या संयुक्त), किरायेदार किसान, मौखिक पट्टेदार और बटाईदार",
+  "किसानों के स्वयं सहायता समूह (SHG) और संयुक्त देयता समूह (JLG)",
+  "मछुआरे और मत्स्य-पालक (2018-19 से कार्यशील पूँजी के लिए); पशुपालन, डेयरी और मत्स्य पालन KCC सैचुरेशन अभियान में शामिल (अलग पात्रता पेज पर नहीं)"
+ ],
+ "who_en": [
+  "Owner-cultivators (single or joint), tenant farmers, oral lessees and sharecroppers",
+  "Farmers' Self Help Groups (SHGs) and Joint Liability Groups (JLGs)",
+  "Fishers and fish farmers (for working capital since 2018-19); animal husbandry, dairy and fisheries are in the KCC saturation drive (separate eligibility not on the page)"
+ ],
+ "not_hi": [
+  "फ़सल-ऋण की सीमा ₹3 लाख से बढ़ाकर ₹5 लाख (2025-26, MISS के तहत); मत्स्य और संबद्ध गतिविधियों के लिए ₹2 लाख से ₹5 लाख; सीमांत किसानों के लिए ₹10,000–₹50,000 की लचीली सीमा (PIB के अनुसार)",
+  "समय पर चुकाने वाली 3% छूट की राशि का दावा बैंक किसान ऋण पोर्टल से करते हैं — आपको अलग से कुछ नहीं करना; पर चालू दरें बैंक से पुष्ट करें",
+  "मैं नहीं बता सकता कि कौन-सी दर आपके बैंक में लागू होगी — बैंक से पूछें"
+ ],
+ "not_en": [
+  "Crop-loan limit raised from ₹3 lakh to ₹5 lakh (2025-26, under MISS); fisheries and allied activities from ₹2 lakh to ₹5 lakh; a flexible ₹10,000–₹50,000 limit for marginal farmers (per PIB)",
+  "Banks claim the 3% timely-repayment relief through the Kisan Rin Portal — you need not do anything separately; but confirm current rates with the bank",
+  "I cannot say which rate will apply at your bank — ask the bank"
+ ],
+ "docs_hi": [
+  "ज़मीन के रिकॉर्ड की प्रतियाँ",
+  "उगाई जा रही फ़सलों की जानकारी"
+ ],
+ "docs_en": [
+  "Copies of land records",
+  "Information on the crops grown"
+ ],
+ "steps_hi": [
+  "सरल एक-पन्ने वाला KCC आवेदन भरें — बुनियादी जानकारी PM-KISAN के रिकॉर्ड से पहले से भरी होती है",
+  "फ़ॉर्म बैंक की वेबसाइट, agricoop.gov.in या pmkisan.gov.in से डाउनलोड करें",
+  "CSC फ़ॉर्म भरने और बैंक शाखा को डिजिटल रूप से भेजने में मदद करता है",
+  "किसी एजेंट को पैसे न दें"
+ ],
+ "steps_en": [
+  "Fill the simplified one-page KCC application — basic details are pre-filled from PM-KISAN records",
+  "Download the form from your bank's website, agricoop.gov.in or pmkisan.gov.in",
+  "A CSC can help fill it and send it digitally to the bank branch",
+  "Do not pay any agent"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को PIB (11 मार्च 2026) से पुष्ट: पात्र वर्ग, ब्याज दर और छूट, बिना गारंटी सीमा, आवेदन का तरीका, दस्तावेज़",
+  "बैंक-वार चालू ब्याज दर और शर्तें पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (11 March 2026) on 22 Oct 2026: eligible groups, interest and relief, collateral-free limit, how to apply, documents",
+  "Bank-wise current rates and conditions not confirmed"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "svamitva-property-card",
+ "dept": "Central — Ministry of Panchayati Raj",
+ "tags": [
+  "rural",
+  "housing",
+  "document"
+ ],
+ "hi": "स्वामित्व योजना — गाँव के घर का प्रॉपर्टी कार्ड",
+ "en": "SVAMITVA — property card for village homes",
+ "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc2025423544601.pdf",
+ "source_name": "PIB — स्वामित्व योजना के 5 साल (पंचायती राज मंत्रालय, 23 अप्रैल 2025)",
+ "more": [
+  [
+   "https://svamitva.nic.in/svamitva/",
+   "स्वामित्व योजना आधिकारिक पोर्टल"
+  ]
+ ],
+ "kw": "svamitva swamitva property card gharauni village abadi drone survey record of rights ghar patta स्वामित्व योजना प्रॉपर्टी कार्ड घरौनी गाँव घर आबादी ड्रोन सर्वे",
+ "what_hi": "गाँव की आबादी (बसे हुए) क्षेत्र में जिनका अपना घर/ज़मीन है, उन्हें ड्रोन सर्वे के आधार पर मालिकाना हक़ का कागज़ — प्रॉपर्टी कार्ड — मिलता है। इससे घर पर बैंक से कर्ज़ लेना आसान होता है और ज़मीन के झगड़े सुलझाने में मदद मिलती है। अलग से आवेदन नहीं करना होता — जिस गाँव में सर्वे होता है, वहाँ राज्य सरकार कार्ड देती है।",
+ "what_en": "People who own a house / land in the inhabited (abadi) area of a village get an ownership document — a property card — based on a drone survey. It makes it easier to get a bank loan on the house and helps settle land disputes. There is no separate application — the State Government issues cards in villages where the survey is done.",
+ "who_hi": [
+  "गाँव के आबादी (बसे हुए) क्षेत्र में अपने घर/ज़मीन के मालिक परिवार — जिन गाँवों में योजना के तहत सर्वे हुआ है"
+ ],
+ "who_en": [
+  "Families owning homes / land in the inhabited (abadi) area of a village — in villages surveyed under the scheme"
+ ],
+ "not_hi": [
+  "यह खेती की ज़मीन के लिए नहीं, गाँव के बसे हुए हिस्से (घर/प्लॉट) के लिए है",
+  "सर्वे सर्वे ऑफ़ इंडिया ड्रोन से करता है; कार्ड राज्य सरकार देती है — कुछ राज्यों में इसके अलग नाम हैं (जैसे घरौनी)",
+  "2 अप्रैल 2025 तक 3.20 लाख गाँवों में ड्रोन सर्वे पूरा; 11 मार्च 2025 तक 1.61 लाख गाँवों के लिए 2.42 करोड़ प्रॉपर्टी कार्ड बने",
+  "आपत्ति/शिकायत की प्रक्रिया इस स्रोत में नहीं — ग्राम पंचायत या तहसील से पूछें"
+ ],
+ "not_en": [
+  "It is for the inhabited part of the village (homes / plots), not farmland",
+  "Survey of India does the drone survey; the State Government issues the cards — some states use other names (e.g. Gharauni)",
+  "By 2 Apr 2025 drone surveys were done in 3.20 lakh villages; by 11 Mar 2025, 2.42 crore property cards were prepared for 1.61 lakh villages",
+  "The objection / complaint process is not in this source — ask the Gram Panchayat or Tehsil"
+ ],
+ "docs_hi": [
+  "अलग से आवेदन/दस्तावेज़ की ज़रूरत स्रोत में नहीं बताई गई — सर्वे के समय ग्राम पंचायत/राजस्व विभाग जो माँगे"
+ ],
+ "docs_en": [
+  "No separate application/documents are described in the source — whatever the Gram Panchayat / Revenue Department asks at the time of the survey"
+ ],
+ "steps_hi": [
+  "ग्राम पंचायत से पूछें कि आपके गाँव में स्वामित्व सर्वे हुआ है या कब होगा",
+  "सर्वे के समय अपनी सीमा (हद) की पहचान में मौजूद रहें",
+  "कार्ड बनने पर राज्य सरकार की ओर से कार्ड बाँटा जाता है — ग्राम पंचायत/तहसील से जानकारी लें",
+  "कार्ड दिलाने के नाम पर पैसे माँगने वाले से सावधान रहें"
+ ],
+ "steps_en": [
+  "Ask the Gram Panchayat whether the SVAMITVA survey has been or will be done in your village",
+  "Be present when boundaries are identified during the survey",
+  "When cards are ready the State Government distributes them — check with the Gram Panchayat / Tehsil",
+  "Beware of anyone asking money to get you the card"
+ ],
+ "conf_hi": [
+  "10 नवंबर 2026 को PIB दस्तावेज़ (पंचायती राज मंत्रालय, 23 अप्रैल 2025) से पुष्ट: योजना क्या है, किसे लाभ, ड्रोन सर्वे से प्रॉपर्टी कार्ड, लाभ, लागू करने वाली एजेंसियाँ, प्रगति के आँकड़े",
+  "आपत्ति की प्रक्रिया, हेल्पलाइन और कार्ड देखने का ऑनलाइन तरीका इस स्रोत में नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 10 Nov 2026 from the PIB document (Ministry of Panchayati Raj, 23 April 2025): what the scheme is, who benefits, property cards from drone surveys, benefits, implementing agencies, progress figures",
+  "Objection process, helpline and online card lookup are not in this source"
+ ],
+ "status": "verified",
+ "last_verified": "2026-11-10",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites/apps — use only the official address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "benefit_hi": "गाँव की आबादी (बसे हुए) क्षेत्र में जिनका अपना घर/ज़मीन है, उन्हें ड्रोन सर्वे के आधार पर मालिकाना हक़ का कागज़ — प्रॉपर्टी कार्ड — मिलता है। इससे घर पर बैंक से कर्ज़ लेना आसान होता है और ज़मीन के झगड़े सुलझाने में मदद मिलती है। अलग से आवेदन नहीं करना होता — जिस गाँव में सर्वे होता है, वहाँ राज्य सरकार कार्ड देती है।",
+ "benefit_en": "People who own a house / land in the inhabited (abadi) area of a village get an ownership document — a property card — based on a drone survey. It makes it easier to get a bank loan on the house and helps settle land disputes. There is no separate application — the State Government issues cards in villages where the survey is done."
+}

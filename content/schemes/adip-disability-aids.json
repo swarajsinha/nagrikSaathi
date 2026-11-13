@@ -1,0 +1,83 @@
+{
+ "slug": "adip-disability-aids",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — Dept. of Empowerment of Persons with Disabilities",
+ "tags": [
+  "disability"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "ADIP — दिव्यांगजन के लिए सहायक उपकरण (कृत्रिम अंग, व्हीलचेयर, श्रवण यंत्र आदि)",
+ "en": "ADIP — aids and appliances for persons with disabilities",
+ "source_url": "https://adip.depwd.gov.in/files/ADIP_English.pdf",
+ "source_name": "दिव्यांगजन सशक्तिकरण विभाग — ADIP योजना, कार्यालय ज्ञापन दिनांक 2 अप्रैल 2024 (1 अप्रैल 2024 से लागू)",
+ "kw": "adip aids appliances disability wheelchair hearing aid prosthetic udid divyang सहायक उपकरण दिव्यांग व्हीलचेयर श्रवण यंत्र",
+ "what_hi": "दिव्यांगजन को टिकाऊ, आधुनिक सहायक उपकरण (जैसे कृत्रिम और ऑर्थोटिक उपकरण, चलने के उपकरण, मोटर-चालित ट्राइसाइकिल/व्हीलचेयर 80%+ दिव्यांगता पर, कम दृष्टि के उपकरण, ब्रेल नोट-टेकर, श्रवण यंत्र, बौद्धिक दिव्यांगता के लिए TLM किट, कुष्ठ-मुक्त लोगों के लिए ADL किट) देने की योजना। मासिक आय ₹22,500 तक हो तो उपकरण की पूरी लागत; ₹22,501 से ₹30,000 तक हो तो 50% लागत।",
+ "what_en": "A scheme to give durable, modern aids to persons with disabilities (e.g. prosthetic and orthotic devices, mobility aids, motorised tricycles / wheelchairs for 80%+ disability, low-vision aids, braille note takers, hearing aids, TLM kits for intellectual disabilities, ADL kits for leprosy-cured persons). Monthly income up to ₹22,500 gets the full cost; ₹22,501 to ₹30,000 gets 50% of the cost.",
+ "who_hi": [
+  "भारत का कोई भी नागरिक, किसी भी उम्र का",
+  "UDID कार्ड या UDID नामांकन संख्या, और कम से कम 40% दिव्यांगता का प्रमाणपत्र",
+  "सभी स्रोतों से मासिक आय ₹30,000 से अधिक न हो (आश्रितों के लिए माता-पिता/अभिभावक की आय)",
+  "उसी उद्देश्य के लिए पिछले 3 साल में (12 साल से छोटे बच्चों के लिए 1 साल में) किसी स्रोत से सहायता न ली हो"
+ ],
+ "who_en": [
+  "Indian citizen of any age",
+  "UDID card or UDID enrolment number, and a disability certificate showing at least 40% disability",
+  "Monthly income from all sources not above ₹30,000 (for dependents, the parents' / guardian's income)",
+  "No assistance for the same purpose from any source in the last 3 years (1 year for children under 12)"
+ ],
+ "not_hi": [
+  "₹15,000 तक के उपकरण पर पूरी सहायता; ₹15,001 से ₹30,000 के उपकरण पर अधिकतम ₹15,000 की सहायता",
+  "पात्र लाभार्थी को पंजीकरण के 6 माह के भीतर उपकरण मिलना चाहिए",
+  "दस्तावेज़ 2 अप्रैल 2024 का है; चालू नियम आधिकारिक पोर्टल पर जाँचें"
+ ],
+ "not_en": [
+  "Aids costing up to ₹15,000 get full assistance; for aids costing ₹15,001 to ₹30,000 assistance is up to ₹15,000",
+  "An eligible beneficiary should receive the aid within 6 months of registration",
+  "The document is dated 2 April 2024; check current rules on the official portal"
+ ],
+ "docs_hi": [
+  "UDID कार्ड या UDID नामांकन संख्या",
+  "दिव्यांगता प्रमाणपत्र (कम से कम 40%)",
+  "आय का प्रमाण (आश्रित के लिए माता-पिता/अभिभावक की आय)"
+ ],
+ "docs_en": [
+  "UDID card or UDID enrolment number",
+  "Disability certificate (at least 40%)",
+  "Income proof (for a dependent, the parents' / guardian's income)"
+ ],
+ "steps_hi": [
+  "मोबाइल ऐप से नया पंजीकरण या मौजूदा उपकरण की मरम्मत का अनुरोध",
+  "या ADIP के MIS/वेब पोर्टल पर ऑनलाइन अनुरोध",
+  "या वितरण शिविर या क्रियान्वयन एजेंसी के मुख्यालय में",
+  "उपकरण के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "New registration or repair request via the mobile app",
+  "Or an online request on the ADIP MIS / web portal",
+  "Or at distribution camps or the implementing agency's headquarters",
+  "Do not pay anyone for the device"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को दिव्यांगजन सशक्तिकरण विभाग के ADIP दस्तावेज़ (2 अप्रैल 2024) से पुष्ट: पात्रता, आय-सीमा, उपकरण, सहायता का नियम, आवेदन के तरीक़े",
+  "पोर्टल/ऐप का सटीक पता और चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the Department of Empowerment of Persons with Disabilities ADIP document (2 Apr 2024): eligibility, income limit, aids, assistance rule, ways to apply",
+  "The exact portal / app address and current status not confirmed"
+ ],
+ "benefit_hi": "दिव्यांगजन को टिकाऊ, आधुनिक सहायक उपकरण (जैसे कृत्रिम और ऑर्थोटिक उपकरण, चलने के उपकरण, मोटर-चालित ट्राइसाइकिल/व्हीलचेयर 80%+ दिव्यांगता पर, कम दृष्टि के उपकरण, ब्रेल नोट-टेकर, श्रवण यंत्र, बौद्धिक दिव्यांगता के लिए TLM किट, कुष्ठ-मुक्त लोगों के लिए ADL किट) देने की योजना। मासिक आय ₹22,500 तक हो तो उपकरण की पूरी लागत; ₹22,501 से ₹30,000 तक हो तो 50% लागत।",
+ "benefit_en": "A scheme to give durable, modern aids to persons with disabilities (e.g. prosthetic and orthotic devices, mobility aids, motorised tricycles / wheelchairs for 80%+ disability, low-vision aids, braille note takers, hearing aids, TLM kits for intellectual disabilities, ADL kits for leprosy-cured persons). Monthly income up to ₹22,500 gets the full cost; ₹22,501 to ₹30,000 gets 50% of the cost."
+}

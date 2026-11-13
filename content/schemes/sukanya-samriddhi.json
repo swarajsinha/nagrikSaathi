@@ -1,0 +1,78 @@
+{
+ "slug": "sukanya-samriddhi",
+ "hi": "सुकन्या समृद्धि खाता (बेटी के लिए बचत योजना)",
+ "en": "Sukanya Samriddhi Account (savings for a girl child)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026121762801.pdf",
+ "source_name": "PIB (भारत सरकार) दस्तावेज़, जनवरी 2026",
+ "tags": [
+  "woman",
+  "other"
+ ],
+ "kw": "sukanya samriddhi ssa beti girl child savings post office सुकन्या समृद्धि बेटी बचत",
+ "what_hi": "भारतीय बेटी के नाम माता-पिता/कानूनी अभिभावक द्वारा खोला जाने वाला बचत खाता। जन्म से 10 साल की उम्र तक खुल सकता है; ₹250 से ₹1,50,000 प्रति वित्त वर्ष जमा; खुलने के 21 साल बाद परिपक्व।",
+ "what_en": "A savings account opened by parents / legal guardian for an Indian girl child. Can be opened from birth until she turns 10; deposits ₹250 to ₹1,50,000 per financial year; matures 21 years after opening.",
+ "benefit_hi": "भारतीय बेटी के नाम माता-पिता/कानूनी अभिभावक द्वारा खोला जाने वाला बचत खाता। जन्म से 10 साल की उम्र तक खुल सकता है; ₹250 से ₹1,50,000 प्रति वित्त वर्ष जमा; खुलने के 21 साल बाद परिपक्व।",
+ "benefit_en": "A savings account opened by parents / legal guardian for an Indian girl child. Can be opened from birth until she turns 10; deposits ₹250 to ₹1,50,000 per financial year; matures 21 years after opening.",
+ "who_hi": [
+  "भारतीय बेटी — खाता माता-पिता या कानूनी अभिभावक खोलते हैं",
+  "खाता बेटी के जन्म से 10 साल की उम्र तक खोला जा सकता है"
+ ],
+ "who_en": [
+  "An Indian girl child — account opened by parents or legal guardian",
+  "Can be opened from birth until she turns 10"
+ ],
+ "not_hi": [
+  "ब्याज दर समय-समय पर बदलती है; दस्तावेज़ में 8.2% वार्षिक बताई गई (जनवरी 2026) — वर्तमान दर डाकघर/बैंक से जाँचें",
+  "जमा सिर्फ़ खुलने से 15 साल तक; सीमा से ऊपर की राशि पर ब्याज नहीं मिलता और वह लौटा दी जाती है",
+  "शिक्षा के लिए निकासी: पिछले वित्त वर्ष के अंत की शेष राशि का अधिकतम 50%, बेटी के 18 साल की होने या 10वीं पास करने पर (जो पहले हो)",
+  "विवाह पर समय-पूर्व बंद करने के लिए खाताधारक कम से कम 18 साल की हो"
+ ],
+ "not_en": [
+  "Interest rate changes from time to time; the document states 8.2% p.a. (Jan 2026) — check the current rate with the post office / bank",
+  "Deposits only for 15 years from opening; amounts above the annual limit earn no interest and are returned",
+  "Education withdrawal: up to 50% of the balance at the end of the previous financial year, from age 18 or on passing 10th (whichever is earlier)",
+  "For closure on marriage, the account holder must be at least 18"
+ ],
+ "docs_hi": [
+  "आवश्यक दस्तावेज़ों की सूची उस दस्तावेज़ में नहीं थी — डाकघर/बैंक से पूछें (आम तौर पर बेटी का जन्म-संबंधी प्रमाण और अभिभावक की पहचान माँगी जाती है, पर यह यहाँ पुष्ट नहीं)"
+ ],
+ "docs_en": [
+  "The document does not list required documents — ask the post office / bank (proof of the girl's birth and the guardian's identity are commonly asked, but that is not confirmed here)"
+ ],
+ "steps_hi": [
+  "डाकघर, सार्वजनिक क्षेत्र के बैंक की शाखा या अधिकृत निजी बैंक (HDFC, Axis, ICICI, IDBI) में जाएँ",
+  "बेटी के नाम खाता खोलें; कम से कम ₹250 से शुरू करें",
+  "बाद की जमा ₹50 के गुणकों में; साल में अधिकतम ₹1,50,000",
+  "बेटी के 18 साल की होने तक खाता अभिभावक चलाते हैं"
+ ],
+ "steps_en": [
+  "Visit a post office, a public-sector bank branch or an authorised private bank (HDFC, Axis, ICICI, IDBI)",
+  "Open the account in the girl's name; start with at least ₹250",
+  "Later deposits in multiples of ₹50; maximum ₹1,50,000 a year",
+  "The guardian manages the account until she turns 18"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को PIB (भारत सरकार) के जनवरी 2026 के दस्तावेज़ से पुष्ट: कौन खोले, कहाँ, उम्र-सीमा, जमा सीमा, परिपक्वता, निकासी",
+  "ब्याज दर और दस्तावेज़ आज की तारीख़ में डाकघर/बैंक से जाँचें"
+ ],
+ "conf_en": [
+  "Confirmed on 13 Oct 2026 from a PIB (Government of India) document of Jan 2026: who opens, where, age limits, deposit limits, maturity, withdrawal",
+  "Interest rate and documents should be checked with the post office / bank today"
+ ]
+}

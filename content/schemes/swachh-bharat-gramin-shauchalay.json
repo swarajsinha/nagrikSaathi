@@ -1,0 +1,73 @@
+{
+ "slug": "swachh-bharat-gramin-shauchalay",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "rural"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "स्वच्छ भारत मिशन (ग्रामीण) — घर का शौचालय बनाने की प्रोत्साहन राशि",
+ "en": "Swachh Bharat Mission (Gramin) — incentive for a household toilet",
+ "source_url": "https://swachhbharatmission.ddws.gov.in/faq",
+ "source_name": "SBM(G), जल शक्ति मंत्रालय — FAQ; PIB वर्ष-समीक्षा (आँकड़े 16 दिसंबर 2025 तक)",
+ "kw": "swachh bharat mission gramin shauchalay toilet 12000 incentive IHHL स्वच्छ भारत शौचालय प्रोत्साहन राशि",
+ "what_hi": "ग्रामीण क्षेत्र में घर का शौचालय (IHHL) बनाने के लिए पात्र परिवारों को ₹12,000 की प्रोत्साहन राशि दी जाती है (PIB के अनुसार राज्य अपने कोष से ज़्यादा राशि दे सकते हैं)। मिशन का दूसरा चरण 2020 में शुरू हुआ।",
+ "what_en": "Eligible rural households get an incentive of ₹12,000 to build an individual household latrine (IHHL); per PIB, states may offer more from their own funds. The second phase of the mission began in 2020.",
+ "who_hi": [
+  "सभी BPL परिवार",
+  "चिह्नित APL परिवार: अनुसूचित जाति/जनजाति, छोटे और सीमांत किसान, घर वाले भूमिहीन मज़दूर, दिव्यांग सदस्य वाले परिवार, महिला-मुखिया वाले परिवार (SBM FAQ)"
+ ],
+ "who_en": [
+  "All BPL households",
+  "Identified APL households: SC / ST, small and marginal farmers, landless labourers with a homestead, households with a person with disability, women-headed households (SBM FAQ)"
+ ],
+ "not_hi": [
+  "अयोग्य APL परिवारों को अपने साधन से शौचालय बनाने को प्रोत्साहित किया जाता है (SBM FAQ)",
+  "आवेदन के चरण, सत्यापन कौन करता है और राशि कब मिलती है, इन स्रोतों में नहीं है — ग्राम पंचायत से पूछें",
+  "FAQ पेज पर चरण-2 की अवधि 2020-21 से 2024-25 लिखी है; दिसंबर 2025 की PIB समीक्षा चरण-2 की कोई अंतिम तारीख़ नहीं देती — चालू स्थिति पंचायत/ज़िला स्वच्छता कार्यालय से पूछें"
+ ],
+ "not_en": [
+  "Ineligible APL households are encouraged to build toilets from their own resources (SBM FAQ)",
+  "Application steps, who verifies and when money is paid are not in these sources — ask your gram panchayat",
+  "The FAQ page gives Phase II as 2020-21 to 2024-25; the December 2025 PIB review gives no end date for Phase II — ask the panchayat / district sanitation office for the current position"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ग्राम पंचायत से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask your gram panchayat"
+ ],
+ "steps_hi": [
+  "अपनी ग्राम पंचायत से पूछें कि आपका परिवार पात्र है या नहीं और आवेदन कहाँ देना है",
+  "SBM की आधिकारिक वेबसाइट पर \"Application Form for IHHL\" का लिंक है (swachhbharatmission.ddws.gov.in की FAQ से)",
+  "शौचालय बनाने या राशि दिलाने के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your gram panchayat whether your household is eligible and where to apply",
+  "The official SBM site links an \"Application Form for IHHL\" (from the FAQ at swachhbharatmission.ddws.gov.in)",
+  "Do not pay anyone to get a toilet built or the incentive released"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को SBM(G) FAQ से पुष्ट: ₹12,000 की राशि, पात्र श्रेणियाँ; PIB (आँकड़े 16 दिसंबर 2025) से पुष्ट: ₹12,000 की राशि अभी दी जा रही है, राज्य अधिक दे सकते हैं",
+  "आवेदन-प्रक्रिया, सत्यापन और चरण-2 की अंतिम तारीख़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the SBM(G) FAQ: ₹12,000 amount, eligible categories; from PIB (data as of 16 Dec 2025): ₹12,000 is currently provided, states may give more",
+  "Application process, verification and the Phase II end date not confirmed"
+ ],
+ "benefit_hi": "ग्रामीण क्षेत्र में घर का शौचालय (IHHL) बनाने के लिए पात्र परिवारों को ₹12,000 की प्रोत्साहन राशि दी जाती है (PIB के अनुसार राज्य अपने कोष से ज़्यादा राशि दे सकते हैं)। मिशन का दूसरा चरण 2020 में शुरू हुआ।",
+ "benefit_en": "Eligible rural households get an incentive of ₹12,000 to build an individual household latrine (IHHL); per PIB, states may offer more from their own funds. The second phase of the mission began in 2020."
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "digital-arrest-scam",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 2,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "All India",
+ "tags": [
+  "scam"
+ ],
+ "hi": "\"डिजिटल अरेस्ट\" ठगी",
+ "en": "\"Digital arrest\" scam",
+ "kw": "digital arrest scam cbi police video call blackmail डिजिटल अरेस्ट ठगी",
+ "source_url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2082761&reg=48&lang=2",
+ "source_name": "PIB / गृह मंत्रालय — डिजिटल अरेस्ट घोटाला (10 दिसंबर 2024)",
+ "more": [
+  [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110809&reg=3&lang=2",
+   "PIB / गृह मंत्रालय — डिजिटल अरेस्ट पर उठाए गए कदम (12 मार्च 2025)"
+  ]
+ ],
+ "how_hi": "गृह मंत्रालय (PIB, 10 दिसंबर 2024) के अनुसार साइबर अपराधी राज्य/UT पुलिस, NCB, CBI, RBI और अन्य एजेंसियों के नाम पर \"ब्लैकमेल\" और \"डिजिटल अरेस्ट\" की धमकी देते हैं। वे विदेश से स्पूफ़ की गई कॉल करते हैं, जिन पर भारतीय मोबाइल नंबर दिखता है, और Skype/WhatsApp अकाउंट इस्तेमाल करते हैं।",
+ "how_en": "Per the Ministry of Home Affairs (PIB, 10 Dec 2024), cyber criminals impersonate State/UT Police, NCB, CBI, RBI and other agencies and use \"blackmail\" and \"digital arrest\" threats. They make spoofed international calls that show an Indian mobile number and use Skype / WhatsApp accounts.",
+ "signs_hi": [
+  "पुलिस, CBI, NCB या RBI के नाम पर कॉल",
+  "विदेश से आई कॉल पर भारतीय नंबर दिखना",
+  "Skype/WhatsApp पर वीडियो कॉल",
+  "\"ब्लैकमेल\" या \"डिजिटल अरेस्ट\" की धमकी"
+ ],
+ "signs_en": [
+  "A call in the name of Police, CBI, NCB or RBI",
+  "A call from abroad showing an Indian number",
+  "Video calls on Skype / WhatsApp",
+  "Threats of \"blackmail\" or \"digital arrest\""
+ ],
+ "dont_hi": [
+  "ऐसी धमकी देने वालों को पैसे या निजी जानकारी न दें"
+ ],
+ "dont_en": [
+  "Do not give money or personal details to those making such threats"
+ ],
+ "do_hi": [
+  "ठगी हो जाए तो तुरंत हेल्पलाइन 1930 पर कॉल करें या cybercrime.gov.in पर शिकायत करें (गृह मंत्रालय/PIB के अनुसार)",
+  "सरकार ने इस ठगी में इस्तेमाल हुए हज़ारों Skype/WhatsApp अकाउंट, SIM और IMEI ब्लॉक किए हैं (PIB, 12 मार्च 2025) — रिपोर्ट करने से कार्रवाई में मदद मिलती है"
+ ],
+ "do_en": [
+  "If you are defrauded, call helpline 1930 or file a complaint on cybercrime.gov.in immediately (per Ministry of Home Affairs / PIB)",
+  "The government has blocked thousands of Skype / WhatsApp accounts, SIMs and IMEIs used in this fraud (PIB, 12 Mar 2025) — reporting helps action"
+ ],
+ "what_hi": "गृह मंत्रालय (PIB, 10 दिसंबर 2024) के अनुसार साइबर अपराधी राज्य/UT पुलिस, NCB, CBI, RBI और अन्य एजेंसियों के नाम पर \"ब्लैकमेल\" और \"डिजिटल अरेस्ट\" की धमकी देते हैं। वे विदेश से स्पूफ़ की गई कॉल करते हैं, जिन पर भारतीय मोबाइल नंबर दिखता है, और Skype/WhatsApp अकाउंट इस्तेमाल करते हैं।",
+ "what_en": "Per the Ministry of Home Affairs (PIB, 10 Dec 2024), cyber criminals impersonate State/UT Police, NCB, CBI, RBI and other agencies and use \"blackmail\" and \"digital arrest\" threats. They make spoofed international calls that show an Indian mobile number and use Skype / WhatsApp accounts."
+}

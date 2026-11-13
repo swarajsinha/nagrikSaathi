@@ -1,0 +1,78 @@
+{
+ "slug": "ddu-gky",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "unemployed",
+  "rural"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "डीडीयू-जीकेवाई 2.0 (ग्रामीण युवाओं का कौशल प्रशिक्षण और नौकरी)",
+ "en": "DDU-GKY 2.0 (skilling and placement for rural youth)",
+ "source_url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=160123&ModuleId=3&reg=6&lang=1",
+ "source_name": "PIB / ग्रामीण विकास मंत्रालय (24 सितंबर 2026)",
+ "kw": "ddu gky deen dayal upadhyaya grameen kaushalya yojana rural youth skill placement ग्रामीण कौशल्य योजना कौशल प्रशिक्षण",
+ "what_hi": "ग्रामीण ग़रीब परिवारों के 15 से 35 साल के युवाओं के लिए कौशल प्रशिक्षण और नौकरी दिलाने की योजना (2014 से; 2.0 दिशानिर्देश मई 2025)। नौकरी पर कम से कम छह माह रहने वाले उम्मीदवार को ₹1,270 प्रति माह छह माह तक (कुल ₹7,620); 365 दिन बाद भी नौकरी में रहने पर ₹5,000 का रिटेंशन सहयोग।",
+ "what_en": "A skilling and placement scheme for rural youth aged 15 to 35 from poor households (since 2014; 2.0 guidelines notified May 2025). A placed candidate who stays at least six months gets ₹1,270 a month for six months (₹7,620 total); staying employed beyond 365 days earns ₹5,000 retention support.",
+ "who_hi": [
+  "ग्रामीण ग़रीब परिवारों के युवा, उम्र 15 से 35 साल",
+  "महिलाएँ और PVTG/दिव्यांग जैसे वंचित समूह: ऊपरी आयु-सीमा 45 साल (महाराष्ट्र ग्रामीण विकास विभाग का पेज)"
+ ],
+ "who_en": [
+  "Rural youth from poor households aged 15 to 35",
+  "Women and vulnerable groups such as PVTGs / persons with disabilities: upper age limit 45 (Maharashtra Rural Development Department page)"
+ ],
+ "not_hi": [
+  "नामांकन की प्रक्रिया और ज़रूरी दस्तावेज़ उस PIB नोट में नहीं हैं — ग्रामीण विकास विभाग/ब्लॉक कार्यालय से पूछें",
+  "प्रशिक्षण मुफ़्त है या नहीं, यह नोट में साफ़ नहीं है; किसी भी प्रशिक्षण केंद्र को पैसे देने से पहले आधिकारिक पोर्टल पर जाँचें",
+  "पोर्टल पर उम्मीदवार प्रशिक्षण खोज सकते हैं और प्रशिक्षण-प्रदाताओं की रेटिंग देख सकते हैं (PIB)"
+ ],
+ "not_en": [
+  "The enrolment process and required documents are not in that PIB note — ask the rural development department / block office",
+  "The note does not say clearly whether training is free; check on the official portal before paying any training centre",
+  "On the portal candidates can search training and see provider ratings (PIB)"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ब्लॉक/ग्रामीण विकास कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the block / rural development office"
+ ],
+ "steps_hi": [
+  "ऑनलाइन पंजीकरण (कौशल पंजी): आधिकारिक कौशल पंजी साइट पर \"Candidate Registration\" चुनें, \"New Registration\" चुनकर अनिवार्य जानकारी भरें, दस्तावेज़ अपलोड करें और जमा करें; पंजीकरण आईडी सँभालकर रखें (महाराष्ट्र ग्रामीण विकास विभाग का पेज)",
+  "आधिकारिक पोर्टल ddugky.gov.in पर प्रशिक्षण-कार्यक्रम और प्रदाता देखें",
+  "अपने ब्लॉक या ज़िला ग्रामीण विकास कार्यालय से पूछें कि आपके क्षेत्र में प्रशिक्षण कहाँ चल रहा है",
+  "नौकरी या प्रशिक्षण दिलाने के नाम पर पैसे न दें"
+ ],
+ "steps_en": [
+  "Online registration (Kaushal Panji): on the official Kaushal Panji site choose \"Candidate Registration\", select \"New Registration\", fill the mandatory fields, upload documents and submit; note your registration ID (Maharashtra Rural Development Department page)",
+  "See training programmes and providers on the official portal ddugky.gov.in",
+  "Ask your block or district rural development office where training runs in your area",
+  "Do not pay anyone for a job or training seat"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (24 सितंबर 2026) से पुष्ट: आयु 15–35, नौकरी की अवधि, ₹1,270/माह और ₹5,000 का सहयोग, पोर्टल पर प्रदाता-रेटिंग",
+  "नामांकन-प्रक्रिया, दस्तावेज़ और प्रशिक्षण के शुल्क की स्थिति पुष्ट नहीं",
+  "महाराष्ट्र ग्रामीण विकास विभाग का पेज (अंतिम अपडेट 4 फ़रवरी 2025): कौशल पंजी से पंजीकरण के चरण, 45 साल की सीमा"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (24 Sep 2026): age 15–35, placement duration, ₹1,270/month and ₹5,000 support, provider ratings on portal",
+  "Enrolment process, documents and training-fee position not confirmed",
+  "Maharashtra Rural Development Department page (last updated 4 Feb 2025): Kaushal Panji registration steps, upper age limit 45"
+ ],
+ "benefit_hi": "ग्रामीण ग़रीब परिवारों के 15 से 35 साल के युवाओं के लिए कौशल प्रशिक्षण और नौकरी दिलाने की योजना (2014 से; 2.0 दिशानिर्देश मई 2025)। नौकरी पर कम से कम छह माह रहने वाले उम्मीदवार को ₹1,270 प्रति माह छह माह तक (कुल ₹7,620); 365 दिन बाद भी नौकरी में रहने पर ₹5,000 का रिटेंशन सहयोग।",
+ "benefit_en": "A skilling and placement scheme for rural youth aged 15 to 35 from poor households (since 2014; 2.0 guidelines notified May 2025). A placed candidate who stays at least six months gets ₹1,270 a month for six months (₹7,620 total); staying employed beyond 365 days earns ₹5,000 retention support."
+}

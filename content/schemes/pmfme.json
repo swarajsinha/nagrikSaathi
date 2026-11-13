@@ -1,0 +1,73 @@
+{
+ "slug": "pmfme",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "business"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "पीएम एफएमई (सूक्ष्म खाद्य प्रसंस्करण उद्यमों के लिए सब्सिडी)",
+ "en": "PMFME (subsidy for micro food processing enterprises)",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2220061&reg=3&lang=1",
+ "source_name": "PIB / खाद्य प्रसंस्करण उद्योग मंत्रालय — लोकसभा उत्तर (29 जनवरी 2026)",
+ "kw": "pmfme food processing micro enterprise subsidy 35 percent 10 lakh seed capital SHG खाद्य प्रसंस्करण सब्सिडी",
+ "what_hi": "व्यक्तिगत और समूह सूक्ष्म उद्यमों को पात्र परियोजना-लागत का 35% क्रेडिट-लिंक्ड पूँजी सब्सिडी, अधिकतम ₹10 लाख प्रति इकाई। खाद्य प्रसंस्करण में लगे SHG को प्रति सदस्य ₹40,000 बीज-पूँजी (अधिकतम ₹4 लाख प्रति SHG फ़ेडरेशन)। साझा ढाँचे पर 35% सब्सिडी (अधिकतम ₹3 करोड़); ब्रांडिंग/मार्केटिंग पर 50% तक अनुदान।",
+ "what_en": "Individual and group micro enterprises get a credit-linked capital subsidy of 35% of eligible project cost, up to ₹10 lakh per unit. SHGs engaged in food processing get seed capital of ₹40,000 per member (up to ₹4 lakh per SHG federation). Common infrastructure gets a 35% subsidy (up to ₹3 crore); branding and marketing a grant of up to 50%.",
+ "who_hi": [
+  "व्यक्ति और समूह — SHG, किसान उत्पादक संगठन (FPO), सहकारी समितियाँ (समूहों को ज़िला-स्तरीय समिति की सिफ़ारिश चाहिए)",
+  "खाद्य प्रसंस्करण में लगे SHG (बीज-पूँजी के लिए)"
+ ],
+ "who_en": [
+  "Individuals and groups — SHGs, Farmer Producer Organisations (FPOs), cooperatives (groups need the District Level Committee's recommendation)",
+  "SHGs engaged in food processing (for seed capital)"
+ ],
+ "not_hi": [
+  "योजना की अवधि इस विज्ञप्ति में नहीं दी गई — चालू स्थिति पोर्टल/ज़िला संसाधन व्यक्ति से पूछें",
+  "आवेदन की प्रक्रिया वहाँ नहीं है; ज़िला संसाधन व्यक्ति (DRP) परियोजना रिपोर्ट, बैंक ऋण, प्रशिक्षण और अनुमतियों में मदद करते हैं",
+  "सब्सिडी बैंक ऋण से जुड़ी है — ऋण की मंज़ूरी बैंक की होती है"
+ ],
+ "not_en": [
+  "The scheme period is not stated in this release — ask the portal / district resource person for the current position",
+  "The application process is not described there; District Resource Persons (DRPs) help with project reports, bank loans, training and approvals",
+  "The subsidy is linked to a bank loan — the loan is sanctioned by the bank"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ज़िला संसाधन व्यक्ति/बैंक से पूछें; इकाई को Udyam, FSSAI और GST (जहाँ लागू) में पंजीकृत किया जा सकता है"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the DRP / bank; the unit can be registered under Udyam, FSSAI and GST (as applicable)"
+ ],
+ "steps_hi": [
+  "अपने ज़िले के ज़िला संसाधन व्यक्ति (DRP) या ज़िला उद्योग कार्यालय से संपर्क करें",
+  "परियोजना रिपोर्ट और बैंक ऋण के लिए DRP की मदद लें",
+  "किसी एजेंट को सब्सिडी के नाम पर पैसे न दें"
+ ],
+ "steps_en": [
+  "Contact the District Resource Person (DRP) or district industries office",
+  "Take the DRP's help for the project report and bank loan",
+  "Do not pay any agent in the name of subsidy"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (29 जनवरी 2026) से पुष्ट: सब्सिडी प्रतिशत और सीमाएँ, पात्र वर्ग, DRP की भूमिका",
+  "योजना की अवधि, आवेदन-प्रक्रिया और दस्तावेज़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (29 Jan 2026): subsidy percentages and caps, eligible groups, DRP role",
+  "Scheme period, application process and documents not confirmed"
+ ],
+ "benefit_hi": "व्यक्तिगत और समूह सूक्ष्म उद्यमों को पात्र परियोजना-लागत का 35% क्रेडिट-लिंक्ड पूँजी सब्सिडी, अधिकतम ₹10 लाख प्रति इकाई। खाद्य प्रसंस्करण में लगे SHG को प्रति सदस्य ₹40,000 बीज-पूँजी (अधिकतम ₹4 लाख प्रति SHG फ़ेडरेशन)। साझा ढाँचे पर 35% सब्सिडी (अधिकतम ₹3 करोड़); ब्रांडिंग/मार्केटिंग पर 50% तक अनुदान।",
+ "benefit_en": "Individual and group micro enterprises get a credit-linked capital subsidy of 35% of eligible project cost, up to ₹10 lakh per unit. SHGs engaged in food processing get seed capital of ₹40,000 per member (up to ₹4 lakh per SHG federation). Common infrastructure gets a 35% subsidy (up to ₹3 crore); branding and marketing a grant of up to 50%."
+}

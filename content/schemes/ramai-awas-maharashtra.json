@@ -1,0 +1,100 @@
+{
+ "slug": "ramai-awas-maharashtra",
+ "hi": "रमाई आवास योजना – ग्रामीण और शहरी (महाराष्ट्र)",
+ "en": "Ramai Awas Yojana – Rural & Urban (Maharashtra)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://sjsa.maharashtra.gov.in/en/scheme/ramai-awas-yojana-rural-urban/",
+ "source_name": "सामाजिक न्याय एवं विशेष सहाय्य विभाग, महाराष्ट्र शासन",
+ "tags": [
+  "housing"
+ ],
+ "kw": "maharashtra ramai awas gharkul sc neo buddhist ghar रमाई आवास घरकुल अनुसूचित जाति नवबौद्ध महाराष्ट्र",
+ "what_hi": "अनुसूचित जाति और नवबौद्ध परिवारों के लिए घरकुल सहायता। ग्रामीण: ₹1.32 लाख (शौचालय के ₹12,000 सहित); पहाड़ी/नक्सल-प्रभावित ग्रामीण क्षेत्र: ₹1.42 लाख; नगर परिषद/नगर पंचायत और नगर निगम क्षेत्र: ₹2.50 लाख।",
+ "what_en": "Gharkul housing help for Scheduled Caste and Neo-Buddhist families. Rural: ₹1.32 lakh (including ₹12,000 for a toilet); hilly / Naxal-affected rural areas: ₹1.42 lakh; Municipal Council / Nagar Panchayat and Municipal Corporation areas: ₹2.50 lakh.",
+ "benefit_hi": "अनुसूचित जाति और नवबौद्ध परिवारों के लिए घरकुल सहायता। ग्रामीण: ₹1.32 लाख (शौचालय के ₹12,000 सहित); पहाड़ी/नक्सल-प्रभावित ग्रामीण क्षेत्र: ₹1.42 लाख; नगर परिषद/नगर पंचायत और नगर निगम क्षेत्र: ₹2.50 लाख।",
+ "benefit_en": "Gharkul housing help for Scheduled Caste and Neo-Buddhist families. Rural: ₹1.32 lakh (including ₹12,000 for a toilet); hilly / Naxal-affected rural areas: ₹1.42 lakh; Municipal Council / Nagar Panchayat and Municipal Corporation areas: ₹2.50 lakh.",
+ "who_hi": [
+  "अनुसूचित जाति या नवबौद्ध श्रेणी",
+  "महाराष्ट्र में कम से कम 15 साल से निवास",
+  "परिवार से सिर्फ़ एक व्यक्ति को लाभ; पहले किसी और आवास योजना का लाभ न लिया हो",
+  "अपनी ज़मीन का प्लॉट या अस्थायी घर हो",
+  "परिवार की वार्षिक आय ग्रामीण में ₹1.20 लाख तक, शहरी में ₹3.00 लाख तक",
+  "SEC-2011 की प्राथमिकता-सूची मानदंडों के बाहर (पेज के अनुसार)",
+  "चयन: ग्रामीण में ग्राम सभा, और अंतिम चयन ज़िला परिषद के CEO की अध्यक्षता वाली समिति; शहरी में नगर आयुक्त/ज़िलाधिकारी की अध्यक्षता वाली समिति"
+ ],
+ "who_en": [
+  "Scheduled Caste or Neo-Buddhist category",
+  "Resident of Maharashtra for at least 15 years",
+  "Only one person per family; has not taken any other housing scheme",
+  "Owns a plot of land or a temporary house",
+  "Annual family income up to ₹1.20 lakh (rural) or ₹3.00 lakh (urban)",
+  "Outside the SEC-2011 priority-list criteria (per the page)",
+  "Selection: Gram Sabha in rural areas with final selection by a committee chaired by the Zilla Parishad CEO; in urban areas by a committee chaired by the Municipal Commissioner / District Collector"
+ ],
+ "not_hi": [
+  "इसी योजना के एक ज़िला परिषद पेज पर ₹1.20 लाख की राशि दिखी थी; मैंने उसे हटाकर योजना चलाने वाले विभाग के पेज की राशि रखी है। पेज पर तारीख़ नहीं है, इसलिए आवेदन से पहले ग्राम पंचायत/नगर निकाय से चालू राशि पूछें",
+  "आवेदन की प्रक्रिया पेज पर अलग से नहीं बताई गई — सिर्फ़ चयन-प्रक्रिया है",
+  "कुछ अतिक्रमित सरकारी/नगर निकाय भूमि पर 7/12 उतारे की शर्त शिथिल है, यदि 01/01/1995 से वहाँ रह रहे हों (GR 15 मार्च 2016 के अनुसार)"
+ ],
+ "not_en": [
+  "A Zilla Parishad page of this scheme showed ₹1.20 lakh; I replaced it with the amounts from the implementing department's own page. The page carries no date, so ask the gram panchayat / urban body for the current amount before applying",
+  "The application process is not described separately — only the selection process",
+  "The 7/12 extract requirement is relaxed on certain encroached government / civic-body land if you have lived there since 01/01/1995 (per GR of 15 March 2016)"
+ ],
+ "docs_hi": [
+  "इनमें से एक: 7/12 उतारा, प्रॉपर्टी रजिस्टर्ड कार्ड या ग्राम पंचायत संपत्ति रजिस्टर का उतारा",
+  "इनमें से एक: घर कर, पानी कर या बिजली बिल",
+  "सक्षम प्राधिकारी का जाति प्रमाणपत्र",
+  "सक्षम प्राधिकारी का आय प्रमाणपत्र",
+  "01/01/1995 की मतदाता सूची में नाम का उतारा",
+  "मतदाता पहचान पत्र",
+  "राशन कार्ड",
+  "सरपंच या तलाठी का प्रमाणपत्र",
+  "नगर निगम/नगरपालिका को चुकाए संपत्ति कर की रसीद (शहरी)"
+ ],
+ "docs_en": [
+  "One of: 7/12 extract, Property Registered Card or Gram Panchayat property-register extract",
+  "One of: house tax, water tax or electricity bill",
+  "Caste certificate from a competent authority",
+  "Income certificate from a competent authority",
+  "Extract of name in the voter list dated 01/01/1995",
+  "Voter ID card",
+  "Ration card",
+  "Certificate from the Sarpanch or Talathi",
+  "Receipt of property tax paid to the Municipal Corporation / Municipality (urban)"
+ ],
+ "steps_hi": [
+  "अपनी ग्राम पंचायत या पंचायत समिति से पूछें कि आपके गाँव में यह योजना कैसे चल रही है और सूची में नाम कैसे देखें",
+  "घर बनाने की जगह/ज़मीन के कागज़ तैयार रखें",
+  "नाम जुड़वाने के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your gram panchayat or panchayat samiti how the scheme runs in your village and how to check the list",
+  "Keep papers for your land / building site ready",
+  "Do not pay anyone to add your name"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को सामाजिक न्याय विभाग (महाराष्ट्र शासन) के पेज से पुष्ट: पात्रता, राशियाँ, चयन-प्रक्रिया, दस्तावेज़",
+  "पेज पर तारीख़ नहीं; चालू स्थिति और आवेदन की प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from the Social Justice Department (Government of Maharashtra) page on 13 Oct 2026: eligibility, amounts, selection process, documents",
+  "The page shows no date; current status and application process not confirmed"
+ ],
+ "state": "Maharashtra"
+}

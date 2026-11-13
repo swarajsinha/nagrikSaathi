@@ -1,0 +1,81 @@
+{
+ "slug": "nsp-scholarship",
+ "hi": "राष्ट्रीय स्कॉलरशिप पोर्टल (NSP)",
+ "en": "National Scholarship Portal (NSP)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://scholarships.gov.in",
+ "source_name": "राष्ट्रीय स्कॉलरशिप पोर्टल",
+ "tags": [
+  "student"
+ ],
+ "kw": "nsp scholarship chhatravritti vidyarthi student छात्रवृत्ति स्कॉलरशिप",
+ "what_hi": "केंद्र सरकार की छात्रवृत्तियों के आवेदन का पोर्टल (MeitY द्वारा संचालित)। AY 2026-27 से छात्र एक merit-आधारित और एक या अधिक welfare-आधारित योजनाओं के लिए आवेदन कर सकते हैं (योजना की पात्रता के अनुसार)।",
+ "what_en": "The portal to apply for central-government scholarships (run by MeitY). From AY 2026-27 a student may apply for one merit-based and one or more welfare-based schemes, per scheme eligibility.",
+ "benefit_hi": "केंद्र सरकार की छात्रवृत्तियों के आवेदन का पोर्टल (MeitY द्वारा संचालित)। AY 2026-27 से छात्र एक merit-आधारित और एक या अधिक welfare-आधारित योजनाओं के लिए आवेदन कर सकते हैं (योजना की पात्रता के अनुसार)।",
+ "benefit_en": "The portal to apply for central-government scholarships (run by MeitY). From AY 2026-27 a student may apply for one merit-based and one or more welfare-based schemes, per scheme eligibility.",
+ "who_hi": [
+  "विद्यार्थी — हर छात्रवृत्ति की अलग पात्रता है, जो पोर्टल पर 'Schemes on NSP' में देखें"
+ ],
+ "who_en": [
+  "Students — each scholarship has its own eligibility, see 'Schemes on NSP' on the portal"
+ ],
+ "not_hi": [
+  "हर छात्रवृत्ति की राशि और पात्रता यहाँ सत्यापित नहीं है — पोर्टल पर योजना-वार देखें",
+  "पोर्टल के मुख्य पेज पर कोई फ़ोन नंबर/ईमेल नहीं दिया गया; सहायता के लिए पोर्टल का Helpdesk/Grievance पेज इस्तेमाल करें",
+  "तारीख़ें बदल सकती हैं — आवेदन से पहले पोर्टल पर जाँचें"
+ ],
+ "not_en": [
+  "Amount and eligibility of each scholarship are not verified here — check scheme-wise on the portal",
+  "The portal home page lists no phone number / email; use its Helpdesk / Grievance pages",
+  "Dates can change — check the portal before applying"
+ ],
+ "docs_hi": [
+  "वन टाइम रजिस्ट्रेशन (OTR) के लिए आधार या आधार एनरोलमेंट आईडी",
+  "दिव्यांग विद्यार्थी: पहले UDID पोर्टल पर लॉग-इन कर UDID विवरण साझा करने की सहमति दें",
+  "अन्य दस्तावेज़ योजना के अनुसार — पोर्टल पर देखें"
+ ],
+ "docs_en": [
+  "Aadhaar or Aadhaar Enrolment ID for One Time Registration (OTR)",
+  "Students with disabilities: first log in to the UDID portal and consent to share UDID details",
+  "Other documents depend on the scheme — see the portal"
+ ],
+ "steps_hi": [
+  "OTR नंबर बनाएँ (14 अंकों का, पूरे शैक्षणिक जीवन के लिए वैध)",
+  "NSP आवेदन फ़ॉर्म से छात्रवृत्ति के लिए आवेदन करें",
+  "चेहरा-प्रमाणीकरण के लिए आधार बायोमेट्रिक लॉक 'Unlocked' रखें",
+  "चाहें तो CSC पर यह सेवा ₹30 प्रति उम्मीदवार (सभी कर सहित) में मिलती है",
+  "'Application Status' लिंक से स्थिति देखें"
+ ],
+ "steps_en": [
+  "Generate an OTR number (14 digits, valid for the whole academic career)",
+  "Apply through the NSP application form",
+  "For face authentication keep the Aadhaar biometric lock 'Unlocked'",
+  "Service is also available at a CSC for ₹30 per candidate (inclusive of taxes)",
+  "Check status via the 'Application Status' link"
+ ],
+ "mistakes_hi": [
+  "CSC पर ₹30 से ज़्यादा माँगने वाले को पैसे देना",
+  "नकली साइट — सिर्फ़ scholarships.gov.in",
+  "OTP/आधार विवरण अनजान लोगों से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying more than ₹30 at a CSC",
+  "Fake sites — only scholarships.gov.in",
+  "Sharing OTP / Aadhaar details with strangers"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को scholarships.gov.in से पुष्ट: OTR प्रक्रिया, आवेदन के चरण, CSC शुल्क ₹30, AY 2026-27 पोर्टल 1 जून 2026 से खुला",
+  "तारीख़ें (PM-USP नवीनीकरण): छात्र आवेदन 31-10-2026, संस्थान सत्यापन 15-11-2026, L2 सत्यापन 30-11-2026 — केवल दो PM-USP योजनाओं के नवीनीकरण के लिए, 13 अक्टूबर 2026 तक की जानकारी",
+  "अलग-अलग छात्रवृत्तियों की राशि/पात्रता पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from scholarships.gov.in on 13 Oct 2026: OTR process, application steps, CSC fee ₹30, AY 2026-27 portal open from 1 June 2026",
+  "Dates (PM-USP renewals): student application 31-10-2026, institute verification 15-11-2026, L2 verification 30-11-2026 — only for renewals under the two PM-USP schemes, as of 13 Oct 2026",
+  "Amounts / eligibility of individual scholarships not confirmed"
+ ]
+}

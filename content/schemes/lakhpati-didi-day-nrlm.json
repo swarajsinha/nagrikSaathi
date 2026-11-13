@@ -1,0 +1,74 @@
+{
+ "slug": "lakhpati-didi-day-nrlm",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "लखपति दीदी (स्वयं सहायता समूह, DAY-NRLM)",
+ "en": "Lakhpati Didi (Self-Help Groups, DAY-NRLM)",
+ "tags": [
+  "woman",
+  "business"
+ ],
+ "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2040878",
+ "source_name": "PIB / ग्रामीण विकास मंत्रालय — राज्यसभा उत्तर (2 अगस्त 2024)",
+ "kw": "lakhpati didi shg self help group nrlm aajeevika rural women लखपति दीदी स्वयं सहायता समूह महिला",
+ "what_hi": "लखपति दीदी अलग योजना नहीं, बल्कि ग्रामीण विकास मंत्रालय की दीनदयाल अंत्योदय योजना (DAY-NRLM) का नतीजा है: स्वयं सहायता समूह (SHG) की जिन महिला सदस्यों की सालाना आय ₹1 लाख से ऊपर हो जाती है, उन्हें लखपति दीदी गिना जाता है। लक्ष्य है कि SHG सदस्यों की न्यूनतम आय ₹1 लाख प्रति वर्ष हो।",
+ "what_en": "Lakhpati Didi is not a separate scheme but an outcome of the Ministry of Rural Development's Deendayal Antyodaya Yojana (DAY-NRLM): SHG women members whose annual income goes above ₹1 lakh are counted as Lakhpati Didis. The aim is a minimum income of ₹1 lakh a year for SHG members.",
+ "who_hi": [
+  "महिलाएँ स्वयं सहायता समूहों (SHG) के ज़रिए DAY-NRLM से जुड़ती हैं (PIB)"
+ ],
+ "who_en": [
+  "Women join DAY-NRLM through Self-Help Groups (SHGs) (PIB)"
+ ],
+ "not_hi": [
+  "\"लखपति दीदी\" में आवेदन का कोई अलग फ़ॉर्म या सीधी राशि नहीं है — यह SHG के ज़रिए आय बढ़ाने का नतीजा है",
+  "आपके गाँव/ब्लॉक में समूह से कैसे जुड़ें, यह उस PIB पेज पर नहीं है — ब्लॉक या ग्राम पंचायत कार्यालय से पूछें",
+  "पात्रता की शर्तें (उम्र, परिवार आदि) उस पेज पर नहीं दी गई"
+ ],
+ "not_en": [
+  "Lakhpati Didi has no separate application form or direct payment — it is the outcome of raising income through an SHG",
+  "How to join a group in your village / block is not on that PIB page — ask the block or gram panchayat office",
+  "Eligibility conditions (age, family etc.) are not given on that page"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ब्लॉक/ग्राम पंचायत कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the block / gram panchayat office"
+ ],
+ "steps_hi": [
+  "अपने ब्लॉक या ग्राम पंचायत कार्यालय से पूछें कि आपके क्षेत्र में कौन-सा SHG/DAY-NRLM समूह है",
+  "PIB के अनुसार समूह को रिवॉल्विंग फ़ंड, कम्युनिटी इन्वेस्टमेंट फ़ंड और सब्सिडी वाली ब्याज दर पर बैंक ऋण से जोड़ा जाता है",
+  "समूह की सदस्यों को हिसाब-किताब, बजट और ऋण-प्रबंधन का प्रशिक्षण और कम्युनिटी रिसोर्स पर्सन की मदद मिलती है",
+  "किसी को पैसे देकर समूह में नाम जुड़वाने की ज़रूरत नहीं"
+ ],
+ "steps_en": [
+  "Ask your block or gram panchayat office which SHG / DAY-NRLM group exists in your area",
+  "Per PIB, groups are linked to a Revolving Fund, a Community Investment Fund and bank credit at subsidised interest rates",
+  "Members get training in accounting, budgeting and loan management and help from Community Resource Persons",
+  "You need not pay anyone to get your name added to a group"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (2 अगस्त 2024) से पुष्ट: लखपति दीदी की परिभाषा, DAY-NRLM से संबंध, समूह से जुड़ने का आधार, मिलने वाली सहायता",
+  "समूह से जुड़ने की प्रक्रिया, पात्रता-शर्तें और दस्तावेज़ पुष्ट नहीं; आँकड़े 30 जून 2024 तक के हैं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (2 Aug 2024): definition, relation to DAY-NRLM, joining through groups, support given",
+  "Joining process, eligibility conditions and documents not confirmed; figures are as of 30 June 2024"
+ ],
+ "benefit_hi": "लखपति दीदी अलग योजना नहीं, बल्कि ग्रामीण विकास मंत्रालय की दीनदयाल अंत्योदय योजना (DAY-NRLM) का नतीजा है: स्वयं सहायता समूह (SHG) की जिन महिला सदस्यों की सालाना आय ₹1 लाख से ऊपर हो जाती है, उन्हें लखपति दीदी गिना जाता है। लक्ष्य है कि SHG सदस्यों की न्यूनतम आय ₹1 लाख प्रति वर्ष हो।",
+ "benefit_en": "Lakhpati Didi is not a separate scheme but an outcome of the Ministry of Rural Development's Deendayal Antyodaya Yojana (DAY-NRLM): SHG women members whose annual income goes above ₹1 lakh are counted as Lakhpati Didis. The aim is a minimum income of ₹1 lakh a year for SHG members."
+}

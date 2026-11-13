@@ -1,0 +1,84 @@
+{
+ "slug": "mp-mabay-housing",
+ "hi": "मुख्यमंत्री आवासीय भू-अधिकार योजना (मध्य प्रदेश – गाँव में आवासीय प्लॉट)",
+ "en": "Mukhyamantri Awasiya Bhu-Adhikar Yojana (Madhya Pradesh – residential plot in a village)",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://saara.mp.gov.in/saaraweb/BhuSwamiAdhikar/ruralplot.aspx",
+ "source_name": "राजस्व विभाग, मध्य प्रदेश शासन (SAARA पोर्टल)",
+ "tags": [
+  "housing"
+ ],
+ "kw": "madhya pradesh mp awasiya bhu adhikar plot gram panchayat abadi ghar zameen मध्य प्रदेश आवासीय भू-अधिकार प्लॉट आबादी ज़मीन",
+ "what_hi": "ग्राम पंचायत क्षेत्र की आबादी भूमि पर पात्र परिवारों को आवासीय प्लॉट का आवंटन। यह नकद सहायता नहीं है — प्लॉट मिलने से परिवार सरकारी आवास योजनाओं और बैंक गृह-ऋण का लाभ लेने में सक्षम हो सकता है (पेज के अनुसार)।",
+ "what_en": "Allotment of a residential plot on abadi land in a gram panchayat area to eligible families. It is not cash assistance — with a plot a family may be able to use government housing schemes and bank housing loans (per the page).",
+ "benefit_hi": "ग्राम पंचायत क्षेत्र की आबादी भूमि पर पात्र परिवारों को आवासीय प्लॉट का आवंटन। यह नकद सहायता नहीं है — प्लॉट मिलने से परिवार सरकारी आवास योजनाओं और बैंक गृह-ऋण का लाभ लेने में सक्षम हो सकता है (पेज के अनुसार)।",
+ "benefit_en": "Allotment of a residential plot on abadi land in a gram panchayat area to eligible families. It is not cash assistance — with a plot a family may be able to use government housing schemes and bank housing loans (per the page).",
+ "who_hi": [
+  "परिवार के पास रहने के लिए स्वतंत्र घर न हो",
+  "परिवार के पास 5 एकड़ से कम ज़मीन",
+  "PDS (राशन) पात्रता पर्ची हो",
+  "परिवार का कोई सदस्य आयकरदाता या सरकारी सेवा में न हो",
+  "आवेदक का नाम उस गाँव की मतदाता सूची में 01 जनवरी 2021 को दर्ज हो, जहाँ प्लॉट चाहिए"
+ ],
+ "who_en": [
+  "The family has no house of its own to live in",
+  "Owns less than 5 acres of land",
+  "Holds a PDS (ration) eligibility slip",
+  "No member pays income tax or is in government service",
+  "Applicant's name on the voter list of the village where the plot is wanted, as on 01 January 2021"
+ ],
+ "not_hi": [
+  "यह ग्रामीण (आबादी) क्षेत्र की योजना है; शहरी क्षेत्र के लिए अलग 'नगरीय भू अधिकार योजना' देखें",
+  "आवेदन की अंतिम तारीख़/खुली अवधि पेज पर नहीं बताई गई — पोर्टल पर जाँचें",
+  "आवश्यक दस्तावेज़ों की सूची पेज पर नहीं दी गई"
+ ],
+ "not_en": [
+  "This is for rural (abadi) areas; for urban areas see the separate 'Nagariya Bhu Adhikar Yojana'",
+  "The deadline / open window is not stated on the page — check the portal",
+  "The page does not list required documents"
+ ],
+ "docs_hi": [
+  "सत्यापित सूची उपलब्ध नहीं — पंचायत सचिव/पटवारी से पूछें (राशन पात्रता पर्ची और मतदाता सूची में नाम का विवरण ज़रूर तैयार रखें)"
+ ],
+ "docs_en": [
+  "A verified list is not available — ask the panchayat secretary / patwari (keep your ration eligibility slip and voter-list details ready)"
+ ],
+ "steps_hi": [
+  "SAARA पोर्टल पर ऑनलाइन आवेदन करें (पेज पर 'आवेदन करे' लिंक)",
+  "ग्राम पंचायत सचिव और पटवारी आवेदन का सत्यापन कर रिपोर्ट बनाते हैं",
+  "पात्र/अपात्र आवेदकों की प्रारंभिक सूची सार्वजनिक स्थानों और पंचायत कार्यालय पर आपत्ति के लिए लगती है",
+  "तहसीलदार आपत्तियाँ देखकर अंतिम सूची बनाते हैं; ग्राम सभा अनुमोदन करती है और तहसीलदार आवंटन आदेश जारी करता है",
+  "'आवेदन सर्च/प्रिंट' से आवेदन की स्थिति देखें"
+ ],
+ "steps_en": [
+  "Apply online on the SAARA portal (the page has an 'apply' link)",
+  "The gram panchayat secretary and patwari verify the application and prepare a report",
+  "A preliminary list of eligible / ineligible applicants is displayed at public places and the panchayat office for objections",
+  "The Tehsildar examines objections and prepares the final list; the Gram Sabha approves and the Tehsildar issues the allotment order",
+  "Use 'application search / print' to check your application"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को मध्य प्रदेश राजस्व विभाग (SAARA) के पेज से पुष्ट: योजना, पात्रता, लाभ, आवेदन और सत्यापन की प्रक्रिया",
+  "दस्तावेज़ और चालू आवेदन-अवधि पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from the Madhya Pradesh Revenue Department (SAARA) page on 13 Oct 2026: scheme, eligibility, benefit, application and verification process",
+  "Documents and the current application window not confirmed"
+ ],
+ "state": "Madhya Pradesh"
+}

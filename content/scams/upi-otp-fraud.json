@@ -1,0 +1,52 @@
+{
+ "slug": "upi-otp-fraud",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 2,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "All India",
+ "tags": [
+  "scam"
+ ],
+ "hi": "UPI / OTP ठगी",
+ "en": "UPI / OTP fraud",
+ "kw": "upi otp fraud paisa kat gaya ठगी धोखाधड़ी qr collect request",
+ "source_url": "https://www.rbi.org.in/commonman/Upload/english/Content/PDFs/English%20BEAWARE.pdf",
+ "source_name": "RBI Ombudsman — \"BE(A)WARE\" पुस्तिका (तारीख़ अंकित नहीं)",
+ "more": [],
+ "how_hi": "ठग बैंक या अधिकारी बनकर फोन करते हैं और जल्दबाज़ी दिखाकर OTP, PIN या CVV माँगते हैं। कुछ ठग ख़रीदार बनकर UPI \"रिक्वेस्ट मनी\" मंज़ूर करवाते हैं (जिससे पैसा आपके खाते से जाता है) या QR स्कैन करवाते हैं। RBI की पुस्तिका के अनुसार पैसा पाने के लिए कहीं PIN/पासवर्ड डालने की ज़रूरत नहीं होती।",
+ "how_en": "Fraudsters pose as bankers or officials, create urgency and ask for your OTP, PIN or CVV. Some pose as buyers and get you to approve a UPI \"request money\" (which sends money out of your account) or to scan a QR code. Per the RBI booklet, you never need to enter a PIN/password anywhere to receive money.",
+ "signs_hi": [
+  "जल्दबाज़ी का दबाव",
+  "OTP, PIN या CVV माँगना",
+  "पैसा पाने के लिए PIN डालने या QR स्कैन करने को कहना",
+  "लोन या क्रेडिट-लिमिट के ऑफ़र के बहाने OTP माँगना"
+ ],
+ "signs_en": [
+  "Pressure to act quickly",
+  "Asking for OTP, PIN or CVV",
+  "Asking you to enter a PIN or scan a QR code to receive money",
+  "OTP asked under the pretext of a loan or credit-limit offer"
+ ],
+ "dont_hi": [
+  "OTP, PIN, CVV किसी को न बताएँ — परिवार और दोस्तों को भी नहीं (RBI)",
+  "पैसा पाने के लिए कोई QR कभी स्कैन न करें (RBI)",
+  "अनचाही \"रिक्वेस्ट मनी\" मंज़ूर न करें"
+ ],
+ "dont_en": [
+  "Never share OTP, PIN or CVV with anyone — not even family and friends (RBI)",
+  "Never scan any QR code to receive money (RBI)",
+  "Do not approve an unexpected \"request money\""
+ ],
+ "do_hi": [
+  "बिना माँगे आए OTP वाले SMS/ईमेल पर नज़र रखें (RBI)",
+  "ठगी हो जाए तो तुरंत हेल्पलाइन 1930 पर कॉल करें या cybercrime.gov.in पर शिकायत करें (गृह मंत्रालय/PIB के अनुसार)"
+ ],
+ "do_en": [
+  "Watch for OTP messages / emails you did not request (RBI)",
+  "If you are defrauded, call helpline 1930 or file a complaint on cybercrime.gov.in immediately (per Ministry of Home Affairs / PIB)"
+ ],
+ "what_hi": "ठग बैंक या अधिकारी बनकर फोन करते हैं और जल्दबाज़ी दिखाकर OTP, PIN या CVV माँगते हैं। कुछ ठग ख़रीदार बनकर UPI \"रिक्वेस्ट मनी\" मंज़ूर करवाते हैं (जिससे पैसा आपके खाते से जाता है) या QR स्कैन करवाते हैं। RBI की पुस्तिका के अनुसार पैसा पाने के लिए कहीं PIN/पासवर्ड डालने की ज़रूरत नहीं होती।",
+ "what_en": "Fraudsters pose as bankers or officials, create urgency and ask for your OTP, PIN or CVV. Some pose as buyers and get you to approve a UPI \"request money\" (which sends money out of your account) or to scan a QR code. Per the RBI booklet, you never need to enter a PIN/password anywhere to receive money."
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "pmay-urban",
+ "hi": "पीएम आवास योजना — शहरी 2.0 (घर चाहिए)",
+ "en": "PM Awas Yojana — Urban 2.0 (need a house)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-15",
+ "version": 1,
+ "updated": "2026-10-15",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2043924",
+ "source_name": "PIB (भारत सरकार), 9 अगस्त 2024; आवास और शहरी कार्य मंत्रालय दस्तावेज़ (मार्च 2026); पोर्टल pmay-urban.gov.in",
+ "tags": [
+  "housing"
+ ],
+ "kw": "awas awaas ghar house housing pmay urban makan घर आवास पक्का मकान शहरी",
+ "what_hi": "शहरी परिवारों को पक्का घर: PMAY-शहरी 2.0 के चार हिस्से — अपनी ज़मीन पर घर बनाना (BLC), साझेदारी में किफ़ायती आवास (AHP), किफ़ायती किराये का आवास (ARH) और ब्याज सब्सिडी योजना (ISS)। केंद्रीय सहायता: BLC/AHP में सामान्यतः ₹2.50 लाख प्रति इकाई (राज्य-समूह के अनुसार ₹1.50–₹2.50 लाख), ISS में ₹1.80 लाख तक।",
+ "what_en": "Pucca homes for urban families: PMAY-Urban 2.0 has four verticals — Beneficiary-Led Construction on your own land (BLC), Affordable Housing in Partnership (AHP), Affordable Rental Housing (ARH) and Interest Subsidy Scheme (ISS). Central assistance: generally ₹2.50 lakh per unit for BLC / AHP (₹1.50–₹2.50 lakh depending on the State group), up to ₹1.80 lakh under ISS.",
+ "benefit_hi": "शहरी परिवारों को पक्का घर: PMAY-शहरी 2.0 के चार हिस्से — अपनी ज़मीन पर घर बनाना (BLC), साझेदारी में किफ़ायती आवास (AHP), किफ़ायती किराये का आवास (ARH) और ब्याज सब्सिडी योजना (ISS)। केंद्रीय सहायता: BLC/AHP में सामान्यतः ₹2.50 लाख प्रति इकाई (राज्य-समूह के अनुसार ₹1.50–₹2.50 लाख), ISS में ₹1.80 लाख तक।",
+ "benefit_en": "Pucca homes for urban families: PMAY-Urban 2.0 has four verticals — Beneficiary-Led Construction on your own land (BLC), Affordable Housing in Partnership (AHP), Affordable Rental Housing (ARH) and Interest Subsidy Scheme (ISS). Central assistance: generally ₹2.50 lakh per unit for BLC / AHP (₹1.50–₹2.50 lakh depending on the State group), up to ₹1.80 lakh under ISS.",
+ "who_hi": [
+  "EWS, LIG या MIG परिवार जिनके पास देश में कहीं पक्का घर नहीं",
+  "सालाना आय: EWS ₹3 लाख तक; LIG ₹3–6 लाख; MIG ₹6–9 लाख",
+  "एक परिवार सिर्फ़ एक हिस्से (वर्टिकल) का लाभ ले सकता है",
+  "पिछले 20 साल में किसी केंद्र/राज्य/स्थानीय आवास योजना में घर मिल चुका हो तो पात्र नहीं",
+  "BLC हिस्सा अपनी ज़मीन पर घर बनाने वाले EWS लाभार्थियों के लिए; भूमिहीनों को राज्य/UT पट्टा या अधिकार देते हैं"
+ ],
+ "who_en": [
+  "EWS, LIG or MIG families with no pucca house anywhere in the country",
+  "Annual income: EWS up to ₹3 lakh; LIG ₹3–6 lakh; MIG ₹6–9 lakh",
+  "A family can use only one vertical",
+  "Not eligible if allotted a house under any Central / State / local housing scheme in the last 20 years",
+  "BLC is for EWS beneficiaries building on their own land; States / UTs give a patta or rights to the landless"
+ ],
+ "not_hi": [
+  "केंद्रीय सहायता का स्लैब राज्य/UT-समूह पर निर्भर है (उत्तर-पूर्व, हिमाचल, उत्तराखंड, J&K, पुडुचेरी, दिल्ली आदि के लिए ₹2.25 लाख; बाकी राज्यों में ₹1.50 लाख — PIB तालिका के अनुसार) — इसलिए अपने राज्य की सटीक राशि नगर निकाय से पूछें",
+  "गाँव में रहते हैं तो PMAY-ग्रामीण देखें — यह अलग योजना है",
+  "ज़रूरी दस्तावेज़ और आवेदन के सटीक कदम सरकारी दस्तावेज़ों में नहीं मिले — पोर्टल/नगर निकाय से पूछें",
+  "योजना 5 साल में घर देने के लिए है (PIB के अनुसार); निर्माण की किस्तें निर्माण के चरणों के अनुसार जारी होती हैं"
+ ],
+ "not_en": [
+  "The central-assistance slab depends on the State / UT group (₹2.25 lakh for the North-East, Himachal, Uttarakhand, J&K, Puducherry, Delhi etc.; ₹1.50 lakh in remaining States — per the PIB table) — ask your urban body for your state's exact amount",
+  "If you live in a village, see PMAY-Gramin — it is a separate scheme",
+  "Required documents and exact application steps were not in the government documents — ask the portal / urban body",
+  "The scheme is meant to deliver houses in 5 years (per PIB); instalments are released in line with construction stages"
+ ],
+ "docs_hi": [
+  "ज़रूरी कागज़ों की सूची आधिकारिक दिशानिर्देशों और pmaymis.gov.in पर है; यहाँ सत्यापित सूची अभी उपलब्ध नहीं है"
+ ],
+ "docs_en": [
+  "The list of required papers is in the official guidelines and pmaymis.gov.in; a verified list is not currently available here"
+ ],
+ "steps_hi": [
+  "pmay-urban.gov.in खोलकर \"Apply for PMAY-U 2.0\" देखें (जानकारी के अनुसार)",
+  "पहले पात्रता जाँच पूरी करें, फिर आवेदन भरें",
+  "होम-लोन सब्सिडी की स्थिति CLAP पोर्टल, PMAY(U) ऐप या UMANG पर देखें",
+  "अपने नगर निकाय / वार्ड कार्यालय से भी पूछ लें"
+ ],
+ "steps_en": [
+  "Open pmay-urban.gov.in and look for \"Apply for PMAY-U 2.0\" (as per available information)",
+  "Complete the eligibility check first, then fill the application",
+  "Track home-loan subsidy on the CLAP portal, PMAY(U) app or UMANG",
+  "Also ask your municipal body / ward office"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक .gov.in पता इस्तेमाल करें",
+  "OTP/PIN किसी से साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Fake websites — use only the official .gov.in address",
+  "Sharing OTP/PIN with anyone"
+ ],
+ "conf_hi": [
+  "15 अक्टूबर 2026 को PIB (9 अगस्त 2024) से पुष्ट: पात्र श्रेणियाँ और आय-सीमाएँ, चार हिस्से, केंद्रीय सहायता, 5 साल की अवधि",
+  "MoHUA दस्तावेज़ (मार्च 2026) से पुष्ट: BLC की पात्रता, 20 साल वाली शर्त, ज़मीन की शर्त",
+  "13 अक्टूबर 2026 को pmay-urban.gov.in से पुष्ट: CLAP/ऐप/UMANG पर सब्सिडी ट्रैकिंग",
+  "दस्तावेज़ और आवेदन के चरण पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (9 Aug 2024) on 15 Oct 2026: eligible categories and income limits, four verticals, central assistance, 5-year period",
+  "Confirmed from a MoHUA document (March 2026): BLC eligibility, the 20-year condition, land condition",
+  "Confirmed from pmay-urban.gov.in on 13 Oct 2026: subsidy tracking on CLAP / app / UMANG",
+  "Documents and application steps not confirmed"
+ ]
+}

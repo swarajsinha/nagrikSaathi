@@ -1,0 +1,72 @@
+{
+ "slug": "ncs-jobs",
+ "hi": "राष्ट्रीय करियर सेवा (NCS) — नौकरी खोजें",
+ "en": "National Career Service (NCS) — find jobs",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.ncs.gov.in",
+ "source_name": "NCS (श्रम एवं रोज़गार मंत्रालय)",
+ "tags": [
+  "unemployed",
+  "student"
+ ],
+ "kw": "naukri job rozgar berozgar career ncs unemployed नौकरी रोज़गार बेरोज़गार करियर",
+ "what_hi": "सरकार का मुफ़्त जॉब पोर्टल: नौकरी खोज और मिलान, करियर परामर्श, जॉब फ़ेयर की जानकारी, कौशल प्रदाता खोज, AI रिज़्यूमे बिल्डर और इंटरव्यू कोच।",
+ "what_en": "The government's free job portal: job search and matching, career counselling, job fair information, skill-provider search, AI resume builder and interview coach.",
+ "benefit_hi": "सरकार का मुफ़्त जॉब पोर्टल: नौकरी खोज और मिलान, करियर परामर्श, जॉब फ़ेयर की जानकारी, कौशल प्रदाता खोज, AI रिज़्यूमे बिल्डर और इंटरव्यू कोच।",
+ "benefit_en": "The government's free job portal: job search and matching, career counselling, job fair information, skill-provider search, AI resume builder and interview coach.",
+ "who_hi": [
+  "नौकरी खोजने वाला कोई भी व्यक्ति",
+  "दिव्यांग और पूर्व-सैनिकों के लिए अलग सूचियाँ भी हैं"
+ ],
+ "who_en": [
+  "Any job seeker",
+  "Separate listings for persons with disabilities and ex-servicemen also exist"
+ ],
+ "not_hi": [
+  "पंजीकरण, नौकरी के आवेदन या इंटरव्यू के किसी भी चरण पर कोई शुल्क नहीं लगता — पैसे माँगने वाले से सावधान"
+ ],
+ "not_en": [
+  "No fee is charged at any stage of registration, job application or interview — beware of anyone asking for money"
+ ],
+ "docs_hi": [
+  "पोर्टल पर पंजीकरण का सटीक दस्तावेज़-सूची पेज पर नहीं दी गई है; पंजीकरण फ़्लोचार्ट पोर्टल पर उपलब्ध है"
+ ],
+ "docs_en": [
+  "The exact document list for registration is not given on the page; a registration flowchart is available on the portal"
+ ],
+ "steps_hi": [
+  "ncs.gov.in खोलें",
+  "\"Jobseekers\" में \"Get Started\" से लॉगिन/पंजीकरण करें",
+  "अपनी योग्यता भरकर नौकरियाँ खोजें और आवेदन करें",
+  "सहायता के लिए टोल-फ़्री 1514 पर कॉल करें"
+ ],
+ "steps_en": [
+  "Open ncs.gov.in",
+  "Under \"Jobseekers\" use \"Get Started\" to log in/register",
+  "Fill in your qualifications, search jobs and apply",
+  "For help call toll-free 1514"
+ ],
+ "mistakes_hi": [
+  "नौकरी दिलाने के नाम पर पैसे देना",
+  "NCS के नाम से आए नकली संदेश — जाँच सिर्फ़ ncs.gov.in पर करें",
+  "अपना OTP/पासवर्ड साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying money for a job",
+  "Fake messages in NCS's name — verify only at ncs.gov.in",
+  "Sharing your OTP/password"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को ncs.gov.in से पुष्ट: सेवाएँ, कोई शुल्क नहीं, टोल-फ़्री हेल्पलाइन 1514, ईमेल support.ncs@gov.in, साइबर धोखाधड़ी के लिए 1930",
+  "पंजीकरण के सटीक चरण पेज पर नहीं मिले — पोर्टल का फ़्लोचार्ट देखें"
+ ],
+ "conf_en": [
+  "Confirmed from ncs.gov.in on 13 Oct 2026: services, no fee, toll-free helpline 1514, email support.ncs@gov.in, 1930 for cyber fraud",
+  "Exact registration steps were not on the page — see the portal's flowchart"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "senior-citizens-act-elderline",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central",
+ "tags": [
+  "senior"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "बुज़ुर्गों के अधिकार — भरण-पोषण क़ानून और एल्डरलाइन 14567",
+ "en": "Senior citizens' rights — maintenance law and Elderline 14567",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2080034&reg=3&lang=2",
+ "source_name": "PIB / सामाजिक न्याय मंत्रालय — लोकसभा उत्तर (3 दिसंबर 2024); PIB (18 नवंबर 2025)",
+ "kw": "senior citizen maintenance act 2007 elderline 14567 parents children abandon भरण पोषण बुज़ुर्ग माता पिता वरिष्ठ नागरिक",
+ "what_hi": "माता-पिता और वरिष्ठ नागरिकों के भरण-पोषण और कल्याण अधिनियम, 2007 के तहत बच्चे और निर्दिष्ट रिश्तेदार बुज़ुर्गों (माता-पिता सहित) का भरण-पोषण करने को क़ानूनन बाध्य हैं। इसके लिए अधिकरण (ट्रिब्यूनल) बने हैं। बुज़ुर्गों की शिकायतों और जानकारी के लिए टोल-फ़्री हेल्पलाइन एल्डरलाइन 14567 है (1 अक्टूबर 2021 से)।",
+ "what_en": "Under the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, children and specified relatives are legally bound to maintain senior citizens (including parents). Tribunals are set up for this. For grievances and information there is the toll-free helpline Elderline 14567 (since 1 October 2021).",
+ "who_hi": [
+  "वरिष्ठ नागरिक, जिनमें माता-पिता शामिल हैं (PIB)",
+  "अधिकरण की अध्यक्षता उप-मंडल मजिस्ट्रेट (SDM) से कम रैंक का अधिकारी नहीं करता (धारा 7)",
+  "अधिकरण भरण-पोषण के ज़िम्मेदार बच्चों/रिश्तेदारों को भरण-पोषण देने का आदेश दे सकता है (धारा 9)"
+ ],
+ "who_en": [
+  "Senior citizens, including parents (PIB)",
+  "The tribunal is presided over by an officer not below the rank of Sub-Divisional Magistrate (Section 7)",
+  "The tribunal can order children / relatives responsible for maintenance to provide it (Section 9)"
+ ],
+ "not_hi": [
+  "अधिकरण में आवेदन का तरीक़ा, समय-सीमा, भत्ते की ऊपरी सीमा और फ़ीस इन PIB पेजों में नहीं हैं — अपने SDM कार्यालय या एल्डरलाइन से पूछें",
+  "एल्डरलाइन भावनात्मक सहारा, शिकायत और योजनाओं की जानकारी देती है; यह वकील या अदालत की जगह नहीं है",
+  "यह सामान्य जानकारी है, व्यक्तिगत क़ानूनी सलाह नहीं"
+ ],
+ "not_en": [
+  "How to apply to the tribunal, time limits, any cap on the allowance and fees are not in these PIB pages — ask your SDM office or Elderline",
+  "Elderline gives emotional support, takes grievances and gives scheme information; it is not a substitute for a lawyer or court",
+  "This is general information, not individual legal advice"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — SDM कार्यालय या एल्डरलाइन से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the SDM office or Elderline"
+ ],
+ "steps_hi": [
+  "जानकारी या शिकायत के लिए टोल-फ़्री 14567 पर कॉल करें",
+  "भरण-पोषण के लिए अपने क्षेत्र के अधिकरण (SDM स्तर) से संपर्क करें — प्रक्रिया वहीं से पूछें",
+  "बुज़ुर्ग को छोड़ देने या प्रताड़ित करने पर धाराएँ 24 और 25 के तहत अधिकतम तीन माह की क़ैद, ₹5,000 तक जुर्माना या दोनों का प्रावधान है (PIB)"
+ ],
+ "steps_en": [
+  "For information or a grievance call the toll-free 14567",
+  "For maintenance, contact the tribunal for your area (SDM level) — ask there for the procedure",
+  "Abandoning or harassing a senior citizen is punishable under Sections 24 and 25 with up to three months' imprisonment, a fine up to ₹5,000, or both (PIB)"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (3 दिसंबर 2024) से पुष्ट: अधिनियम की धाराएँ 7, 9, 24, 25, एल्डरलाइन 14567 (1 अक्टूबर 2021 से)",
+  "PIB (18 नवंबर 2025) से पुष्ट: बच्चे और रिश्तेदार भरण-पोषण को बाध्य; एल्डरलाइन भावनात्मक सहारा देती है",
+  "आवेदन-प्रक्रिया, भत्ते की सीमा और फ़ीस पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (3 Dec 2024): Act Sections 7, 9, 24, 25, Elderline 14567 (since 1 Oct 2021)",
+  "From PIB (18 Nov 2025): children and relatives obliged to maintain; Elderline gives emotional support",
+  "Application process, allowance cap and fees not confirmed"
+ ],
+ "benefit_hi": "माता-पिता और वरिष्ठ नागरिकों के भरण-पोषण और कल्याण अधिनियम, 2007 के तहत बच्चे और निर्दिष्ट रिश्तेदार बुज़ुर्गों (माता-पिता सहित) का भरण-पोषण करने को क़ानूनन बाध्य हैं। इसके लिए अधिकरण (ट्रिब्यूनल) बने हैं। बुज़ुर्गों की शिकायतों और जानकारी के लिए टोल-फ़्री हेल्पलाइन एल्डरलाइन 14567 है (1 अक्टूबर 2021 से)।",
+ "benefit_en": "Under the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, children and specified relatives are legally bound to maintain senior citizens (including parents). Tribunals are set up for this. For grievances and information there is the toll-free helpline Elderline 14567 (since 1 October 2021)."
+}

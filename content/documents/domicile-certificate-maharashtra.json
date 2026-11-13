@@ -1,0 +1,72 @@
+{
+ "slug": "domicile-certificate-maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "tags": [
+  "certificate"
+ ],
+ "hi": "आयु, राष्ट्रीयता और अधिवास प्रमाणपत्र — महाराष्ट्र (आपले सरकार)",
+ "en": "Age, nationality and domicile certificate — Maharashtra (Aaple Sarkar)",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "state": "Maharashtra",
+ "source_url": "https://aaplesarkar.mahaonline.gov.in/mr/Login/Certificate_Documents?ServiceId=1253",
+ "source_name": "आपले सरकार (MahaOnline), महसूल विभाग — सेवा पृष्ठ",
+ "kw": "domicile certificate adhivas pramanpatra age nationality maharashtra aaple sarkar अधिवास प्रमाणपत्र निवास डोमिसाइल",
+ "what_hi": "महाराष्ट्र में \"वय, राष्ट्रीयत्व आणि अधिवास प्रमाणपत्र\" आपले सरकार पोर्टल की सेवा है। पृष्ठ पर समय-सीमा 15 दर्ज है (इकाई नहीं लिखी)। जारी करने वाला अधिकारी: तहसीलदार।",
+ "what_en": "In Maharashtra the \"Age, Nationality and Domicile Certificate\" is a service on the Aaple Sarkar portal. The page lists a time limit of 15 (unit not written). Issuing officer: Tahsildar.",
+ "who_hi": [
+  "महाराष्ट्र के निवासी, जिन्हें आयु, राष्ट्रीयता या अधिवास का प्रमाण चाहिए"
+ ],
+ "who_en": [
+  "Residents of Maharashtra who need proof of age, nationality or domicile"
+ ],
+ "not_hi": [
+  "पोर्टल पृष्ठ पर \"कोई दस्तावेज़ आवश्यक नहीं\" लिखा है, पर शुल्क नहीं बताया गया",
+  "पृष्ठ पर MAITRI पोर्टल पर कुछ सेवाओं के जाने का नोटिस है; यह सेवा वहाँ गई या नहीं, पुष्ट नहीं — पहले आपले सरकार पर जाँचें",
+  "अधिवास की शर्तें (कितने साल का निवास आदि) इस पृष्ठ पर नहीं हैं — जिस काम के लिए चाहिए उसकी शर्त वहीं देखें"
+ ],
+ "not_en": [
+  "The portal page says \"No documents required\" but states no fee",
+  "The page carries a notice that some services moved to MAITRI; whether this one did is not confirmed — check Aaple Sarkar first",
+  "Domicile conditions (years of residence etc.) are not on this page — see the rule of the purpose you need it for"
+ ],
+ "docs_hi": [
+  "पोर्टल पृष्ठ पर कोई दस्तावेज़ सूचीबद्ध नहीं है; आवेदन के समय पोर्टल जो माँगे वह तैयार रखें"
+ ],
+ "docs_en": [
+  "The portal page lists no documents; keep ready whatever the portal asks at the time of applying"
+ ],
+ "steps_hi": [
+  "आपले सरकार पर सेवा \"वय, राष्ट्रीयत्व आणि अधिवास प्रमाणपत्र\" चुनें और आवेदन भरें",
+  "देरी या अस्वीकार होने पर अपील: पहली उपविभागीय अधिकारी को, दूसरी अपर कलेक्टर को, तीसरी आयोग को",
+  "मदद: 1800 120 8040 (24x7, टोल-फ़्री)"
+ ],
+ "steps_en": [
+  "On Aaple Sarkar choose the service \"Age, Nationality and Domicile Certificate\" and fill the application",
+  "If delayed or rejected, appeal: first to the Sub-Divisional Officer, second to the Additional Collector, third to the commission",
+  "Help: 1800 120 8040 (24x7, toll-free)"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना — सरकारी पोर्टल पर आवेदन खुद या सेवा केंद्र से हो सकता है",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman — you can apply yourself or at a service centre",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites — use only the official address"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को आपले सरकार के सेवा-पृष्ठ से पुष्ट: सेवा का नाम, अधिकारी, अपील क्रम, कॉल सेंटर",
+  "शुल्क, पात्रता-शर्तें और MAITRI स्थानांतरण पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the Aaple Sarkar service page: service name, officer, appeal order, call centre",
+  "Fee, eligibility conditions and any move to MAITRI not confirmed"
+ ],
+ "benefit_hi": "महाराष्ट्र में \"वय, राष्ट्रीयत्व आणि अधिवास प्रमाणपत्र\" आपले सरकार पोर्टल की सेवा है। पृष्ठ पर समय-सीमा 15 दर्ज है (इकाई नहीं लिखी)। जारी करने वाला अधिकारी: तहसीलदार।",
+ "benefit_en": "In Maharashtra the \"Age, Nationality and Domicile Certificate\" is a service on the Aaple Sarkar portal. The page lists a time limit of 15 (unit not written). Issuing officer: Tahsildar."
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "pmuy",
+ "hi": "प्रधानमंत्री उज्ज्वला योजना (मुफ़्त LPG कनेक्शन)",
+ "en": "PM Ujjwala Yojana (LPG connection)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://pmuy.gov.in/about.html",
+ "source_name": "PMUY पोर्टल",
+ "tags": [
+  "woman",
+  "other"
+ ],
+ "kw": "ujjwala lpg gas connection cylinder free chulha उज्ज्वला गैस कनेक्शन सिलेंडर महिला",
+ "what_hi": "गरीब परिवार की वयस्क महिला को LPG कनेक्शन के लिए केंद्र सरकार की नकद सहायता: 14.2 किग्रा सिलेंडर पर ₹1600 या 5 किग्रा पर ₹1150। तेल कंपनियाँ पहली रिफ़िल और स्टोव मुफ़्त देती हैं।",
+ "what_en": "Central cash assistance towards an LPG connection for an adult woman of a deprived household: ₹1600 for a 14.2 kg cylinder or ₹1150 for 5 kg. Oil companies give the first refill and a stove free.",
+ "benefit_hi": "गरीब परिवार की वयस्क महिला को LPG कनेक्शन के लिए केंद्र सरकार की नकद सहायता: 14.2 किग्रा सिलेंडर पर ₹1600 या 5 किग्रा पर ₹1150। तेल कंपनियाँ पहली रिफ़िल और स्टोव मुफ़्त देती हैं।",
+ "benefit_en": "Central cash assistance towards an LPG connection for an adult woman of a deprived household: ₹1600 for a 14.2 kg cylinder or ₹1150 for 5 kg. Oil companies give the first refill and a stove free.",
+ "who_hi": [
+  "कम से कम 18 वर्ष की महिला",
+  "SC, ST, PMAY-ग्रामीण, अति पिछड़ा वर्ग, अंत्योदय (AAY), चाय/पूर्व-चाय बागान जनजाति, वनवासी, द्वीप/नदी-द्वीप निवासी, SECC परिवार या 14-बिंदु घोषणा के अनुसार गरीब परिवार",
+  "उसी घर में कोई और LPG कनेक्शन न हो"
+ ],
+ "who_en": [
+  "Woman aged at least 18",
+  "From SC, ST, PMAY-Gramin, Most Backward Classes, AAY, Tea/Ex-Tea Garden tribes, Forest Dwellers, Island/River Island residents, SECC households, or poor households under the 14-point declaration",
+  "No other LPG connection in the same household"
+ ],
+ "not_hi": [
+  "यह नकद सहायता के रूप में है; पूरी प्रक्रिया वितरक/कंपनी के पोर्टल पर होती है",
+  "पात्रता श्रेणी में आते हैं या नहीं, यह अंतिम रूप से वितरक/कंपनी जाँचती है"
+ ],
+ "not_en": [
+  "This is cash assistance; the full process runs through the distributor / company portal",
+  "The distributor / company makes the final check of your category"
+ ],
+ "docs_hi": [
+  "KYC फ़ॉर्म",
+  "राज्य का राशन कार्ड या परिवार-संरचना बताने वाला राज्य सरकार का दस्तावेज़ (प्रवासी स्व-घोषणा दे सकते हैं)",
+  "लाभार्थी और परिवार के वयस्क सदस्यों का आधार",
+  "पते का प्रमाण (आधार पर्याप्त, यदि पता वही है)",
+  "बैंक खाता नंबर और IFSC"
+ ],
+ "docs_en": [
+  "KYC form",
+  "Ration card of the applying state, or a state-government document showing family composition (migrants may give a self-declaration)",
+  "Aadhaar of the beneficiary and adult family members",
+  "Proof of address (Aadhaar serves if the address is the same)",
+  "Bank account number and IFSC"
+ ],
+ "steps_hi": [
+  "ऑनलाइन: Indian Oil, Bharat Gas (BPCL) या HP Gas के पोर्टल से",
+  "या ऑफ़लाइन: दस्तावेज़ लेकर नज़दीकी LPG वितरक के पास जाएँ",
+  "पोर्टल पर फ़ॉर्म (KYC, प्रवासी स्व-घोषणा आदि) उपलब्ध हैं"
+ ],
+ "steps_en": [
+  "Online: through the Indian Oil, Bharat Gas (BPCL) or HP Gas portal",
+  "Or offline: take the documents to your nearest LPG distributor",
+  "Forms (KYC, migrant self-declaration etc.) are on the portal"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को pmuy.gov.in/about.html से पुष्ट: उद्देश्य, पात्रता श्रेणियाँ, सहायता राशि, दस्तावेज़ और आवेदन का तरीका",
+  "चालू स्थिति (योजना की वर्तमान अवधि/बदलाव) अलग से जाँचना बाकी"
+ ],
+ "conf_en": [
+  "Confirmed from pmuy.gov.in/about.html on 13 Oct 2026: objective, eligibility categories, assistance amounts, documents and how to apply",
+  "Current status (present period / changes) still to be checked separately"
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "status": "verified",
+ "last_verified": "2026-10-30",
+ "version": 1,
+ "updated": "2026-11-10",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "state": "Maharashtra",
+ "slug": "namo-shetkari-maharashtra",
+ "tags": [
+  "farmer"
+ ],
+ "hi": "नमो शेतकरी महासन्मान निधि (महाराष्ट्र के किसानों को ₹6,000 सालाना)",
+ "en": "Namo Shetkari Mahasanman Nidhi (₹6,000 a year for Maharashtra farmers)",
+ "source_url": "https://www.myscheme.gov.in/schemes/namo-shetkari-mahasanman-nidhi-yojana",
+ "source_name": "myScheme (भारत सरकार) — नमो शेतकरी महासन्मान निधि योजना",
+ "more": [
+  [
+   "https://nsmny.mahait.org/",
+   "नमो शेतकरी आधिकारिक पोर्टल (महाराष्ट्र कृषि विभाग)"
+  ],
+  [
+   "https://mahasamvad.in/105522/",
+   "महासंवाद (DGIPR, महाराष्ट्र सरकार) — योजना की भुगतान व्यवस्था, 29 अगस्त 2023"
+  ],
+  [
+   "https://pmkisan.gov.in",
+   "पीएम-किसान आधिकारिक पोर्टल (पात्रता के नियम)"
+  ]
+ ],
+ "kw": "namo shetkari mahasanman nidhi nsmny farmer kisan 6000 2000 instalment maharashtra नमो शेतकरी महासन्मान निधि किसान किस्त महाराष्ट्र",
+ "what_hi": "महाराष्ट्र सरकार की योजना, जिसमें पीएम-किसान के ₹6,000 के अलावा किसान परिवारों को राज्य की ओर से ₹6,000 सालाना और मिलते हैं — ₹2,000 की तीन बराबर किस्तों में, सीधे बैंक खाते में (DBT)। यानी पात्र किसान को कुल ₹12,000 सालाना।",
+ "what_en": "A Maharashtra Government scheme that gives farmer families ₹6,000 a year from the State on top of PM-KISAN's ₹6,000 — in three equal instalments of ₹2,000, directly to the bank account (DBT). An eligible farmer thus gets ₹12,000 a year in all.",
+ "who_hi": [
+  "जो किसान पीएम-किसान के लिए पात्र हैं, वही इस योजना के लिए पात्र हैं — पीएम-किसान के पात्रता और बाहर रखने वाले नियम यहाँ भी लागू होते हैं",
+  "पीएम-किसान में नए जुड़े और भुगतान पाए किसान भी इसके लाभार्थी बनते हैं"
+ ],
+ "who_en": [
+  "Farmers eligible for PM-KISAN are eligible for this scheme — PM-KISAN's eligibility and exclusion rules apply here too",
+  "Farmers newly registered and paid under PM-KISAN also become beneficiaries"
+ ],
+ "not_hi": [
+  "कौन बाहर है (सरकारी कर्मचारी, आयकर दाता आदि) — ये पीएम-किसान के नियम हैं; हमारी साइट का पीएम-किसान पेज और pmkisan.gov.in देखें",
+  "फ़रवरी 2025 में मुख्यमंत्री ने राशि ₹3,000 बढ़ाने की घोषणा की थी, पर इसे लागू करने वाला सरकारी आदेश (GR) हमें नहीं मिला — अभी ₹6,000 ही मानें",
+  "ख़बरों में कर्ज़माफ़ी पाने वाले किसानों को एक साल बाहर रखने की बात आई है — इसका कोई सरकारी आदेश नहीं मिला",
+  "किस्त कब आएगी, इसकी तारीख़ सरकार हर किस्त के लिए अलग आदेश से तय करती है — पैसे देर से आएँ तो किसी एजेंट को पैसे न दें"
+ ],
+ "not_en": [
+  "Who is excluded (government employees, income-tax payers etc.) follows PM-KISAN rules — see our PM-KISAN page and pmkisan.gov.in",
+  "In February 2025 the Chief Minister announced a ₹3,000 increase, but we found no government order (GR) implementing it — treat the amount as ₹6,000 for now",
+  "News reports mention excluding loan-waiver beneficiaries for a year — no government order was found",
+  "The State sets the date of each instalment by a separate order — if money is late, do not pay any agent"
+ ],
+ "docs_hi": [
+  "अलग आवेदन की ज़रूरत नहीं बताई गई — पीएम-किसान का रिकॉर्ड ही आधार है",
+  "पीएम-किसान की eKYC, आधार से जुड़ा बैंक खाता और ज़मीन का रिकॉर्ड अपडेट रखें"
+ ],
+ "docs_en": [
+  "No separate application is described — the PM-KISAN record is the basis",
+  "Keep PM-KISAN eKYC, an Aadhaar-linked bank account and land records up to date"
+ ],
+ "steps_hi": [
+  "पहले देखें कि आप पीएम-किसान के लाभार्थी हैं और आपकी eKYC पूरी है",
+  "nsmny.mahait.org पर \"Know your Registration No\" में आधार नंबर या आधार से जुड़े मोबाइल नंबर से OTP के ज़रिए अपना रजिस्ट्रेशन नंबर देखें",
+  "उसी पोर्टल पर लाभार्थी की स्थिति (Beneficiary Status) देखें",
+  "पैसे न आएँ तो तालुका कृषि अधिकारी से संपर्क करें — OTP किसी को न बताएँ"
+ ],
+ "steps_en": [
+  "First check that you are a PM-KISAN beneficiary and your eKYC is complete",
+  "On nsmny.mahait.org use \"Know your Registration No\" with your Aadhaar number or Aadhaar-linked mobile number and OTP",
+  "Check your Beneficiary Status on the same portal",
+  "If money does not arrive, contact the Taluka Agriculture Officer — never share your OTP"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "30 अक्टूबर 2026 को सरकारी स्रोतों से पुष्ट: GR 15 जून 2023, ₹6,000 सालाना (3 × ₹2,000), पीएम-किसान से जुड़ी पात्रता, PFMS से सीधा भुगतान, nsmny.mahait.org पर स्थिति देखने की सुविधा",
+  "₹9,000 की बढ़ोतरी और कर्ज़माफ़ी वालों को बाहर रखने की बात सरकारी आदेश से पुष्ट नहीं",
+  "राज्य की हेल्पलाइन नंबर आधिकारिक पेज से पुष्ट नहीं हो सका, इसलिए नहीं दिया"
+ ],
+ "conf_en": [
+  "Confirmed from government sources on 30 Oct 2026: GR of 15 June 2023, ₹6,000 a year (3 × ₹2,000), eligibility linked to PM-KISAN, direct payment via PFMS, status check on nsmny.mahait.org",
+  "The ₹9,000 increase and the loan-waiver exclusion are not confirmed by any government order",
+  "The State helpline number could not be confirmed from an official page, so it is not given"
+ ],
+ "benefit_hi": "महाराष्ट्र सरकार की योजना, जिसमें पीएम-किसान के ₹6,000 के अलावा किसान परिवारों को राज्य की ओर से ₹6,000 सालाना और मिलते हैं — ₹2,000 की तीन बराबर किस्तों में, सीधे बैंक खाते में (DBT)। यानी पात्र किसान को कुल ₹12,000 सालाना।",
+ "benefit_en": "A Maharashtra Government scheme that gives farmer families ₹6,000 a year from the State on top of PM-KISAN's ₹6,000 — in three equal instalments of ₹2,000, directly to the bank account (DBT). An eligible farmer thus gets ₹12,000 a year in all."
+}

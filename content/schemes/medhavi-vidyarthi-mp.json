@@ -1,0 +1,90 @@
+{
+ "slug": "medhavi-vidyarthi-mp",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "tags": [
+  "education"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "मुख्यमंत्री मेधावी विद्यार्थी योजना — मध्य प्रदेश",
+ "en": "Mukhyamantri Medhavi Vidyarthi Yojana — Madhya Pradesh",
+ "state": "Madhya Pradesh",
+ "source_url": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=878",
+ "source_name": "मध्य प्रदेश शासन — सीएम हेल्पलाइन योजना-विवरण (तकनीकी शिक्षा, कौशल विकास एवं रोज़गार विभाग; पेज अंतिम अपडेट 2 नवंबर 2022)",
+ "kw": "mukhyamantri medhavi vidyarthi yojana madhya pradesh fee reimbursement engineering medical मेधावी विद्यार्थी योजना फीस",
+ "what_hi": "मध्य प्रदेश के मेधावी विद्यार्थियों के लिए ट्यूशन फ़ीस की प्रतिपूर्ति। इंजीनियरिंग में सरकारी कॉलेज की पूरी फ़ीस; निजी कॉलेज में ₹1.5 लाख या वास्तविक फ़ीस (जो कम हो) तक। मेडिकल में राज्य फ़ीस देता है, साथ में ग्रामीण क्षेत्र में सेवा का बॉन्ड।",
+ "what_en": "Tuition-fee reimbursement for meritorious students of Madhya Pradesh. For engineering: full fees in government colleges; in private colleges up to ₹1.5 lakh or the actual fee, whichever is lower. For medicine the state pays the fees, with a bond to serve in a rural area.",
+ "who_hi": [
+  "मध्य प्रदेश का निवासी",
+  "माता-पिता/अभिभावक की वार्षिक आय ₹6 लाख से कम",
+  "कक्षा 12 में MP बोर्ड 70% या उससे अधिक, या CBSE/ICSE 85% या उससे अधिक",
+  "इंजीनियरिंग: JEE Main रैंक 1,50,000 के भीतर; मेडिकल: NEET से MBBS/BDS में प्रवेश; विधि: CLAT या संस्थान की परीक्षा से NLU/दिल्ली विश्वविद्यालय में प्रवेश",
+  "अन्य: केंद्रीय विश्वविद्यालयों में स्नातक/एकीकृत/दोहरी डिग्री, और राज्य-वित्तपोषित/सहायता-प्राप्त कॉलेजों के स्नातक और डिप्लोमा पाठ्यक्रम (कक्षा 12 के आधार पर)"
+ ],
+ "who_en": [
+  "Resident of Madhya Pradesh",
+  "Parent / guardian annual income below ₹6 lakh",
+  "70% or more in MP Board Class 12, or 85% or more in CBSE / ICSE Class 12",
+  "Engineering: JEE Main rank within 1,50,000; medical: admission to MBBS / BDS through NEET; law: admission to NLUs / Delhi University through CLAT or the institution's exam",
+  "Other: graduation / integrated / dual-degree courses at central universities, and graduation and diploma courses at state-funded / aided colleges on Class 12 results"
+ ],
+ "not_hi": [
+  "मेडिकल: सरकारी मेडिकल स्नातक को ₹10 लाख के बॉन्ड पर 2 साल और निजी कॉलेज के स्नातक को ₹25 लाख के बॉन्ड पर 5 साल निर्दिष्ट ग्रामीण क्षेत्र में सेवा करनी होती है",
+  "पेज पर आवेदन की अंतिम तारीख़ नहीं है और पेज 2 नवंबर 2022 का है — चालू नियम और सत्र की तारीख़ें scholarshipportal.mp.nic.in पर जाँचें"
+ ],
+ "not_en": [
+  "Medical: a government medical graduate must serve 2 years in a designated rural area under a ₹10 lakh bond, a private-college graduate 5 years under a ₹25 lakh bond",
+  "The page gives no application deadline and dates from 2 November 2022 — check current rules and session dates on scholarshipportal.mp.nic.in"
+ ],
+ "docs_hi": [
+  "कक्षा 12 की अंकसूची",
+  "आधार कार्ड",
+  "प्रवेश-परीक्षा की अंकसूची",
+  "आय प्रमाणपत्र",
+  "मूल निवासी (डोमिसाइल) प्रमाणपत्र",
+  "फ़ीस रसीद"
+ ],
+ "docs_en": [
+  "Class 12 marksheet",
+  "Aadhaar card",
+  "Qualifying-exam marksheet",
+  "Income certificate",
+  "Domicile certificate",
+  "Fee receipt"
+ ],
+ "steps_hi": [
+  "पूरी प्रक्रिया ऑनलाइन, छात्रवृत्ति पोर्टल पर (आवेदन शुल्क नहीं)",
+  "संस्थान का नोडल अधिकारी सत्यापन करता है",
+  "निजी संस्थान के विद्यार्थियों की राशि आधार-लिंक्ड बैंक खाते में, सरकारी संस्थान के विद्यार्थियों की संस्थान के खाते में जाती है",
+  "संपर्क: mmvyhelpline.dte@mp.gov.in, 0755-2660063; अपील तकनीकी शिक्षा आयुक्त को"
+ ],
+ "steps_en": [
+  "The entire process is online on the scholarship portal (no application fee)",
+  "The institution's nodal officer verifies",
+  "For private-institution students the money goes to the Aadhaar-linked bank account, for government-institution students to the institution's account",
+  "Contact: mmvyhelpline.dte@mp.gov.in, 0755-2660063; appeals to the Commissioner, Technical Education"
+ ],
+ "conf_hi": [
+  "24 अक्टूबर 2026 को MP शासन के योजना-विवरण पेज (अंतिम अपडेट 2 नवंबर 2022) से पुष्ट: पात्रता, लाभ, दस्तावेज़, आवेदन-प्रक्रिया, संपर्क",
+  "चालू नियम और तारीख़ें पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 24 Oct 2026 from the MP government scheme-detail page (last updated 2 Nov 2022): eligibility, benefit, documents, application process, contacts",
+  "Current rules and dates not confirmed"
+ ],
+ "benefit_hi": "मध्य प्रदेश के मेधावी विद्यार्थियों के लिए ट्यूशन फ़ीस की प्रतिपूर्ति। इंजीनियरिंग में सरकारी कॉलेज की पूरी फ़ीस; निजी कॉलेज में ₹1.5 लाख या वास्तविक फ़ीस (जो कम हो) तक। मेडिकल में राज्य फ़ीस देता है, साथ में ग्रामीण क्षेत्र में सेवा का बॉन्ड।",
+ "benefit_en": "Tuition-fee reimbursement for meritorious students of Madhya Pradesh. For engineering: full fees in government colleges; in private colleges up to ₹1.5 lakh or the actual fee, whichever is lower. For medicine the state pays the fees, with a bond to serve in a rural area."
+}

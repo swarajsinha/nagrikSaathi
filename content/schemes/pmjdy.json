@@ -1,0 +1,71 @@
+{
+ "slug": "pmjdy",
+ "hi": "प्रधानमंत्री जन धन योजना (ज़ीरो-बैलेंस बैंक खाता)",
+ "en": "PM Jan Dhan Yojana (basic bank account)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.pmjdy.gov.in/scheme",
+ "source_name": "PMJDY पोर्टल",
+ "tags": [
+  "other",
+  "worker",
+  "woman"
+ ],
+ "kw": "jan dhan zero balance bank account khata rupay card overdraft जन धन खाता बैंक खाता खुलवाना",
+ "what_hi": "बेसिक बचत खाता, RuPay डेबिट कार्ड, ₹1 लाख का दुर्घटना बीमा (28.8.2018 के बाद खुले खातों पर ₹2 लाख) और पात्र खाताधारकों को ₹10,000 तक ओवरड्राफ्ट।",
+ "what_en": "A basic savings account, a RuPay debit card, ₹1 lakh accident insurance (₹2 lakh for accounts opened after 28.8.2018) and, for eligible account holders, an overdraft of up to ₹10,000.",
+ "benefit_hi": "बेसिक बचत खाता, RuPay डेबिट कार्ड, ₹1 लाख का दुर्घटना बीमा (28.8.2018 के बाद खुले खातों पर ₹2 लाख) और पात्र खाताधारकों को ₹10,000 तक ओवरड्राफ्ट।",
+ "benefit_en": "A basic savings account, a RuPay debit card, ₹1 lakh accident insurance (₹2 lakh for accounts opened after 28.8.2018) and, for eligible account holders, an overdraft of up to ₹10,000.",
+ "who_hi": [
+  "जिस व्यक्ति के पास कोई और बैंक खाता नहीं है"
+ ],
+ "who_en": [
+  "A person who does not have any other bank account"
+ ],
+ "not_hi": [
+  "आवश्यक दस्तावेज़ों की सूची पोर्टल के उस पेज पर नहीं दी गई — बैंक से पूछें",
+  "ओवरड्राफ्ट सिर्फ़ 'पात्र' खाताधारकों को है; पात्रता की शर्तें उस पेज पर नहीं थीं"
+ ],
+ "not_en": [
+  "The page does not list required documents — ask the bank",
+  "Overdraft is only for 'eligible' account holders; its conditions were not on that page"
+ ],
+ "docs_hi": [
+  "बैंक/बैंक मित्र जो माँगे वह सूची — यहाँ सत्यापित सूची उपलब्ध नहीं"
+ ],
+ "docs_en": [
+  "The list the bank / Bank Mitra asks for — a verified list is not available here"
+ ],
+ "steps_hi": [
+  "किसी भी बैंक शाखा या बैंक मित्र (Business Correspondent) केंद्र पर जाएँ",
+  "बेसिक बचत खाता (BSBD) खोलने के लिए कहें",
+  "पूछें कि कौन-से दस्तावेज़ चाहिए"
+ ],
+ "steps_en": [
+  "Go to any bank branch or Bank Mitra (Business Correspondent) outlet",
+  "Ask for a Basic Savings Bank Deposit (BSBD) account",
+  "Ask which documents are needed"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को pmjdy.gov.in/scheme से पुष्ट: पात्रता, बीमा राशि, RuPay कार्ड, ओवरड्राफ्ट ₹10,000 तक, हेल्पलाइन 1800 11 0001 / 1800 180 1111",
+  "दस्तावेज़ और ओवरड्राफ्ट की शर्तें पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from pmjdy.gov.in/scheme on 13 Oct 2026: eligibility, insurance amounts, RuPay card, overdraft up to ₹10,000, helpline 1800 11 0001 / 1800 180 1111",
+  "Documents and overdraft conditions not confirmed"
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "slug": "ladli-behna-mp",
+ "hi": "मुख्यमंत्री लाड़ली बहना योजना (मध्य प्रदेश)",
+ "en": "Mukhyamantri Ladli Behna Yojana (Madhya Pradesh)",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "state": "Madhya Pradesh",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://cmladlibahna.mp.gov.in",
+ "source_name": "लाड़ली बहना पोर्टल, मध्य प्रदेश सरकार",
+ "tags": [
+  "woman"
+ ],
+ "kw": "ladli behna ladli bahna madhya pradesh mp mahila 1500 लाडली बहना लाड़ली बहना मध्य प्रदेश महिला योजना",
+ "what_hi": "मध्य प्रदेश की पात्र महिलाओं को हर महीने ₹1,500, उनके अपने आधार-लिंक्ड बैंक खाते में सीधे (DBT)। 60 से कम उम्र की जिन महिलाओं को किसी सामाजिक सुरक्षा पेंशन से ₹1,500 से कम मिलता है, उन्हें ₹1,500 तक पूरा किया जाता है।",
+ "what_en": "Eligible women of Madhya Pradesh get ₹1,500 every month, directly into their own Aadhaar-linked bank account (DBT). Women under 60 who get less than ₹1,500 from a social security pension are topped up to ₹1,500.",
+ "benefit_hi": "मध्य प्रदेश की पात्र महिलाओं को हर महीने ₹1,500, उनके अपने आधार-लिंक्ड बैंक खाते में सीधे (DBT)। 60 से कम उम्र की जिन महिलाओं को किसी सामाजिक सुरक्षा पेंशन से ₹1,500 से कम मिलता है, उन्हें ₹1,500 तक पूरा किया जाता है।",
+ "benefit_en": "Eligible women of Madhya Pradesh get ₹1,500 every month, directly into their own Aadhaar-linked bank account (DBT). Women under 60 who get less than ₹1,500 from a social security pension are topped up to ₹1,500.",
+ "who_hi": [
+  "मध्य प्रदेश की स्थानीय निवासी",
+  "विवाहित महिला — विधवा, तलाकशुदा और परित्यक्ता महिलाएँ भी शामिल",
+  "आवेदन वाले वर्ष की 1 जनवरी को 21 साल पूरे और उम्र 60 से कम"
+ ],
+ "who_en": [
+  "Local resident of Madhya Pradesh",
+  "Married woman — widowed, divorced and deserted women are included",
+  "Completed 21 years as of 1 January of the application year, and under 60"
+ ],
+ "not_hi": [
+  "संयुक्त बैंक खाता मान्य नहीं — अपना निजी खाता चाहिए",
+  "खाता आधार से जुड़ा और DBT चालू होना चाहिए",
+  "आवेदन की मौजूदा स्थिति (नए आवेदन खुले हैं या नहीं) पोर्टल पर देखें — पोर्टल पर आपत्ति की अवधि समाप्त बताई गई है"
+ ],
+ "not_en": [
+  "A joint bank account is not valid — you need a personal account",
+  "The account must be Aadhaar-linked with DBT active",
+  "Check the portal for the current application status (whether new applications are open); the portal says the objection period has ended"
+ ],
+ "docs_hi": [
+  "समग्र परिवार ID या सदस्य ID",
+  "आधार कार्ड",
+  "समग्र पोर्टल पर पंजीकृत मोबाइल नंबर",
+  "आधार–समग्र e-KYC पूरा होना"
+ ],
+ "docs_en": [
+  "Samagra family ID or member ID",
+  "Aadhaar card",
+  "Mobile number registered on the Samagra portal",
+  "Aadhaar–Samagra e-KYC completed"
+ ],
+ "steps_hi": [
+  "अपना समग्र ID, आधार और निजी बैंक खाता तैयार रखें; खाते में आधार लिंक और DBT चालू कराएँ",
+  "आवेदन पोर्टल/मोबाइल ऐप से भरें, या शिविर, ग्राम पंचायत, वार्ड कार्यालय या आँगनवाड़ी केंद्र से फ़ॉर्म लें",
+  "लाइव फ़ोटो और e-KYC के लिए खुद उपस्थित हों",
+  "आवेदन निःशुल्क है — छपी रसीद लें, ऑनलाइन आवेदन संख्या SMS/WhatsApp पर भी आती है",
+  "पोर्टल पर \"आवेदन एवं भुगतान की स्थिति\" से स्थिति देखें"
+ ],
+ "steps_en": [
+  "Keep your Samagra ID, Aadhaar and personal bank account ready; get Aadhaar linking and DBT activated on the account",
+  "Fill the application on the portal/mobile app, or take a form at a camp, gram panchayat, ward office or Anganwadi centre",
+  "Attend in person for the live photo and e-KYC",
+  "Applying is free — take the printed receipt; the online application number also comes by SMS/WhatsApp",
+  "Check status under \"Application and Payment Status\" on the portal"
+ ],
+ "mistakes_hi": [
+  "संयुक्त खाता देना",
+  "आधार लिंक या DBT चालू न होना",
+  "समग्र ID में नाम/आधार का मेल न खाना",
+  "आवेदन के लिए किसी को पैसे देना — आवेदन निःशुल्क बताया गया है"
+ ],
+ "mistakes_en": [
+  "Giving a joint account",
+  "Aadhaar not linked or DBT not active",
+  "Name/Aadhaar mismatch with Samagra ID",
+  "Paying anyone to apply — applying is stated to be free"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को आधिकारिक पोर्टल cmladlibahna.mp.gov.in से पुष्ट: राशि ₹1,500 प्रतिमाह, पात्रता, दस्तावेज़ और आवेदन का तरीका",
+  "पुष्ट: हेल्प डेस्क 0755-2700800; CM हेल्पलाइन 181 भी पोर्टल पर आपत्ति के लिए दर्ज है",
+  "अन्य वेबसाइटों पर दिखी ₹1,250 की राशि पुरानी हो सकती है; आधिकारिक पोर्टल पर ₹1,500 लिखा है",
+  "अभी जाँच बाकी: आवेदन की मौजूदा खिड़की और अगली किस्त की तारीख"
+ ],
+ "conf_en": [
+  "Confirmed on 13 Oct 2026 from the official portal cmladlibahna.mp.gov.in: amount ₹1,500 a month, eligibility, documents and how to apply",
+  "Confirmed: help desk 0755-2700800; CM Helpline 181 is also listed on the portal for objections",
+  "A ₹1,250 figure seen on other websites may be outdated; the official portal states ₹1,500",
+  "Still to check: whether the application window is open now, and the next instalment date"
+ ]
+}

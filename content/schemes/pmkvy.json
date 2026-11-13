@@ -1,0 +1,76 @@
+{
+ "slug": "pmkvy",
+ "hi": "पीएमकेवीवाई (मुफ़्त कौशल प्रशिक्षण और प्रमाणपत्र)",
+ "en": "PMKVY (free skill training and certificate)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://nsdcindia.org/products/pradhan-mantri-kaushal-vikas-yojana",
+ "source_name": "NSDC",
+ "tags": [
+  "unemployed",
+  "student"
+ ],
+ "kw": "pmkvy skill india kaushal vikas training free certificate rpl प्रशिक्षण कौशल बेरोज़गार युवा",
+ "what_hi": "PMKVY 4.0 में तीन रास्ते हैं: अल्पकालिक प्रशिक्षण (बेरोज़गार युवा, स्कूल/कॉलेज छोड़ने वाले), पूर्व-अनुभव की पहचान (RPL) और विशेष परियोजनाएँ। प्रशिक्षण, मूल्यांकन और प्रमाणन मुफ़्त बताए गए हैं।",
+ "what_en": "PMKVY 4.0 has three pathways: short-term training (unemployed youth, school/college dropouts), Recognition of Prior Learning (RPL) and Special Projects. Training, assessment and certification are stated to be free.",
+ "benefit_hi": "PMKVY 4.0 में तीन रास्ते हैं: अल्पकालिक प्रशिक्षण (बेरोज़गार युवा, स्कूल/कॉलेज छोड़ने वाले), पूर्व-अनुभव की पहचान (RPL) और विशेष परियोजनाएँ। प्रशिक्षण, मूल्यांकन और प्रमाणन मुफ़्त बताए गए हैं।",
+ "benefit_en": "PMKVY 4.0 has three pathways: short-term training (unemployed youth, school/college dropouts), Recognition of Prior Learning (RPL) and Special Projects. Training, assessment and certification are stated to be free.",
+ "who_hi": [
+  "अल्पकालिक प्रशिक्षण: बेरोज़गार युवा और स्कूल/कॉलेज छोड़ने वाले",
+  "RPL: जिन्होंने अनौपचारिक रूप से काम सीखा है",
+  "विशेष परियोजनाएँ: वंचित वर्ग, दुर्गम क्षेत्र"
+ ],
+ "who_en": [
+  "Short-term training: unemployed youth and school/college dropouts",
+  "RPL: people with skills from informal learning or work",
+  "Special Projects: marginalised groups, hard-to-reach areas"
+ ],
+ "not_hi": [
+  "पेज पर औपचारिक पात्रता शर्तें (उम्र आदि) नहीं दी गईं — अंदाज़ा न लगाएँ",
+  "नामांकन के कदम उस पेज पर नहीं थे",
+  "केंद्र/कोर्स उपलब्धता क्षेत्र के अनुसार अलग हो सकती है"
+ ],
+ "not_en": [
+  "The page gives no formal eligibility conditions (age etc.) — do not guess",
+  "Enrolment steps were not on that page",
+  "Centre / course availability may differ by area"
+ ],
+ "docs_hi": [
+  "सत्यापित सूची उपलब्ध नहीं — प्रशिक्षण केंद्र से पूछें"
+ ],
+ "docs_en": [
+  "A verified list is not available — ask the training centre"
+ ],
+ "steps_hi": [
+  "Skill India Digital / आधिकारिक PMKVY चैनल पर नज़दीकी मान्यता-प्राप्त केंद्र खोजें",
+  "केंद्र से पात्रता, दस्तावेज़ और बैच की तारीख़ पूछें",
+  "प्रशिक्षण के बाद सेक्टर स्किल काउंसिल मूल्यांकन करती है और प्रमाणपत्र मिलता है"
+ ],
+ "steps_en": [
+  "Find a nearby accredited centre through Skill India Digital / the official PMKVY channels",
+  "Ask the centre about eligibility, documents and batch dates",
+  "After training a Sector Skill Council assesses you and a certificate is issued"
+ ],
+ "mistakes_hi": [
+  "प्रशिक्षण या प्रमाणपत्र के नाम पर फ़ीस देना (पेज के अनुसार प्रशिक्षण मुफ़्त है)",
+  "नकली 'नौकरी पक्की' वादे",
+  "OTP/PIN साझा करना"
+ ],
+ "mistakes_en": [
+  "Paying a fee for training or a certificate (the page says training is free)",
+  "Fake 'guaranteed job' promises",
+  "Sharing OTP/PIN"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को NSDC पेज से पुष्ट: तीन रास्ते, मुफ़्त प्रशिक्षण/मूल्यांकन/प्रमाणन, दिव्यांगजन के लिए ₹5,000 सहायक उपकरण सहायता, एक साल का दुर्घटना बीमा",
+  "पात्रता, नामांकन-प्रक्रिया और चालू बैच आधिकारिक रूप से पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from the NSDC page on 13 Oct 2026: three pathways, free training/assessment/certification, ₹5,000 assistive-device support for PwDs, one year accident insurance",
+  "Eligibility, enrolment process and current batches not confirmed"
+ ]
+}

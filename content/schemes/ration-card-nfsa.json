@@ -1,0 +1,74 @@
+{
+ "slug": "ration-card-nfsa",
+ "hi": "राशन कार्ड और राष्ट्रीय खाद्य सुरक्षा अधिनियम (NFSA)",
+ "en": "Ration card and National Food Security Act (NFSA)",
+ "level": 2,
+ "dept": "Central / State",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://nfsa.gov.in/portal/Coverage_Entitlements_NFSA_AA",
+ "source_name": "NFSA पोर्टल (खाद्य एवं सार्वजनिक वितरण विभाग)",
+ "tags": [
+  "other",
+  "worker"
+ ],
+ "kw": "ration card nfsa anaj rashan antyodaya priority household 5 kg राशन कार्ड अनाज खाद्य सुरक्षा अंत्योदय",
+ "what_hi": "NFSA ग्रामीण आबादी के 75% तक और शहरी के 50% तक को कवर करता है। प्राथमिकता वाले परिवारों को प्रति व्यक्ति प्रति माह 5 किलो अनाज; अंत्योदय (AAY) परिवारों को प्रति परिवार प्रति माह 35 किलो।",
+ "what_en": "NFSA covers up to 75% of the rural and 50% of the urban population. Priority households get 5 kg foodgrains per person per month; Antyodaya (AAY) households get 35 kg per family per month.",
+ "benefit_hi": "NFSA ग्रामीण आबादी के 75% तक और शहरी के 50% तक को कवर करता है। प्राथमिकता वाले परिवारों को प्रति व्यक्ति प्रति माह 5 किलो अनाज; अंत्योदय (AAY) परिवारों को प्रति परिवार प्रति माह 35 किलो।",
+ "benefit_en": "NFSA covers up to 75% of the rural and 50% of the urban population. Priority households get 5 kg foodgrains per person per month; Antyodaya (AAY) households get 35 kg per family per month.",
+ "who_hi": [
+  "पात्र परिवार राज्य/UT सरकारें पहचानती हैं — AAY परिवार भी और प्राथमिकता वाले परिवारों के चयन के मानदंड भी राज्य तय करते हैं",
+  "इसलिए पात्रता और राशन कार्ड बनवाने की प्रक्रिया राज्य के खाद्य विभाग के अनुसार अलग है"
+ ],
+ "who_en": [
+  "State / UT governments identify eligible households — AAY households, and they set the criteria for priority households",
+  "So eligibility and how to get a ration card differ by your state's food department"
+ ],
+ "not_hi": [
+  "अनाज का मूल्य (issue price) उस पेज पर नहीं बताया गया — राशन दुकान/राज्य खाद्य विभाग से पूछें",
+  "राशन कार्ड बनवाने के दस्तावेज़ और आवेदन के कदम राज्य के अनुसार हैं और यहाँ पुष्ट नहीं",
+  "खाद्य एवं सार्वजनिक वितरण विभाग की एक नोटिस में NFS (संशोधन) विधेयक 2026 के मसौदे पर टिप्पणियाँ माँगे जाने की सूचना खोज-परिणाम में दिखी; मैंने उसे नहीं पढ़ा, इसलिए नियम बदल सकते हैं"
+ ],
+ "not_en": [
+  "The grain price (issue price) is not stated on that page — ask the ration shop / state food department",
+  "Documents and application steps for a ration card are state-specific and not confirmed here",
+  "A notice from the Department of Food & Public Distribution inviting comments on a draft NFS (Amendment) Bill 2026 appeared in search results; I did not read it, so rules may change"
+ ],
+ "docs_hi": [
+  "राज्य के अनुसार — राज्य के खाद्य विभाग की साइट या सेवा-केंद्र से पूछें। महाराष्ट्र में 'नया राशन कार्ड' आपले सरकार पोर्टल पर सूचीबद्ध है (उसका अलग पेज देखें)"
+ ],
+ "docs_en": [
+  "Varies by state — ask your state food department's site or a service centre. In Maharashtra, 'New Ration Card' is listed on the Aaple Sarkar portal (see its own page)"
+ ],
+ "steps_hi": [
+  "अपने राज्य के खाद्य एवं नागरिक आपूर्ति विभाग की आधिकारिक साइट या नज़दीकी सेवा केंद्र से राशन कार्ड की प्रक्रिया पूछें",
+  "राशन कार्ड बनवाने के नाम पर दलाल को पैसे न दें",
+  "राशन दुकान पर अपनी पात्र मात्रा और दर पूछें"
+ ],
+ "steps_en": [
+  "Ask your state food & civil supplies department's official site or a nearby service centre about the ration card process",
+  "Do not pay a middleman to get a ration card",
+  "Ask the ration shop about your entitled quantity and rate"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को nfsa.gov.in के 'Coverage and Entitlements' पेज से पुष्ट: कवरेज, प्रति व्यक्ति 5 किलो, AAY 35 किलो, राज्य पहचान करते हैं",
+  "मूल्य, राज्य-वार प्रक्रिया और दस्तावेज़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from the 'Coverage and Entitlements' page of nfsa.gov.in on 13 Oct 2026: coverage, 5 kg per person, AAY 35 kg, states identify households",
+  "Price, state-wise process and documents not confirmed"
+ ]
+}

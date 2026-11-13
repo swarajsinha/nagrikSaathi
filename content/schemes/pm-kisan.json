@@ -1,0 +1,89 @@
+{
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "slug": "pm-kisan",
+ "hi": "पीएम-किसान सम्मान निधि",
+ "en": "PM-KISAN Samman Nidhi",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+ "source_name": "PIB (भारत सरकार), 31 जुलाई 2026; पोर्टल pmkisan.gov.in",
+ "tags": [
+  "farmer"
+ ],
+ "kw": "kisan farmer 6000 samman nidhi किसान सम्मान निधि पीएम किसान",
+ "what_hi": "पात्र किसान परिवार को हर साल ₹6,000 सीधे बैंक खाते में (DBT), तीन बराबर किस्तों में। योजना 2026-27 से 2030-31 तक जारी रखी गई है (₹3.15 लाख करोड़ का परिव्यय)। पात्रता का मुख्य आधार खेती योग्य ज़मीन है।",
+ "what_en": "Eligible farmer families get ₹6,000 a year directly in a bank account (DBT) in three equal instalments. The scheme is continued from 2026-27 to 2030-31 (₹3.15 lakh crore outlay). Cultivable landholding is the main basis of eligibility.",
+ "benefit_hi": "पात्र किसान परिवार को हर साल ₹6,000 सीधे बैंक खाते में (DBT), तीन बराबर किस्तों में। योजना 2026-27 से 2030-31 तक जारी रखी गई है (₹3.15 लाख करोड़ का परिव्यय)। पात्रता का मुख्य आधार खेती योग्य ज़मीन है।",
+ "benefit_en": "Eligible farmer families get ₹6,000 a year directly in a bank account (DBT) in three equal instalments. The scheme is continued from 2026-27 to 2030-31 (₹3.15 lakh crore outlay). Cultivable landholding is the main basis of eligibility.",
+ "who_hi": [
+  "खेती योग्य ज़मीन वाला किसान परिवार",
+  "ज़मीन राज्य के रिकॉर्ड में दर्ज होना",
+  "आधार से जुड़ा चालू बैंक खाता"
+ ],
+ "who_en": [
+  "Farmer family with cultivable land",
+  "Land recorded in the state land records",
+  "Active bank account linked to Aadhaar"
+ ],
+ "not_hi": [
+  "1 फ़रवरी 2019 के बाद ज़मीन लेने वाले, या एक परिवार के एक से ज़्यादा सदस्य लाभ ले रहे हों — ऐसे संदिग्ध मामलों का लाभ भौतिक सत्यापन पूरा होने तक रोका गया है (आधिकारिक पोर्टल का नोट)",
+  "आयकर दाता और अन्य बहिष्कृत श्रेणियाँ — पूरी सूची पोर्टल पर देखें"
+ ],
+ "not_en": [
+  "Land acquired after 1 Feb 2019, or more than one family member receiving the benefit — such suspected cases are withheld until physical verification (official portal note)",
+  "Income-tax payers and other excluded categories — see the full list on the portal"
+ ],
+ "docs_hi": [
+  "आधार कार्ड और आधार से जुड़ा मोबाइल",
+  "बैंक पासबुक (खाता नंबर, IFSC)",
+  "ज़मीन के कागज़ (खसरा/खतौनी नंबर) — राज्य के अनुसार अलग"
+ ],
+ "docs_en": [
+  "Aadhaar card and Aadhaar-linked mobile",
+  "Bank passbook (account number, IFSC)",
+  "Land papers (khasra/khatauni number) — varies by state"
+ ],
+ "steps_hi": [
+  "pmkisan.gov.in खोलें, \"New Farmer Registration\" चुनें (या नज़दीकी CSC जाएँ)",
+  "आधार, मोबाइल और राज्य भरें",
+  "बैंक और ज़मीन का विवरण रिकॉर्ड के अनुसार भरें",
+  "जमा करें और पावती/पंजीकरण संख्या लिख लें",
+  "e-KYC पूरा करें (पोर्टल पर OTP से, या CSC पर बायोमेट्रिक)",
+  "\"Know Your Status\" से स्थिति देखें"
+ ],
+ "steps_en": [
+  "Open pmkisan.gov.in and choose \"New Farmer Registration\" (or visit a nearby CSC)",
+  "Enter Aadhaar, mobile and state",
+  "Fill bank and land details exactly as in records",
+  "Submit and note the acknowledgment number",
+  "Complete e-KYC (OTP on the portal, or biometric at a CSC)",
+  "Check status with \"Know Your Status\""
+ ],
+ "mistakes_hi": [
+  "e-KYC न करना — यह अनिवार्य है",
+  "नाम या आधार का बैंक रिकॉर्ड से न मिलना",
+  "एक ही परिवार से कई आवेदन",
+  "ज़मीन का रिकॉर्ड अपडेट न होना"
+ ],
+ "mistakes_en": [
+  "Not completing e-KYC — it is mandatory",
+  "Name or Aadhaar not matching bank records",
+  "Multiple applications from one family",
+  "Land record not updated"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को pmkisan.gov.in से पुष्ट: e-KYC अनिवार्य है; पोर्टल पर OTP से या CSC पर बायोमेट्रिक से",
+  "13 अक्टूबर 2026 को PIB (31 जुलाई 2026) से पुष्ट: ₹6,000 प्रति वर्ष, तीन बराबर किस्तें, 2026-27 से 2030-31 तक निरंतरता, अब तक 23 किस्तें (23वीं किस्त 9.49 करोड़ से अधिक किसानों तक पहुँची)",
+  "PIB (22 जुलाई 2025): ज़मीन मुख्य आधार; आधार-सीडेड खाते में DBT",
+  "बहिष्कृत श्रेणियों की पूरी सूची और दस्तावेज़ पुष्ट नहीं — पोर्टल पर देखें"
+ ],
+ "conf_en": [
+  "Confirmed from pmkisan.gov.in on 13 Oct 2026: e-KYC is mandatory; via OTP on the portal or biometric at a CSC",
+  "Confirmed from PIB (31 July 2026) on 13 Oct 2026: ₹6,000 a year, three equal instalments, continuation 2026-27 to 2030-31, 23 instalments so far (the 23rd reached over 9.49 crore farmers)",
+  "PIB (22 July 2025): landholding is the main basis; DBT to an Aadhaar-seeded account",
+  "Full list of excluded categories and documents not confirmed — see the portal"
+ ]
+}

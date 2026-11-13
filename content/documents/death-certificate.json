@@ -1,0 +1,78 @@
+{
+ "slug": "death-certificate",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "tags": [
+  "certificate"
+ ],
+ "hi": "मृत्यु पंजीकरण और प्रमाणपत्र",
+ "en": "Death registration and certificate",
+ "level": 2,
+ "dept": "Central / State",
+ "state": "",
+ "source_url": "https://dc.crsorgi.gov.in/assets/download/FAQ_of_CRS_Latest.pdf",
+ "source_name": "नागरिक पंजीकरण प्रणाली (CRS), रजिस्ट्रार जनरल, भारत — FAQ",
+ "kw": "death certificate mrityu pramanpatra registration 21 days मृत्यु प्रमाणपत्र मृत्यु पंजीकरण",
+ "what_hi": "मृत्यु की सूचना घटना के 21 दिन के भीतर देनी होती है। इस अवधि में पंजीकरण निःशुल्क है। सूचना देने वाले को एक प्रति मुफ़्त मिलती है; अतिरिक्त प्रतियाँ तय शुल्क पर मिलती हैं।",
+ "what_en": "A death must be reported within 21 days of the event. Registration within this period is free. The informant gets one copy free; additional copies are available for the prescribed fee.",
+ "who_hi": [
+  "घर में मृत्यु: परिवार का मुखिया, या उसका उपस्थित निकटतम रिश्तेदार; कोई न हो तो वहाँ मौजूद सबसे बड़ी उम्र का व्यक्ति",
+  "अस्पताल/स्वास्थ्य केंद्र/नर्सिंग होम में मृत्यु: प्रभारी चिकित्सा अधिकारी या उसका अधिकृत व्यक्ति — परिवार को अलग से सूचना नहीं देनी होती"
+ ],
+ "who_en": [
+  "Death at home: head of the household, or the nearest relative present; if none, the oldest person present",
+  "Death in a hospital / health centre / nursing home: the medical officer in charge or an authorised person — the family need not report separately"
+ ],
+ "not_hi": [
+  "दस्तावेज़ों की सूची और ऑनलाइन आवेदन की प्रक्रिया उस FAQ में नहीं है; राज्य और स्थानीय पंजीयक के नियम अलग हो सकते हैं — अपने पंजीयक/अस्पताल से पूछें",
+  "देर से पंजीकरण का शुल्क राज्य के नियम से तय होता है; राशि FAQ में नहीं",
+  "21 दिन के बाद भी पंजीकरण हो सकता है (विलंबित पंजीकरण, धारा 13), पर निर्धारित शुल्क लगता है"
+ ],
+ "not_en": [
+  "The list of documents and the online application process are not in that FAQ; state and local registrar rules may differ — ask your registrar / hospital",
+  "The late-registration fee is set by state rules; the amount is not in the FAQ",
+  "Registration is still possible after 21 days (delayed registration, Section 13) but the prescribed fee applies"
+ ],
+ "docs_hi": [
+  "सत्यापित सूची उपलब्ध नहीं — अपने स्थानीय पंजीयक या अस्पताल से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask your local registrar or the hospital"
+ ],
+ "steps_hi": [
+  "अस्पताल में मृत्यु हुई हो तो अस्पताल से पूछें कि पंजीकरण वे कर रहे हैं या नहीं",
+  "घर में मृत्यु हो तो 21 दिन के भीतर अपने स्थानीय पंजीयक (ग्राम पंचायत/नगर निकाय) को सूचना दें",
+  "सूचना देने वाले को एक प्रति मुफ़्त मिलती है; अतिरिक्त प्रति के लिए तय शुल्क लगता है",
+  "आधिकारिक पोर्टल: dc.crsorgi.gov.in"
+ ],
+ "steps_en": [
+  "If the death was in a hospital, ask whether it is registering it",
+  "For a death at home, inform your local registrar (gram panchayat / urban body) within 21 days",
+  "The informant gets one copy free; extra copies carry the prescribed fee",
+  "Official portal: dc.crsorgi.gov.in"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना — सरकारी पोर्टल पर आवेदन खुद या सेवा केंद्र से हो सकता है",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट — सिर्फ़ आधिकारिक पता इस्तेमाल करें",
+  "21 दिन निकल जाने देना — बाद में पंजीकरण में शुल्क और प्रक्रिया बढ़ जाती है"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman — you can apply yourself or at a service centre",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites — use only the official address",
+  "Letting the 21 days pass — later registration brings a fee and extra steps"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को CRS के FAQ से पुष्ट: 21 दिन की अवधि, इस अवधि में कोई शुल्क नहीं, सूचना देने वाले, पहली प्रति मुफ़्त, विलंबित पंजीकरण",
+  "दस्तावेज़, ऑनलाइन प्रक्रिया और विलंब शुल्क की राशि पुष्ट नहीं; FAQ की तारीख़ नहीं दी गई"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from the CRS FAQ: 21-day period, no fee within it, who reports, first copy free, delayed registration",
+  "Documents, online process and late-fee amount not confirmed; the FAQ shows no date"
+ ],
+ "benefit_hi": "मृत्यु की सूचना घटना के 21 दिन के भीतर देनी होती है। इस अवधि में पंजीकरण निःशुल्क है। सूचना देने वाले को एक प्रति मुफ़्त मिलती है; अतिरिक्त प्रतियाँ तय शुल्क पर मिलती हैं।",
+ "benefit_en": "A death must be reported within 21 days of the event. Registration within this period is free. The informant gets one copy free; additional copies are available for the prescribed fee."
+}

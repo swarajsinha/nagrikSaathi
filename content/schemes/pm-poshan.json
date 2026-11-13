@@ -1,0 +1,72 @@
+{
+ "slug": "pm-poshan",
+ "hi": "पीएम पोषण (स्कूलों में गरमागरम मध्याह्न भोजन)",
+ "en": "PM POSHAN (hot cooked school meal)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-22",
+ "version": 1,
+ "updated": "2026-10-22",
+ "source_url": "https://pmposhan.education.gov.in/aboutus.html",
+ "source_name": "शिक्षा मंत्रालय — PM POSHAN पोर्टल",
+ "tags": [
+  "student",
+  "other"
+ ],
+ "kw": "pm poshan mid day meal mdm school bhojan madhyahn bhojan मध्याह्न भोजन स्कूल पोषण",
+ "what_hi": "सरकारी और सरकारी-सहायता प्राप्त स्कूलों में कक्षा 1–8 के बच्चों को एक गरम पका हुआ भोजन — लगभग 11.80 करोड़ बच्चे, 11.20 लाख स्कूल। बालवाटिका/प्री-प्राइमरी तक विस्तार प्रस्तावित है।",
+ "what_en": "One hot cooked meal for children of classes 1–8 in government and government-aided schools — about 11.80 crore children in 11.20 lakh schools. Extension to Balvatikas / pre-primary is proposed.",
+ "benefit_hi": "सरकारी और सरकारी-सहायता प्राप्त स्कूलों में कक्षा 1–8 के बच्चों को एक गरम पका हुआ भोजन — लगभग 11.80 करोड़ बच्चे, 11.20 लाख स्कूल। बालवाटिका/प्री-प्राइमरी तक विस्तार प्रस्तावित है।",
+ "benefit_en": "One hot cooked meal for children of classes 1–8 in government and government-aided schools — about 11.80 crore children in 11.20 lakh schools. Extension to Balvatikas / pre-primary is proposed.",
+ "who_hi": [
+  "सरकारी और सरकारी-सहायता प्राप्त स्कूलों में कक्षा 1 से 8 के बच्चे",
+  "आवेदन की ज़रूरत नहीं बताई गई — भोजन स्कूल में मिलता है"
+ ],
+ "who_en": [
+  "Children of classes 1 to 8 in government and government-aided schools",
+  "No application is stated — the meal is given at school"
+ ],
+ "not_hi": [
+  "पोषण मानक (कैलोरी/प्रोटीन) पेज पर PM POSHAN के लिए नहीं दिए गए — मैंने पुराने 2008–09 के आँकड़े इस्तेमाल नहीं किए",
+  "यह केंद्र प्रायोजित योजना है; राज्य के अनुसार मेनू और व्यवस्था अलग हो सकती है",
+  "हर ज़िले में सोशल ऑडिट अनिवार्य है (पेज के अनुसार)"
+ ],
+ "not_en": [
+  "Nutrition norms (calories / protein) for PM POSHAN are not given on the page — I have not used the older 2008–09 figures",
+  "It is a centrally sponsored scheme; menu and arrangements can differ by state",
+  "Social audits are mandatory in all districts (per the page)"
+ ],
+ "docs_hi": [
+  "कोई दस्तावेज़ नहीं — स्कूल में दाख़िला"
+ ],
+ "docs_en": [
+  "No documents — admission to the school"
+ ],
+ "steps_hi": [
+  "अपने बच्चे के स्कूल में भोजन की व्यवस्था और मेन्यू के बारे में प्रधानाध्यापक से पूछें",
+  "भोजन में कमी/गड़बड़ी की शिकायत स्कूल प्रबंधन समिति, ब्लॉक शिक्षा अधिकारी या राज्य की शिकायत व्यवस्था में करें"
+ ],
+ "steps_en": [
+  "Ask the headmaster about the meal arrangement and menu at your child's school",
+  "Report shortcomings to the school management committee, Block Education Officer or the state's grievance system"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "22 अक्टूबर 2026 को शिक्षा मंत्रालय के PM POSHAN पेज से पुष्ट: कक्षाएँ, स्कूल, बच्चों की संख्या, केंद्र प्रायोजित, सोशल ऑडिट",
+  "पोषण मानक और शिकायत प्रक्रिया पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from the Ministry of Education's PM POSHAN page on 22 Oct 2026: classes, schools, number of children, centrally sponsored, social audit",
+  "Nutrition norms and grievance process not confirmed"
+ ]
+}

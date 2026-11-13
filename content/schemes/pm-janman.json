@@ -1,0 +1,70 @@
+{
+ "slug": "pm-janman",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "Central — Ministry of Tribal Affairs",
+ "tags": [
+  "tribal",
+  "housing"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "पीएम जनमन (विशेष रूप से कमज़ोर आदिवासी समूहों के लिए)",
+ "en": "PM JANMAN (for Particularly Vulnerable Tribal Groups)",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2236972&reg=3&lang=1",
+ "source_name": "PIB (9 मार्च 2026) — आँकड़े 28 फ़रवरी 2026 तक",
+ "kw": "pm janman pvtg tribal houses roads water van dhan आदिवासी पीएम जनमन पक्के घर",
+ "what_hi": "विशेष रूप से कमज़ोर जनजातीय समूहों (PVTG) के लिए 2024 से लागू अभियान: सुरक्षित घर, साफ़ पेयजल, शिक्षा, स्वास्थ्य और पोषण, सड़क और दूरसंचार, बिजली और आजीविका। PIB के अनुसार 9 मंत्रालयों की 11 पहलें इसमें आती हैं, जैसे पक्के घर (PMAY-G), सड़कें (PMGSY), नल-जल (जल जीवन मिशन), मोबाइल मेडिकल यूनिट, छात्रावास, आँगनवाड़ी, वन धन विकास केंद्र, बिजली और मोबाइल टावर।",
+ "what_en": "A campaign running since 2024 for Particularly Vulnerable Tribal Groups (PVTGs): safe housing, clean drinking water, education, health and nutrition, roads and telecom, electricity and livelihoods. Per PIB it covers 11 interventions across 9 ministries, such as pucca houses (PMAY-G), roads (PMGSY), piped water (Jal Jeevan Mission), mobile medical units, hostels, Anganwadis, Van Dhan Vikas Kendras, electrification and mobile towers.",
+ "who_hi": [
+  "विशेष रूप से कमज़ोर जनजातीय समूह (PVTG) के परिवार — PIB पेज पर समूहों के नाम नहीं हैं"
+ ],
+ "who_en": [
+  "Families of Particularly Vulnerable Tribal Groups (PVTGs) — the PIB page does not name the groups"
+ ],
+ "not_hi": [
+  "प्रति घर राशि, आवेदन का तरीक़ा और दस्तावेज़ उस PIB पेज में नहीं हैं — ज़िला जनजातीय कल्याण कार्यालय या ग्राम पंचायत से पूछें",
+  "आपका समुदाय PVTG सूची में है या नहीं, यह जनजातीय कार्य मंत्रालय / राज्य जनजातीय विभाग से पुष्ट करें",
+  "आँकड़े 28 फ़रवरी 2026 तक के हैं"
+ ],
+ "not_en": [
+  "Amount per house, how to apply and documents are not in that PIB page — ask the district tribal welfare office or gram panchayat",
+  "Confirm with the Ministry of Tribal Affairs / State tribal department whether your community is on the PVTG list",
+  "Figures are as of 28 February 2026"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — ज़िला जनजातीय कल्याण कार्यालय से पूछें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — ask the district tribal welfare office"
+ ],
+ "steps_hi": [
+  "अपने ज़िले के जनजातीय कल्याण कार्यालय या ग्राम पंचायत से पूछें कि आपकी बस्ती में कौन-सी पहल चल रही है",
+  "घर, सड़क या नल-जल के नाम पर किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Ask your district tribal welfare office or gram panchayat which interventions are running in your habitation",
+  "Do not pay anyone for a house, road or tap water"
+ ],
+ "conf_hi": [
+  "23 अक्टूबर 2026 को PIB (9 मार्च 2026) से पुष्ट: लक्ष्य-समूह, 11 पहलें, 2024 से लागू, प्रगति के आँकड़े",
+  "प्रति घर राशि, आवेदन-प्रक्रिया और दस्तावेज़ पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 23 Oct 2026 from PIB (9 Mar 2026): target group, 11 interventions, in force since 2024, progress figures",
+  "Amount per house, application process and documents not confirmed"
+ ],
+ "benefit_hi": "विशेष रूप से कमज़ोर जनजातीय समूहों (PVTG) के लिए 2024 से लागू अभियान: सुरक्षित घर, साफ़ पेयजल, शिक्षा, स्वास्थ्य और पोषण, सड़क और दूरसंचार, बिजली और आजीविका। PIB के अनुसार 9 मंत्रालयों की 11 पहलें इसमें आती हैं, जैसे पक्के घर (PMAY-G), सड़कें (PMGSY), नल-जल (जल जीवन मिशन), मोबाइल मेडिकल यूनिट, छात्रावास, आँगनवाड़ी, वन धन विकास केंद्र, बिजली और मोबाइल टावर।",
+ "benefit_en": "A campaign running since 2024 for Particularly Vulnerable Tribal Groups (PVTGs): safe housing, clean drinking water, education, health and nutrition, roads and telecom, electricity and livelihoods. Per PIB it covers 11 interventions across 9 ministries, such as pucca houses (PMAY-G), roads (PMGSY), piped water (Jal Jeevan Mission), mobile medical units, hostels, Anganwadis, Van Dhan Vikas Kendras, electrification and mobile towers."
+}

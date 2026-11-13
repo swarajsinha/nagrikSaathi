@@ -1,0 +1,70 @@
+{
+ "slug": "pm-mudra",
+ "hi": "पीएम मुद्रा योजना (कारोबार के लिए ऋण)",
+ "en": "PM Mudra Yojana (business loan)",
+ "level": 1,
+ "dept": "Central",
+ "status": "verified",
+ "last_verified": "2026-10-13",
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.mudra.org.in",
+ "source_name": "MUDRA",
+ "tags": [
+  "business",
+  "unemployed"
+ ],
+ "kw": "mudra loan shishu kishor tarun business karj rin mudra yojana मुद्रा लोन ऋण कारोबार शिशु किशोर तरुण",
+ "what_hi": "छोटे गैर-कृषि, गैर-कॉर्पोरेट कारोबार के लिए ₹10 लाख तक के ऋण। श्रेणियाँ: शिशु, किशोर और तरुण।",
+ "what_en": "Loans up to ₹10 lakh for small non-farm, non-corporate businesses. Categories: Shishu, Kishore and Tarun.",
+ "benefit_hi": "छोटे गैर-कृषि, गैर-कॉर्पोरेट कारोबार के लिए ₹10 लाख तक के ऋण। श्रेणियाँ: शिशु, किशोर और तरुण।",
+ "benefit_en": "Loans up to ₹10 lakh for small non-farm, non-corporate businesses. Categories: Shishu, Kishore and Tarun.",
+ "who_hi": [
+  "गैर-कृषि, गैर-कॉर्पोरेट सूक्ष्म या लघु उद्यम"
+ ],
+ "who_en": [
+  "Non-farm, non-corporate micro or small enterprises"
+ ],
+ "not_hi": [
+  "MUDRA खुद ऋण नहीं देता — ऋण बैंक/संस्था देती है",
+  "हर श्रेणी की राशि पोर्टल के उस पेज पर नहीं मिली; बैंक से पूछें",
+  "ज़मानत (collateral) की शर्त पेज पर नहीं बताई गई"
+ ],
+ "not_en": [
+  "MUDRA does not lend directly — a bank/institution does",
+  "Per-category amounts were not on that page; ask your bank",
+  "Collateral requirements are not stated on the page"
+ ],
+ "docs_hi": [
+  "कारोबार की जानकारी और बैंक की माँगी गई सूची — बैंक से पूछें; यहाँ सत्यापित सूची उपलब्ध नहीं"
+ ],
+ "docs_en": [
+  "Business details and the bank's required list — ask the bank; a verified list is not available here"
+ ],
+ "steps_hi": [
+  "अपने वाणिज्यिक बैंक, क्षेत्रीय ग्रामीण बैंक, लघु वित्त बैंक, MFI, NBFC या सहकारी बैंक से संपर्क करें",
+  "या ऑनलाइन udyamimitra.in पर आवेदन करें",
+  "MUDRA एजेंट या बिचौलिया इस्तेमाल नहीं करता"
+ ],
+ "steps_en": [
+  "Approach your commercial bank, RRB, small finance bank, MFI, NBFC or cooperative bank",
+  "Or apply online at udyamimitra.in",
+  "MUDRA uses no agents or middlemen"
+ ],
+ "mistakes_hi": [
+  "ऋण दिलाने के नाम पर एजेंट को कमीशन देना",
+  "नकली साइट — सिर्फ़ mudra.org.in और udyamimitra.in"
+ ],
+ "mistakes_en": [
+  "Paying an agent commission to get a loan",
+  "Fake sites — only mudra.org.in and udyamimitra.in"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को mudra.org.in से पुष्ट: ₹10 लाख तक के ऋण, तीन श्रेणियाँ, कौन आवेदन कर सकता है, कहाँ आवेदन करें, कोई एजेंट नहीं",
+  "बाकी (श्रेणीवार राशि, ब्याज, ज़मानत) बैंक/आधिकारिक दिशानिर्देशों से जाँचना बाकी"
+ ],
+ "conf_en": [
+  "Confirmed from mudra.org.in on 13 Oct 2026: loans up to ₹10 lakh, three categories, who can apply, where to apply, no agents",
+  "Remaining (amount per category, interest, collateral) still to be checked with banks/official guidelines"
+ ]
+}

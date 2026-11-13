@@ -1,0 +1,94 @@
+{
+ "slug": "samajik-suraksha-pension-mp",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "tags": [
+  "senior",
+  "woman",
+  "disability"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "सामाजिक सुरक्षा पेंशन योजना — मध्य प्रदेश",
+ "en": "Samajik Suraksha Pension Yojana — Madhya Pradesh",
+ "state": "Madhya Pradesh",
+ "source_url": "https://socialjustice.mp.gov.in/schemes/view/WlFNUHFJc2dpRHFIcVI1RlEyb3Q1UT09",
+ "source_name": "सामाजिक न्याय एवं दिव्यांगजन सशक्तिकरण विभाग, मध्य प्रदेश शासन",
+ "kw": "samajik suraksha pension madhya pradesh old age widow kalyani disabled 600 सामाजिक सुरक्षा पेंशन मध्य प्रदेश",
+ "what_hi": "मध्य प्रदेश की पेंशन योजना: हर पात्र लाभार्थी को ₹600 प्रति माह (राज्य के हिस्से से)। पात्र वर्ग: 60+ निराश्रित बुज़ुर्ग, कल्याणी महिलाएँ (18+), परित्यक्ता महिलाएँ (18–59, BPL), 40%+ दिव्यांग बच्चे (6–18, शिक्षा प्रोत्साहन) और वयस्क, और 60+ वृद्धाश्रम निवासी।",
+ "what_en": "A Madhya Pradesh pension scheme: ₹600 a month to each eligible beneficiary (from state funds). Eligible groups: destitute elderly 60+, Kalyani women (18+), deserted women (18–59, BPL), disabled children (6–18, 40%+, education incentive) and adults, and old-age-home residents 60+.",
+ "who_hi": [
+  "निराश्रित बुज़ुर्ग, उम्र 60 या अधिक, आजीविका का साधन नहीं",
+  "कल्याणी महिला: 18 साल से अधिक, आयकरदाता/सरकारी कर्मचारी न हों, पारिवारिक पेंशन न मिलती हो",
+  "परित्यक्ता महिला: 18 से 59 साल, ग़रीबी रेखा से नीचे; परित्यक्ता होने का प्रमाण सरपंच-सचिव (या पार्षद और सहायक राजस्व निरीक्षक) का संयुक्त प्रमाणपत्र या अदालती आदेश",
+  "दिव्यांग बच्चे: 6 से 18 साल से कम, कम से कम 40% दिव्यांगता",
+  "दिव्यांग वयस्क: 18 साल से अधिक, कम से कम 40%, आयकरदाता/सरकारी कर्मचारी न हों, पारिवारिक पेंशन न मिलती हो",
+  "वृद्धाश्रम के निवासी, 60 साल से अधिक"
+ ],
+ "who_en": [
+  "Destitute elderly, age 60 or above, with no means of support",
+  "Kalyani women: over 18, not income-tax payers / government employees, not receiving family pension",
+  "Deserted women: 18 to 59, below the poverty line; desertion proved by a joint certificate of the Sarpanch and Secretary (or ward councillor and Assistant Revenue Inspector) or a court order",
+  "Disabled children: 6 to under 18, at least 40% disability",
+  "Disabled adults: over 18, at least 40%, not income-tax payers / government employees, not receiving family pension",
+  "Old-age-home residents over 60"
+ ],
+ "not_hi": [
+  "पेज पर आय-सीमा का सटीक आँकड़ा नहीं है; कुछ वर्गों के लिए BPL और कुछ में आयकरदाता न होने की शर्त है",
+  "पेज के परिपत्रों के अनुसार पेंशन के लिए आधार eKYC और समग्र आईडी का सत्यापन ज़रूरी है",
+  "पेज पर तारीख़ नहीं है; राशि बदली हो सकती है"
+ ],
+ "not_en": [
+  "The page gives no exact income limit; some groups need BPL status and others must not be income-tax payers",
+  "Per circulars on the page, Aadhaar eKYC and Samagra ID verification are required for pension beneficiaries",
+  "The page shows no date; the amount may have changed"
+ ],
+ "docs_hi": [
+  "दो स्व-फ़ोटो",
+  "BPL कार्ड या निराश्रित/ग़रीब प्रमाणपत्र",
+  "आयु प्रमाणपत्र",
+  "दिव्यांगता प्रमाणपत्र",
+  "कल्याणी/परित्यक्ता महिला प्रमाणपत्र"
+ ],
+ "docs_en": [
+  "Two self-photographs",
+  "BPL card or destitute / poor certificate",
+  "Age-proof certificate",
+  "Disability certificate",
+  "Kalyani / deserted-woman certificate"
+ ],
+ "steps_hi": [
+  "ग्रामीण: ग्राम पंचायत या जनपद पंचायत कार्यालय में; शहरी: नगर निगम, नगरपालिका या नगर परिषद कार्यालय में निर्धारित फ़ॉर्म और दस्तावेज़ जमा करें",
+  "ऑनलाइन पोर्टल: socialsecurity.mp.gov.in (पेज पर दिया है)",
+  "विभाग संपर्क: 0755-2556916, dir.socialjustice@mp.gov.in",
+  "किसी को पैसे देकर नाम न जुड़वाएँ"
+ ],
+ "steps_en": [
+  "Rural: submit the prescribed form and documents at the Gram Panchayat or Janpad Panchayat office; urban: at the Nagar Nigam, Nagar Palika or Nagar Parishad office",
+  "Online portal: socialsecurity.mp.gov.in (given on the page)",
+  "Department contact: 0755-2556916, dir.socialjustice@mp.gov.in",
+  "Do not pay anyone to get your name added"
+ ],
+ "conf_hi": [
+  "24 अक्टूबर 2026 को सामाजिक न्याय विभाग (MP) के पेज से पुष्ट: पात्र वर्ग, ₹600/माह, आवेदन के स्थान, दस्तावेज़, पोर्टल",
+  "आय-सीमा और चालू स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 24 Oct 2026 from the Social Justice Department (MP) page: eligible groups, ₹600/month, places to apply, documents, portal",
+  "Income limit and current status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "मध्य प्रदेश की पेंशन योजना: हर पात्र लाभार्थी को ₹600 प्रति माह (राज्य के हिस्से से)। पात्र वर्ग: 60+ निराश्रित बुज़ुर्ग, कल्याणी महिलाएँ (18+), परित्यक्ता महिलाएँ (18–59, BPL), 40%+ दिव्यांग बच्चे (6–18, शिक्षा प्रोत्साहन) और वयस्क, और 60+ वृद्धाश्रम निवासी।",
+ "benefit_en": "A Madhya Pradesh pension scheme: ₹600 a month to each eligible beneficiary (from state funds). Eligible groups: destitute elderly 60+, Kalyani women (18+), deserted women (18–59, BPL), disabled children (6–18, 40%+, education incentive) and adults, and old-age-home residents 60+."
+}

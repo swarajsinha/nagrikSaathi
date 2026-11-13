@@ -1,0 +1,78 @@
+{
+ "slug": "kisan-kalyan-mp",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Madhya Pradesh",
+ "tags": [
+  "farmer"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "मुख्यमंत्री किसान कल्याण योजना — मध्य प्रदेश",
+ "en": "Mukhyamantri Kisan Kalyan Yojana — Madhya Pradesh",
+ "state": "Madhya Pradesh",
+ "source_url": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=606",
+ "source_name": "मध्य प्रदेश शासन — सीएम हेल्पलाइन योजना-विवरण (राजस्व विभाग)",
+ "kw": "mukhyamantri kisan kalyan yojana madhya pradesh 6000 pm kisan top up मुख्यमंत्री किसान कल्याण योजना मध्य प्रदेश",
+ "what_hi": "मध्य प्रदेश के भूमिधारी किसानों को राज्य सरकार की ओर से हर साल ₹6,000 — ₹2,000 की तीन किस्तों में (अप्रैल–जुलाई, अगस्त–नवंबर, दिसंबर–मार्च)। यह PM-किसान के ₹6,000 के अलावा मिलता है और पात्रता PM-किसान के नियमों के अनुसार है।",
+ "what_en": "Landowning farmers of Madhya Pradesh get ₹6,000 a year from the state, in three instalments of ₹2,000 (April–July, August–November, December–March). It is in addition to the ₹6,000 of PM-Kisan, and eligibility follows PM-Kisan rules.",
+ "who_hi": [
+  "भूमिधारी किसान; PM-किसान की पात्रता के नियम लागू",
+  "इनको नहीं: संस्थागत भूस्वामी; संवैधानिक पद के वर्तमान/पूर्व धारक, मंत्री, विधायक, महापौर, ज़िला पंचायत अध्यक्ष के परिवार के सदस्य",
+  "वर्तमान/सेवानिवृत्त सरकारी और सार्वजनिक क्षेत्र के कर्मचारी (MTS, चतुर्थ श्रेणी/ग्रुप D को छोड़कर), ₹10,000 या अधिक मासिक पेंशन वाले सेवानिवृत्त, पिछले आकलन वर्ष में आयकर देने वाले, और कार्यरत पंजीकृत पेशेवर (डॉक्टर, इंजीनियर, वकील, CA, आर्किटेक्ट)"
+ ],
+ "who_en": [
+  "Landowning farmers; PM-Kisan eligibility rules apply",
+  "Excluded: institutional landowners; families of current / former constitutional office-holders, ministers, legislators, mayors, district panchayat chairpersons",
+  "Current / retired government and public-sector employees (except MTS, Class IV / Group D), retired pensioners with ₹10,000 or more monthly pension, income-tax payers in the last assessment year, and practising registered professionals (doctors, engineers, lawyers, CAs, architects)"
+ ],
+ "not_hi": [
+  "पेज पर शुरुआत की दो तारीख़ें (सितंबर 2020 और सितंबर 2022) अलग-अलग लिखी हैं",
+  "आवश्यक दस्तावेज़ पेज पर नहीं दिए गए",
+  "पेज पर तारीख़ नहीं है; राशि और शर्तें बदली हो सकती हैं — पटवारी/तहसील से पुष्टि करें"
+ ],
+ "not_en": [
+  "The page gives two different start dates (September 2020 and September 2022)",
+  "Required documents are not listed on the page",
+  "The page shows no date; the amount and conditions may have changed — confirm with the Patwari / Tehsil"
+ ],
+ "docs_hi": [
+  "पेज पर दस्तावेज़ सूचीबद्ध नहीं हैं — पटवारी/तहसील से पूछें"
+ ],
+ "docs_en": [
+  "No documents are listed on the page — ask the Patwari / Tehsil"
+ ],
+ "steps_hi": [
+  "PM-किसान के सभी पात्र हितग्राही आवेदन कर सकते हैं; आवेदन संबंधित पटवारी लेता है (पटवारी या तहसील कार्यालय में)",
+  "ऑनलाइन: saara.mp.gov.in (पेज पर दिया लिंक)",
+  "आवेदन शुल्क लागू नहीं; पदनामित अधिकारी तहसीलदार हैं",
+  "किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "All eligible PM-Kisan beneficiaries can apply; the application is taken by the concerned Patwari (at the Patwari or Tehsil office)",
+  "Online: saara.mp.gov.in (link given on the page)",
+  "No application fee; the designated officer is the Tehsildar",
+  "Do not pay anyone"
+ ],
+ "conf_hi": [
+  "24 अक्टूबर 2026 को MP शासन के योजना-विवरण पेज से पुष्ट: पात्रता, बहिष्करण, ₹6,000 की किस्तें, आवेदन का तरीक़ा, कोई शुल्क नहीं",
+  "दस्तावेज़, शुरुआत की तारीख़ और चालू स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 24 Oct 2026 from the MP government scheme-detail page: eligibility, exclusions, ₹6,000 instalments, how to apply, no fee",
+  "Documents, start date and current status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "मध्य प्रदेश के भूमिधारी किसानों को राज्य सरकार की ओर से हर साल ₹6,000 — ₹2,000 की तीन किस्तों में (अप्रैल–जुलाई, अगस्त–नवंबर, दिसंबर–मार्च)। यह PM-किसान के ₹6,000 के अलावा मिलता है और पात्रता PM-किसान के नियमों के अनुसार है।",
+ "benefit_en": "Landowning farmers of Madhya Pradesh get ₹6,000 a year from the state, in three instalments of ₹2,000 (April–July, August–November, December–March). It is in addition to the ₹6,000 of PM-Kisan, and eligibility follows PM-Kisan rules."
+}

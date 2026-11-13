@@ -1,0 +1,80 @@
+{
+ "slug": "pm-internship",
+ "hi": "पीएम इंटर्नशिप योजना (युवाओं के लिए)",
+ "en": "PM Internship Scheme (for youth)",
+ "level": 1,
+ "dept": "Central",
+ "status": "pending",
+ "last_verified": null,
+ "version": 1,
+ "updated": "2026-10-13",
+ "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2254498&reg=3&lang=1",
+ "source_name": "PIB (भारत सरकार), 22 अप्रैल 2026; पुराना पायलट-चरण नोट 12 अक्टूबर 2024; पोर्टल pminternship.mca.gov.in",
+ "tags": [
+  "unemployed",
+  "student"
+ ],
+ "kw": "internship intern yuva youth berozgar pm internship stipend 5000 इंटर्नशिप युवा बेरोज़गार वज़ीफ़ा",
+ "what_hi": "PIB की 22 अप्रैल 2026 की विज्ञप्ति के अनुसार: 18–25 साल के युवा पात्र हैं, अंतिम वर्ष के स्नातक और स्नातकोत्तर विद्यार्थी भी शामिल, और इंटर्न को कम से कम ₹9,000 प्रति माह वज़ीफ़ा। (पायलट चरण 2024 में यह 21–24 साल और ₹5,000 था — वह अब पुराना है।)",
+ "what_en": "Per the PIB release of 22 April 2026: youth aged 18–25 are eligible, final-year undergraduate and postgraduate students are now included, and interns get a minimum stipend of ₹9,000 a month. (In the 2024 pilot it was age 21–24 and ₹5,000 — that is now outdated.)",
+ "benefit_hi": "PIB की 22 अप्रैल 2026 की विज्ञप्ति के अनुसार: 18–25 साल के युवा पात्र हैं, अंतिम वर्ष के स्नातक और स्नातकोत्तर विद्यार्थी भी शामिल, और इंटर्न को कम से कम ₹9,000 प्रति माह वज़ीफ़ा। (पायलट चरण 2024 में यह 21–24 साल और ₹5,000 था — वह अब पुराना है।)",
+ "benefit_en": "Per the PIB release of 22 April 2026: youth aged 18–25 are eligible, final-year undergraduate and postgraduate students are now included, and interns get a minimum stipend of ₹9,000 a month. (In the 2024 pilot it was age 21–24 and ₹5,000 — that is now outdated.)",
+ "who_hi": [
+  "उम्र 18–25 साल; अंतिम वर्ष के स्नातक/स्नातकोत्तर विद्यार्थी भी आवेदन कर सकते हैं",
+  "आवेदकों को 'मौजूदा पात्रता मानदंड' पूरे करने होंगे (विज्ञप्ति के अनुसार) — उनकी सूची उसमें नहीं है",
+  "पायलट-चरण (2024) के बहिष्करण — IIT/IIM आदि के स्नातक, CA/MBBS/MBA/मास्टर्स, सरकारी योजनाओं में चल रहे प्रशिक्षु, स्थायी सरकारी कर्मचारी के परिवार के सदस्य — शायद अब भी लागू हों; पोर्टल पर पुष्टि करें",
+  "विद्यार्थियों को संस्थान का NOC चाहिए (विभागाध्यक्ष/डीन/प्राचार्य/प्लेसमेंट अधिकारी द्वारा) कि इंटर्नशिप पढ़ाई में बाधा नहीं बनेगी"
+ ],
+ "who_en": [
+  "Age 18–25; final-year undergraduate / postgraduate students can also apply",
+  "Applicants must meet the 'existing eligibility criteria' (per the release) — the list is not in it",
+  "Pilot-phase (2024) exclusions — graduates of IIT / IIM etc., CA / MBBS / MBA / master's, those in government schemes, family members of permanent government employees — may still apply; confirm on the portal",
+  "Students need an NOC from the institution (signed by HoD / Dean / Principal / placement officer) that the internship will not interfere with studies"
+ ],
+ "not_hi": [
+  "⚠️ नई विज्ञप्ति में अवधि, आय-सीमा और एकमुश्त सहायता नहीं दी गई — पायलट-चरण के आँकड़े (12 महीने, ₹8 लाख आय-सीमा, ₹6,000 एकमुश्त) अब बदले हों तो चालू नियम पोर्टल पर देखें — इसलिए 🟡",
+  "चयन कंपनी अपनी कसौटी पर करती है; आवेदन करने से इंटर्नशिप की गारंटी नहीं"
+ ],
+ "not_en": [
+  "⚠️ The new release does not give duration, income limit or one-time grant — if the pilot figures (12 months, ₹8 lakh income limit, ₹6,000 one-time) have changed, see the current rules on the portal — hence 🟡",
+  "The company selects candidates by its own criteria; applying does not guarantee an internship"
+ ],
+ "docs_hi": [
+  "आधार-सीडेड बैंक खाता (DBT के लिए) और पोर्टल पर माँगी गई जानकारी; पूरी सत्यापित सूची उपलब्ध नहीं"
+ ],
+ "docs_en": [
+  "An Aadhaar-seeded bank account (for DBT) and the details the portal asks for; a full verified list is not available"
+ ],
+ "steps_hi": [
+  "केंद्रीय PM इंटर्नशिप पोर्टल पर रजिस्टर करें — आपकी जानकारी से रिज़्यूमे बन जाता है",
+  "स्थान, क्षेत्र, भूमिका और योग्यता के फ़िल्टर से अधिकतम 5 इंटर्नशिप के लिए आवेदन करें",
+  "पोर्टल शॉर्टलिस्ट करता है (SC/ST/OBC/दिव्यांग का प्रतिनिधित्व प्राथमिकता से); कंपनी चयन करती है; ऑफ़र पोर्टल पर स्वीकारें",
+  "इंटर्नशिप के नाम पर पैसे माँगने वाले से सावधान रहें"
+ ],
+ "steps_en": [
+  "Register on the central PM Internship portal — a resume is generated from your details",
+  "Apply for up to 5 internships using location, sector, role and qualification filters",
+  "The portal shortlists (giving priority to SC / ST / OBC / PwD representation); the company selects; accept the offer on the portal",
+  "Beware of anyone asking money in the name of an internship"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (इन योजनाओं में नाम जुड़वाने/घर या कार्ड दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (anyone asking money to add your name or get a house / card is a fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "conf_hi": [
+  "13 अक्टूबर 2026 को PIB (22 अप्रैल 2026) से पुष्ट: आयु 18–25, अंतिम वर्ष के विद्यार्थी शामिल, न्यूनतम ₹9,000 वज़ीफ़ा, NOC की शर्त, आवेदन pminternship.mca.gov.in पर",
+  "PIB (12 अक्टूबर 2024, पायलट): आवेदन-प्रक्रिया, बीमा (PMJJBY/PMSBY), बहिष्करण",
+  "अवधि, आय-सीमा और एकमुश्त सहायता की चालू स्थिति पुष्ट नहीं"
+ ],
+ "conf_en": [
+  "Confirmed from PIB (22 April 2026) on 13 Oct 2026: age 18–25, final-year students included, minimum ₹9,000 stipend, NOC requirement, apply at pminternship.mca.gov.in",
+  "PIB (12 Oct 2024, pilot): application process, insurance (PMJJBY / PMSBY), exclusions",
+  "Current position on duration, income limit and one-time grant not confirmed"
+ ]
+}

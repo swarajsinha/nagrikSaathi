@@ -1,0 +1,80 @@
+{
+ "slug": "swadhar-maharashtra",
+ "status": "verified",
+ "last_verified": "2026-10-23",
+ "version": 1,
+ "updated": "2026-10-23",
+ "level": 1,
+ "dept": "State — Maharashtra",
+ "tags": [
+  "education"
+ ],
+ "mistakes_hi": [
+  "एजेंट या दलाल को पैसे देना (नाम जुड़वाने/लाभ दिलाने के नाम पर पैसे माँगना ठगी है)",
+  "OTP/PIN किसी से साझा करना",
+  "नकली वेबसाइट/ऐप — सिर्फ़ आधिकारिक पता इस्तेमाल करें"
+ ],
+ "mistakes_en": [
+  "Paying an agent or middleman (asking money to add your name or get a benefit is fraud)",
+  "Sharing OTP/PIN with anyone",
+  "Fake websites/apps — use only the official address"
+ ],
+ "hi": "भारतरत्न डॉ. बाबासाहेब आंबेडकर स्वाधार योजना (महाराष्ट्र)",
+ "en": "Bharatratna Dr. Babasaheb Ambedkar Swadhar Yojana (Maharashtra)",
+ "state": "Maharashtra",
+ "source_url": "https://sjsa.maharashtra.gov.in/en/scheme/bharatratna-dr-babasaheb-ambedkar-swadhar-yojana/",
+ "source_name": "सामाजिक न्याय एवं विशेष सहायता विभाग, महाराष्ट्र शासन (sjsa.maharashtra.gov.in)",
+ "kw": "swadhar yojana maharashtra sc neo buddhist hostel food accommodation allowance स्वाधार योजना अनुसूचित जाति नवबौद्ध",
+ "what_hi": "जिन SC और नवबौद्ध विद्यार्थियों को सरकारी छात्रावास में प्रवेश मिलने की पात्रता है पर प्रवेश नहीं मिला, उन्हें भोजन और आवास के लिए सालाना राशि: मुंबई शहर/उपनगर, नवी मुंबई, ठाणे, पुणे, पिंपरी-चिंचवड़, नागपुर में ₹60,000; अन्य संभागीय शहरों और शेष क्लास C महानगरपालिकाओं में ₹51,000; अन्य ज़िलों में ₹43,000; तालुका स्तर पर ₹38,000।",
+ "what_en": "Annual amount for food and accommodation to SC and Neo-Buddhist students who are eligible for a government hostel: ₹60,000 in Mumbai City / Suburban, Navi Mumbai, Thane, Pune, Pimpri-Chinchwad and Nagpur; ₹51,000 in other divisional cities and remaining Class C municipal corporations; ₹43,000 in other districts; ₹38,000 at taluka level.",
+ "who_hi": [
+  "अनुसूचित जाति (SC) और नवबौद्ध विद्यार्थी",
+  "सरकारी छात्रावास में प्रवेश के पात्र",
+  "राज्य के निवासी, पर छात्रावास वाले क्षेत्र के स्थानीय निवासी नहीं",
+  "कम से कम 50% अंक",
+  "पारिवारिक वार्षिक आय ₹2.50 लाख तक"
+ ],
+ "who_en": [
+  "Scheduled Caste (SC) and Neo-Buddhist students",
+  "Eligible for admission to a government hostel",
+  "Residents of the state but not local residents of the hostel's area",
+  "Minimum 50% marks",
+  "Annual family income up to ₹2.50 lakh"
+ ],
+ "not_hi": [
+  "पेज पर उम्र या कक्षा की शर्त नहीं दी गई",
+  "आवश्यक दस्तावेज़ पेज पर नहीं हैं",
+  "पेज पर तारीख़ नहीं है; राशि और शर्तें बदली हो सकती हैं"
+ ],
+ "not_en": [
+  "No age or class condition is given on the page",
+  "Required documents are not on the page",
+  "The page shows no date; amounts and conditions may have changed"
+ ],
+ "docs_hi": [
+  "सत्यापित दस्तावेज़ सूची उपलब्ध नहीं — पोर्टल पर आवेदन के समय देखें"
+ ],
+ "docs_en": [
+  "A verified document list is not available — see it on the portal while applying"
+ ],
+ "steps_hi": [
+  "आवेदन पोर्टल hmas.mahait.org पर (विभाग के पेज पर दिया है)",
+  "अपने ज़िला समाज कल्याण कार्यालय से भी पूछ सकते हैं",
+  "किसी को पैसे न दें"
+ ],
+ "steps_en": [
+  "Apply on the portal hmas.mahait.org (given on the department page)",
+  "You can also ask your district social welfare office",
+  "Do not pay anyone"
+ ],
+ "conf_hi": [
+  "24 अक्टूबर 2026 को सामाजिक न्याय विभाग (महाराष्ट्र) के पेज से पुष्ट: पात्रता, आय-सीमा, क्षेत्र-वार राशियाँ, आवेदन का पोर्टल",
+  "दस्तावेज़ और चालू स्थिति पुष्ट नहीं; पेज पर तारीख़ नहीं"
+ ],
+ "conf_en": [
+  "Confirmed on 24 Oct 2026 from the Maharashtra Social Justice department page: eligibility, income limit, region-wise amounts, application portal",
+  "Documents and current status not confirmed; the page shows no date"
+ ],
+ "benefit_hi": "जिन SC और नवबौद्ध विद्यार्थियों को सरकारी छात्रावास में प्रवेश मिलने की पात्रता है पर प्रवेश नहीं मिला, उन्हें भोजन और आवास के लिए सालाना राशि: मुंबई शहर/उपनगर, नवी मुंबई, ठाणे, पुणे, पिंपरी-चिंचवड़, नागपुर में ₹60,000; अन्य संभागीय शहरों और शेष क्लास C महानगरपालिकाओं में ₹51,000; अन्य ज़िलों में ₹43,000; तालुका स्तर पर ₹38,000।",
+ "benefit_en": "Annual amount for food and accommodation to SC and Neo-Buddhist students who are eligible for a government hostel: ₹60,000 in Mumbai City / Suburban, Navi Mumbai, Thane, Pune, Pimpri-Chinchwad and Nagpur; ₹51,000 in other divisional cities and remaining Class C municipal corporations; ₹43,000 in other districts; ₹38,000 at taluka level."
+}
