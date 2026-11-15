@@ -1,6 +1,6 @@
 {
  "slug": "mission-shakti",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-27",
  "version": 1,
  "updated": "2026-10-27",
@@ -65,5 +65,6 @@
  "conf_en": [
   "Confirmed on 27 Oct 2026 from the PIB page: two sub-schemes, OSC, 181, 112, Women Help Desks and Samarthya components",
   "OSC addresses and component-wise application processes not confirmed"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

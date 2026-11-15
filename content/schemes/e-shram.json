@@ -1,7 +1,7 @@
 {
  "level": 1,
  "dept": "Central",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-15",
  "version": 1,
  "updated": "2026-10-15",
@@ -85,5 +85,6 @@
   "Confirmed from eshram.gov.in/faqs on 15 Oct 2026: age 16–59, not an ESIC / EPFO member, no income criteria, free registration, self / CSC registration, Aadhaar and Aadhaar-linked mobile",
   "Confirmed from the portal on 13 Oct 2026: helpdesk 14434 / 18008896811 (daily 9 AM–6 PM); links to maandhan.in for the ₹3,000/month pension",
   "Current accident-insurance amount not confirmed"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

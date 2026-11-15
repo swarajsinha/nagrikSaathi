@@ -4,7 +4,7 @@
  "en": "PM Awas Yojana — Urban 2.0 (need a house)",
  "level": 1,
  "dept": "Central",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-15",
  "version": 1,
  "updated": "2026-10-15",
@@ -83,5 +83,6 @@
   "Confirmed from a MoHUA document (March 2026): BLC eligibility, the 20-year condition, land condition",
   "Confirmed from pmay-urban.gov.in on 13 Oct 2026: subsidy tracking on CLAP / app / UMANG",
   "Documents and application steps not confirmed"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

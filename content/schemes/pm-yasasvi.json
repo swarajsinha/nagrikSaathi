@@ -1,6 +1,6 @@
 {
  "slug": "pm-yasasvi",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-27",
  "version": 1,
  "updated": "2026-10-27",
@@ -70,5 +70,6 @@
  "conf_en": [
   "Confirmed on 27 Oct 2026 from PIB (25 Jan 2024): groups, components, income limit, amounts, application via NSP",
   "Current-year dates and status not confirmed"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

@@ -1,7 +1,7 @@
 {
  "level": 1,
  "dept": "Central",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-13",
  "version": 1,
  "updated": "2026-10-13",
@@ -85,5 +85,6 @@
   "Confirmed from PIB (31 July 2026) on 13 Oct 2026: ₹6,000 a year, three equal instalments, continuation 2026-27 to 2030-31, 23 instalments so far (the 23rd reached over 9.49 crore farmers)",
   "PIB (22 July 2025): landholding is the main basis; DBT to an Aadhaar-seeded account",
   "Full list of excluded categories and documents not confirmed — see the portal"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

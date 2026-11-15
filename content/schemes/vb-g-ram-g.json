@@ -4,7 +4,7 @@
  "en": "Viksit Bharat – G RAM G (125 days rural employment; replaces MGNREGA)",
  "level": 1,
  "dept": "Central",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-22",
  "version": 1,
  "updated": "2026-10-22",
@@ -83,5 +83,6 @@
   "Confirmed from the PIB FAQ on 22 Oct 2026: 125 days, eligibility, job card, demand for work, wages and unemployment allowance, in force from 1 July 2026, MGNREGA repealed",
   "Confirmed from PIB (21 Dec 2025): Act replaces MGNREGA, four works domains, 60:40 Centre–State share",
   "Check the current wage rate and the new-card process with the panchayat / state portal"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

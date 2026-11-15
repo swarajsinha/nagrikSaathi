@@ -1,6 +1,6 @@
 {
  "slug": "lakhpati-didi-day-nrlm",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-23",
  "version": 1,
  "updated": "2026-10-23",
@@ -70,5 +70,6 @@
   "Joining process, eligibility conditions and documents not confirmed; figures are as of 30 June 2024"
  ],
  "benefit_hi": "लखपति दीदी अलग योजना नहीं, बल्कि ग्रामीण विकास मंत्रालय की दीनदयाल अंत्योदय योजना (DAY-NRLM) का नतीजा है: स्वयं सहायता समूह (SHG) की जिन महिला सदस्यों की सालाना आय ₹1 लाख से ऊपर हो जाती है, उन्हें लखपति दीदी गिना जाता है। लक्ष्य है कि SHG सदस्यों की न्यूनतम आय ₹1 लाख प्रति वर्ष हो।",
- "benefit_en": "Lakhpati Didi is not a separate scheme but an outcome of the Ministry of Rural Development's Deendayal Antyodaya Yojana (DAY-NRLM): SHG women members whose annual income goes above ₹1 lakh are counted as Lakhpati Didis. The aim is a minimum income of ₹1 lakh a year for SHG members."
+ "benefit_en": "Lakhpati Didi is not a separate scheme but an outcome of the Ministry of Rural Development's Deendayal Antyodaya Yojana (DAY-NRLM): SHG women members whose annual income goes above ₹1 lakh are counted as Lakhpati Didis. The aim is a minimum income of ₹1 lakh a year for SHG members.",
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

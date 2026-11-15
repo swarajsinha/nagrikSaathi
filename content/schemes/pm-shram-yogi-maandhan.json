@@ -1,6 +1,6 @@
 {
  "slug": "pm-shram-yogi-maandhan",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-23",
  "version": 1,
  "updated": "2026-10-23",
@@ -78,5 +78,6 @@
   "Current status not confirmed"
  ],
  "benefit_hi": "असंगठित क्षेत्र के 18 से 40 साल के मज़दूर, जिनकी मासिक आय ₹15,000 या कम है, उम्र के अनुसार हर माह ₹55 से ₹200 जमा करते हैं और सरकार उतनी ही राशि जोड़ती है। 60 साल के बाद ₹3,000 प्रति माह की पेंशन आजीवन मिलती है; मृत्यु के बाद जीवनसाथी को 50% पारिवारिक पेंशन।",
- "benefit_en": "Unorganised-sector workers aged 18 to 40 with monthly income of ₹15,000 or less contribute ₹55 to ₹200 a month (by age) and the government adds an equal amount. After 60, a pension of ₹3,000 a month is paid for life; after death the spouse gets 50% as family pension."
+ "benefit_en": "Unorganised-sector workers aged 18 to 40 with monthly income of ₹15,000 or less contribute ₹55 to ₹200 a month (by age) and the government adds an equal amount. After 60, a pension of ₹3,000 a month is paid for life; after death the spouse gets 50% as family pension.",
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

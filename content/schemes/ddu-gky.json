@@ -1,6 +1,6 @@
 {
  "slug": "ddu-gky",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-23",
  "version": 1,
  "updated": "2026-10-23",
@@ -74,5 +74,6 @@
   "Maharashtra Rural Development Department page (last updated 4 Feb 2025): Kaushal Panji registration steps, upper age limit 45"
  ],
  "benefit_hi": "ग्रामीण ग़रीब परिवारों के 15 से 35 साल के युवाओं के लिए कौशल प्रशिक्षण और नौकरी दिलाने की योजना (2014 से; 2.0 दिशानिर्देश मई 2025)। नौकरी पर कम से कम छह माह रहने वाले उम्मीदवार को ₹1,270 प्रति माह छह माह तक (कुल ₹7,620); 365 दिन बाद भी नौकरी में रहने पर ₹5,000 का रिटेंशन सहयोग।",
- "benefit_en": "A skilling and placement scheme for rural youth aged 15 to 35 from poor households (since 2014; 2.0 guidelines notified May 2025). A placed candidate who stays at least six months gets ₹1,270 a month for six months (₹7,620 total); staying employed beyond 365 days earns ₹5,000 retention support."
+ "benefit_en": "A skilling and placement scheme for rural youth aged 15 to 35 from poor households (since 2014; 2.0 guidelines notified May 2025). A placed candidate who stays at least six months gets ₹1,270 a month for six months (₹7,620 total); staying employed beyond 365 days earns ₹5,000 retention support.",
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }

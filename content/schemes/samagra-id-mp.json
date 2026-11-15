@@ -4,7 +4,7 @@
  "en": "Samagra ID / Family ID (Madhya Pradesh)",
  "level": 1,
  "dept": "State — Madhya Pradesh",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-13",
  "version": 1,
  "updated": "2026-10-13",
@@ -70,5 +70,6 @@
   "Confirmed from PIB (17 June 2026) on 13 Oct 2026: what it is, uses, steps to get it on DigiLocker",
   "Process to create a new ID / add members and documents not confirmed"
  ],
- "state": "Madhya Pradesh"
+ "state": "Madhya Pradesh",
+ "change_note": "Official source changed on 2026-11-15; re-verify before marking verified."
 }
