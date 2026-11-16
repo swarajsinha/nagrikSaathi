@@ -1,5 +1,5 @@
 {
- "run": "2026-11-15",
+ "run": "2026-11-16",
  "changed": [
   "instant-e-pan",
   "marriage-certificate",
@@ -17,6 +17,7 @@
   "lakhpati-didi-day-nrlm",
   "mission-shakti",
   "namaste",
+  "nsp-scholarship",
   "pm-internship",
   "pm-janaushadhi",
   "pm-janman",
@@ -33,27 +34,48 @@
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
+  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
- "new": [
-  "birth-certificate",
-  "shahu-maharaj-fee-maharashtra"
- ],
+ "new": [],
  "manual_check": [
   "digilocker",
   "atal-pension-yojana",
   "ayushman-bharat-pmjay",
   "jan-suraksha",
   "ladki-bahin-maharashtra",
-  "lek-ladki-maharashtra",
   "national-consumer-helpline",
   "pm-ajay",
   "pmkvy"
  ],
  "errors": [
   [
+   "birth-certificate",
+   "<urlopen error [Errno 111] Connection refused>"
+  ],
+  [
+   "caste-certificate-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
+   "death-certificate",
+   "<urlopen error [Errno 111] Connection refused>"
+  ],
+  [
+   "domicile-certificate-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
+   "income-certificate-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "voter-registration-form-6",
    "<urlopen error [Errno 104] Connection reset by peer>"
+  ],
+  [
+   "aaple-sarkar-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "free-legal-aid-nalsa",
@@ -61,15 +83,19 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error timed out>"
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "ladli-laxmi-mp",
    "HTTP Error 500: Internal Server Error"
   ],
   [
+   "lek-ladki-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "mjpjay-maharashtra",
-   "<urlopen error timed out>"
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "nsap",
@@ -89,7 +115,7 @@
   ],
   [
    "pmegp",
-   "<urlopen error timed out>"
+   "HTTP Error 404: Not Found"
   ],
   [
    "pmjdy",
