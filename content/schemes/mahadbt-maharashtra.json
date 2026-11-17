@@ -4,7 +4,7 @@
  "en": "MahaDBT / Aaple Sarkar DBT (Maharashtra scholarships & schemes)",
  "level": 1,
  "dept": "State — Maharashtra",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-13",
  "version": 1,
  "updated": "2026-10-13",
@@ -80,5 +80,6 @@
  "conf_en": [
   "Confirmed from mahadbt.maharashtra.gov.in on 13 Oct 2026: scheme categories, three registration routes, Aadhaar-seeding condition, helpline 022-49150800",
   "Current dates and per-scheme eligibility: check on the portal"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-17; re-verify before marking verified."
 }

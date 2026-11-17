@@ -5,7 +5,7 @@
  "level": 1,
  "dept": "State — Madhya Pradesh",
  "state": "Madhya Pradesh",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-13",
  "version": 1,
  "updated": "2026-10-13",
@@ -88,5 +88,6 @@
   "Confirmed: help desk 0755-2700800; CM Helpline 181 is also listed on the portal for objections",
   "A ₹1,250 figure seen on other websites may be outdated; the official portal states ₹1,500",
   "Still to check: whether the application window is open now, and the next instalment date"
- ]
+ ],
+ "change_note": "Official source changed on 2026-11-17; re-verify before marking verified."
 }

@@ -1,20 +1,20 @@
 {
- "run": "2026-11-16",
+ "run": "2026-11-17",
  "changed": [
-  "instant-e-pan",
   "marriage-certificate",
   "fake-loan-app",
   "abha-health-id",
   "ayushman-vay-vandana",
   "cpgrams-public-grievance",
-  "day-nulm",
   "ddu-gky",
   "e-shram",
   "epfo-uan-activation",
   "jal-jeevan-mission",
   "janani-suraksha-yojana",
   "kisan-credit-card",
+  "ladli-behna-mp",
   "lakhpati-didi-day-nrlm",
+  "mahadbt-maharashtra",
   "mission-shakti",
   "namaste",
   "nsp-scholarship",
@@ -30,11 +30,9 @@
   "pmfby",
   "pmfme",
   "pmgkay",
-  "rashtriya-vayoshri-yojana",
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
-  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -83,7 +81,7 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error timed out>"
   ],
   [
    "ladli-laxmi-mp",
