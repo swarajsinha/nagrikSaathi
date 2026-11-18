@@ -1,6 +1,6 @@
 {
  "slug": "disability-certificate",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-11-10",
  "version": 2,
  "updated": "2026-11-10",
@@ -92,5 +92,6 @@
   "A full document list, minimum disability percentage, fee and time limit are not confirmed from these pages"
  ],
  "benefit_hi": "दिव्यांग व्यक्तियों को एक ही ऑनलाइन व्यवस्था से दिव्यांगता प्रमाणपत्र और UDID (यूनिक डिसेबिलिटी ID) कार्ड मिलता है। 1 जून 2021 से दिव्यांगता प्रमाणपत्र और UDID कार्ड सिर्फ़ ऑनलाइन पोर्टल (swavlambancard.gov.in) से जारी होते हैं। यह प्रमाणपत्र दिव्यांगजनों की कई सुविधाओं और योजनाओं के लिए ज़रूरी होता है।",
- "benefit_en": "Persons with disabilities get a disability certificate and a UDID (Unique Disability ID) card through one online system. Since 1 June 2021 disability certificates and UDID cards are issued only through the online portal (swavlambancard.gov.in). The certificate is needed for many facilities and schemes for persons with disabilities."
+ "benefit_en": "Persons with disabilities get a disability certificate and a UDID (Unique Disability ID) card through one online system. Since 1 June 2021 disability certificates and UDID cards are issued only through the online portal (swavlambancard.gov.in). The certificate is needed for many facilities and schemes for persons with disabilities.",
+ "change_note": "Official source changed on 2026-11-18; re-verify before marking verified."
 }
