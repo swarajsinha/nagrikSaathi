@@ -1,7 +1,6 @@
 {
- "run": "2026-11-18",
+ "run": "2026-11-19",
  "changed": [
-  "disability-certificate",
   "marriage-certificate",
   "fake-loan-app",
   "abha-health-id",
@@ -10,13 +9,14 @@
   "day-nulm",
   "ddu-gky",
   "e-shram",
-  "epfo-uan-activation",
   "jal-jeevan-mission",
   "janani-suraksha-yojana",
   "kisan-credit-card",
+  "lakhpati-didi-day-nrlm",
+  "mahadbt-maharashtra",
   "mission-shakti",
   "namaste",
-  "ncs-jobs",
+  "nsp-scholarship",
   "pm-internship",
   "pm-janaushadhi",
   "pm-janman",
@@ -33,6 +33,7 @@
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
+  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -81,7 +82,7 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error timed out>"
+   "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
   ],
   [
    "ladli-laxmi-mp",
@@ -120,6 +121,10 @@
    "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn"
   ],
   [
+   "ramai-awas-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "samagra-shiksha",
    "<urlopen error [Errno -2] Name or service not known>"
   ],
@@ -128,12 +133,24 @@
    "<urlopen error timed out>"
   ],
   [
+   "sanjay-gandhi-niradhar-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "seekho-kamao-mp",
    "<urlopen error timed out>"
   ],
   [
+   "shravan-bal-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "stand-up-india",
    "<urlopen error timed out>"
+  ],
+  [
+   "swadhar-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "tirth-darshan-mp",
