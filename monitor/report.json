@@ -1,5 +1,5 @@
 {
- "run": "2026-11-19",
+ "run": "2026-11-20",
  "changed": [
   "marriage-certificate",
   "fake-loan-app",
@@ -13,10 +13,8 @@
   "janani-suraksha-yojana",
   "kisan-credit-card",
   "lakhpati-didi-day-nrlm",
-  "mahadbt-maharashtra",
   "mission-shakti",
   "namaste",
-  "nsp-scholarship",
   "pm-internship",
   "pm-janaushadhi",
   "pm-janman",
@@ -93,6 +91,10 @@
    "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
+   "mahadbt-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "mjpjay-maharashtra",
    "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
@@ -139,6 +141,10 @@
   [
    "seekho-kamao-mp",
    "<urlopen error timed out>"
+  ],
+  [
+   "shahu-maharaj-fee-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "shravan-bal-maharashtra",
