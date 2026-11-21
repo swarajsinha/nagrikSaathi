@@ -1,6 +1,6 @@
 {
  "slug": "aadhaar-update-uidai",
- "status": "verified",
+ "status": "pending",
  "last_verified": "2026-10-23",
  "version": 1,
  "updated": "2026-10-23",
@@ -73,5 +73,6 @@
   "Fee and document list not confirmed; the page shows no date"
  ],
  "benefit_hi": "UIDAI के इस पेज पर ऑनलाइन (myAadhaar पोर्टल) सेवा में सिर्फ़ पता अपडेट का ज़िक्र है (पंजीकृत मोबाइल पर OTP से लॉग-इन)। बायोमेट्रिक, फ़ोटो और अन्य विवरण आधार केंद्र पर बदले जाते हैं। 15 साल से ऊपर नामांकन वाले लोगों को हर 10 साल में बायोमेट्रिक अपडेट की सलाह दी गई है।",
- "benefit_en": "This UIDAI page mentions only address update in the online (myAadhaar portal) service (log in with OTP on your registered mobile). Biometrics, photo and other details are changed at an Aadhaar centre. People enrolled above age 15 are advised to update biometrics every 10 years."
+ "benefit_en": "This UIDAI page mentions only address update in the online (myAadhaar portal) service (log in with OTP on your registered mobile). Biometrics, photo and other details are changed at an Aadhaar centre. People enrolled above age 15 are advised to update biometrics every 10 years.",
+ "change_note": "Official source changed on 2026-11-21; re-verify before marking verified."
 }

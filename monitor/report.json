@@ -1,20 +1,23 @@
 {
- "run": "2026-11-20",
+ "run": "2026-11-21",
  "changed": [
   "marriage-certificate",
   "fake-loan-app",
+  "aadhaar-update-uidai",
   "abha-health-id",
   "ayushman-vay-vandana",
   "cpgrams-public-grievance",
-  "day-nulm",
   "ddu-gky",
   "e-shram",
+  "epfo-uan-activation",
   "jal-jeevan-mission",
   "janani-suraksha-yojana",
   "kisan-credit-card",
   "lakhpati-didi-day-nrlm",
+  "mahadbt-maharashtra",
   "mission-shakti",
   "namaste",
+  "ncs-jobs",
   "pm-internship",
   "pm-janaushadhi",
   "pm-janman",
@@ -31,7 +34,6 @@
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
-  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -41,6 +43,7 @@
   "ayushman-bharat-pmjay",
   "jan-suraksha",
   "ladki-bahin-maharashtra",
+  "lek-ladki-maharashtra",
   "national-consumer-helpline",
   "pm-ajay",
   "pmkvy"
@@ -52,7 +55,7 @@
   ],
   [
    "caste-certificate-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error timed out>"
   ],
   [
    "death-certificate",
@@ -60,11 +63,11 @@
   ],
   [
    "domicile-certificate-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error timed out>"
   ],
   [
    "income-certificate-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error timed out>"
   ],
   [
    "voter-registration-form-6",
@@ -72,7 +75,7 @@
   ],
   [
    "aaple-sarkar-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error timed out>"
   ],
   [
    "free-legal-aid-nalsa",
@@ -87,16 +90,8 @@
    "HTTP Error 500: Internal Server Error"
   ],
   [
-   "lek-ladki-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
-  ],
-  [
-   "mahadbt-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
-  ],
-  [
    "mjpjay-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error timed out>"
   ],
   [
    "nsap",
@@ -141,10 +136,6 @@
   [
    "seekho-kamao-mp",
    "<urlopen error timed out>"
-  ],
-  [
-   "shahu-maharaj-fee-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "shravan-bal-maharashtra",
