@@ -1,5 +1,5 @@
 {
- "run": "2026-11-22",
+ "run": "2026-11-23",
  "changed": [
   "marriage-certificate",
   "fake-loan-app",
@@ -16,7 +16,6 @@
   "lakhpati-didi-day-nrlm",
   "mission-shakti",
   "namaste",
-  "ncs-jobs",
   "pm-internship",
   "pm-janaushadhi",
   "pm-janman",
@@ -29,10 +28,10 @@
   "pmfby",
   "pmfme",
   "pmgkay",
-  "rashtriya-vayoshri-yojana",
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
+  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -70,7 +69,7 @@
   ],
   [
    "voter-registration-form-6",
-   "<urlopen error [Errno 104] Connection reset by peer>"
+   "<urlopen error _ssl.c:1063: The handshake operation timed out>"
   ],
   [
    "aaple-sarkar-maharashtra",
@@ -82,7 +81,7 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error timed out>"
+   "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
   ],
   [
    "ladli-laxmi-mp",
