@@ -1,12 +1,11 @@
 {
- "run": "2026-11-24",
+ "run": "2026-11-25",
  "changed": [
   "marriage-certificate",
   "fake-loan-app",
   "abha-health-id",
   "ayushman-vay-vandana",
   "cpgrams-public-grievance",
-  "day-nulm",
   "ddu-gky",
   "e-shram",
   "epfo-uan-activation",
@@ -14,10 +13,8 @@
   "janani-suraksha-yojana",
   "kisan-credit-card",
   "lakhpati-didi-day-nrlm",
-  "mahadbt-maharashtra",
   "mission-shakti",
   "namaste",
-  "ncs-jobs",
   "pm-internship",
   "pm-janaushadhi",
   "pm-janman",
@@ -34,6 +31,7 @@
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
+  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -83,7 +81,7 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "ladli-laxmi-mp",
@@ -106,10 +104,6 @@
    "<urlopen error timed out>"
   ],
   [
-   "pm-usp-college-scholarship",
-   "Remote end closed connection without response"
-  ],
-  [
    "pm-vishwakarma",
    "<urlopen error timed out>"
   ],
@@ -122,6 +116,10 @@
    "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn"
   ],
   [
+   "ramai-awas-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "samagra-shiksha",
    "<urlopen error [Errno -2] Name or service not known>"
   ],
@@ -130,12 +128,28 @@
    "<urlopen error timed out>"
   ],
   [
+   "sanjay-gandhi-niradhar-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "seekho-kamao-mp",
    "<urlopen error timed out>"
   ],
   [
+   "shahu-maharaj-fee-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
+   "shravan-bal-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  [
    "stand-up-india",
    "<urlopen error timed out>"
+  ],
+  [
+   "swadhar-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "tirth-darshan-mp",
