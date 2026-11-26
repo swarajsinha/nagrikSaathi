@@ -1,11 +1,13 @@
 {
- "run": "2026-11-25",
+ "run": "2026-11-26",
  "changed": [
+  "instant-e-pan",
   "marriage-certificate",
   "fake-loan-app",
   "abha-health-id",
   "ayushman-vay-vandana",
   "cpgrams-public-grievance",
+  "day-nulm",
   "ddu-gky",
   "e-shram",
   "epfo-uan-activation",
@@ -27,11 +29,9 @@
   "pmfby",
   "pmfme",
   "pmgkay",
-  "rashtriya-vayoshri-yojana",
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
-  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -81,11 +81,15 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error timed out>"
   ],
   [
    "ladli-laxmi-mp",
    "HTTP Error 500: Internal Server Error"
+  ],
+  [
+   "mahadbt-maharashtra",
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "mjpjay-maharashtra",
