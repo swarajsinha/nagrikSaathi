@@ -1,5 +1,5 @@
 {
- "run": "2026-11-26",
+ "run": "2026-11-27",
  "changed": [
   "instant-e-pan",
   "marriage-certificate",
@@ -14,7 +14,7 @@
   "jal-jeevan-mission",
   "janani-suraksha-yojana",
   "kisan-credit-card",
-  "lakhpati-didi-day-nrlm",
+  "mahadbt-maharashtra",
   "mission-shakti",
   "namaste",
   "pm-internship",
@@ -29,9 +29,11 @@
   "pmfby",
   "pmfme",
   "pmgkay",
+  "rashtriya-vayoshri-yojana",
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
+  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -81,15 +83,11 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error timed out>"
+   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "ladli-laxmi-mp",
    "HTTP Error 500: Internal Server Error"
-  ],
-  [
-   "mahadbt-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "mjpjay-maharashtra",
