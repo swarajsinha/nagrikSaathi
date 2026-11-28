@@ -1,7 +1,6 @@
 {
- "run": "2026-11-27",
+ "run": "2026-11-28",
  "changed": [
-  "instant-e-pan",
   "marriage-certificate",
   "fake-loan-app",
   "abha-health-id",
@@ -14,7 +13,7 @@
   "jal-jeevan-mission",
   "janani-suraksha-yojana",
   "kisan-credit-card",
-  "mahadbt-maharashtra",
+  "lakhpati-didi-day-nrlm",
   "mission-shakti",
   "namaste",
   "pm-internship",
@@ -33,7 +32,6 @@
   "ration-card-nfsa",
   "samagra-id-mp",
   "udyam-registration",
-  "vayoshri-maharashtra",
   "vb-g-ram-g"
  ],
  "new": [],
@@ -43,7 +41,6 @@
   "ayushman-bharat-pmjay",
   "jan-suraksha",
   "ladki-bahin-maharashtra",
-  "lek-ladki-maharashtra",
   "national-consumer-helpline",
   "pm-ajay",
   "pmkvy"
@@ -83,11 +80,15 @@
   ],
   [
    "gaon-ki-beti-pratibha-kiran-mp",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
+   "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
   ],
   [
    "ladli-laxmi-mp",
    "HTTP Error 500: Internal Server Error"
+  ],
+  [
+   "lek-ladki-maharashtra",
+   "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certi"
   ],
   [
    "mjpjay-maharashtra",
@@ -118,10 +119,6 @@
    "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostn"
   ],
   [
-   "ramai-awas-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
-  ],
-  [
    "samagra-shiksha",
    "<urlopen error [Errno -2] Name or service not known>"
   ],
@@ -130,28 +127,12 @@
    "<urlopen error timed out>"
   ],
   [
-   "sanjay-gandhi-niradhar-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
-  ],
-  [
    "seekho-kamao-mp",
    "<urlopen error timed out>"
   ],
   [
-   "shahu-maharaj-fee-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
-  ],
-  [
-   "shravan-bal-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
-  ],
-  [
    "stand-up-india",
    "<urlopen error timed out>"
-  ],
-  [
-   "swadhar-maharashtra",
-   "<urlopen error [Errno -3] Temporary failure in name resolution>"
   ],
   [
    "tirth-darshan-mp",
